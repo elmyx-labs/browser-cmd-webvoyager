@@ -1,0 +1,4 @@
+[x] Show the electrical resistivity of UNS A92024 at 20 degrees Celsius. Evidence: https://www.wolframalpha.com/input?i=electrical+resistivity+UNS+A92024%2C+UNS+G10800 — Average result: “UNS A92024 | 4.9 × 10^-6 Ω cm (ohm centimeters) (at 20 °C)”.
+[x] Show the electrical resistivity of UNS G10800 at 20 degrees Celsius. Evidence: same URL — Average result: “UNS G10800 | 1.8 × 10^-5 Ω cm (ohm centimeters) (at 20 °C)”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with names and deciding facts visible and no overlays. Evidence: final.png, 1280 × 723, visually checked; both alloy names, values, temperature and material assumptions visible.
+[x] Write result and evidence to ./ANSWER.txt. Evidence: ANSWER.txt states both average results, units, material-type basis, source URL, and screenshot filename.

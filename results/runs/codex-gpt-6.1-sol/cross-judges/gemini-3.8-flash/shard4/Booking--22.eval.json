@@ -1,0 +1,41 @@
+{
+  "id": "Booking--22",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a hotel in Amsterdam with a customer review score of 9 or higher, offering bicycle rentals, for a week-long stay from June 15 to June 22, 2027, for two adults.",
+  "answer": "FINAL: Element by Marriott Amsterdam is a match for June 15–22, 2027 (7 nights), for 2 adults in 1 room. Booking.com shows a customer review score of 9.0/10 from 2,280 reviews and an available Studio with 1 Kingsize Bed. Its Amenities section confirms bicycle rental for an additional charge.\n\nSource: https://www.booking.com/hotel/nl/element-amsterdam.html\nEvidence: final.png shows the selected dates, 2 adults, the hotel’s 9.0 score, and the applied Hotels, Wonderful: 9+, and Bicycle rental filters. The displayed sort is Top picks for long stays.",
+  "response": "The evaluation is based on the following checks:\n1. **Destination**: The search is set to Amsterdam.\n2. **Dates & Duration**: The dates selected are Tue, Jun 15 – Tue, Jun 22, 2027 (which is a 1-week stay for those specific dates).\n3. **Guests**: The search is configured for 2 adults (1 room).\n4. **Filters & Criteria**: \n   - Filter for hotel type is applied (\"Hotels\").\n   - Filter for review score is applied (\"Wonderful: 9+\").\n   - Filter for amenities is applied (\"Bicycle rental\").\n5. **Result**: The hotel found (\"Element by Marriott Amsterdam\") meets all criteria, having a score of 9.0, bicycle rental amenities, and availability for the requested dates and guests.\n\nAll instructions have been fully fulfilled.\n\nSUCCESS",
+  "reason_short": "The evaluation is based on the following checks: 1. **Destination**: The search is set to Amsterdam. 2. **Dates & Duration**: The dates selected are Tue, Jun 15 – Tue, Jun 22, 2027 (which is a 1-week stay for those specific dates). 3. **Gue",
+  "screenshots": [
+    "task_220/final.png"
+  ],
+  "raw_screenshot": "task_220/final.png",
+  "source_result": "task_220",
+  "usage": {
+    "completion_tokens": 637,
+    "prompt_tokens": 1762,
+    "total_tokens": 2399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 450,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00371025,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00371025,
+      "upstream_inference_prompt_cost": 0.0013215,
+      "upstream_inference_completions_cost": 0.00238875
+    }
+  },
+  "elapsed_seconds": 17.99
+}

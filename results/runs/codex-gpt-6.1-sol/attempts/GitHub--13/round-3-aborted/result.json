@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--13",
+    "ques": "Identify the latest top-trending open-source project in the topic of 'Machine Learning' on GitHub, and check the number of stars it has received.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: TensorFlow (tensorflow/tensorflow) leads GitHub's Machine learning topic under “Most stars,” with 201,272 stars (displayed as 201k), checked October 28, 2026.\nEvidence: https://github.com/topics/machine-learning — TensorFlow is the first result with Language: All and Sort: Most stars; its star-count element states “201272 users starred this repository.” GitHub describes it as “An Open Source Machine Learning Framework for Everyone.” Repository: https://github.com/tensorflow/tensorflow (Apache-2.0 license).\nThis is the topic's total-star ranking. GitHub's Trending page has no topic filter, and its Today, This week, and This month lists contained no repository tagged machine-learning when checked.\nScreenshot: final.png.",
+    "result_text": "FINAL: TensorFlow (tensorflow/tensorflow) leads GitHub's Machine learning topic under “Most stars,” with 201,272 stars (displayed as 201k), checked October 28, 2026.\nEvidence: https://github.com/topics/machine-learning — TensorFlow is the first result with Language: All and Sort: Most stars; its star-count element states “201272 users starred this repository.” GitHub describes it as “An Open Source Machine Learning Framework for Everyone.” Repository: https://github.com/tensorflow/tensorflow (Apache-2.0 license).\nThis is the topic's total-star ranking. GitHub's Trending page has no topic filter, and its Today, This week, and This month lists contained no repository tagged machine-learning when checked.\nScreenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_9/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_9",
+  "elapsed_seconds": 587.5650248527527,
+  "execution_error": null,
+  "proxy_bytes": 29074286
+}

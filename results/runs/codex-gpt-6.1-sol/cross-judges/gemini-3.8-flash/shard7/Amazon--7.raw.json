@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209927-f0actsd625pRzcpioJL5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to browse women's hiking boots on Amazon and filter the results to show only those that are:\n1. Waterproof\n2. Rated at least 4 stars\n3. Women's shoe size 6\n\nLooking at the screenshot:\n- The search term is `\"women's hiking boots\"`.\n- Under **Customer Review**, the 4 Stars & Up filter is selected.\n- Under **Special Features**, the **Waterproof** checkbox is selected.\n- Under **Women's Shoe Size**, size **6** is selected.\n\nAll criteria specified in the instruction have been properly met.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching for Boots**\n\nI've begun by entering \"women's hiking boots\" into the search bar. My next step is to navigate to the customer reviews filter on the left sidebar and select the 4-star and up option.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching for Boots**\n\nI've begun by entering \"women's hiking boots\" into the search bar. My next step is to navigate to the customer reviews filter on the left sidebar and select the 4-star and up option.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18pigNldm5znotzJzUDahjKumzzv0Q8JEd3DKRJA3tHt8tVEeBT8kkqw6RvGxlcSEJ7lZxRKaGPo12OcURRm8iNmfTJ1OJc9r6J4hXYoOAfOMSQVG3C4onkEnFDsYkuR7Yf3ax0wi77VpTyazQb6/TRSMwegtwoeloonzMeeRWnIk4x6xnn4KjzHEAP0Nl3TvoQNU48rg4cYI2arc+IuxKQMS/TBq2sNl5SopAfiF+lTp1PkSsnkzMKTfZsd9kmfcQqCVLNNkL+TrBgaJIFczKV5a/KwSUgHegxYi9g22W2n9hMYPEWsBbfUCmY9uDb8VQxjOQdUxRZSM9Y3EotDuXLVAZ4slbMB+4RRecZuyLWgoUheqzzLcM9DbMd2suM6T+2PtdtL2p361uCWPmr4F//2JBsn+E84XHmdkzSsR5D1wTPbWN3xfb+j0oBdiur3E0XpqpO/jWfzzZCC37IaOW3uDezOfHiSQYP1f9js2FJhaHdXUL+gdPOfqPkQi5fHePk2XIx+aC0FwziNAKr2ZthMl2BlmGnWa0D2ZmpDtJmiUo23ZJS/NiU8sPNArKsfRUx3Z6Mxcy2cXLSg59g8o5yErueJHPKYh+z86uu+8PKmZXuaHgRyvyPsBwJntGThKjO7ftHbRyZ+1AcB7TpKcn/oepAY4w2gj27tW/769rueR9RIrX9cmZJ6Uzlhv0sLQvfAx0fcL+zxyvD6f735wGWTsbe0zB7YPtU4h5k+5rcFVrMIMmnXB77tSFWbfpSCQ+NApiIj8smEXpiLdn7e2hdif7oBp086VpHIWwx4+505wl78b6LKv/fK1olLzruZ2ym+8JJN5GE3WsAo2c3yIFkwqKUU4ZfB2jyW5ZR72il/HYHwT6fg6mTTTTi6US7It5IdcXlCkHtZxdWCWjMWW6s32g5bWEdX7JO1IEeqGQCUvH6mbBbIddr6DhZnSVTvw3hiklY6zE27yktLLPDp5+I0VHETWd+HdlP81x6DAxL7Gi2Sd4NkYNc8PSHv+VyHiJxig9lGUpsTKjn813hU8BgYn6CMplz6hx5NS25R+At2/Js3jgEyvdbilZR/d/N6QwfKw9hj64PzIeAMeguzJ1Wn/qgD7785ZGsUVjp2esw5nP6mJgZRGc7xkbaCKy4u4U9acupPCI6Jed0UVfKfZ/SIXKsqKdQGijX4UZbAqxOSV70NgXRv1/z9QL2nI/4NRp1Ps0Y3CqqvTGw+SaKPAeTvlx7xQAaDl5Kflha+7JVZqheTV3CurExx5nWO0SfSqpF8Xrien0e7EnGmVvLBrUgBBMBQ9flKr7poutwFSz89iOKPbmsaRryaclbWELfPBQKbuapViH3sZMv68dp0Kk+lc6V/RJm/EHZ7uaSwlxF8uYAFBhINQ7lW3ofOQa4jSxGuyTPCysa322vY/Ewh75x6vu8Dhi1Kp6QbjukX56SCJLN4rt58TZGfbCQRJfORY6x8OMVJYid6NCMHEPogvs+HZRqzaASW/CLvYcMWY6BHAyfmfso+krsLNZwsEq5orhNsI5PeCLIvDhrFkA=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209928,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 372,
+    "prompt_tokens": 1808,
+    "total_tokens": 2180,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 242,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002751,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002751,
+      "upstream_inference_prompt_cost": 0.001356,
+      "upstream_inference_completions_cost": 0.001395
+    }
+  },
+  "provider": "Google"
+}

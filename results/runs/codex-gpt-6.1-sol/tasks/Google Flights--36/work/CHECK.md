@@ -1,0 +1,5 @@
+- [x] Search for round-trip flights from Helsinki to New Delhi. Results URL in ANSWER.txt; page shows “Round trip”, “Helsinki HEL”, “New Delhi DEL”.
+- [x] Departing on July 28, 2027, and returning on August 4, 2027. Results URL encodes 2027-07-28 and 2027-08-04; page text shows “Jul 28 – Aug 4, 2027” and the tracking controls confirm both dates.
+- [x] Filter the results to show only flights under $1000. Results URL in ANSWER.txt; selected price chip says “up to $999” in USD, strictly below $1,000. Displayed fares are below $1,000.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with route, dates, filter and results visible, and no dialog. final.png is 1280 px wide, from browser-0002.png; shows route, date controls, applied price filter, Best sort and fares $723, $725, $747 and $988.
+- [x] Write the result and evidence to ./ANSWER.txt. File begins “FINAL:” and includes the results URL and final.png.

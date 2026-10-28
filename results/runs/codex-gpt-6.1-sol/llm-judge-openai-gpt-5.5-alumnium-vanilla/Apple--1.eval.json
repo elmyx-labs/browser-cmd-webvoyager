@@ -1,0 +1,31 @@
+{
+  "id": "Apple--1",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Research the new features of the iOS 17 on Apple support and check its compatibility with the iPhone 12.",
+  "answer": "FINAL: Yes — iOS 17 is compatible with iPhone 12. Apple’s iOS 17 User Guide explicitly lists iPhone 12 among supported models; the guide’s introduction specifically confirms compatibility with iOS 17.5.\n\nMajor new features in iOS 17, according to Apple Support:\n• Phone: Contact Posters personalize how you appear when calling; Live Voicemail displays a transcription while a message is being left and lets you answer.\n• Messages: Check In shares safe-arrival notifications, Live Stickers can be made from photos, audio messages gain transcription, and search gains combined filters.\n• FaceTime: Leave audio or video messages and use reactions with 3D effects.\n• StandBy: A full-screen clock, photo or widget display when iPhone is charging on its side.\n• Widgets and sharing: Interactive widgets support actions directly; NameDrop exchanges contact details by bringing iPhones together.\n• Typing: Improved autocorrect, sentence corrections and inline word predictions. Apple explicitly includes “iPhone 12 and later” for these enhancements.\n• Safari: Separate browsing profiles, stronger Private Browsing protections, and shared password/passkey groups.\n• Maps, Health and accessibility: Download offline maps, record moods, use Screen Distance, and type speech with Live Speech.\n\nLater iOS 17 releases added Journal (17.2), Stolen Device Protection and collaborative Apple Music playlists (17.3), Apple Podcasts transcripts (17.4), and cross-platform unwanted-tracker notifications (17.5).\n\nCompatibility does not guarantee every feature: Apple says availability varies by model, region, language and carrier. For example, satellite roadside assistance requires the listed iPhone 14 models, and iOS 17.2 spatial-video capture requires iPhone 15 Pro or Pro Max; these features do not apply to iPhone 12.\n\nSources checked October 27, 2026:\n1. Apple Support, “About iOS 17 Updates,” published May 13, 2025 — feature descriptions and release-by-release additions:\nhttps://support.apple.com/en-us/118723\n2. Apple Support, “iPhone models compatible with iOS 17,” with iOS 17 selected — explicit iPhone 12 compatibility and availability qualifications:\nhttps://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-17-iphe3fa5df43/17.0/ios/17.0\n\nEvidence image: ./final.png. This genuine viewport screenshot shows the iOS 17 selection, compatibility heading and statement, and the iPhone 12 entry together; resized proportionally to a 1280-pixel long side.",
+  "response": "The task was to research iOS 17’s new features on Apple Support and verify whether it is compatible with iPhone 12.\n\nThe provided screenshot clearly shows an Apple Support/iPhone User Guide page with the selected version set to **iOS 17** and the heading **“iPhone models compatible with iOS 17.”** In the visible compatibility list, **iPhone 12** is explicitly shown, along with iPhone 12 mini, iPhone 12 Pro, and iPhone 12 Pro Max. This confirms the compatibility portion of the task.\n\nThe Result Response also provides a detailed summary of iOS 17 features, including Contact Posters, Live Voicemail, Check In, Live Stickers, FaceTime messages, StandBy, interactive widgets, NameDrop, improved autocorrect, Safari profiles, offline Maps, Health updates, and accessibility features. Although these feature details are not visible in the screenshot, they are presented as coming from Apple Support, and nothing in the screenshot contradicts them.\n\nThe response also appropriately notes that some features vary by device, region, carrier, or model, which is relevant when checking compatibility with iPhone 12.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to research iOS 17’s new features on Apple Support and verify whether it is compatible with iPhone 12. The provided screenshot clearly shows an Apple Support/iPhone User Guide page with the selected version set to **iOS 17** an",
+  "screenshots": [
+    "task_81/final.png"
+  ],
+  "raw_screenshot": "task_81/final.png",
+  "source_result": "task_81",
+  "usage": {
+    "completion_tokens": 519,
+    "prompt_tokens": 2127,
+    "total_tokens": 2646,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 269,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.77
+}

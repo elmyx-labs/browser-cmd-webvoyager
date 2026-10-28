@@ -1,0 +1,31 @@
+FINAL: Found nine recent arXiv papers directly relevant to quantum computing, all originally submitted on 26 October 2026 and within the last 48 hours as of 27 October 2026. Selected results are listed newest first below.
+
+All submission times are UTC, taken from the original [v1] entry under “Submission history” on the linked arXiv abstract pages. Titles and authors come from those pages; research focuses summarize their abstracts.
+
+| Submitted on 26 Oct 2026 | Paper | Research focus |
+|---|---|---|
+| 17:48:13 | [Sparse Carleman Embeddings for Nonlinear Discrete Dynamical Systems](https://arxiv.org/abs/2610.35824) — Hsuan-Cheng Wu and Xiantao Li | Quantum state preparation for nonlinear discrete dynamics using sparse linear-system embeddings. |
+| 16:53:14 | [Decoding with alternating weighted graph sparsification for quantum low-density parity-check codes](https://arxiv.org/abs/2610.35735) — Josu Etxezarreta Martinez, Francisco Garcia-Herrero, Ruben M. Otxoa, and Reza Dastbasteh | A belief-propagation decoder combining graph sparsification and ensembles for quantum error correction. |
+| 16:10:13 | [κ-Parametrized Boltzmann Distribution Sampling on Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/2610.35665) — João Marcos Cavalcanti de Albuquerque Neto, Gustavo Castro do Amaral, and Guilherme Penello Temporão | Simulated QAOA-assisted Boltzmann sampling for restricted Boltzmann machines. |
+| 16:08:22 | [Quantum computation of energy level degeneracy and thermodynamical properties of spin systems](https://arxiv.org/abs/2610.35660) — V. M. Tkachuk and M. I. Samar | A hybrid quantum-classical method using one ancilla, demonstrated on IBM quantum hardware. |
+| 14:26:53 | [Fast and accurate rare-event simulation by Markov chain Monte Carlo for general quantum codes](https://arxiv.org/abs/2610.35498) — Junichi Haruna and Kotaro Murakami | Improved sampling to estimate rare logical errors in quantum error-correcting codes. |
+| 14:11:10 | [Benchmarking quantum-annealing-based approaches for factory layout planning](https://arxiv.org/abs/2610.35478) — Xiangqian Wu, Philipp Schworm, Marcel Wagner, and Jan C. Aurich | Compares four quantum-annealing-based optimization approaches with classical methods. |
+| 12:29:52 | [Measurement-dependent reduction of open dynamics in the quantum phase estimation algorithm: the visible subspace and the damped Fejér kernel](https://arxiv.org/abs/2610.35332) — Marina O. Gordeichuk and Oleg M. Kiselev | Reduced observable spaces for predicting quantum phase estimation under open-system dynamics. |
+| 11:16:45 | [A Control Line Multiplexing Framework for Scalable Quantum Computing](https://arxiv.org/abs/2610.35227) — Dayu Li et al. | Frequency-multiplexed superconducting-qubit control, including a 1:4 experimental demonstration. |
+| 09:55:56 | [Multinomial shot sampling for quantum circuits](https://arxiv.org/abs/2610.35119) — Ijaz Ahamed Mohammad, Daniel Nagaj, and Martin Plesch | Faster measurement-count sampling in classical quantum-circuit simulations. |
+
+Evidence: [arXiv advanced search](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=quantum+computing&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2026-10-25&date-to_date=2026-10-27&date-date_type=submitted_date_first&abstracts=hide&size=50&order=-submitted_date) returned 25 keyword matches with original submission dates filtered to 25–27 October 2026, cross-listed papers included, and submission date sorted newest first. I selected the nine papers above after reading their abstracts and submission histories; the keyword matches also contain papers on other topics. All nine selected papers satisfy the stricter 48-hour window.
+
+Browser evidence from the linked abstract pages: their original [v1] submission timestamps are reproduced in the table above. Their abstracts state:
+
+- [2610.35824](https://arxiv.org/abs/2610.35824): “its application to quantum state preparation”.
+- [2610.35735](https://arxiv.org/abs/2610.35735): “combines Tanner graph sparsification with ensembling belief-propagation (BP) decoders”.
+- [2610.35665](https://arxiv.org/abs/2610.35665): “we evaluate QAOA-assisted sampling of BDs using Qiskit's Aer Simulator”.
+- [2610.35660](https://arxiv.org/abs/2610.35660): “A single ancilla qubit is used to measure the partition function”.
+- [2610.35498](https://arxiv.org/abs/2610.35498): “combines locally balanced one-bit-flip proposals with a cluster-exchange move”.
+- [2610.35227](https://arxiv.org/abs/2610.35227): “all gate operations are frequency-division multiplexed using polychromatic microwave pulses and band-pass filters”.
+- [2610.35478](https://arxiv.org/abs/2610.35478): “this paper benchmarks four QA based approaches implemented with the corresponding solvers”.
+
+NOTES.md contains the browser-read titles, full author lists, original [v1] timestamps, and abstract excerpts for all nine papers.
+
+Screenshot: final.png is a genuine viewport of that search, showing the date range, search terms, newest-first sort, and the newest selected paper with its submission date.

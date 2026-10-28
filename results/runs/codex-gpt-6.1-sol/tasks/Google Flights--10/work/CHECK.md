@@ -1,0 +1,4 @@
+- [x] Locate the cheapest round-trip flights from New York to Tokyo leaving on April 25, 2027, and returning on May 15, 2027. Google Flights: Cheapest from $1,115; Air India EWR–HND via BOM. Selected booking summary confirms $1,115 via Gotogate. Source URL in ANSWER.txt.
+- [x] Dates, filters, and cheapest sort applied and visible. Search dates Sun Apr25 / Sat May15; Round trip, Economy, 1 adult; no extra filters; Cheapest tab selected and "Sorted by price". Source URL in ANSWER.txt.
+- [x] Save one genuine viewport screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side, with name and deciding facts visible and no overlay. final.png is 1280px wide, browser viewport; tooltip dismissed with Escape before capture.
+- [x] Write result and evidence to ./ANSWER.txt. Includes $1,115 fare, dates, full itinerary, source URL and final.png.

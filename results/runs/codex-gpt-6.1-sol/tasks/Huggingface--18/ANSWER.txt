@@ -1,0 +1,15 @@
+FINAL: TRL’s “Reward Modeling” documentation explains this under “Adding a margin to the loss”: add a `margin` column to the dataset. The reward collator automatically passes it through, and the loss is computed accordingly.
+
+The documented example uses the chosen score minus the rejected score:
+
+```python
+def add_margin(row):
+    return {"margin": row["score_chosen"] - row["score_rejected"]}
+
+dataset = dataset.map(add_margin)
+```
+
+Source: Hugging Face TRL documentation, v0.12.2, viewed October 27, 2026:
+https://huggingface.co/docs/trl/v0.12.2/en/reward_trainer#adding-a-margin-to-the-loss
+
+Evidence: final.png shows the section heading, instructions, and code example.

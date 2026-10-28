@@ -1,0 +1,31 @@
+{
+  "id": "Google Search--12",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the year that Tom Brady had the most touchdowns in a single seasson.",
+  "answer": "FINAL: 2007 — Tom Brady threw his single-season career high of 50 passing touchdowns. StatMuse's season table ranks 2007 first, ahead of 2021 with 43.\nSource: https://www.statmuse.com/nfl/ask/tom-brady-most-touchdown-passes-in-a-season\nScreenshot evidence: final.png.",
+  "response": "The task was to find the year Tom Brady had the most touchdowns in a single season.\n\nThe screenshot shows a StatMuse result stating: “Tom Brady had his most passing touchdowns in a season in 2007, with 50 touchdowns.” The table also ranks 2007 first with 50 TDs, ahead of other seasons such as 2021 with 43.\n\nThe result response correctly identifies the year as 2007 and includes the touchdown total.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find the year Tom Brady had the most touchdowns in a single season. The screenshot shows a StatMuse result stating: “Tom Brady had his most passing touchdowns in a season in 2007, with 50 touchdowns.” The table also ranks 20",
+  "screenshots": [
+    "task_500/final.png"
+  ],
+  "raw_screenshot": "task_500/final.png",
+  "source_result": "task_500",
+  "usage": {
+    "completion_tokens": 204,
+    "prompt_tokens": 1653,
+    "total_tokens": 1857,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.58
+}

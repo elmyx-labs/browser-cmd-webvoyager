@@ -1,0 +1,9 @@
+{
+  "id": "GitHub--24",
+  "task": "Locate the GitHub repository for the open-source project \"angular\" and identify the last three issues closed.",
+  "answer": "FINAL: Angular's open-source repository is https://github.com/angular/angular. The last three issues closed, most recent first, are:\n\n1. #71663 — Playground does not work — closed October 27, 2026 at 16:46:01 UTC.\n   https://github.com/angular/angular/issues/71663\n2. #20878 — Cannot test JSONP HTTP request using the HttpClientTestingModule and HttpTestingController — closed October 27, 2026 at 13:55:55 UTC.\n   https://github.com/angular/angular/issues/20878\n3. #68802 — Allow for control over leading and trailing events when debouncing signals — closed October 27, 2026 at 06:12:27 UTC.\n   https://github.com/angular/angular/issues/68802\n\nEvidence: GitHub's closed-issue search, checked October 28, 2026, returns exactly these three issues with closed:>=2026-10-27. Their closure timestamps establish the order above. The page is sorted by Updated descending; closure timestamps were checked separately from update timestamps.\nhttps://github.com/angular/angular/issues?q=is%3Aissue+is%3Aclosed+closed%3A%3E%3D2026-10-27+sort%3Aupdated-desc\nScreenshot: final.png shows the repository, filter, sort, and all three closed issues.",
+  "screenshots": [
+    "task_391/final.png"
+  ],
+  "raw_screenshot": "task_391/final.png"
+}

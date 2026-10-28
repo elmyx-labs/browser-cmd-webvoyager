@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ArXiv",
+    "id": "ArXiv--27",
+    "ques": "On ArXiv, what categories does Economics include, and what are their abbreviations?",
+    "web": "https://arxiv.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: ArXiv’s Economics archive includes three categories:\n- Econometrics — econ.EM\n- General Economics — econ.GN\n- Theoretical Economics — econ.TH\n\nEvidence: ArXiv’s Economics archive, “Categories within Economics,” https://arxiv.org/archive/econ (viewed October 27, 2026). Screenshot: final.png.",
+    "result_text": "FINAL: ArXiv’s Economics archive includes three categories:\n- Econometrics — econ.EM\n- General Economics — econ.GN\n- Theoretical Economics — econ.TH\n\nEvidence: ArXiv’s Economics archive, “Categories within Economics,” https://arxiv.org/archive/econ (viewed October 27, 2026). Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_147/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_147",
+  "elapsed_seconds": 46.285136699676514,
+  "execution_error": null,
+  "proxy_bytes": null
+}

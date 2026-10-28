@@ -1,0 +1,8 @@
+Search: Google Flights, October 27, 2026. Upcoming December 30 chosen as December 30, 2026; comparison through February 28, 2027. One way, 1 adult, Economy, DUB–ATH, no extra filters, EUR.
+URL: https://www.google.com/travel/flights/search?tfs=CBwQAhonEgoyMDI2LTEyLTMwagwIAxIIL20vMDJjZnRyCwgDEgcvbS8wbjJ6QAFIAXABggELCP___________wGYAQI&curr=EUR
+Best tab: Ryanair nonstop from €111, 5:45 AM Dublin–11:50 AM Athens, 4 hr 5 min. Overhead bin access excluded. Prices include required taxes and fees for 1 adult; optional charges and bags may apply.
+Cheapest tab completed: from €86. Ryanair self transfer, DUB–ATH via Malta (MLA), Dec 30 08:05–22:30, 12 hr 25 min, 7 hr 10 min layover. Top nonstop remains €111. Cheapest-tab URL adds &tfu=EgoIABAAGAAgAigB.
+Price graph opened on Best tab. Graph header: “One-way trip Wed, Dec 30 From €111”; chart spans Dec 23–Feb 20 initially; scroll forward spans Jan 13–Mar 13. Read actual GetCalendarGraph responses using browser-cmd network, and chart data-id attributes via browser-cmd eval. All Dec 30–Feb 28 dates covered.
+Graph fares (EUR) Jan 1–31: 88,206,129,87,102,119,58,98,88,115,40,88,88,46,88,88,88,43,138,103,53,88,88,88,67,88,88,64,141,88,88.
+Graph fares (EUR) Feb 1–28: 62,88,88,54,88,88,88,74,88,88,60,138,116,116,73,88,88,87,141,119,116,50,115,88,74,88,88,88.
+Graph Dec 30 €111, Dec 31 €98. January range €40–206 (low Jan 11, high Jan 2); February €50–141 (low Feb 22, high Feb 19). Most dates €88; lowest dates tend Mondays/Thursdays. January lows: Jan 11 €40, Jan 18 €43, Jan 14 €46. February lows Feb 22 €50, Feb 4 €54, Feb 11 €60, Feb 1 €62. €40 is €71 (64%) below Dec 30 graph fare €111. These are today's prices for alternative departure dates, not forecasts of fare changes for the Dec 30 flight.

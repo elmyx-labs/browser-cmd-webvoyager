@@ -1,0 +1,3 @@
+[x] Find a place to climb within 2 miles of zip code 90028. Google Maps identifies Hollywood Boulders as “Rock climbing gym”; directions from “Hollywood, CA 90028, USA” show “1.2 miles.” Source URLs in NOTES.md and ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts together and no overlay. final.png (1280×723) shows “Hollywood, CA 90028, USA”, “Hollywood Boulders” and “1.2 miles”; Driving and Leave now are visible. No filter, sort or date constraints were requested.
+[x] Write the result and its evidence to ./ANSWER.txt. First line begins FINAL: and states the result; evidence and source follow.

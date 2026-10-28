@@ -1,0 +1,41 @@
+{
+  "id": "Wolfram Alpha--19",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Standing in the sun from 11:00 am with SPF 5 in Australia. Approximate time to sunburn for each skin type.",
+  "answer": "FINAL: Starting at 11:00 am with SPF 5 in Australia, WolframAlpha estimates these typical times to sunburn:\n\nSkin type I: 1 hour 7 minutes\nSkin type II: 1 hour 21 minutes\nSkin type III: 1 hour 49 minutes\nSkin type IV: 2.5 hours\nSkin type V: 3 hours\nSkin type VI: 5.5 hours\n\nThe calculation uses 11:00 am AEDT on October 28, 2026 and the UV forecast for the center of Australia. These are approximate times under that calculation’s conditions.\nSource: https://www.wolframalpha.com/input?i=sunburn+Australia+11am+SPF+5\nEvidence: final.png shows the input settings and the “Typical time to sunburn” table.",
+  "response": "The task required finding the approximate time to sunburn for each skin type when standing in the sun from 11:00 am with SPF 5 in Australia. \n\nThe screenshot from WolframAlpha clearly displays the calculation inputs (Australia, 11:00 am, SPF 5, all skin types) and the resulting typical time to sunburn:\n- Skin type I: 1 h 7 min\n- Skin type II: 1 h 21 min\n- Skin type III: 1 h 49 min\n- Skin type IV: 2.5 h\n- Skin type V: 3 h\n- Skin type VI: 5.5 h\n\nThe result response accurately reflects all these values and details.\n\nSUCCESS",
+  "reason_short": "The task required finding the approximate time to sunburn for each skin type when standing in the sun from 11:00 am with SPF 5 in Australia. The screenshot from WolframAlpha clearly displays the calculation inputs (Australia, 11:00 am, SPF ",
+  "screenshots": [
+    "task_588/final.png"
+  ],
+  "raw_screenshot": "task_588/final.png",
+  "source_result": "task_588",
+  "usage": {
+    "completion_tokens": 415,
+    "prompt_tokens": 1773,
+    "total_tokens": 2188,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 260,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002886,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002886,
+      "upstream_inference_prompt_cost": 0.00132975,
+      "upstream_inference_completions_cost": 0.00155625
+    }
+  },
+  "elapsed_seconds": 15.98
+}

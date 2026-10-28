@@ -1,0 +1,41 @@
+{
+  "id": "Apple--26",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the maximum video recording resolution supported by the latest iPad mini on the Apple website.",
+  "answer": "FINAL: The latest iPad mini (A20 Pro) supports a maximum video recording resolution of 4K at up to 60 fps. Apple’s Video Recording specifications list “4K video recording at 24 fps, 25 fps, 30 fps, or 60 fps.” Source: https://www.apple.com/ipad-mini/specs/ (checked October 27, 2026). Evidence: final.png.",
+  "response": "The user requested the maximum video recording resolution supported by the latest iPad mini from the Apple website. \n\nThe provided screenshot displays the Tech Specs page for the iPad mini on Apple's website, clearly listing under \"Video Recording\":\n- \"4K video recording at 24 fps, 25 fps, 30 fps, or 60 fps\"\n\nThe Result Response accurately identifies this maximum resolution as 4K (at up to 60 fps) and includes the specific details directly from the page.\n\nSUCCESS",
+  "reason_short": "The user requested the maximum video recording resolution supported by the latest iPad mini from the Apple website. The provided screenshot displays the Tech Specs page for the iPad mini on Apple's website, clearly listing under \"Video Reco",
+  "screenshots": [
+    "task_104/final.png"
+  ],
+  "raw_screenshot": "task_104/final.png",
+  "source_result": "task_104",
+  "usage": {
+    "completion_tokens": 351,
+    "prompt_tokens": 1677,
+    "total_tokens": 2028,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 242,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002574,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002574,
+      "upstream_inference_prompt_cost": 0.00125775,
+      "upstream_inference_completions_cost": 0.00131625
+    }
+  },
+  "elapsed_seconds": 15.57
+}

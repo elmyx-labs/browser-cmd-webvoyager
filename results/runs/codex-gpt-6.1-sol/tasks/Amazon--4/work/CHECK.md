@@ -1,0 +1,5 @@
+- [x] Find the used Nintendo Switch Lite on Amazon. https://www.amazon.com/dp/B07V3G6C1F/ref=olp-opf-redir?aod=1 — "Nintendo Switch Lite - Yellow".
+- [x] Filter by 'Used - Good'. Same URL — Good checkbox selected, filter sheet dismissed, "Filter (1)" and "Used - Good" visible.
+- [x] Tell the cheapest one that is 'Used - Good', using the site's sort. Same URL — "1 other option", "sorted by price + delivery: low to high", "$138.00", "Chummy LLC". Main color alternatives checked; details in NOTES.md.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px long side, showing name and deciding facts together, filters and sorts visible, no overlay. final.png is 960x1280; mobile offers view fills viewport, filter sheet closed, no obstruction over evidence.
+- [x] Write result and evidence to ./ANSWER.txt. Includes price, condition, seller, destination/delivery charge, source/date, and screenshot.

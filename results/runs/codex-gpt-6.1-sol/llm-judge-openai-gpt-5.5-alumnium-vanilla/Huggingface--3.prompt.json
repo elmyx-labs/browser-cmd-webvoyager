@@ -1,0 +1,9 @@
+{
+  "id": "Huggingface--3",
+  "task": "Look up a model with a license of cc-by-sa-4.0 with the most likes on Hugging face.",
+  "answer": "FINAL: replit/replit-code-v1-3b has the most likes among Hugging Face models licensed cc-by-sa-4.0, with 747 likes as of October 27, 2026.\nEvidence: Hugging Face’s model directory filtered to cc-by-sa-4.0 and sorted by “Most likes” lists it first: https://huggingface.co/models?license=license:cc-by-sa-4.0&sort=likes\nThe model page confirms “Like 747” and “License: cc-by-sa-4.0”: https://huggingface.co/replit/replit-code-v1-3b\nScreenshot: final.png.",
+  "screenshots": [
+    "task_532/final.png"
+  ],
+  "raw_screenshot": "task_532/final.png"
+}

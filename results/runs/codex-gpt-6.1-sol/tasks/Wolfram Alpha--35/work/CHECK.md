@@ -1,0 +1,3 @@
+[x] Calculate the determinant of a 6x6 Hilbert matrix. Evidence: https://www.wolframalpha.com/input?i=determinant+of+6x6+Hilbert+matrix — input |HilbertMatrix[6]|; result 1/186313420339200000.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and deciding values together, with no popup, banner or open dialog. Evidence: final.png, 1280×723, with query, interpretation and result visible together.
+[x] Write the result and its evidence to ./ANSWER.txt, first line FINAL: and one answer. Evidence: ANSWER.txt includes exact result, source URL, access date and screenshot reference.

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Flights",
+    "id": "Google Flights--4",
+    "ques": "Search for one-way flights from New York to London on Dec. 26th and filter the results to show only non-stop flights.",
+    "web": "https://www.google.com/travel/flights/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Google Flights now shows one-way flights from New York to London departing December 26, 2026, with the Nonstop filter applied. Evidence: final.png shows the route, One way, Sat, Dec 26, the active Nonstop filter, and nonstop flight results together.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhorEgoyMDI2LTEyLTI2KABqDQgDEgkvbS8wMl8yODZyDAgDEggvbS8wNGpwbEABSAFwAYIBCwj___________8BmAEC&tfu=EgYIABAAGAA",
+    "result_text": "FINAL: Google Flights now shows one-way flights from New York to London departing December 26, 2026, with the Nonstop filter applied. Evidence: final.png shows the route, One way, Sat, Dec 26, the active Nonstop filter, and nonstop flight results together.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhorEgoyMDI2LTEyLTI2KABqDQgDEgkvbS8wMl8yODZyDAgDEggvbS8wNGpwbEABSAFwAYIBCwj___________8BmAEC&tfu=EgYIABAAGAA",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_411/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_411",
+  "elapsed_seconds": 88.23809695243835,
+  "execution_error": null,
+  "proxy_bytes": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--2",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a Beginner's Spanish Specialization on Coursera and show all the courses in this Specialization.",
+  "answer": "FINAL: Learn Spanish: Basic Spanish Vocabulary Specialization — University of California, Davis, on Coursera.\n\nCoursera labels it Beginner level, with no prior experience required. All five courses, in order, are:\n1. Spanish Vocabulary: Meeting People\n2. Spanish Vocabulary: Cultural Experience\n3. Spanish Vocabulary: Sports, Travel, and the Home\n4. Spanish Vocabulary: Careers and Social Events\n5. Spanish Vocabulary Project\n\nSource: https://www.coursera.org/specializations/learn-spanish#courses\nVerified October 27, 2026. Evidence: final.png shows the specialization title, beginner description, university, and complete five-course list.",
+  "response": "The user requested to find a Beginner's Spanish Specialization on Coursera and show all the courses included in it.\n\nThe screenshot shows the Coursera page for \"Learn Spanish: Basic Spanish Vocabulary Specialization\" (offered by UC Davis), which states that it is designed for beginners. The \"Courses\" section is visible, showing all five courses in the series:\n1. Spanish Vocabulary: Meeting People\n2. Spanish Vocabulary: Cultural Experience\n3. Spanish Vocabulary: Sports, Travel, and the Home\n4. Spanish Vocabulary: Careers and Social Events\n5. Spanish Vocabulary Project\n\nThe final response also clearly details the specialization name and lists all five courses.\n\nSUCCESS",
+  "reason_short": "The user requested to find a Beginner's Spanish Specialization on Coursera and show all the courses included in it. The screenshot shows the Coursera page for \"Learn Spanish: Basic Spanish Vocabulary Specialization\" (offered by UC Davis), w",
+  "screenshots": [
+    "task_285/final.png"
+  ],
+  "raw_screenshot": "task_285/final.png",
+  "source_result": "task_285",
+  "usage": {
+    "completion_tokens": 335,
+    "prompt_tokens": 1718,
+    "total_tokens": 2053,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 197,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00254475,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00254475,
+      "upstream_inference_prompt_cost": 0.0012885,
+      "upstream_inference_completions_cost": 0.00125625
+    }
+  },
+  "elapsed_seconds": 16.05
+}

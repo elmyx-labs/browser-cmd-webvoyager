@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--20",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Open GitHub Copilot's FAQs to find the official answer to when Copilot chat can be used on mobile.",
+  "answer": "FINAL: Copilot chat can be used now in GitHub Mobile; all Copilot plans are supported. Pro and Business include Bing and public repository code search, while Enterprise adds access to your organization’s knowledge.\n\nEvidence: GitHub Copilot’s official FAQs, General → “What languages, IDEs, and platforms does GitHub Copilot support?” https://github.com/features/copilot (accessed October 28, 2026). The expanded answer states that all plans are supported in GitHub Mobile and describes the plan-specific features. Screenshot: final.png.",
+  "response": "The user requested to open GitHub Copilot's FAQs and find the official answer regarding when Copilot chat can be used on mobile.\n\nThe provided screenshot displays the official FAQ section under the question \"What languages, IDEs, and platforms does GitHub Copilot support?\", which confirms that GitHub Copilot (chat) is currently supported in GitHub Mobile across all plans, detailing the specific features available. The response accurately reflects this information.\n\nSUCCESS",
+  "reason_short": "The user requested to open GitHub Copilot's FAQs and find the official answer regarding when Copilot chat can be used on mobile. The provided screenshot displays the official FAQ section under the question \"What languages, IDEs, and platfor",
+  "screenshots": [
+    "task_387/final.png"
+  ],
+  "raw_screenshot": "task_387/final.png",
+  "source_result": "task_387",
+  "usage": {
+    "completion_tokens": 302,
+    "prompt_tokens": 1703,
+    "total_tokens": 2005,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 214,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00240975,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00240975,
+      "upstream_inference_prompt_cost": 0.00127725,
+      "upstream_inference_completions_cost": 0.0011325
+    }
+  },
+  "elapsed_seconds": 15.88
+}

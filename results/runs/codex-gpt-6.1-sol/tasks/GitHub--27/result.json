@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--27",
+    "ques": "Find a Ruby repository on GitHub that has been updated in the past 3 days and has at least 1000 stars.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: typhoeus/typhoeus — https://github.com/typhoeus/typhoeus — is a Ruby repository with 4,137 stars. GitHub's search result showed “Updated 14 seconds ago” on October 28, 2026, meeting the past-three-days requirement.\nEvidence: final.png shows the repository name, Ruby, 4.1k stars, and “Updated 14 seconds ago,” with “Recently updated” sorting. GitHub's accessible star label gives the exact count, “4137 stars.”\nSource: https://github.com/search?q=language%3ARuby+stars%3A%3E%3D1000+pushed%3A%3E%3D2026-10-25&type=repositories&s=updated&o=desc\nApplied filters: language:Ruby stars:>=1000 pushed:>=2026-10-25.\nScreenshot limitation: GitHub hides the applied query text, so the cutoff date and filter values could not be shown in the viewport; the repository's language, star count, update age, and sorting are visible together.",
+    "result_text": "FINAL: typhoeus/typhoeus — https://github.com/typhoeus/typhoeus — is a Ruby repository with 4,137 stars. GitHub's search result showed “Updated 14 seconds ago” on October 28, 2026, meeting the past-three-days requirement.\nEvidence: final.png shows the repository name, Ruby, 4.1k stars, and “Updated 14 seconds ago,” with “Recently updated” sorting. GitHub's accessible star label gives the exact count, “4137 stars.”\nSource: https://github.com/search?q=language%3ARuby+stars%3A%3E%3D1000+pushed%3A%3E%3D2026-10-25&type=repositories&s=updated&o=desc\nApplied filters: language:Ruby stars:>=1000 pushed:>=2026-10-25.\nScreenshot limitation: GitHub hides the applied query text, so the cutoff date and filter values could not be shown in the viewport; the repository's language, star count, update age, and sorting are visible together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_394/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_394",
+  "elapsed_seconds": 213.51728582382202,
+  "execution_error": null,
+  "proxy_bytes": 17073379
+}

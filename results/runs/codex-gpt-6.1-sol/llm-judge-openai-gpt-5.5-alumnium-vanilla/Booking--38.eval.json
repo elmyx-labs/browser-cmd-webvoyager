@@ -1,0 +1,31 @@
+{
+  "id": "Booking--38",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Look up Vienna hotel options with availability for a 4-night stay from June 28 to July 2, 2027, with amenities that include a Parking, breakfast included, and a rating of 8+ on Booking.com.",
+  "answer": "FINAL: Three Vienna hotels showed availability on Booking.com for June 28–July 2, 2027 (4 nights), for 2 adults in 1 room. All match the applied Hotels, Parking, Breakfast included, and Very Good: 8+ filters.\n\n| Hotel | Guest review score | Breakfast-included room | Displayed price for 4 nights |\n|---|---|---|---|\n| Hampton By Hilton Vienna City West | 8.6/10 — Excellent | Queen Room | €343, including taxes and fees |\n| Leonardo Hotel Vienna Schönbrunn | 8.9/10 — Excellent | Comfort Double Room | €500, including taxes and fees |\n| Eurostars Embassy | 9.0/10 — Wonderful | Double Room | €507 + €23 taxes and fees |\n\nEvidence: final.png shows all three offers, their scores, breakfast inclusion, four-night prices, “See availability,” travel dates, and the applied filters. Results are sorted by Booking.com's “Our top picks.”\n\nSource: https://www.booking.com/searchresults.html?label=mkt123sc-bdc13b30-51ae-4140-a074-fefc000e699f&aid=304142&ss=Vienna%2C+Vienna+%28state%29%2C+Austria&efdco=1&lang=en-us&src=index&dest_id=-1995499&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=c1c1462dabafe888d7a48231163dd877&checkin=2027-06-28&checkout=2027-07-02&group_adults=2&no_rooms=1&group_children=0&nflt=review_score%3D80%3Bht_id%3D204%3Bmealplan%3D1%3Bhotelfacility%3D2&selected_currency=EUR",
+  "response": "The screenshot shows a Booking.com search for Vienna with the correct stay dates: June 28 to July 2, 2027, which is 4 nights. It also shows the occupancy as 2 adults, 0 children, 1 room.\n\nThe required filters appear to be applied:\n\n- “Very Good: 8+”\n- “Breakfast included”\n- “Parking”\n- “Hotels”\n\nThe visible hotel results match these criteria, showing guest ratings of 8.6, 8.9, and 9.0, breakfast included, prices for 4 nights, and “See availability” buttons. The result response accurately summarizes three visible hotel options from the screenshot with their ratings, room types, breakfast inclusion, and prices.\n\nOne minor caveat is that the screenshot shows “197 properties found,” so the response’s wording that “Three Vienna hotels showed availability” could be interpreted as only three total, when it is really presenting three visible examples. However, the task only asked to look up hotel options, not to list every matching property.\n\nVerdict: SUCCESS",
+  "reason_short": "The screenshot shows a Booking.com search for Vienna with the correct stay dates: June 28 to July 2, 2027, which is 4 nights. It also shows the occupancy as 2 adults, 0 children, 1 room. The required filters appear to be applied: - “Very Go",
+  "screenshots": [
+    "task_236/final.png"
+  ],
+  "raw_screenshot": "task_236/final.png",
+  "source_result": "task_236",
+  "usage": {
+    "completion_tokens": 678,
+    "prompt_tokens": 2612,
+    "total_tokens": 3290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 452,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 10.99
+}

@@ -1,0 +1,4 @@
+[x] Locate the GitHub repository for the open-source project "angular". https://github.com/angular/angular — "Angular - The modern web developer's platform"; MIT license.
+[x] Identify the last three issues closed, ordered by most recently closed. https://github.com/angular/angular/issues?q=is%3Aissue+is%3Aclosed+closed%3A%3E%3D2026-10-27+sort%3Aupdated-desc — "3 results": #71663, #20878, #68802. Closure timestamps 2026-10-27 16:46:01Z, 13:55:55Z, 06:12:27Z establish order.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with repository, filters, sort, and relevant evidence visible. final.png is 1280x723, from the final search page.
+[x] Write the result and evidence to ./ANSWER.txt, beginning with FINAL: . ANSWER.txt contains repository, three issues, closure dates, source links and screenshot reference.

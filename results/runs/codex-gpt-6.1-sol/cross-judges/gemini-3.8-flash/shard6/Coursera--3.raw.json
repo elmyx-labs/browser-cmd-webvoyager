@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210211-aolRMMVqrdWqEIFgXgUg",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response:\n\n1. The search query \"Python Data Science\" was used, filtered for courses/specializations, and sorted by newest (`sortBy=NEW`).\n2. The screenshot confirms the first course listed is **\"Build AI Apps with Python and Large Language Models\"** with a \"New\" tag.\n3. The offering institution is clearly displayed as **\"The Skill Valley\"**.\n\nAll parts of the instruction were accurately answered.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Exploring Python Data Science Courses**\n\nI'm currently reviewing the search results for Python Data Science courses on Coursera, specifically focusing on the newest offerings. My next step is to identify the very first course in that sorted list and note its offering institution.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Exploring Python Data Science Courses**\n\nI'm currently reviewing the search results for Python Data Science courses on Coursera, specifically focusing on the newest offerings. My next step is to identify the very first course in that sorted list and note its offering institution.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/sRcKbfjcTWiikzXXuXxQJ2gxUQvYq9tw4iJcQlVoxnkyb/llpTzGCbEar4IZlAIFEuBbsUq6DO1RzEwFrFflNNZeCVAQndHcpMzqIOoa9fPzjimzov8yoEyHu92aroaMzMwt+FlfTH5joJXLgdt82gMLLE9Hq6kbCEcbfGA84Rk32iDfOlfgK0MvVgaujgXEE+w+yHU/EtZtog6TfLnut7SzHVv7pdGdm/fSwnL0ekwZo2l7VmNa2GyEWyRaiSB4Be3l0sT5M1cEtA32JXfSneDizgal7MVswJyCTDzecEP264ljyXZHYlugcv6anfbFp7OiKL/cbMu0hTlVJGil5RqwDwThu+On+/Ht12FxyKdYNiIIR5ZE+J5PhmB5WZ9c4snaKcTG1VhbaT71WpPbSW1LtjzA5c2kZKY7jk77WHlgFhbv5Yik4ULSQlPymjrp0RfejhNPRTdyi87AkSnPQOGsctcY2t11OWNq8fXwMLQBgtKBPx1CQYvB/2LcoNZh2A3XdRp1O6f7HDY+4nIuC8OHcKCl0M+MUU3wIARipbHyVSZLUFoGuFJbzcJc4DGkvrpwL/XuE9Jr2Iy3zHowB9dUqRscnn7KBBo40Tg/lRCiydPrDN6LQFVlztxbhsrDxIxtiQ6G+urcprwZSnRA/K1uoD1OWa+M/iTFMkxKv8aNIBfOcSCz1x4YzS2LvC/gu1flcn28QgtDtZynDWrUyZ2Nog8BcD1A+1tZ2h5W0KDmtc0pUey9QuQmTdU1FBuY9FmfBFLAYbGzbewfp9NLuUl3h/7/IcrEKW+JDbq+X1PIaMMx1QF4Y0bi7YVbMD06SlTLjD59p0uPdvtrIs+BaRP1tsNRrQe3kL65+GvwEmH7x3syYq8GMEgyM9adBdRpqGztSJwWwzvivMHp0hEB3jzn7jjhDX+XoNLwJ8NYvhj8OiDZp2qjFWhkTaYm/dOM7OwHaQGiLKdEFWmiKCyq9ZMwws8Wuqz7ZX20NaT4ptCx3iW34r2GPInXDlYgN/fKj9n7qvHR21aDBJHBk5mMiWDW4zrw6ueseaoWBmXLW7V50HJ2vhbC5GyOpoMFA1v8QG9tOZnTG0p3M1LYr+TQ4c3wgbfhKq9Al5neoh8w5okulJyWY4ZKAzzAxLX2A7Z6ptQE2w+XaRc9DSXBAABG6l5guXfEMvCuCNG/cLz7kurS8sJJ1nVh8WEhimMUUmg==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210211,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 262,
+    "prompt_tokens": 1810,
+    "total_tokens": 2072,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 164,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00234,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00234,
+      "upstream_inference_prompt_cost": 0.0013575,
+      "upstream_inference_completions_cost": 0.0009825
+    }
+  },
+  "provider": "Google"
+}

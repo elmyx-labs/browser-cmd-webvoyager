@@ -1,0 +1,4 @@
+[x] Check the New York Jets Depth Chart in the NFL section of ESPN. URL: https://www.espn.com/nfl/team/depth/_/name/nyj/new-york-jets ; page title: New York Jets 2026 NFL Depth Chart - ESPN.
+[x] Identify the players listed as injured in the 2ND position. Table header: STARTER | 2ND | 3RD | 4TH; entries: Max Mitchell Q (LT), Joseph Ossai Q (LDE), Kiko Mauigoa IR (SLB). Glossary: Q:Questionable; IR:Injured reserve.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with names and deciding facts visible together and no overlays. Saved and read final.png, 1280x1250 viewport; 2ND column, player names, injury markers, and positions all visible; no popup or dialog.
+[x] Write result and evidence to ./ANSWER.txt. Saved FINAL answer with designations, positions, date, source URL, and screenshot reference.

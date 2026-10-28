@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--12",
+    "ques": "Look for a Coursera course (not Specialization) that teaches Java programming basics.",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Java Programming for Beginners by IBM is a Coursera course, not a Specialization. It is beginner level and teaches Java basics including data types, variables, operators, control flow, arrays, and strings.\nSource: https://www.coursera.org/learn/java-for-programming-beginners\nEvidence: final.png shows the course title, course designation, beginner level, and learning topics together.",
+    "result_text": "FINAL: Java Programming for Beginners by IBM is a Coursera course, not a Specialization. It is beginner level and teaches Java basics including data types, variables, operators, control flow, arrays, and strings.\nSource: https://www.coursera.org/learn/java-for-programming-beginners\nEvidence: final.png shows the course title, course designation, beginner level, and learning topics together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_295/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_295",
+  "elapsed_seconds": 189.55934309959412,
+  "execution_error": null,
+  "proxy_bytes": null
+}

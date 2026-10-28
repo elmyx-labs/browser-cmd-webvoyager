@@ -1,0 +1,4 @@
+- [x] Discover three new and popular open-source NLP models for language translation released in the past month on Huggingface. Three linked repositories in ANSWER.txt; all tagged Translation and apache-2.0.
+- [x] Verify each model’s release date within the past month, translation task, open-source license, and popularity. September 27–October 27, 2026 window; Tencent “2026.10.26 | Release”; Index publisher “2026-09-30: released ... 2B / 9B”. URLs and counts in NOTES.md and ANSWER.txt.
+- [x] Save one genuine viewport screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side. 970 × 1280 screenshot of https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-FP8; name, license, likes, monthly downloads, dated release notice all visible; no dialog or banner. No list filters or sort apply to this model-card page.
+- [x] Write final answer with results, dates and sources to ./ANSWER.txt, first line FINAL:.

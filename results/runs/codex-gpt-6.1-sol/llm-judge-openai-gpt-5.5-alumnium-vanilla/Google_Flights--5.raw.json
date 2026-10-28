@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyeLpMsgGSOLHvCS38XN8w3O3hsE",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find flights from Chicago to London departing on 20 December and returning on 23 December.\n\nThe screenshot shows Google Flights results for a round trip from Chicago to London, economy, 1 passenger. The selected flights are:\n\n- Outbound: Sun, Dec 20, Chicago ORD to London LHR, departing 8:05 PM and arriving 1:25 PM the next day, with 1 stop in Dublin.\n- Return: Wed, Dec 23, London LHR to Chicago ORD, departing 8:50 AM and arriving 2:10 PM, with 1 stop in Dublin.\n- Booking options and prices are shown, including Gotogate at $1,555 and Aer Lingus at $1,746.\n\nThe result response accurately summarizes the key details visible in the screenshot. Since no year was specified in the task, using the upcoming December 2026 is reasonable given the current year context.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196637,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 324,
+    "prompt_tokens": 2706,
+    "total_tokens": 3030,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 121,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

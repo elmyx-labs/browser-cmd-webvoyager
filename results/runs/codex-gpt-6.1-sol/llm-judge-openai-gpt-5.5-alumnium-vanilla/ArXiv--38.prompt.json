@@ -1,0 +1,9 @@
+{
+  "id": "ArXiv--38",
+  "task": "Find the ArXiv Blog on the ArXiv website and summarize the content of its latest article.",
+  "answer": "FINAL: The latest article on the arXiv Blog is “Scheduled Database Maintenance | October 28th, 2026,” by Kat Boboris, published October 21, 2026.\n\nThe article announces that arXiv will move its database from Cornell University servers to the cloud as part of the arXiv-CE modernization project. The move aims to improve reliability, support growth, reduce infrastructure overhead, and simplify maintenance.\n\nOn October 28, arXiv will operate in read-only mode from 7 a.m. to noon EDT (11:00–16:00 UTC). Browsing, viewing, and searching papers will remain available, but login-dependent functions—including submissions, moderation, and account changes—will be unavailable. Normal login services are scheduled to return at noon. Wednesday’s announcements and mailings will be deferred, with the regular announcement schedule resuming Thursday, October 29. Updates will appear on the arXiv status page.\n\nEvidence: The arXiv homepage links to the blog, whose newest-first listing places this October 21 article above the October 17 post. Blog: https://blog.arxiv.org/\nArticle: https://blog.arxiv.org/2026/10/21/scheduled-database-maintenance/\nScreenshot: final.png",
+  "screenshots": [
+    "task_158/final.png"
+  ],
+  "raw_screenshot": "task_158/final.png"
+}

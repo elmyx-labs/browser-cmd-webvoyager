@@ -1,0 +1,31 @@
+{
+  "id": "Booking--28",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a hotel in Dubai with a swimming pool, for a week-long stay from June 22 to June 29, 2027.",
+  "answer": "FINAL: The First Collection Waterfront, Dubai, a Tribute Portfolio Hotel — a hotel in Dubai with a year-round outdoor swimming pool — is available for June 22–29, 2027 (7 nights).\n\nBooking.com showed RSD 31,802 plus RSD 10,160 in taxes and fees for 2 adults in 1 room for the week. The property is on Marasi Drive, Dubai.\n\nEvidence: https://www.booking.com/hotel/ae/the-first-collection-waterfront.html lists the outdoor swimming pool. The Booking.com search results had Hotels and Swimming pool filters applied, check-in 2027-06-22 and check-out 2027-06-29, and the hotel card showed “1 week, 2 adults.” The saved viewport screenshot, final.png, shows the hotel name, dates, filters, and price together.",
+  "response": "The task was to find a hotel in Dubai with a swimming pool for June 22–29, 2027.\n\nThe screenshot shows Booking.com search results for Dubai with the dates “Tue, Jun 22 — Tue, Jun 29,” which aligns with the requested 2027 dates based on the result response stating the search was for 2027-06-22 to 2027-06-29. The applied filters include “Hotels” and “Swimming pool,” satisfying the hotel and pool requirements. The listed property, “The First Collection Waterfront, Dubai, a Tribute Portfolio Hotel,” shows a 1-week stay for 2 adults and a price, indicating availability for the requested stay length.\n\nThe result response also states that the hotel has a year-round outdoor swimming pool and is available for the requested dates. There is no contradiction between the screenshot and the response.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find a hotel in Dubai with a swimming pool for June 22–29, 2027. The screenshot shows Booking.com search results for Dubai with the dates “Tue, Jun 22 — Tue, Jun 29,” which aligns with the requested 2027 dates based on the r",
+  "screenshots": [
+    "task_226/final.png"
+  ],
+  "raw_screenshot": "task_226/final.png",
+  "source_result": "task_226",
+  "usage": {
+    "completion_tokens": 580,
+    "prompt_tokens": 1767,
+    "total_tokens": 2347,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 391,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 24.1
+}

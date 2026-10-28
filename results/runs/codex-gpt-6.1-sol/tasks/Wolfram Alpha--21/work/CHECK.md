@@ -1,0 +1,3 @@
+[x] Calculate (1+0.1*i)^8 + (1−0.2*i)^8 where i is a complex number. WolframAlpha URL: https://www.wolframalpha.com/input?i=%281%2B0.1*i%29%5E8+%2B+%281-0.2*i%29%5E8 — “i is the imaginary unit”; expanded Result “0.71718257 - 0.4252584 i”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the expression and result visible together and no pop-up, banner or open dialog. final.png is 1280×723 and shows Input and expanded Result on the source page.
+[x] Write the result and its evidence to ./ANSWER.txt, first line starting FINAL:. Written with result, WolframAlpha source URL, access date and final.png reference.

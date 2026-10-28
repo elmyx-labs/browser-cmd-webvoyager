@@ -1,0 +1,31 @@
+{
+  "id": "Wolfram Alpha--38",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Compute the length of a curve defined by y = 2x^3 - 3x^2 + 4x - 5 from x = 0 to x = 3.",
+  "answer": "FINAL: The curve has length approximately 39.24992727 units (39.25 units to two decimal places).\n\nFor y = 2x^3 - 3x^2 + 4x - 5, y′ = 6x^2 - 6x + 4, so the arc length is L = ∫₀³ √(1 + (6x^2 - 6x + 4)^2) dx ≈ 39.24992727.\n\nEvidence: WolframAlpha displays the curve, the interval x = 0 to 3, and this integral and numerical result together. Screenshot: final.png. Accessed October 27, 2026.\nSource: https://www.wolframalpha.com/input?i=arc+length+of+y+%3D+2x%5E3+-+3x%5E2+%2B+4x+-+5+from+x+%3D+0+to+x+%3D+3",
+  "response": "The task was to compute the arc length of the curve \\(y = 2x^3 - 3x^2 + 4x - 5\\) from \\(x=0\\) to \\(x=3\\).\n\nThe result response correctly identifies:\n\n- \\(y' = 6x^2 - 6x + 4\\)\n- Arc length formula:  \n  \\[\n  L=\\int_0^3 \\sqrt{1+(6x^2-6x+4)^2}\\,dx\n  \\]\n- Numerical result: approximately \\(39.24992727\\)\n\nThe screenshot from WolframAlpha shows the same input, the same integral, and the same numerical result \\(39.24992727...\\). This directly supports the response.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to compute the arc length of the curve \\(y = 2x^3 - 3x^2 + 4x - 5\\) from \\(x=0\\) to \\(x=3\\). The result response correctly identifies: - \\(y' = 6x^2 - 6x + 4\\) - Arc length formula: \\[ L=\\int_0^3 \\sqrt{1+(6x^2-6x+4)^2}\\,dx \\] -",
+  "screenshots": [
+    "task_607/final.png"
+  ],
+  "raw_screenshot": "task_607/final.png",
+  "source_result": "task_607",
+  "usage": {
+    "completion_tokens": 300,
+    "prompt_tokens": 1816,
+    "total_tokens": 2116,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 127,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.47
+}

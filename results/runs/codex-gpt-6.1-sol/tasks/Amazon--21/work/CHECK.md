@@ -1,0 +1,5 @@
+[x] Find a stainless steel, 12-cup programmable coffee maker on Amazon. https://www.amazon.com/dp/B01N6T5QNO — “Cuisinart 12-Cup Coffee Maker, Programmable PerfecTemp ... Stainless Steel, DCC-3400NAS, Silver”.
+[x] The price range should be between $100 to $200. Same listing: “$149.95”; search price filter visible as “$100–$200”.
+[x] Report the one with the 4+ customer rating. Same listing: “4.0 out of 5 stars”, “11,169 ratings”; “4 Stars & Up” search filter applied.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts in view together, filters applied and visible, no pop-up, banner or open dialog. final.png is the 1280×723 resized browser viewport; reviewed once. First listing name, 12-Cup, Programmable, price, rating, Stainless Steel selected material, $100–$200 price, 4 Stars & Up, and Featured sort are visible.
+[x] Write result and evidence to ./ANSWER.txt. Written with product URL, verification date, facts, and final.png reference.

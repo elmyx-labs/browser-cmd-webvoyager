@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyXvjUQRZKEw6kdoR2aTXIEDPdPN",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find an Allrecipes chicken curry recipe with **more than 30 reviews** and a **rating of at least 4 stars**, then provide a summary including **ingredients, preparation time, and cooking instructions**.\n\nThe screenshot shows the Allrecipes page for **“Indian Chicken Curry (Murgh Kari)”** with a **4.7 rating** and **1,013 reviews**, which clearly satisfies the review and rating requirements. The result response also provides the recipe URL and includes a summary with the preparation/cooking times, ingredients, and step-by-step cooking instructions.\n\nTherefore, the task requirements were fully met.\n\n**Verdict: SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196239,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 341,
+    "prompt_tokens": 2069,
+    "total_tokens": 2410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 200,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

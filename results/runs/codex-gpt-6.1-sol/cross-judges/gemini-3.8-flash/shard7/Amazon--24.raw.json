@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209939-TzRZPrzm2CL4llQSK4Mk",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user asked to browse for a compact air fryer on Amazon meeting the following criteria:\n- Capacity of 2 to 3 quarts\n- Digital display\n- Auto shutoff feature\n- Priced under $100\n\nThe screenshot and response provide a product that fulfills all requirements:\n- **Product:** CHEFMAN 2 Qt Mini Air Fryer\n- **Capacity:** 2 quarts (within the 2 to 3 quarts range)\n- **Digital display:** Features a capacitive touch screen / digital timer and display (visible in image and listed in features)\n- **Auto shutoff:** Explicitly mentioned under 'About this item' (\"Automatic shutoff technology ensures added safety...\")\n- **Price:** $42.43 (under $100)\n\nAll criteria have been fully satisfied.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Compact Air Fryer**\n\nI've identified a promising CHEFMAN 2 Qt Mini Air Fryer on Amazon that appears to meet the specified criteria for capacity, digital display, and price. I'm now verifying the auto shutoff feature and confirming its suitability.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Compact Air Fryer**\n\nI've identified a promising CHEFMAN 2 Qt Mini Air Fryer on Amazon that appears to meet the specified criteria for capacity, digital display, and price. I'm now verifying the auto shutoff feature and confirming its suitability.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/hGKct5iGQoBfo+ajq87eUt+LXPv1FI4cetxqYSKPisibJIpCzzsGt271fhgxOQE8dnHfAAr+/V86rjzLSilzmVUs4HXzJz1DZrOBocARLUiRtvnGnL+WGZl/qFf1aqGE+y/4wPcOEnuGrLlAXbMxPFlgP1Ev1L6MlUN4kkJImJexveD4pxv+xVkwOFslM5BcBM43G69np7GxFcg1O7Po7Kw8+rc6k8zrx+kNmeDRRi2EGKeehfIEGl3VYxlZiU2gDprnyJlppChJTjfduT84JNJXZ5Jx0Y0mgaH+nXLuE+jgE+xTHw+2kNTzIEPLC4+KOa8aDljryTIISrSCf3Ed1C6Djxpwa0i9r4Hm/64Ghd/N9BQET9O+HfdOgTXJikT9zI8KfVD0wkdBjw6LyL7NZKyXwmPxcJ4H1ZnqGrdHn430q5yzK5ZrgOpMvK/rHuE8sYl8VKGEuQNLvt0BUQv+kDDz1YuddspLsQgAElAnPhP4mY5VTXKRJoZdz1ehFOULiyJOS1EQ7EdmionAiarUMXyLk+QCTZ6UbFfqbK3CWP6affZHrJiAA4WLgT/QhYOMsugJVj9rrdQSCyor6PE2FQ4aLqNEdxDkmPsvmkphfmdI9TqIBBawRPgkehisgphO49YzGM+abGjyAYgMx7aaxiVSgKQ+AVycJvqOQv3flRPW4dmlcGeqmucwAj89D+MvY/cVQVF8P08YI+e/O3ShoMl7Qvwglp75b4T/+job8KVdjKmUfxw5jpUOcO2Wd3DWThM4Ox31XhbKbeZyVbEQ8/aMM4K4S5b8AdXTIXX0hUdTyiSMpakEPNrQ04l/wfm+5hpeY0QQ6A7+oPQSkye7SfYVx0DYG7vYlgEfc6/x0km6LKBQI27cdsGZ47lSd2SXEGIMdMSZUo2tjk5XpNu7hjfOvK2OAXoA7/z6StQa2htCXgbZhNMeHCpzplTM0nsujF/UQvEttDV7ojWp1n8DwPulcvLNqF0IxvsFQC5pSmtpw6vkCOmTjLk+DoGZk/pjgwFay4Ui6Aies2sAjNkfvnsNOkUB1hjUu+wLqLYR3LfcOmeZZBjWw/rpVTaojKXEd24uZxMQoARpWEZ7TrISGKc2y/fsgrtAypr54Dn0fFlfoyZW/tSplTZJhRveG6U8U9uO/xte8lgNH672OqxtcFx4fFkPKdxzDtbbChsNrgA0hnZ/bRQT9Oz4cwyIIO3+87j9j1Wi+DTCoSg6fwbwPPspRJHcm9FjvaCUsCp/xWEXvuNxDsSoWuxw1gTuDcdtkKSDiVQaJNbIgFqwxjeAxoEgTRp1JOlPDCo4jhviHXBjdeGitJIdXtlR6j3mToVb6dRemp/hh9IXnrBgXqBamc0mBpAOS+tr03q+9SuiOoc9F/0Sl56szjkopu+i1se6LEk92/pP7/QHd/WP0dzLog13/EXdWTVJIrvOh2jMFXZe3mHZAek3ub7P1/fmEdyIDdBfaU56KHVxr2WzD1RtgvtNPgyAJD4YQXv5sZXXDWiJU",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209939,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 399,
+    "prompt_tokens": 1763,
+    "total_tokens": 2162,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 228,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0028185,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0028185,
+      "upstream_inference_prompt_cost": 0.00132225,
+      "upstream_inference_completions_cost": 0.00149625
+    }
+  },
+  "provider": "Google"
+}

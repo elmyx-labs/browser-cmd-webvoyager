@@ -1,0 +1,9 @@
+{
+  "id": "ArXiv--14",
+  "task": "On ArXiv, how many articles have 'SimCSE' in the article and are originally announced in October 2023?",
+  "answer": "FINAL: 4 articles.\n\nArXiv’s search for “SimCSE” in All fields shows “Showing 1–4 of 4 results,” and every entry states “originally announced October 2023”: arXiv:2310.19349, 2310.17690, 2310.10962, and 2310.06918.\n\nEvidence: final.png shows the count, SimCSE query, October 2023 date range, announcement-date sort, and all four original-announcement dates.\nSource: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=SimCSE&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2023-10-01&date-to_date=2023-10-31&date-date_type=submitted_date_first&abstracts=hide&size=50&order=-announced_date_first",
+  "screenshots": [
+    "task_134/final.png"
+  ],
+  "raw_screenshot": "task_134/final.png"
+}

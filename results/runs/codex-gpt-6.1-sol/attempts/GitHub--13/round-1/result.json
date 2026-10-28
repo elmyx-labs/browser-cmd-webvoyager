@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--13",
+    "ques": "Identify the latest top-trending open-source project in the topic of 'Machine Learning' on GitHub, and check the number of stars it has received.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Tesseract (tesseract-ocr/tesseract) is the best supported Machine Learning topic candidate: 77,212 total stars and 26 stars today, checked October 28, 2026.\nTesseract is explicitly tagged machine-learning and is Apache-2.0 licensed. It appears at #11 in GitHub’s C++ Trending list for Today, ahead of TensorFlow (#15), and is the highest-ranked machine-learning-tagged project verified in that list.\nScope: GitHub offers no Machine Learning topic-specific Trending filter. This establishes a currently trending project in the topic and its C++ rank, rather than a #1 ranking across all Machine Learning projects.\nEvidence: https://github.com/topics/machine-learning and https://github.com/tesseract-ocr/tesseract (topic and license); https://github.com/trending/c++?since=daily (Today, C++, rank, total stars and stars today). Screenshot: final.png.",
+    "result_text": "FINAL: Tesseract (tesseract-ocr/tesseract) is the best supported Machine Learning topic candidate: 77,212 total stars and 26 stars today, checked October 28, 2026.\nTesseract is explicitly tagged machine-learning and is Apache-2.0 licensed. It appears at #11 in GitHub’s C++ Trending list for Today, ahead of TensorFlow (#15), and is the highest-ranked machine-learning-tagged project verified in that list.\nScope: GitHub offers no Machine Learning topic-specific Trending filter. This establishes a currently trending project in the topic and its C++ rank, rather than a #1 ranking across all Machine Learning projects.\nEvidence: https://github.com/topics/machine-learning and https://github.com/tesseract-ocr/tesseract (topic and license); https://github.com/trending/c++?since=daily (Today, C++, rank, total stars and stars today). Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_4/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_4",
+  "elapsed_seconds": 699.9570066928864,
+  "execution_error": null,
+  "proxy_bytes": 42618872
+}

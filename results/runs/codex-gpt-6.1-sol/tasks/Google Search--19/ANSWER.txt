@@ -1,0 +1,11 @@
+FINAL: BERT’s latest commit on google-research/bert’s default master branch is eedf571, dated March 11, 2020, by jacobdevlin-google (checked October 27, 2026). Full SHA: eedf5716ce1268e56f0a50264a88cafad334ac61. The first seven SHA characters are eedf571; the first seven literal binary bits are 1110111.
+
+The commit merged pull request #1027, “Add links to 24 smaller BERT models.” Only README.md changed: 71 added lines and 0 deletions. The new “Smaller BERT Models” section added:
+
+- Individual downloads and one combined download for 24 English-only, uncased models trained with WordPiece masking. The models cover every combination of layer counts 2, 4, 6, 8, 10 and 12 with hidden sizes 128, 256, 512 and 768.
+- Guidance for limited computing resources, fine-tuning and knowledge distillation. It states that BERT-Base was included for completeness and re-trained under the same regime as the original model.
+- GLUE test results for BERT-Tiny, BERT-Mini, BERT-Small and BERT-Medium, with overall scores 64.2, 65.8, 71.2 and 73.5 respectively, plus individual task results.
+- Fine-tuning details: 4 training epochs, selecting the best hyperparameters for each task from batch sizes 8, 16, 32, 64 and 128 and learning rates 3e-4, 1e-4, 5e-5 and 3e-5.
+- A link and BibTeX citation for “Well-Read Students Learn Better: On the Importance of Pre-training Compact Models.”
+
+Evidence: The repository’s “Latest commit” identifies eedf571: https://github.com/google-research/bert . The commit page gives the date, merge message, change counts and complete README diff: https://github.com/google-research/bert/commit/eedf5716ce1268e56f0a50264a88cafad334ac61 . README lines 13–20 show the model sizes; line 22 gives the BERT-Base note; lines 24–31 show GLUE results; lines 33–35 give fine-tuning settings. The viewport screenshot final.png shows these details together with the repository and commit identity.

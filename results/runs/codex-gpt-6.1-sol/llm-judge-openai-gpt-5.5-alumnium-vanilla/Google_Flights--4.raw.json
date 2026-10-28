@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edyekr4HTYb2BT7qiaLqoXbmSZ5FX",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The screenshot shows Google Flights with:\n\n- Trip type set to **One way**\n- Origin: **New York**\n- Destination: **London**\n- Date: **Sat, Dec 26**\n- Filter chip **Nonstop** applied\n- Listed flight results all marked **Nonstop**\n\nThis aligns with the task requirement to search for one-way flights from New York to London on Dec. 26 and filter results to only non-stop flights.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196662,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 230,
+    "prompt_tokens": 1731,
+    "total_tokens": 1961,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 126,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

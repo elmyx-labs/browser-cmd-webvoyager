@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdydIY70mLL1a5bAzqRjMFoYavM14",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to search Cambridge Dictionary’s Thesaurus for “feel giddy” and list the synonyms provided.\n\nThe screenshot clearly shows the Cambridge Dictionary Thesaurus entry for “feel giddy.” Under the “Synonyms” section, the visible terms are:\n\n- feel dizzy\n- spin\n- whirl\n- reel\n\nThe Result Response lists the same four synonyms: “feel dizzy, whirl, spin, and reel.” Although the order differs slightly from the screenshot, all listed synonyms match the dictionary entry shown.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196572,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 196,
+    "prompt_tokens": 1660,
+    "total_tokens": 1856,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

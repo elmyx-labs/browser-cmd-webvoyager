@@ -1,0 +1,23 @@
+FINAL: Mouserat/titlerat v1 is the newest English-tagged, openly licensed Summarization model listed on the Hugging Face Hub as of October 28, 2026. The first model-and-tokenizer upload commit is dated October 23, 2026 at 00:53:57 UTC (October 22 at 20:53:57 New York time); the latest README update is October 27. Hugging Face's English + Summarization directory, sorted “Recently created,” places it first.
+
+Features (from the model card and manifest):
+• Purpose: condenses English or Japanese chat requests into short noun-phrase titles for conversation-history lists. This is title summarization, rather than a general document-summary model.
+• Architecture: an encoder-decoder fine-tune of google/mt5-small, approximately 0.3 billion parameters; FP32 Safetensors weights; Hugging Face lists model.safetensors as 1.2 GB (a rounded display size).
+• Open license: Apache-2.0 for the weights and code. The 37,319-example training dataset itself is not yet published; the card identifies its source datasets.
+• Usage: use the repository's tokenizer, which adds <user>, </user>, <assistant>, and </assistant> delimiter tokens. Hugging Face supplies Transformers loading instructions and a Colab notebook. No Inference Provider currently deploys it.
+• Limits: longer requests more often confuse the subject; long English requests perform worse than long Japanese requests. Titles do not guarantee factual correctness, may repeat harmful topics, and the model is not intended to produce assistant replies or make safety/refusal decisions.
+
+If “text summarization” means conventional meeting/dialogue summaries, the next and newest matching listing is Immich/pipeline-error-propagation-dialogue-summarization-longt5-pipeline-seed73 (released October 20, 2026; MIT). It fine-tunes google/long-t5-tglobal-base and uses annotation-assisted topic segmentation, dialogue-act extraction, topic-wise generation and chronological concatenation. Its input limit is 4,096 tokens and meeting output cap is 512 tokens. Its oracle setup needs gold reference-derived annotations, so its reported results do not describe an ordinary unannotated-text summarizer.
+
+Publisher distinction: these are community releases hosted on Hugging Face. For the stricter meaning “published by Hugging Face itself,” the huggingface-author directory with English and Summarization filters shows “0” models and “No results found”; no qualifying model is listed there.
+
+Evidence:
+• Latest-first directory: https://huggingface.co/models?pipeline_tag=summarization&language=en&sort=created
+• Model features/license: https://huggingface.co/Mouserat/titlerat
+• Upload timestamp and latest update: https://huggingface.co/Mouserat/titlerat/commits/main — “Upload titlerat 2vPlus model and tokenizer” (95cfbb5) has timestamp 2026-10-23T00:53:57.000Z.
+• Weight size/precision: https://huggingface.co/Mouserat/titlerat/blob/main/model.safetensors — “Size of remote file: 1.2 GB”; tensor precision “F32”.
+• Architecture/format: https://huggingface.co/Mouserat/titlerat/blob/main/manifest.json
+• Conventional-summary alternative: https://huggingface.co/Immich/pipeline-error-propagation-dialogue-summarization-longt5-pipeline-seed73
+• Strict publisher check: https://huggingface.co/models?pipeline_tag=summarization&language=en&sort=created&author=huggingface
+
+Screenshot evidence: final.png shows the English filter selected, the active task count, “Recently created” sorting, and titlerat as the first Summarization result.

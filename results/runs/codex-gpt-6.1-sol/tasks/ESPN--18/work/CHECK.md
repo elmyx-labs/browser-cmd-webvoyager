@@ -1,0 +1,3 @@
+[x] How many sports leagues can you choose from on the ESPN home page? — https://www.espn.com/ Select league: 24 total entries, comprising Top Events and 23 sports/league choices; exact menu text recorded in NOTES.md and ANSWER.txt.
+[blocked] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the evidence without overlays. — Saved genuine 1280×931 viewport screenshot with the league menu open and no unrelated dialog; ESPN limits its menu to a 300px scroll area, so the complete list cannot be shown together.
+[x] Write the result and evidence to ./ANSWER.txt. — Written with source URL, date, complete labels and screenshot limitation.

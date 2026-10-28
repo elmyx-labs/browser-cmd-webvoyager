@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209888-MPdS3hUOlOddLYpIhGdf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task requires finding a popular recipe for chocolate chip cookies and listing the ingredients and preparation steps. \n\nThe screenshot confirms the agent navigated to a highly popular chocolate chip cookie recipe on Allrecipes (\"Best Chocolate Chip Cookies\" with a 4.6 rating across 19,332 ratings and 14,911 reviews). The Result Response accurately provides the full list of ingredients and preparation steps for this recipe.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Listing Cookie Ingredients**\n\nI've located a highly-rated chocolate chip cookie recipe – the \"Best Chocolate Chip Cookies\" on Allrecipes – with significant user acclaim. I've begun to list out the ingredients for the recipe, which is the first step toward assembling a helpful guide.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Listing Cookie Ingredients**\n\nI've located a highly-rated chocolate chip cookie recipe – the \"Best Chocolate Chip Cookies\" on Allrecipes – with significant user acclaim. I've begun to list out the ingredients for the recipe, which is the first step toward assembling a helpful guide.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EvkGCvYGAWkUfRMppHTrYu2oxxhbfNKANRBCYhwZ+A70Vdiu/95o9AtvPoLCzuQHDDFC5z9WhHOUmis5l5f+bAbKnH4UnfP3VslRMWxpYrXfRVcSpoQx5SA1xlWdaKmavxrefuAne0MNnr6HVSLS0Aqk4hFZm6jiLa4vHCNiEY5MoeG9R1WkqeZW/lck+qJSGqVgw1UTULfNcxmBAETwItn67nAXDuqlaYR6xW/Ue0XoD/OlHYzVI2EBIAbKPrQnTBUvyO0Ea3H29ucmqarhGq4kaYHJ3UwttN2ZjjkQXv7FBQ+STUgSKzjloLrFotHrCh89U1wzQ+Irt+Ig6bGec5E3tO1YWDy6mxQVb+pzXg+Ta8kQh/xkpMCHMgZxC/ymPVESqqB8jhFiPRzPIHKjBHWvIE9cVpii1kFzS98BZ5wOvpFvUm6jGdFVO1DZsL8lVXxkshDWRRJMpI+ZplZVRoYudUQmBimAcrB4RpWpbCf6tWer6H7shxlvDFGOBpxsu/zHXDt50eru2kUBs73cPjiQje3b0MaFM7zXxUIu3Yr6mN8NsfoQqSxQN9TCmu2KXpt85n5gLzonXJGAakzCLWLhDUtPCbBPLwg0KghVCTopFln1KGLKVPrIBi+4MDNjNFrYDOLWjZrGATL2nwirIWE2X8VZ2E1+osFX30bH2UIUbvyY74z5nipuYn6XVCa4s/xE4Pi7LznK9ArHIZiksWoBmk9hyYjWkuSmZibkhehMRS2QTemwp/5HqYPH6JwypY13AvyLz7jsLVSP5asarQka0eX4tJnMu09bAQze8eCkOZu9UStxIAjFyJ1JAGfa2t9s5NabX0UGsGrFdgadxcy5/pFV0eUiitZg7jUpINCsDvKNgUO9gqJnCN/xPq8kp7190214P0ilJA4RvhGUIExY43xEMDc9d4h4l7BEINksJNACJWhw+qElLRax9S0+GYmdKxFY26Q/+HEb+P6FLEAfKMPemmsnKmVKgwYYesh2jH8j+tAUSA4QOruiQqFWrM71p/2cPAh2bg3w5BYptGQcEDA7jctXVzvn18qEsOFJ0lmAvAs9XCDZb72rYMjubo/cWxfhXI7aeM5FincRPOY7V3z+T9arXZfWy4tx+lQSPo49tCNGuGrI8jMGLt1jiaCcpYebSokXg4wfa9gentKhzCVVvslyUrKH3g==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209888,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 245,
+    "prompt_tokens": 2004,
+    "total_tokens": 2249,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 156,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00242175,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00242175,
+      "upstream_inference_prompt_cost": 0.001503,
+      "upstream_inference_completions_cost": 0.00091875
+    }
+  },
+  "provider": "Google AI Studio"
+}

@@ -1,0 +1,8 @@
+Coursera search results for R for Data Science, page 20: SageMaker Unified Studio Foundations for Data Analytics, Amazon Web Services. Exact text: “Category: Free” / “Free”. Scrolled the item into view.
+https://www.coursera.org/courses?query=R%20for%20Data%20Science&page=20
+Course page exact words: “Taught in English”. FAQ includes “Do I need to pay for this course?”
+https://www.coursera.org/learn/amazon-sagemaker-unified-studio-foundation-for-data-analytics-digital
+Verified course description and expanded module: SQL analytics, machine learning, generative AI, lakehouse architecture, governance; no explicit R coverage established.
+Read all 24 R Programming-filtered results pages and R (Software)-filtered results pages through the empty results. No “Category: Free” found. This does not prove universal unavailability, only that no exact match was verified.
+Updated final.png captures original unfiltered R for Data Science results page 20 with the course title and Free tag; removed the prior exact-title search screenshot.
+Additional browser checks: R for Data Science search with Courses product filter; scrolled results. No Category: Free found among displayed courses including Introduction to R Programming for Data Science, R Programming, SQL for Data Science with R, Data Visualization with R, Introducción a R para ciencia de datos, Introducción a R, and R: Code, Import, Transform Data. Searches for R with other teaching-language filters and Statistics One also produced no qualifying Free tag. The answer now leads with failure to find a course meeting both requirements, and does not use SageMaker as a qualifying R course. final.png retaken from the original R for Data Science results page 20.

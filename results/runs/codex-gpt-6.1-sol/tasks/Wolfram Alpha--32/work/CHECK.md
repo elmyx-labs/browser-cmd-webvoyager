@@ -1,0 +1,3 @@
+[x] Print all prime numbers between 1000 and 1200 using Wolfram alpha. URL: https://www.wolframalpha.com/input?i=prime+numbers+between+1000+and+1200 — input interpretation “integers | prime | between 1000 and 1200”; complete expanded Result transcribed to ANSWER.txt, “28 integers”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the query and result without overlays. final.png is 1280×723 and shows the input, interpretation and all 28 integers.
+[x] Write the result and its evidence to ./ANSWER.txt. File begins FINAL: and includes the complete list, source URL, access date and final.png evidence.

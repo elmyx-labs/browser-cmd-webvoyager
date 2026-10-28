@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--15",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a course on Coursera named 'Introduction to Mathematical Thinking' offered by Stanford, what is the percentage (rounded) of 5 star ratings in reviews and which level has the least percentage?.",
+  "answer": "FINAL: Stanford Online’s Introduction to Mathematical Thinking has 84% 5-star ratings (84.18% rounded). The 2-star level has the least share, at 0.52%.\nEvidence: Coursera’s review breakdown shows 5 stars 84.18%, 4 stars 12.62%, 3 stars 1.67%, 2 stars 0.52%, and 1 star 0.98%. Viewed October 27, 2026: https://www.coursera.org/learn/mathematical-thinking/reviews\nCourse provider: Stanford Online, shown at https://www.coursera.org/learn/mathematical-thinking\nScreenshot: final.png.",
+  "response": "The user asked to find the Coursera course 'Introduction to Mathematical Thinking' offered by Stanford and determine:\n1. The percentage (rounded) of 5-star ratings in reviews.\n2. Which level has the least percentage.\n\nBased on the screenshot:\n- 5 stars: 84.18% (rounded to 84%)\n- The level with the least percentage is 2 stars (0.52%).\n\nThe Result Response provides both accurate answers matching the screenshot.\n\nSUCCESS",
+  "reason_short": "The user asked to find the Coursera course 'Introduction to Mathematical Thinking' offered by Stanford and determine: 1. The percentage (rounded) of 5-star ratings in reviews. 2. Which level has the least percentage. Based on the screenshot",
+  "screenshots": [
+    "task_298/final.png"
+  ],
+  "raw_screenshot": "task_298/final.png",
+  "source_result": "task_298",
+  "usage": {
+    "completion_tokens": 361,
+    "prompt_tokens": 1765,
+    "total_tokens": 2126,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 255,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0026775,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0026775,
+      "upstream_inference_prompt_cost": 0.00132375,
+      "upstream_inference_completions_cost": 0.00135375
+    }
+  },
+  "elapsed_seconds": 15.86
+}

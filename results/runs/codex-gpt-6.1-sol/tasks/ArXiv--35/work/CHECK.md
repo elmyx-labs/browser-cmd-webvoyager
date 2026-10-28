@@ -1,0 +1,4 @@
+[x] Retrieve the latest research paper in Quantum Physics from ArXiv. — arXiv advanced search filtered to Quantum Physics, sorted "Submission date (newest first)"; first result arXiv:2610.35863. Source URL in NOTES.md and ANSWER.txt.
+[x] Provide the title, author(s), and date of submission. — https://arxiv.org/abs/2610.35863: "Complete entropy contraction from conditional hyperboundedness"; "Li Gao, Lijun Wang"; "Submitted on 26 Oct 2026".
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item and deciding facts together. — final.png, 1280 × 723; Quantum Physics query, newest submission sort, first result, authors, and submission date visible.
+[x] Write the final answer with evidence to ./ANSWER.txt. — Title, authors, date, arXiv sources, and final.png included.

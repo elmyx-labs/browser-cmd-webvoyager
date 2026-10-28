@@ -1,0 +1,41 @@
+{
+  "id": "Google Map--14",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find motorcycle parking near Radio City Music Hall.",
+  "answer": "FINAL: Centerpark’s 158 West 54th Street Garage is a verified motorcycle parking option near Radio City Music Hall.\n\nAddress: 158 West 54th Street, between Sixth and Seventh Avenues, New York, NY.\nMotorcycles: The operator explicitly lists “Bicycle and motorcycle parking available.”\nHours: “24/7 Access.”\nDistance: Google Maps shows a 7-minute walk (0.3 mile) to Radio City Music Hall via West 54th Street and Sixth Avenue.\n\nVerified October 27, 2026.\nSources:\n- Centerpark operator listing: https://centerparkus.com/location/158-west-54th-street\n- Google Maps walking route: https://www.google.com/maps/dir/?api=1&origin=158+West+54th+Street+New+York+NY&destination=Radio+City+Music+Hall+New+York&travelmode=walking&hl=en\nEvidence: final.png shows the garage name, address, motorcycle parking feature, and 24/7 access together on the operator’s page.",
+  "response": "**Evaluation Rationale:**\n\nThe user requested motorcycle parking near Radio City Music Hall. The model identified Centerpark’s 158 West 54th Street Garage, which explicitly lists \"Bicycle and motorcycle parking available\" under its features. Located roughly four blocks (0.3 miles) from Radio City Music Hall, the location satisfies proximity and vehicle requirements, confirmed by the screenshot.\n\n**Verdict:** SUCCESS",
+  "reason_short": "**Evaluation Rationale:** The user requested motorcycle parking near Radio City Music Hall. The model identified Centerpark’s 158 West 54th Street Garage, which explicitly lists \"Bicycle and motorcycle parking available\" under its features.",
+  "screenshots": [
+    "task_461/final.png"
+  ],
+  "raw_screenshot": "task_461/final.png",
+  "source_result": "task_461",
+  "usage": {
+    "completion_tokens": 328,
+    "prompt_tokens": 1812,
+    "total_tokens": 2140,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 243,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002589,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002589,
+      "upstream_inference_prompt_cost": 0.001359,
+      "upstream_inference_completions_cost": 0.00123
+    }
+  },
+  "elapsed_seconds": 9.85
+}

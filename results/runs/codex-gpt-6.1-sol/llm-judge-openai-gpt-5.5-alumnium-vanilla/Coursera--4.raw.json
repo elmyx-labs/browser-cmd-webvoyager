@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdycnjTzHnFAINwbIV0Qgiap2M5je",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to identify a Coursera course or Specialization that helps with business process management and has a 4.7 rating.\n\nThe result identifies **“Business Process Modelling”** on Coursera. The screenshot shows:\n\n- Course title: **Business Process Modelling**\n- Rating: **4.7**\n- Reviews: **135 reviews**\n- Relevant learning outcomes, including:\n  - “Identify and scope business processes effectively”\n  - “Analyze process logic to enhance efficiency and effectiveness”\n  - “Choose suitable modeling notations for clear representation”\n\nThese outcomes align with helping business process management. The response also provides the Coursera source link and explains the relevance.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196541,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 323,
+    "prompt_tokens": 1712,
+    "total_tokens": 2035,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 173,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

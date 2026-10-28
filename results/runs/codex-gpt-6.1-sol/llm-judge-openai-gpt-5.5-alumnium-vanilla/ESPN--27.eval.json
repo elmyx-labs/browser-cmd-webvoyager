@@ -1,0 +1,31 @@
+{
+  "id": "ESPN--27",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search on ESPN for how many teams have 'Golden' in their name and how many of them are in the NHL.",
+  "answer": "FINAL: ESPN’s Teams search for “Golden” lists 25 teams, counting each sport’s team separately. Of these, 1 is in the NHL: the Vegas Golden Knights.\nEvidence: ESPN’s Teams results show 25 cards in a 5-by-5 grid; only Vegas Golden Knights is labeled “NHL.” Search checked October 28, 2026: https://www.espn.com/search/_/type/teams/q/golden . Screenshot: final.png.",
+  "response": "The task was to search ESPN for teams with “Golden” in their name and determine both the total number of such teams and how many are in the NHL.\n\nThe screenshot shows ESPN’s search page for “golden” with the **Teams** tab selected. There are **25 visible team cards** arranged in a 5-by-5 grid. Among those, only one card is labeled **NHL**: the **Vegas Golden Knights**. The result response states exactly this: **25 teams total**, with **1 in the NHL**.\n\nThis aligns with the screenshot and fulfills both parts of the task.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to search ESPN for teams with “Golden” in their name and determine both the total number of such teams and how many are in the NHL. The screenshot shows ESPN’s search page for “golden” with the **Teams** tab selected. There are",
+  "screenshots": [
+    "task_350/final.png"
+  ],
+  "raw_screenshot": "task_350/final.png",
+  "source_result": "task_350",
+  "usage": {
+    "completion_tokens": 386,
+    "prompt_tokens": 1686,
+    "total_tokens": 2072,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 248,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 20.05
+}

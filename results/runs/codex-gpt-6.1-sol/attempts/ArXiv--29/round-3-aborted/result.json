@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ArXiv",
+    "id": "ArXiv--29",
+    "ques": "On ArXiv, search for papers with 'Neural Network Optimization' in the title published in 2023, and provide the number of such papers.",
+    "web": "https://arxiv.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: 202 papers using arXiv’s standard title search for Neural Network Optimization, filtered to original submission year 2023.\n\nEvidence: the arXiv results page states “Showing 1–50 of 202 results” and shows title=Neural Network Optimization with the date range 2023-01-01 to 2024-01-01. Screenshot: final.png.\nSource: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Neural+Network+Optimization&terms-0-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=specific_year&date-year=2023&date-from_date=&date-to_date=&date-date_type=submitted_date_first&abstracts=hide&size=50&order=-announced_date_first\n\nIf “Neural Network Optimization” means a quoted phrase search, arXiv reports 12 papers with the same 2023 original-submission filter (“Showing 1–12 of 12 results”).\nSource: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=%22Neural+Network+Optimization%22&terms-0-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=specific_year&date-year=2023&date-from_date=&date-to_date=&date-date_type=submitted_date_first&abstracts=hide&size=50&order=-announced_date_first",
+    "result_text": "FINAL: 202 papers using arXiv’s standard title search for Neural Network Optimization, filtered to original submission year 2023.\n\nEvidence: the arXiv results page states “Showing 1–50 of 202 results” and shows title=Neural Network Optimization with the date range 2023-01-01 to 2024-01-01. Screenshot: final.png.\nSource: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Neural+Network+Optimization&terms-0-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=specific_year&date-year=2023&date-from_date=&date-to_date=&date-date_type=submitted_date_first&abstracts=hide&size=50&order=-announced_date_first\n\nIf “Neural Network Optimization” means a quoted phrase search, arXiv reports 12 papers with the same 2023 original-submission filter (“Showing 1–12 of 12 results”).\nSource: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=%22Neural+Network+Optimization%22&terms-0-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=specific_year&date-year=2023&date-from_date=&date-to_date=&date-date_type=submitted_date_first&abstracts=hide&size=50&order=-announced_date_first",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_3/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_3",
+  "elapsed_seconds": 211.70996475219727,
+  "execution_error": null,
+  "proxy_bytes": null
+}

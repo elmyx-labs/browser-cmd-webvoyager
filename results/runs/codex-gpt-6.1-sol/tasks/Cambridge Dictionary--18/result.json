@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Cambridge Dictionary",
+    "id": "Cambridge Dictionary--18",
+    "ques": "Search for \"to behave well\" in Cambridge Dictionary's Thesaurus and see which synonyms the dictionary gives.",
+    "web": "https://dictionary.cambridge.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Cambridge Dictionary’s Thesaurus gives “behave yourself” (shown in the article as “behaves themselves”), “behave,” and “be on your best behaviour” (shown as “be on their best behaviour”) as ways to say “to behave well.” The US spelling is “behavior.”\n\nSource: Cambridge English Thesaurus, “to behave well,” https://dictionary.cambridge.org/thesaurus/articles/to-behave-well (accessed 27 October 2026).\nEvidence: final.png shows the article title and the paragraphs containing these synonyms.",
+    "result_text": "FINAL: Cambridge Dictionary’s Thesaurus gives “behave yourself” (shown in the article as “behaves themselves”), “behave,” and “be on your best behaviour” (shown as “be on their best behaviour”) as ways to say “to behave well.” The US spelling is “behavior.”\n\nSource: Cambridge English Thesaurus, “to behave well,” https://dictionary.cambridge.org/thesaurus/articles/to-behave-well (accessed 27 October 2026).\nEvidence: final.png shows the article title and the paragraphs containing these synonyms.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_260/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_260",
+  "elapsed_seconds": 75.03124594688416,
+  "execution_error": null,
+  "proxy_bytes": 5763569
+}

@@ -1,0 +1,3 @@
+[x] Compute the length of y = 2x^3 - 3x^2 + 4x - 5 from x = 0 to x = 3 in WolframAlpha. Evidence: https://www.wolframalpha.com/input?i=arc+length+of+y+%3D+2x%5E3+-+3x%5E2+%2B+4x+-+5+from+x+%3D+0+to+x+%3D+3 shows “arc length | y = 2 x^3 - 3 x^2 + 4 x - 5 | x = 0 to 3” and “integral_0^3 sqrt(1 + (4 - 6 x + 6 x^2)^2)dx≈39.24992727...”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the curve, bounds and result together without overlays. Evidence: final.png, 1280 × 723, from the WolframAlpha URL above.
+[x] Write the result and source evidence to ./ANSWER.txt. Evidence: ANSWER.txt includes 39.24992727 units, integral, source URL and screenshot reference.

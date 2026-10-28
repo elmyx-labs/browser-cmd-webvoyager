@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyXNOdT78MDLGPuRGgOimqLaxpr7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The result satisfies the task.\n\n- The recipe is on Allrecipes: “Cucumber and Avocado Salad.”\n- It is an avocado salad recipe.\n- The screenshot shows a prep time of 15 minutes, which is less than 20 minutes.\n- The screenshot shows 230 reviews, which is more than 30 user reviews.\n- The result response includes nutritional information per serving, as requested.\n- The recipe link and supporting details are provided.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196205,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 377,
+    "prompt_tokens": 2657,
+    "total_tokens": 3034,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 274,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

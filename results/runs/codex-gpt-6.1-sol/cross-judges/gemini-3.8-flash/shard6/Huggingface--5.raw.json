@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210522-ndbWiTbbsKpuHxoA5Trd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find a model released on Hugging Face for recipe generation and retrieve its name, model size, and tensor type.\n\nThe screenshot confirms the model page for `flax-community/t5-recipe-generation`, which has the `recipe-generation` tag. In the Safetensors section on the right side of the page, the model size is clearly shown as `0.2B params` and the tensor type is `F32`. \n\nThe response accurately reports the model name, model size, and tensor type based on the page.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Discovering Recipe Model**\n\nI've identified a promising model on Hugging Face for recipe generation. Specifically, the `flax-community/t5-recipe-generation` model appears to be a strong candidate, boasting a size of 0.2B parameters and utilizing a T5 tensor type.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Discovering Recipe Model**\n\nI've identified a promising model on Hugging Face for recipe generation. Specifically, the `flax-community/t5-recipe-generation` model appears to be a strong candidate, boasting a size of 0.2B parameters and utilizing a T5 tensor type.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/L34N1ELmXiUqsZKPDOe4+sjuTuvzMYoKItCmHulouAJvZw4PYQySCPV3L1jX00WKr/A9lCp2hsfxRBgB8bxv3WKQDNy/EJEyuGM5AR7Cs1iwNzlNwf+9CBsn69ViXDD4FTr3kwWUo4tT2K9WClG8qK86QQuP9XXKQiuiVRPpPE5MD0CvqOco6/ghedmPSQir0efEPkXDpdiYzJPKzKrKOrLSKRB9IKcmUuAVc7W2i9cuI2RlTtrwKHHQRYdX4JQC5rVQ3wWNi8pJVLD0znM555GYEJqGGI8weq2g5L69lAShFoYSCf9/LT9rvitdMDsFHLEa4IPWWhdtnRNg/qYGNHiGq3WS8upHNluClM89kN11lElJyNDL1uwYqJJyME6ysPKsaU8lTPOR3RU9LbQw++S3uiRIPI7I67vSTIPeqoSweun+GXznlYvbCzFmcCgcWYHmIuz12IatgwB45ARAC32Qj07r0qElPzDKQSlOQb5HB2hNJRNV9cya2BZWZUmGbLWkgxwh0lrnABXC01yne9OsdzfAnkahSy9RFiyWZ6HXd7DNbo+ijXtHLe7XfLdVyg9xYPJqoxCv/23/QoBlNLBh/uPWuoSPC8iMzyWJJTZc3KdYXY8AJdjQPCpXz9v6/nbewmF6b+bx5bTmYD4p2yKbgNakKnATYrB0dcgxlx32Vn2O/FMY7DfRgRl0cxRWfC3IBNnugB3n/FRP6GHyvYUxJXmwqGfWWQj1B4/rbstyTq0CYij3CdkDCpYLF8uh0FPVBmC2bPdqwmNUfDsj+VtdJjnGtKmqRNfVMSlN5h36BtXRHAqPSb6uBIZdRNPhLmJiRdlM0c2ijfgXEx/BJ1W+ULkMCdCITPUCl6POZuhkTnI4J5kUJXmloxaWmU7cYiLOGruf9dqBjrEoRsg7pr8b7YIIHAeYmahFyqzkTrLV4KX4BEMnSv+RvyewUto/2vpHmEo1bkSicNA6AcQo3v8/OEVoFrO+n993nS3CHZxBxOe1jF41u1lmgWg==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210522,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 282,
+    "prompt_tokens": 1718,
+    "total_tokens": 2000,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 163,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002346,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002346,
+      "upstream_inference_prompt_cost": 0.0012885,
+      "upstream_inference_completions_cost": 0.0010575
+    }
+  },
+  "provider": "Google"
+}

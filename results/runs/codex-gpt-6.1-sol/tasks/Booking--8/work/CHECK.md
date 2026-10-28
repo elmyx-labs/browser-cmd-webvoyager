@@ -1,0 +1,6 @@
+[x] Hotel with highest review score — use the site's own sort. Top reviewed comparison, all 19 hotels rated 9+ inspected. Pinnacle: “Scored 10”, “Exceptional”, “2 reviews”; tied aparthotel 10 with 1 review. Final site's sort “Best reviewed & lowest price” places Pinnacle first. https://www.booking.com/searchresults.html?ss=Chennai&dest_id=-2103041&dest_type=city&checkin=2026-12-20&checkout=2026-12-21&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bfc%3D2%3Breview_score%3D90&order=review_score_and_price
+[x] Free cancelation — card “Free cancellation”; hotel availability “Free cancellation before 6:00 PM on December 20, 2026”. https://www.booking.com/hotel/in/pinnacle-by-apart-stayz-velachery.html
+[x] Chennai — card “South Chennai, Chennai (South Chennai)”, search “Chennai”. Search URL above.
+[x] 20/12/2026 - 21/12/2026 — search “Sun, Dec 20 — Mon, Dec 21”, URL checkin=2026-12-20&checkout=2026-12-21.
+[x] final.png genuine viewport screenshot, about 1280 px long side, name and deciding facts with filters, sort and dates visible —1280x960 final.png inspected; all visible, no overlay.
+[x] ANSWER.txt states result and evidence, first line FINAL: — written with hotel, score, review count, tie, dates, free cancellation deadline, source URLs and final.png.

@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edyc7LIyfaiY3SGSPvlyEeZwIs6XF",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find a hotel in Paris that meets all of these conditions:\n\n- Available for a 5-night stay starting January 15, 2027\n- User rating of 9 or higher\n- Free Wi-Fi\n- Breakfast included in the price\n- Provide name, location, and price per night\n\nThe screenshot shows a Booking.com search for Paris with dates January 15–20, which is a 5-night stay. The applied filters include “Wonderful: 9+,” “Free Wifi,” “Breakfast included,” and “Hotels.” The listed hotel, **Hôtel Saint-Louis - Jardin du Luxembourg**, has a **9.0** rating, shows **Free Wifi**, and the room listing states **Breakfast included**. The price shown is **€1,080 for 5 nights**, which supports the response’s calculated average of **€216 per night**, with additional taxes and fees noted separately.\n\nThe response also provides the hotel name, full location/address, and price per night. There is no meaningful contradiction between the screenshot and the response.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196499,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 527,
+    "prompt_tokens": 2009,
+    "total_tokens": 2536,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 296,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

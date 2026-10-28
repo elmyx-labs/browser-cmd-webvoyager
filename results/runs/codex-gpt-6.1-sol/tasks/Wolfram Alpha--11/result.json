@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Wolfram Alpha",
+    "id": "Wolfram Alpha--11",
+    "ques": "Show the electrical resistivity of UNS A92024 and UNS G10800 at 20 degrees Celsius.",
+    "web": "https://www.wolframalpha.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: At 20 °C, UNS A92024 (aluminum alloy) has an average electrical resistivity of 4.9 × 10⁻⁶ Ω·cm (4.9 × 10⁻⁸ Ω·m), and UNS G10800 (carbon steel alloy) has an average electrical resistivity of 1.8 × 10⁻⁵ Ω·cm (1.8 × 10⁻⁷ Ω·m).\n\nWolframAlpha bases these averages on 8 types of UNS A92024 and 21 types of UNS G10800. Source, accessed October 27, 2026: https://www.wolframalpha.com/input?i=electrical+resistivity+UNS+A92024%2C+UNS+G10800\n\nEvidence: final.png shows both alloys, their average resistivities, the 20 °C condition, and the material assumptions together.",
+    "result_text": "FINAL: At 20 °C, UNS A92024 (aluminum alloy) has an average electrical resistivity of 4.9 × 10⁻⁶ Ω·cm (4.9 × 10⁻⁸ Ω·m), and UNS G10800 (carbon steel alloy) has an average electrical resistivity of 1.8 × 10⁻⁵ Ω·cm (1.8 × 10⁻⁷ Ω·m).\n\nWolframAlpha bases these averages on 8 types of UNS A92024 and 21 types of UNS G10800. Source, accessed October 27, 2026: https://www.wolframalpha.com/input?i=electrical+resistivity+UNS+A92024%2C+UNS+G10800\n\nEvidence: final.png shows both alloys, their average resistivities, the 20 °C condition, and the material assumptions together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_580/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_580",
+  "elapsed_seconds": 81.84021210670471,
+  "execution_error": null,
+  "proxy_bytes": null
+}

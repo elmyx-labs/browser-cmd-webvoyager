@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210345-A0DCwJga6TtrTx57DaqU",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task asks to find out how much more package storage the Enterprise version has compared to the Team version in GitHub Pricing.\n\nBased on the provided screenshot from GitHub's pricing page:\n- Under **GitHub Packages**:\n  - **Team**: 2GB\n  - **Enterprise**: 50GB\n\nThe difference is 50 GB - 2 GB = 48 GB. The result response accurately identifies the values and computes the correct difference.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Calculating Storage Difference**\n\nI've identified the package storage limits for GitHub's Free, Team, and Enterprise tiers. My current focus is on quantifying the exact additional storage Enterprise offers compared to Team, as requested.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Calculating Storage Difference**\n\nI've identified the package storage limits for GitHub's Free, Team, and Enterprise tiers. My current focus is on quantifying the exact additional storage Enterprise offers compared to Team, as requested.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19HCjiJYeVnG6xdTm23PJ4qZCPNpey3Gnh5H+ZjtS3NRHB8Q2qmziYyRmklPeBiAp1EBmTCLZqxCQ0UxScGJjp3nGVVF0c/2DlxE7U91RGxdc2bHjjZ8t4XN3zRUudHfjHVqtXL1ky+DXXIQscRjZgB40IWPjMae4QgmCs+ZzxjE1lCXAkS1WjGQ6evfpwufLsz22QhyRo1SJCYs3aVf1/ttYNTvnkRKqFpFgZgHsxrcVFnFhdu09HJtaNmEM80t9OAtLYP91NmL150WJHHWs0A4DjCRFkjr6my53JyXYxm8VfUwZ2/QH4CiSsgb5A7L0H/wHiD5xl0aFxwaY6q6H+wAj2UDlJPNVEC09ZrcTKYQLWKcYtWpkq/CMtfkbNdzeQ46PWev1yO7raXwdrL3SN1wxOyRJ7keUB07X5TrEx9O4XDhlc2Prdlks18u0ZrsYEOz4MxKxpyuDUuB0r0dn75yIW0OLIMX7aeRhA3bMrFnHGq7+PtG9bZ+0kZ75tMpoLRoUwfWqRzWO7b4eKdr8kp1CtMO/LYXMdciWurNcP9FcV85izAlnddjqooRMZ+Ut6rpE8y7ssiBoziTu9YKYs+XLdH2CCb/qj2+mbHoC43UsJrQE9z7vgkEUW81xcPxOHC0Mf9sxZbIdzv7NIrZUaR4efNMtGlDK8SWIL8AgmVZThnehLiWVgvHixGRshlC/2LJABwgOtCXnBW5bpmpYcBuNVss0ytzRusET2/CZIQOiXKMIJZv2SKNximklLYxJntR3UFE6ypBQ+5DMMXqi/Q/V/qm8eRnJ7UpZX2CiqUUcXuXBxVFIWYvBfve+fW8tjeylcNYniP24oZvrion3s7On1XyB/S7sEAibT7EGMp8WOn1efvVtdH",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210345,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 235,
+    "prompt_tokens": 1673,
+    "total_tokens": 1908,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 139,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002136,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002136,
+      "upstream_inference_prompt_cost": 0.00125475,
+      "upstream_inference_completions_cost": 0.00088125
+    }
+  },
+  "provider": "Google"
+}

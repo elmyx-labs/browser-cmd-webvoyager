@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209972-ZWUWWCTnb2GkDdvcoIjx",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find a gaming desktop with Windows 11 Home and a disk size of 1TB.\n\nThe provided screenshot displays an Amazon product page for the \"iBUYPOWER Element Gaming PC Desktop Computer\", which includes:\n- **Product Type:** Gaming PC Desktop\n- **Operating System:** Windows 11 Home (stated in the title and the specifications table)\n- **Disk Size:** 1TB NVMe SSD (stated in the title)\n\nThe result meets all specified criteria.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Desktop Options**\n\nI've homed in on a potential gaming desktop: an iBUYPOWER Element. It has a Ryzen 9 7900X CPU and an RTX 5070 12GB GPU. I'm focusing on confirming it runs Windows 11 Home and meets the 1TB disk requirement.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Desktop Options**\n\nI've homed in on a potential gaming desktop: an iBUYPOWER Element. It has a Ryzen 9 7900X CPU and an RTX 5070 12GB GPU. I'm focusing on confirming it runs Windows 11 Home and meets the 1TB disk requirement.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EusGCugGAWkUfRPkJ9EJBvg75n2SEXZ33cphG32I/gj7dEkdgtMQ7gjOKPoEkxJtF002ODuGC09/em0dxC1geBQXVO0sLNuWB8t6xQNJErOJrAKm4JSdSvLq4gNgHXP2eokPr6IS4/Jhzs+Gocd2HG5J9lYTVT/hZrgb9QUyFdcHvasNW+y2vHcQWSXy3I4+825a2vyIP7VpAKY7z+KB4IveiaIaJioW1Eae1KgdogtkfrTkvDrnGRXwQHYm4phaG1xRegH+ILwSWe8qzTbJMsxxCOCGqVZW71UL3wCTSoF3tABq2sXvxGeg45fp04aLEBHD+LT5o3dOoI8lqw5sMT66uOLuN/WTh0XU6gS2MTv+X7P25P0q9SIWFxma1BO/Q+t1NFU3DZQHhV3dh9rhx5hylXLNHHQDw3GNKDBT3yqXhvxOmqSiOK3zNDvpKSUX0p56aZijetr7kTudH8gYFM7Klj9VzGSUOnrzgjtbHq2rJSGJdwaA36TmTWaYe+YnAe391mZEVjBIO+FhZqwy5BBIJL0nS3egLTuKEWM1f5C3eDlrAkzg2kSWVrCnHG0dUeSJsVzkSlpznjszqEQqXPUfHaAFE7JdMepC4MjCaXbBxYGmLOUg1NpiVLwF7ARi/qhhkEc3uzLpjN2cFP1JkQSW6Yo+uCnlNnMZ2H/u1mwLqvSxCuE9xEXIah3uERKXdclW6nPW6fRVyg85Jp1pDrJfOQi5bUtGSCnl9j/q+f0aBxvZH/pD5Z75NqBKc2Npi1ZYeDCIfoVZsUNyKThvfFd3PzEQoB132UjM+NXjW5tJSgMFshPNFw8v9MGVslWR2P1Z76Wn7Oizp6CqJ2lpnbdRW48OHYLMrWxZ+HZohf5Jo42wbGMsgpz871QEuKuFNGSOe5hN8GpSH/LK7QNW9gcgZy7xHwTpjXpa7AX0csZ+gp8tiRfvKPRJXQd2OuZrSZV0I5IbywCwLXa6gm2R4a7a29YG54t3uk++bKwlpJwWMDdAValRsvEcz4DJlC+zAvn3moX3HZrAhPxVAtYh6raIC8RQ/0A/nMg3z16R2AN5Si1dWcq0KNoCIZi+d5GngjEfr2kbwe2bKR68PhMTkvHvinquEwhYe/wZkOavmvlwuuYLHN5mT8niINJTjnFasXuAG0h+B3bW35VmiD8=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209972,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 290,
+    "prompt_tokens": 1741,
+    "total_tokens": 2031,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 185,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00239325,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00239325,
+      "upstream_inference_prompt_cost": 0.00130575,
+      "upstream_inference_completions_cost": 0.0010875
+    }
+  },
+  "provider": "Google AI Studio"
+}

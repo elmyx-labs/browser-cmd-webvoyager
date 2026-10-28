@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210204-gOBTBcg33fWuW952RLSt",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to determine which sports leagues correspond to the first three \"Top Headlines\" on the ESPN home page.\n\nIn the provided screenshot, the \"Top Headlines\" section displays:\n1. \"Sources: Wolves' Edwards set for knee procedure, to miss up to 2 months\" – corresponds to the NBA (Minnesota Timberwolves).\n2. \"Dream say concerns over finding available Finals venue went unheeded\" – corresponds to the WNBA (Atlanta Dream).\n3. \"Colts make second major trade, send DT Buckner back to 49ers\" – corresponds to the NFL (Indianapolis Colts / San Francisco 49ers).\n\nThe result response correctly identifies and lists NBA, WNBA, and NFL in order.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Identifying Top Headlines**\n\nI'm analyzing the ESPN homepage screenshot, specifically focusing on the \"Top Headlines\" section. My current thought process is to identify the sports leagues associated with the first three headlines displayed there.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Identifying Top Headlines**\n\nI'm analyzing the ESPN homepage screenshot, specifically focusing on the \"Top Headlines\" section. My current thought process is to identify the sports leagues associated with the first three headlines displayed there.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18ZPhOFgmA3oIYXTZ6GrQR4x7K974Lo3F3m8ACM8z/YRdrkNh5iIQZuza0shDzDbfSNHWwRhIkiOkTTvfIhUl6SJ11K7LAni5ur4qC5Skfgsajd210qHmFdmJoy6D9Sf+IWjdyY5TEXzO7M4+XnwLJptXVsRgeTYkIV9M1+xWFfsyZB0G0FHzCe75FPcIayk7aktJ9KAFrKEyPODTNJ9v/sLZGV86Xd4Y9NyhOUAhuba82EwIBfqNfog6uaQuHbcemp+uakciWJ4F+6oL0h/wxmqDKb1zRk7y4mApzOm1Q/6BgdO+PGvPJoyryj6p2s6uk5NkEBAwEuNwnNYa514u52ggarMXsboz6iwrNiGYSInWT8ldM0Wgf0VAUYgvxpEKdGXacN2e3VaZp6VbZzRNxkFnycvweifS/BPqEIr17k4+fw2aINJllZIzDUH/BS3yPruA0rxrGYnBVF3Vtfqgwv33el/jlZkfAq8pufwgBU5EvlM4H3XwVv1brAarbPM9buDywu90Ank4O6rDm1qViaiNSNN0dgy1gsZF30e2LXxqjZp0YKFZvGFUu4Tlf46ge4canVVAPxVAmusVau5zfbMCYlpHlf0QWaSO+JkT1FiV6ZHBnTH9gLlT7k9NJyRrSMwNG3Dgvyd5vMUVN4QteuYbWsK/BYCZy4Helul/H4sfeJds5Ee5lJqO1NaG+P4qoKLytXvn0tfr6odSw0NbpirpV1OxDk9PofjwzHVtYgIbob2l0Ikvd+9gPZIu4ZXiK3lF+Hpdrom7xf6yDIuotv14+sbRvf/Cc9TEtBdJTwOaf9efSSejeCbVhVEQ1Pvyik6bQGi6QiPubTS3yTJO/CRkFXnBe4oQhrGu8h7Qakz0uNWn2sQQET9u0RPuR9ahHWOiuu6eDmiYbHJKP+gGeyd3x0OmCZM7puKiCy9FDQSDUQCGb+1/bxD2GYGIA6fom3YUJBdC+hDVvBLVEkSlLp7oh5HUeS8um/B1NAEqNj5Kmd8T7xAmE+r0Nzb1IfxAszdL+Le4GbDEDja4AQhgtjWj6iqbmdeh7+4YDsm2F+jXPZ2eM4IL7z6Nds4iyKo5Y/mvIuIhD7LQlwAPrZ5J8b5xmfer/vszjeZfs9Bz20DUXh88TS++/vcqFMNLH5v4aLVjWxje3r0JbPtm7q7ejZDEnuhXU6uh3KrRav09G2aVYAJUftQaNk8qoc",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210204,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 325,
+    "prompt_tokens": 1774,
+    "total_tokens": 2099,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 172,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00254925,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00254925,
+      "upstream_inference_prompt_cost": 0.0013305,
+      "upstream_inference_completions_cost": 0.00121875
+    }
+  },
+  "provider": "Google"
+}

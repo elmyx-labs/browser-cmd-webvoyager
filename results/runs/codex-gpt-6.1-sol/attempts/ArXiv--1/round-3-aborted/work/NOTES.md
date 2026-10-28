@@ -1,0 +1,17 @@
+Search: arXiv advanced search, all fields = quantum computing, original submission dates 2026-10-26 through 2026-10-28, 41 matches, sorted Submission date (newest first). Search sorting uses most recent submission; v1 dates checked separately.
+https://arxiv.org/abs/2610.37635 — Classical Verification of Quantum Computation Beyond the Polynomial Hierarchy — Atul Mantri — v1 Tue, 27 Oct 2026 17:54:01 UTC. Classical verification of quantum computations, oracle result beyond polynomial hierarchy.
+https://arxiv.org/abs/2610.37589 — Dynamical quantum simulations as laboratories for quantum information — Su Yeon Chang et al. — v1 Tue, 27 Oct 2026 17:26:28 UTC. Quantum simulations as probes of information and entanglement.
+https://arxiv.org/abs/2610.37249 — HTM: A Hybrid Classical-Quantum Computation Model — Guoqiang Shu et al. — v1 Tue, 27 Oct 2026 13:48:23 UTC. Hybrid computation model and task partitioning.
+https://arxiv.org/abs/2610.37247 — Quantum circuits of elastic wave equations via Schrödingerisation — Shi Jin, Chundan Zhang — v1 Tue, 27 Oct 2026 13:47:21 UTC. Explicit quantum PDE circuits, error and CNOT estimates.
+https://arxiv.org/abs/2610.37045 — AI-Assisted Discovery of CNOT Decompositions for Quantum Permutations on Constrained Topologies — Daniele Lizzio Bosco et al. — v1 Tue, 27 Oct 2026 11:15:22 UTC. AI-assisted topology-aware CNOT compilation.
+https://arxiv.org/abs/2610.37040 — Quantum Annealing for Gamma-ray Source Detection and Localization with AGILE Data — Alessandro Rizzo et al. — v1 Tue, 27 Oct 2026 11:12:33 UTC. QUBO tested using simulated quantum annealing.
+https://arxiv.org/abs/2610.36984 — Quantum Evolution Kernel for Node-Attributed Graphs — Manuel Padovani, Alessandra Di Pierro, Claudia Daffara — v1 Tue, 27 Oct 2026 10:35:26 UTC. Node-attributed graphs encoded for neutral-atom computers, simulated in Pulser.
+https://arxiv.org/abs/2610.36965 — From QCCD Trapped-Ion Hardware to Quantum Compilers: Capabilities, Architectures, and Compilation — Ludwig Schmid et al. — v1 Tue, 27 Oct 2026 10:21:23 UTC.
+https://arxiv.org/abs/2610.36700 — Ancestor Lifting of Quasi-Cyclic Additive Codes and Certified Quantum Codes — Liangdong Lu et al. — v1 Tue, 27 Oct 2026 06:15:42 UTC.
+https://arxiv.org/list/quant-ph/recent — latest announcement list Wed, 28 Oct 2026; latest two papers (2610.37665, 2610.37660) concern superradiance and quantum discrimination, respectively. Third is Mantri. Fifth is relevant anyon compilation and needs checking.
+Recent list also includes 2610.37552 (anyon compilation), 2610.37347 (noiseless quantum codes) and 2610.37116 (generative quantum extreme learning machines), omitted by the first keyword search. Checking original submission histories and abstracts.
+Verified https://arxiv.org/abs/2610.37552 — v1 Tue, 27 Oct 2026 17:01:43 UTC. Anyon CNOT gate compilation.
+Verified https://arxiv.org/abs/2610.37347 — v1 Tue, 27 Oct 2026 14:50:47 UTC. Noiseless codes and quantum error correction.
+Verified https://arxiv.org/abs/2610.37116 — v1 Tue, 27 Oct 2026 12:14:19 UTC. Generative learning with fixed quantum circuits.
+The two newer primary quant-ph entries were checked: 2610.37665 (17:59:34 UTC) is collective-emitter superradiance, and 2610.37660 (17:59:06 UTC) is perturbation sensing at exceptional points. Neither is a quantum computation paper.
+Final screenshot: original viewport media/browser/browser-0001.png, 1440x813, proportionally shrunk to final.png (1280x723). Search query, original-date range and submission newest-first sort visible with first three results.

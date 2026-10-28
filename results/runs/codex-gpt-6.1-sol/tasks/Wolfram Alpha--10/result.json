@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Wolfram Alpha",
+    "id": "Wolfram Alpha--10",
+    "ques": "Give the geomagnetic field on June 20, 2023 in Oslo.",
+    "web": "https://www.wolframalpha.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: In Oslo, Norway, on June 20, 2023, the geomagnetic field strength was 51.5 µT: north component +15.1 µT, east component +1.18 µT, and downward component +49.2 µT. Magnetic declination was 4.47° east and magnetic dip was 72.892°.\n\nWolfram|Alpha labels these as predicted values from WMM 2020, excluding local perturbations.\nSource: https://www.wolframalpha.com/input?i=geomagnetic+field+Oslo+June+20%2C+2023\nEvidence: final.png shows Oslo, the date, and all reported values together.",
+    "result_text": "FINAL: In Oslo, Norway, on June 20, 2023, the geomagnetic field strength was 51.5 µT: north component +15.1 µT, east component +1.18 µT, and downward component +49.2 µT. Magnetic declination was 4.47° east and magnetic dip was 72.892°.\n\nWolfram|Alpha labels these as predicted values from WMM 2020, excluding local perturbations.\nSource: https://www.wolframalpha.com/input?i=geomagnetic+field+Oslo+June+20%2C+2023\nEvidence: final.png shows Oslo, the date, and all reported values together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_579/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_579",
+  "elapsed_seconds": 81.9396481513977,
+  "execution_error": null,
+  "proxy_bytes": null
+}

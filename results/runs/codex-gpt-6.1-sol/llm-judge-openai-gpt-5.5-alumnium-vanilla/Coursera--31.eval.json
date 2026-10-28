@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--31",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for the course 'Exploring Quantum Physics' on Coursera, offered by the University of Maryland, College Park. Identify the percentage (rounded) of 5-star ratings in the reviews.",
+  "answer": "FINAL: 61% of ratings are 5-star (rounded from 61.33%) for Exploring Quantum Physics, offered by the University of Maryland, College Park, on Coursera. The course’s reviews page shows “5 stars 61.33%” in the Overall rating breakdown. Source: https://www.coursera.org/learn/quantum-physics/reviews (accessed October 27, 2026). Evidence: final.png.",
+  "response": "The task was to find Coursera’s **“Exploring Quantum Physics”** course offered by the **University of Maryland, College Park** and identify the rounded percentage of **5-star ratings** in the reviews.\n\nThe screenshot shows the Coursera reviews page for **Exploring Quantum Physics**. In the “Overall rating” breakdown, the **5 stars** row clearly shows **61.33%**. Rounded to the nearest whole percent, this is **61%**.\n\nThe result response states: **“61% of ratings are 5-star (rounded from 61.33%)”**, which matches the screenshot.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find Coursera’s **“Exploring Quantum Physics”** course offered by the **University of Maryland, College Park** and identify the rounded percentage of **5-star ratings** in the reviews. The screenshot shows the Coursera revie",
+  "screenshots": [
+    "task_312/final.png"
+  ],
+  "raw_screenshot": "task_312/final.png",
+  "source_result": "task_312",
+  "usage": {
+    "completion_tokens": 284,
+    "prompt_tokens": 1696,
+    "total_tokens": 1980,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 143,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.34
+}

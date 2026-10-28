@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210426-xwN8waOxmDWxQSvvPJdX",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response, the evaluation is as follows:\n\n1. **Trip Type & Route**: The search is properly configured for a \"One way\" flight from \"New York\" to \"London\".\n2. **Date**: The departure date is set to \"Sat, Dec 26\".\n3. **Filter**: The \"Nonstop\" filter has been applied (as shown by the active `Nonstop X` filter tag), and the displayed flight results are all marked as \"Nonstop\".\n\nAll requirements of the task have been fully satisfied.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Flight Details**\n\nI've successfully identified the core flight parameters from the provided information. My current focus is on verifying the extraction of \"One way,\" \"New York,\" \"London,\" and the specified date, \"Sat,\" which I'll continue to refine.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Flight Details**\n\nI've successfully identified the core flight parameters from the provided information. My current focus is on verifying the extraction of \"One way,\" \"New York,\" \"London,\" and the specified date, \"Sat,\" which I'll continue to refine.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18AR5qanD0hDqlawPUfYTSw6nudwwrvJJ67MojRofEJY46htVLy2H047KgRmT/2HAxDsxlmqMktAEBRyJCkNIJgK8CvV2P/V0HiGq/qP8AHVGi4APmjUc2iqDwHbCW1/bUS8qj+9ZLlj5SbF0+u4SudMbdcj5McZHM5qtnwLCmwulrYZ25Y3nKj9Svm5DqCEjq3YdsfoOZWP4vZ/PanUThZePebMuZee7OCnojUTTtfrpGpUnsFuXnlpvXnkcdoBbtfx1mmgVggiE8Bmfj9KZ3dBnw20HFEn5S2LfIC+c02BL7xc1Cp5fpcwsFHzO0c473FFKDhrXXxZF/JSqoiThF8tujfdZkwlPBmZsdnsQtpeZ9672UGvvswM7akuHQNBWlGGbEfkknTaJeOO+Nq91Xgq8RewMO7nZ3AuwtFf5UUBKg7ES4aGIXPe+kwO1uWVsDnh1++eH/mxjUGZNsY1ZsBcKcxiowwiubDJFI2uQ9mL5MqsV1p7e6q8RbMZ2nOKU3VzjOKtqnEjnMaTtemHZS6vMv4A+fS3rzmpoq6fkFQQPL62NcJE6zHrWcpIQgQwRpJE/4Q68PntLNR4JC2XNCwItjtmpkJErqPPi4GTDgkl3nQVGpdaeqAb0xh/9DzSMZdBPy+8YDSin2uFzufp3HMJuD30RusqSEUyaVc/7Jql/mTYtbTIi+ETxVdOovQHcHglAxTdrAz2h5J6LHNlhlPFI3P19qaE0N4tRehbROlB1/9bQDIObryHCssWDlJUTZEQjgn96VVcG8TB+Ujxo2BsIyaF83rr6XupPVKw0flyFGQElBYuI0JRC8Ts3R/Jk26p3BeQJLfPby2toSQOrGuK7sidxNNIc4RoSvTJWjPCQiXlrD8zU8+OIZqywxsmNeo7ISAwlufVvzqXi5FNDa0O3NeApOYg5+j5Trcew7kh66pQlfj58GaAyChKqi5Pn/oJ5yGaD74QckZptZK2/b/L3o1OomXiCP0PgO7/vEBRV1E0hHlcKdT1RtT5DIytHQW4+xXMvfqYZSqbLrL3hKmBDKa1crPq7ss+1VNlK1Q4HbNMvJiETZD5tAsYkLvscWUMSwudzb8UT9S1gxhdU6kAUnxFDCKbGQl1MkiRCFzDmm+60V3LCiiOiJulHmPIf0YFkq9DVIS4ZCcje5EZqKjkC2s3ZuhUpLLXTiGO430HwlrOc4FcpdrYKhQ44fLNw+Ay9z9kTGA3zkVpCT7OabR55GrVdwZK7/d4XT17cNwMc1FeSm85v0qXu8kvdFkYjUoQXU=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210426,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 332,
+    "prompt_tokens": 1738,
+    "total_tokens": 2070,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 213,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0025485,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0025485,
+      "upstream_inference_prompt_cost": 0.0013035,
+      "upstream_inference_completions_cost": 0.001245
+    }
+  },
+  "provider": "Google"
+}

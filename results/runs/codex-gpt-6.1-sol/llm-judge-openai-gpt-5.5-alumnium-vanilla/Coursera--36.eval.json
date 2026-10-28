@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--36",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Browse Coursera, which universities offer Master of Computer Science degrees? Tell me what is the latest application deadline for this degree?",
+  "answer": "FINAL: The degree titled exactly Master of Computer Science is offered by the University of Illinois Urbana-Champaign. Its final application deadline is October 30, 2026, for Spring 2027. Including degrees titled MS/MSc in Computer Science, the latest listed deadline is January 11, 2027, at Ball State University.\n\nCoursera's current computer science master's listings, checked October 27, 2026:\n\n| University | Degree | Listed deadline |\n| --- | --- | --- |\n| University of Illinois Urbana-Champaign | Master of Computer Science | October 30, 2026 — final application deadline, Spring 2027 |\n| Ball State University | Master of Science in Computer Science | January 11, 2027 — Spring 2027 cohort deadline |\n| University of Colorado Boulder | Master of Science in Computer Science | November 27, 2026 — Fall 2 2026 enrollment deadline |\n| Heriot-Watt University | MSc Computer Science | November 30, 2026 — January 2027 priority application deadline |\n\nBall State requires no traditional application; admission is performance-based. Its January 11 date is the cohort/enrollment deadline, although Coursera also labels it “Application deadline” in the page's enrollment information.\n\nEvidence:\n- [Coursera computer science degree directory](https://www.coursera.org/degrees/computer-science)\n- [Illinois admissions](https://www.coursera.org/degrees/master-of-computer-science-illinois/admissions)\n- [Ball State admissions](https://www.coursera.org/degrees/ms-computer-science-ball-state/admissions)\n- [Colorado Boulder admissions](https://www.coursera.org/degrees/ms-computer-science-boulder/admissions)\n- [Heriot-Watt admissions](https://www.coursera.org/degrees/msc-computer-science-heriot-watt/admissions)\n\nScreenshot: final.png shows Ball State's degree name, university, Spring 2027 deadline of January 11, and performance-based admission information together.",
+  "response": "The task was to browse Coursera, identify which universities offer Master of Computer Science / Computer Science master’s degrees, and report the latest application deadline.\n\nThe result response provides:\n\n- A direct answer for the degree titled exactly **“Master of Computer Science”**:  \n  **University of Illinois Urbana-Champaign**, with a final application deadline of **October 30, 2026** for Spring 2027.\n- A broader Coursera computer science master’s list including:\n  - University of Illinois Urbana-Champaign\n  - Ball State University\n  - University of Colorado Boulder\n  - Heriot-Watt University\n- The latest listed deadline among those broader CS master’s offerings:  \n  **January 11, 2027** for Ball State University’s Spring 2027 cohort.\n\nThe screenshot confirms the Ball State page, showing:\n\n- **Master of Science in Computer Science**\n- **Ball State University**\n- **Spring 2027 cohort deadline: January 11**\n- “No application required” / performance-based admission\n- An “Application deadline: January 11, 2027” note in the visible enrollment panel\n\nThere is no contradiction between the screenshot and the response. The response also handles the ambiguity between the exact degree title “Master of Computer Science” and related “MS/MSc in Computer Science” degrees.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to browse Coursera, identify which universities offer Master of Computer Science / Computer Science master’s degrees, and report the latest application deadline. The result response provides: - A direct answer for the degree ti",
+  "screenshots": [
+    "task_317/final.png"
+  ],
+  "raw_screenshot": "task_317/final.png",
+  "source_result": "task_317",
+  "usage": {
+    "completion_tokens": 798,
+    "prompt_tokens": 2007,
+    "total_tokens": 2805,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 14.5
+}

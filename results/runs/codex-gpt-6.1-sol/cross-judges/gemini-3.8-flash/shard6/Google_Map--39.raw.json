@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210439-HEueX3wPUHXVt3UBO5Sd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find a route from Miami to New Orleans and provide detailed route information.\n\nThe screenshot confirms a Google Maps search from \"Miami, Florida, USA\" to \"New Orleans, Louisiana, USA\", displaying the primary route via Florida's Turnpike and I-10 W (864 miles, 12 hr 55 min), along with alternative routes. The result response provides this overview as well as complete step-by-step turn-by-turn driving directions from Miami to New Orleans.\n\nTherefore, the task has been fully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Miami-NOLA Route**\n\nOkay, I'm currently focused on determining the optimal route from Miami to New Orleans, leveraging the Google Maps screenshot as a key data point. I am actively analyzing the visual data to provide detailed route information. This includes evaluating potential segments and decision points to offer a robust plan.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Miami-NOLA Route**\n\nOkay, I'm currently focused on determining the optimal route from Miami to New Orleans, leveraging the Google Maps screenshot as a key data point. I am actively analyzing the visual data to provide detailed route information. This includes evaluating potential segments and decision points to offer a robust plan.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EugICuUIAWkUfRM3KPKVpEXYWz7cRTw68KUiihSTz22H8ZJMQEI6tbqG2uRqDXu/NRBnigTXvGbF9TkE43EAw1iwVTNi5kDFgWA6RnhPNck5p2jxWlY+swrQUcBHJr+s/of7ZHPLPzxr64G2EjYVRJugyRHAsDDKITdqQ8uDqdOnPvzgZ/CPUIJUJGoct48obqJCHYVNBLxqGnP0RPZ8g0jw7oyPhW/DXYY3BjPVbl1xujkUEmpXbDA1Czj+sLQS7+3HGfs7aj97YbBcZSvK2FlfcPssr90vHVCrgp1md7BG2WEt7s9CQo7T7ek+i8JjQfaXDE8bXFoVtsD/miMCytXQ9gpSb6Wrp/PqhVha8d7Sen6fasPJGl2vnm9XOFQr5xYBQ1oOp03Vuc9TXFGG4cxluuCUnJncwtF7gCgRLMxWh3woCVjpN327nasmDpFLyIfTm6+OLcpF3isyyz1Sx6ajNRhMQDacRAMDlXT+nfFh2OfBhJtkL9amXe8vchlW7FabytjFUWotXAsEQ8qqVk4/sJdDpr/p/GgQjEiWixO2sYjs5NhqMwGy0AD2M2aT7vTeK9AnDLpDn/YsjjPU7ZHxBQKUM4/7dOEeKN02oozzlr2G9L/PNdTVeBPeulSXXN2jAT9S3SHxLeO7HOOVTCZPxBAGXXt80IWGfdZ3HkaBACGoECoen4Xdvu9XHPSfjy1O+3MXQ3YMynNMxPhV5/d7/Qsc7YkRT6wtCkztmIb1JKp+aBGZXJ9aWehVt9QR/5PfwRCy0/z/h4U2p6S9004PxK+DThey0mMzPtYEWJMDe0HIxDV4rgjKd4d0fljJbKTR0bSmmpATtULymn50SI3Z3+RhNtcKwMSZE56bqcT8q+QUAfCE1WOXF9rzVOU5vDEAv3QH7bDvkc0CPRa/xXS1SAnRhXJ4ok8D3+n5Y0C4xpf7hz+OZd2hgDyxdvM9SakKCI8SwOHo7d1ev0hlxUxLWpiqIFePuBjZTHhDSV8TqBHo1hMAz7nCKV1Ox7epkj4PRXsvB2l3cKTwiQcEWlBCApHqYCWwlP7fnACzt31RxPaU1KlHA4Q7KqX2akdwAjuJTLz53C8H7D92hHKO6XCjWYuZuhliuayovwzetitr+Sr/OTYudyocpg9unVonPKcENFtd2yinL+m/yJrOk+5K7cOiyQMzyIbB57iew8Iq/UpmN7rip0fObtWxZUeS6zHHNmc1R+IBVnx2OOZp+Qbps8K4+mcR7DQm7p+zoYLRVj9nOYzTRRDsDoXZqDHrW+E7kY6+OTgI8N0D2RCZDn1BeJCUQs5WfzG4vfAXTh3XHqbYtJOiQfD2dB6hX3j9GlZ/aSQHUrYKPY6PpgU8w3fWbi8HxriCq0fymIHuxmJ5uKq9y6vPJMqn64E0qfQTXeZGBRZDUXhKSdIGs5GNO3WIKKDDwgzGeXOBddLm58ZFQxlmJpK5/Np4SlLrQwq84zj19gvtBJ2AnlRaELA3fcXXhyNoqXugTA9B",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210439,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 341,
+    "prompt_tokens": 2467,
+    "total_tokens": 2808,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 223,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.003129,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.003129,
+      "upstream_inference_prompt_cost": 0.00185025,
+      "upstream_inference_completions_cost": 0.00127875
+    }
+  },
+  "provider": "Google AI Studio"
+}

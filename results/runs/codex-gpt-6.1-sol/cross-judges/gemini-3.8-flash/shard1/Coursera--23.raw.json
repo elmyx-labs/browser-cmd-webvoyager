@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210342-CcYRFKu7DAm2AWnRRKa2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a course on Coursera about \"Artificial Intelligence Ethics\" that has a duration of less than 5 weeks and a rating of 4.5 stars or higher, along with the course name and instructor's name.\n\nThe screenshot confirms:\n- **Course Name:** \"Artificial Intelligence: Ethics & Societal Challenges\"\n- **Instructor:** Maria Hedlund (+2 more)\n- **Rating:** 4.7 stars (which is 4.5 stars or higher)\n- **Duration:** 1 week at 10 hours a week (which is less than 5 weeks)\n\nThe response correctly identifies all required details based on the webpage.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching For AI Ethics Courses**\n\nI'm currently scanning Coursera for AI Ethics courses. My focus is on filtering for those under 5 weeks with ratings of 4.5 stars or higher. Once I locate suitable options, I'll extract the course name and instructor details.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching For AI Ethics Courses**\n\nI'm currently scanning Coursera for AI Ethics courses. My focus is on filtering for those under 5 weeks with ratings of 4.5 stars or higher. Once I locate suitable options, I'll extract the course name and instructor details.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/TCzvB4kU0jke4NEWNXoquUiLUmzRgHGzo/UGvfPgPiI33jsVhTsY7VO7jcrjCrGtkUJwc0jRgNbApjvKBLIKKLRxyUHoWqyrBc1SdGmwu09zQjci4UOcAY2VCa/2PD2pAXmzmy2oyf5AtZiVuT70zQEcZNRyQR7dm1VqTxx6dDpssIVFeeSYqG1umo4yy1DkQ4mm0GBPWIC9uLiH/KJwY+G6RLMnELoOuEemomRUSxEIMG/XsJoZrJZp45j34GNddNhFg9wHRNcnqQFDvEP+iPXHPPgB8w4qsQEaPN9KoJn/iSMWI4WWBtQfn6f9/C1+YjLjyE46zB4mn1dExwTTynpfdsFFx//VTon0cK221KYvx3a97KB7PuPP2nU2YAuyLV/M/O/JFbBrE4Vsax6Nd3ve0KZA4RjIMiLQVp31gWOlI9f7aCH7bPGt207m7KndHAppEZ5Uq4em+hB8MSCaOAaq3z+7aktpylWoFse8Ngisn+BGo5mRn+ogWb2C4C0fTcjznfZSaOUPtnDKgt8XJSVv5bZ9EJwbBspHNijmyPoM/7Emdb57wH59RPOyrxjbwX3AArDg2WFFcHuqLMRIn+WAFilxbp5f8ws6abFMitSIDJE2ZrDt8edvaQjWkjBiwl93lbjZXpZFTmrjbtszsL8f/K4K6CXL/RCOsXI4X+ccNPi2Kh+AeJB5cf3lWqhyNURE7M/a4qw2iTcoDvZsU5/tL1DfuwG9RBXrHuWNgIqPTS0zownO5EyAPaFwqLk9ctb0Qxi654XJZ52oimiUspFHzOf7AO5/9Mwn9fLDzoJYV4n0TJblbWtwDubq6ZgJs+8HrRRt6FrTOWeOY2/RJnXfzPeHTCTh47+kJeQ4QdEQmOHCD8o8rlJTOLLajo9FaevE46/7VCgOne/8Fxtv7xUsaRQ0PEnTmVCxmo4dM5RsOJJkyANmX4ycY8Ia6hBmhv+GhoQ83fgp2y1NIv3mFShpy0PnsHErk9Rx3AjzI3HWwSMspJoT2/UHKm1OY5mMBAs2w+CofD0GFFKp9nmlPzi3BoS4ZSgifc/FNFkZjHO50Bw8SoelnQaLPCB0vsh/YQ6ML1S9HuZrKsonYa44Z66qWUf7nrM9XY/JHtNXHEb6lbbmv0o1t5Hf34NJyK8mroGMJ5hz643FzrjgF1p8NBu5RG0vKwjKHvOwmLyPPyQQsTxfCVgbJMmbCl1zz9Idb7+H070MbAbI23X1+eMKD",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210342,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 328,
+    "prompt_tokens": 1697,
+    "total_tokens": 2025,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 188,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00250275,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00250275,
+      "upstream_inference_prompt_cost": 0.00127275,
+      "upstream_inference_completions_cost": 0.00123
+    }
+  },
+  "provider": "Google"
+}

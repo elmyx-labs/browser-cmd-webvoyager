@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Allrecipes",
+    "id": "Allrecipes--42",
+    "ques": "Find a recipe for banana bread with more than 200 reviews and a rating of at least 4.0 stars on Allrecipes.",
+    "web": "https://www.allrecipes.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Janet's Rich Banana Bread on Allrecipes has a 4.8/5 rating and 8,333 reviews, meeting both requirements (at least 4.0 stars and more than 200 reviews).\nSource: https://www.allrecipes.com/recipe/17066/janets-rich-banana-bread/\nVerified October 27, 2026. Evidence: final.png shows the recipe name, rating, and review count together.",
+    "result_text": "FINAL: Janet's Rich Banana Bread on Allrecipes has a 4.8/5 rating and 8,333 reviews, meeting both requirements (at least 4.0 stars and more than 200 reviews).\nSource: https://www.allrecipes.com/recipe/17066/janets-rich-banana-bread/\nVerified October 27, 2026. Evidence: final.png shows the recipe name, rating, and review count together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_37/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_37",
+  "elapsed_seconds": 58.132357120513916,
+  "execution_error": null,
+  "proxy_bytes": 8238105
+}

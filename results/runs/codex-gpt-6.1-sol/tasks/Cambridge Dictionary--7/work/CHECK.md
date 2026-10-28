@@ -1,0 +1,5 @@
+- [x] Look up the meaning of "gestalt" using the Cambridge Dictionary. https://dictionary.cambridge.org/dictionary/english/gestalt — "qualities that are more than the total of all its parts".
+- [x] Look up the pronunciation of "gestalt" using the Cambridge Dictionary. Same URL — UK /ɡəˈʃtælt/; US /ɡəˈʃtɑːlt/.
+- [x] Look up an example sentence of "gestalt" using the Cambridge Dictionary. Same URL — "This new biography is the first to consider fully the writer's gestalt."
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the word and relevant facts visible together and no overlay. https://dictionary.cambridge.org/dictionary/english/gestalt — final.png is a 1280 × 722 viewport screenshot showing gestalt, UK /ɡəˈʃtælt/, US /ɡəˈʃtɑːlt/, the definition, and the biography example. Privacy notice dismissed before capture.
+- [x] Write the result and evidence to ./ANSWER.txt. Includes the source URL, access date, and screenshot evidence.

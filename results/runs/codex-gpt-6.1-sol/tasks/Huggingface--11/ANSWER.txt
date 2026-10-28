@@ -1,0 +1,19 @@
+FINAL: The latest updated Hugging Face Image-to-Video listing is Dime-Dime-Baby-AI/Dime-Dime-Baby-AI-Video-Generator, checked October 27, 2026.
+
+Evidence: It ranks first with the Image-to-Video filter and “Recently updated” sort, showing “Updated about 8 hours ago.” Its latest commit is October 27, 2026 at 15:41:30 UTC.
+
+Main features, according to its model card:
+• Uses one photo of a person or pet to replace the central character in a preloaded quinceañera video, preserving the scene, camera movement and timing.
+• Offers Original/person and Pet templates; 5- or 9-second videos.
+• Outputs horizontal 16:9 MP4 with the original clip’s party sound; Lite is 480p, while Standard, HD and Ultra are 720p.
+• Runs in a browser without prompts or a reference-video upload; advertised generation time is about 2–5 minutes.
+
+Availability: The Hugging Face repository contains only a model card and .gitattributes, with no downloadable model weights, and links to an external service. Hugging Face reports no Inference Provider deployment.
+
+Sources:
+https://huggingface.co/models?pipeline_tag=image-to-video&sort=modified
+https://huggingface.co/Dime-Dime-Baby-AI/Dime-Dime-Baby-AI-Video-Generator
+https://huggingface.co/Dime-Dime-Baby-AI/Dime-Dime-Baby-AI-Video-Generator/commits/main
+https://huggingface.co/Dime-Dime-Baby-AI/Dime-Dime-Baby-AI-Video-Generator/tree/main
+
+Screenshot evidence: final.png shows the active Image-to-Video filter, Recently updated sort, and the first result’s name and update age.

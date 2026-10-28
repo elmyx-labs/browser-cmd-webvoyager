@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210419-ww8TVaOUsVXkZoO8ywfd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**Evaluation Rationale:**\n\nThe user requested motorcycle parking near Radio City Music Hall. The model identified Centerpark’s 158 West 54th Street Garage, which explicitly lists \"Bicycle and motorcycle parking available\" under its features. Located roughly four blocks (0.3 miles) from Radio City Music Hall, the location satisfies proximity and vehicle requirements, confirmed by the screenshot.\n\n**Verdict:** SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Parking Success**\n\nMy focus is on determining if the motorcycle parking task near Radio City Music Hall was successfully completed. I'm reviewing the provided information to assess the outcome, aiming for a concise evaluation.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Parking Success**\n\nMy focus is on determining if the motorcycle parking task near Radio City Music Hall was successfully completed. I'm reviewing the provided information to assess the outcome, aiming for a concise evaluation.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/kifwhXNuv1k8oXsqYiltJy9VMQRWXwTRwPNm8znaifadr2u4++nsxS8IXMltg1rOt/QUesfawjr9qrzPCkBTpnSrL2AjTPFR82T+BJZxDaw3sEF5hImcZ3F2Vg0FSYo+iUpHDpA23wuYlb9+lnMLv0gh5aNYHJ2bnT/IbkEaK223pJJtYDH6Ghxt2cZxOJymyrCMN8Q350/0cEQ+UR7wbhl3Ildy4rf+GyEIJ1u008iMPEVUVJ1GRHXGSN7yk+0BTdbnYJkVBqvfAhrURpCa0DpxK23nkOfs7DZHu6MBmaeDbNGCUSD3AVEmGug3sJYkq33JGnQlrWrmiGACblZYWkgbhpNFozP09QFDAV+vsjgeRwAkNcTQVSEHsUybFj6XJjnzLVD/MnyiqaVNb1zsqPqznqkSWUJ5JLQhxJH8zSL/wBpFy+FB24SvfufZAZuBYpbFKG8MtseGfSKf6aV8Ueqwbu2V5+VXGTNI2A/dT1Gb/oUqxEStBQL81uSj6hOsAjRADXgYF8nTr542054iu+Dt7dHgKwDshKuxDuWt+xw0kJXjQunTqbCYmihuJGLAAwpAa28Hh6EGZ/OdvIHCfiOumE01XHsnTvS8KwF4TBKeViTIWs+NEuh/oQ/g+Zv7c1NhA0vyxNztLh5oRejUbctuLC9kS+exSrykUTgwH4mBdsVkAGKt6WHzQID+/VuqRbZl9XTeLMOyEco8VnIhxoHL2uQYXqapgLFq8GRKDADxgTatZj07h6azom3mXAr/pOhzjMiUUtU4oLczMbvMOnpHB5sqt4tQ9JJv9UAc2MJpwfj2q5f8pt+lDhlRZPPGlEHa2JdSpLRtkcjfagoOlA6nChdRdEAPEt52HOdDPA9oMK97F7ZWh8SLfKoIjkYraijFxZv3xROaYhhAv4gWCZV84iKOyMNCMQEJD+tERMWgCAmh38MPRPzN/CGRaUiQgln0y1zj6rd52ExyX98H0VfpJ0ZINxwuSiLck0B2McdOjOLDpXhXreRCMtPWN3uBGazbC8m6GR+t1NIbjq45pP3am39xvLBi0EcnBl3QTNVWGh4f7vA00zRaadYkjRkSgv3xI34nJ7g5rBTMJ0sl4MGPOoCCBZs3vuIrhAHgRmkjWdP7Ng1/+EyQhTwgUR7jeGNZhyFl6vn/Iwh7wO3hekbeIgpKRfPspkphPSKCv58jKFpRh3DaJscWC7Dz+i+GBlShwvEu66m+j8eJ7i4wFSQDIuI7tqH3cjridNspKmM3D06LVEPWolQcIPux7BAfLkxiSug1j8cPOhclQhcAN2cbPn/Uw7wmjZTFSk0rY5bBzOa5E5KZB0O2lDFymKtHN8/eYaMbXLiqMsJQC6k180QFlJY7z09J39H53uJoTCKLO9xaUPBA0DZvg8DaPUTZhlx7p7Rl9/Ha9vUAsUDWd3qmwL8i+MhvH7HX3fCGy2zJLXLhv9KVt38BTM7iQi5kabfCa+/Da3k4cYDdwnlLnHHilEoZNfEgDGg0sSND+aedcMJmGcO2R2XPsDJ1v19AXUHB8QLo5DQN2e+ePrI6dui/c83UXQQFrTK1EpVCl65w1Xyp5Yn08ljI8zKvs2kn1+RjXTarVWGmMxFkwDBoISewuXtpvSSxVisPf",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210419,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 328,
+    "prompt_tokens": 1812,
+    "total_tokens": 2140,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 243,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002589,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002589,
+      "upstream_inference_prompt_cost": 0.001359,
+      "upstream_inference_completions_cost": 0.00123
+    }
+  },
+  "provider": "Google"
+}

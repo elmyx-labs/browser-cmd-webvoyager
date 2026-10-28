@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--2",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a Beginner's Spanish Specialization on Coursera and show all the courses in this Specialization.",
+  "answer": "FINAL: Learn Spanish: Basic Spanish Vocabulary Specialization — University of California, Davis, on Coursera.\n\nCoursera labels it Beginner level, with no prior experience required. All five courses, in order, are:\n1. Spanish Vocabulary: Meeting People\n2. Spanish Vocabulary: Cultural Experience\n3. Spanish Vocabulary: Sports, Travel, and the Home\n4. Spanish Vocabulary: Careers and Social Events\n5. Spanish Vocabulary Project\n\nSource: https://www.coursera.org/specializations/learn-spanish#courses\nVerified October 27, 2026. Evidence: final.png shows the specialization title, beginner description, university, and complete five-course list.",
+  "response": "The task was to find a beginner Spanish Specialization on Coursera and show all the courses in that Specialization.\n\nThe screenshot shows the Coursera page for **“Learn Spanish: Basic Spanish Vocabulary Specialization”** offered by **University of California, Davis**. The page indicates it is a **5-course series** and the description states it is designed for beginners who may have no experience learning a second language. The Courses tab is open and displays all five courses:\n\n1. Spanish Vocabulary: Meeting People  \n2. Spanish Vocabulary: Cultural Experience  \n3. Spanish Vocabulary: Sports, Travel, and the Home  \n4. Spanish Vocabulary: Careers and Social Events  \n5. Spanish Vocabulary Project  \n\nThe result response accurately identifies the specialization and lists the full course sequence. This satisfies the instruction.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The task was to find a beginner Spanish Specialization on Coursera and show all the courses in that Specialization. The screenshot shows the Coursera page for **“Learn Spanish: Basic Spanish Vocabulary Specialization”** offered by **Univers",
+  "screenshots": [
+    "task_285/final.png"
+  ],
+  "raw_screenshot": "task_285/final.png",
+  "source_result": "task_285",
+  "usage": {
+    "completion_tokens": 292,
+    "prompt_tokens": 2056,
+    "total_tokens": 2348,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.03
+}

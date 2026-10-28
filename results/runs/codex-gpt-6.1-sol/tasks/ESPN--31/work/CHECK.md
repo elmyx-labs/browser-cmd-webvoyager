@@ -1,0 +1,4 @@
+[x] Who has the heaviest weight among infielders in the New York Yankees Roster 2026? — https://www.espn.com/mlb/team/roster/_/name/nyy/season/2026/sort/weight/dir/desc/new-york-yankees — Infielders, Amed Rosario, 3B, 227 lbs; next Paul Goldschmidt, 225 lbs. All eight weights compared; ESPN WT descending sort applied.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the name and deciding facts together, no overlays. — final.png is 1280x723, all eight infielders and WT descending arrow visible.
+[blocked] Dates applied and visible in screenshot — season/2026 applied in URL; ESPN roster page displays no year label or season selector. This limitation is stated in ANSWER.txt.
+[x] Write ./ANSWER.txt with result and evidence, first line FINAL: and sources. — Amed Rosario, 227 lbs, sorted ESPN roster URL, access date, and screenshot evidence.

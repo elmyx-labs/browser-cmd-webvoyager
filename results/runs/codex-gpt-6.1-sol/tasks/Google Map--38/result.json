@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--38",
+    "ques": "Search for bicycle parking near the Empire State Building.",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Bike Parking at 104 W 38th St, New York, NY 10018 is a nearby bicycle rack. Google Maps shows an 8-minute walk (0.3 mile) from the Empire State Building via W 34th Street and 6th Avenue/Avenue of the Americas.\n\nEvidence: final.png shows both locations, the parking address, and the walking time and distance. Checked October 27, 2026.\nSource: https://www.google.com/maps/dir/Empire+State+Building,+20+W+34th+St.,+New+York,+NY+10001,+United+States/Bike+Parking,+104+W+38th+St,+New+York,+NY+10018,+United+States/@40.7506136,-73.9893601,17z/am=t/data=!4m14!4m13!1m5!1m1!1s0x89c259a9b3117469:0xd134e199a405a163!2m2!1d-73.9856644!2d40.7484405!1m5!1m1!1s0x89c259ec6bba8ed7:0xe1f04ffa4eb69951!2m2!1d-73.9864656!2d40.7525178!3e2?hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+    "result_text": "FINAL: Bike Parking at 104 W 38th St, New York, NY 10018 is a nearby bicycle rack. Google Maps shows an 8-minute walk (0.3 mile) from the Empire State Building via W 34th Street and 6th Avenue/Avenue of the Americas.\n\nEvidence: final.png shows both locations, the parking address, and the walking time and distance. Checked October 27, 2026.\nSource: https://www.google.com/maps/dir/Empire+State+Building,+20+W+34th+St.,+New+York,+NY+10001,+United+States/Bike+Parking,+104+W+38th+St,+New+York,+NY+10018,+United+States/@40.7506136,-73.9893601,17z/am=t/data=!4m14!4m13!1m5!1m1!1s0x89c259a9b3117469:0xd134e199a405a163!2m2!1d-73.9856644!2d40.7484405!1m5!1m1!1s0x89c259ec6bba8ed7:0xe1f04ffa4eb69951!2m2!1d-73.9864656!2d40.7525178!3e2?hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_485/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_485",
+  "elapsed_seconds": 176.63752007484436,
+  "execution_error": null,
+  "proxy_bytes": null
+}

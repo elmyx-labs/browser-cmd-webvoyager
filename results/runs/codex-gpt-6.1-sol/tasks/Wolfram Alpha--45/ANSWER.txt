@@ -1,0 +1,11 @@
+FINAL: WolframAlpha estimates the following metabolic properties for the 175 cm, 85 kg, 40-year-old man ascending 2,500 steps, each 18 cm high, at 40 steps/min:
+
+- Total energy expenditure: 2,720 kJ.
+- Average energy expenditure per step: 1.1 kJ/step.
+- Fat burned: 0.0842 kg.
+- Total oxygen consumption: 129.9 L.
+- Metabolic equivalent: 7 METs.
+
+The climb takes 62.5 minutes and gains 450 m in height. These are estimates; WolframAlpha labels the metabolic results as based on CDC standards.
+
+Evidence: final.png shows the complete input information and Metabolic properties together. Source: [WolframAlpha stair-climbing calculation](https://www.wolframalpha.com/input?i=stair+climbing&assumption=%7B%22FVarOpt%22%7D+-%3E+%7B%7B%22StairClimbing%3AStepRate%22%2C+%22cd%22%7D%2C+%7B%22StairClimbing%3AStepRate%22%2C+%22age%22%7D%2C+%7B%22StairClimbing%3AStepRate%22%2C+%22H%22%7D%7D&assumption=%7B%22F%22%2C+%22StairClimbing%3AStepRate%22%2C+%22H%22%7D+-%3E%22175+cm%22&assumption=%7B%22FS%22%7D+-%3E+%7B%7B%22StairClimbing%3AStepRate%22%2C+%22t%22%7D%2C+%7B%22StairClimbing%3AStepRate%22%2C+%22sr%22%7D%2C+%7B%22StairClimbing%3AStepRate%22%2C+%22sc%22%7D%7D&assumption=%7B%22F%22%2C+%22StairClimbing%3AStepRate%22%2C+%22W%22%7D+-%3E%2285+kg%22&assumption=%7B%22F%22%2C+%22StairClimbing%3AStepRate%22%2C+%22sh%22%7D+-%3E%2218+cm%22&assumption=%7B%22C%22%2C+%22stair+climbing%22%7D+-%3E+%7B%22Formula%22%2C+%22dflt%22%7D&assumption=%7B%22F%22%2C+%22StairClimbing%3AStepRate%22%2C+%22sr%22%7D+-%3E%2240+steps%2Fmin%22&assumption=%7B%22F%22%2C+%22StairClimbing%3AStepRate%22%2C+%22sc%22%7D+-%3E%222500+steps%22&assumption=%7B%22FP%22%2C+%22StairClimbing%3AStepRate%22%2C+%22S%22%7D+-%3E+%22Male%22&assumption=%7B%22F%22%2C+%22StairClimbing%3AStepRate%22%2C+%22age%22%7D+-%3E%2240+yr%22), accessed 27 October 2026.

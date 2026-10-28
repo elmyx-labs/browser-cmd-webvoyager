@@ -1,0 +1,6 @@
+[x] Latest iPad model actually released and available as of October 27, 2026 — https://www.apple.com/newsroom/archive/ipad/ and ?page=2 show Air M4 as newest released hardware (March 11), preceding the mini's future November 6 availability.
+[x] Release date — https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/: “starting Wednesday, March 11”; March 2026 release. Availability also confirmed by March 11 now-available article.
+[x] Base storage capacity — same release: “128GB, 256GB, 512GB, and 1TB configurations”; Store's lowest selectable capacity is 128GB.
+[x] Starting price available on Apple's official website — https://www.apple.com/shop/buy-ipad/ipad-air and /11-inch-display-128gb-purple-wifi show $749 for 11-inch Wi-Fi 128GB. Current price used rather than historical $599 launch price.
+[x] Save one genuine readable viewport screenshot as ./final.png, shrunk to about 1280 px on its long side — 1280x723 screenshot of current Store with iPad Air name, selected 128GB, $749 and In Stock visible together. Release date supported separately by official Newsroom source.
+[x] Rewrite ./ANSWER.txt with result and evidence, first line FINAL:, without discussion of review.

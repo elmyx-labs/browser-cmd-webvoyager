@@ -1,0 +1,9 @@
+{
+  "id": "Huggingface--5",
+  "task": "Find a model released on Hugging Face for recipe generation. Retrieve the information of the model, including its name, model size and tensor type.",
+  "answer": "FINAL: flax-community/t5-recipe-generation (Chef Transformer (T5)) is a recipe-generation model released on Hugging Face.\nModel size: 0.2B parameters.\nTensor type: F32.\nEvidence: The model page displays the “recipe-generation” tag and, under Safetensors, “Model size 0.2B params” and “Tensor type F32.”\nSource: https://huggingface.co/flax-community/t5-recipe-generation\nVerified October 27, 2026. Screenshot: final.png.",
+  "screenshots": [
+    "task_534/final.png"
+  ],
+  "raw_screenshot": "task_534/final.png"
+}

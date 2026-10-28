@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210099-GYMhIPM9iXDrHbVhjvcG",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**Evaluation:**\n\nThe search was conducted on Booking.com for Bali with the specified dates (October 1 to October 4, 2027). The required filters for \"Free Wifi\", \"Air conditioning\", and \"Hotels\" were applied, successfully displaying eligible properties such as the Adhi Jaya Hotel. All criteria of the task were met.\n\n**Verdict:** SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Confirming Search Parameters**\n\nI've successfully confirmed that Bali is the chosen destination and validated the selected dates (October 1st to October 4th, 2027). This aligns perfectly with the original request.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Confirming Search Parameters**\n\nI've successfully confirmed that Bali is the chosen destination and validated the selected dates (October 1st to October 4th, 2027). This aligns perfectly with the original request.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+AMz+O+YR48BDS5hOF8kONdDaT4dAPkXcgjFIBdBBSrOZ9F+p4FnbNj+hLpAvcrvGVsNYBf38AEUPsee14+QGKStl3pl5N6A8jZF4+x1uWL8nHjb3TvpAnlSMle1GHZ1h7fX8avDl3JXgGxf7edVV4Llc6CsCpWE5qB70sal8a+05dCpaeSslNO3nkBY0UcsUZ7lP5etu03SHGEMkGr15biIefLgi2FJxhvvjJXyMHeKVnE3pyrxpIEMHiLLrLB7sy4QZWqhdASS656ujbUx81Js25kztL1yVLJms+QzQ5E4LmY58RqCow+kGdwfISlashdToER8+KXDJDe5xRGIkNKlvyMyoXigoLtH8GzGbBnFLicXx3JCRXie2HnZTaWcHdL3nUauyo+hovx1/G3z0UBICIrP/YPKzElrUC7OG2E8RXFcpoCbeVElC3ZHDyxylnwarPMaKH7mkE4K9hs5LeCCGsir2Dmbvf7rE7lojzopV7kWQdNPil4mcSo6TLcvtaDwEBZpaz+IBCO8qB24K7RBIsMKggg0zKlkNc30ttYjLPbTaU/ZCbviP5n0A/V0sJiBxzUdVn/ZTUre59tugqUAtT0szdJPHVog2zQUyVwqq8Vj2fuPWjJ1BPB9098U5YuT0uneJmkWyYgQV4srd76KJHwepski8/kWuuYyvbvc22eNRnp0Up4JbkmqvqsDxboxpJTIyXt0vKu8hFT98XXPByk3eGtJRIKHMbI8lPt/VMAKMDahP8CFVgdcXh8qR/dSg1ebQKZG1W7/QJ/Ic9YjO+BLIGAu59BULk8OFcL44HLSppA1i2OCNkcnqK1SwYnXse0cvJiZYOuxG7Wv5mfbfa228U/OkV5w5weIAjs0BxU8WZFe/DG2fQPd0u/G//vsbD4xRR7FZe4C5LyCTJIb56AMgTu74GRGNzwozhq4xutHMz0Z7x30b1jfPbnWoYMQLCJC9w9Tm3zD8zC+URmqx0ZrIvrzMDjclBJoFDyFAtPxY1c0us5vqwQZH41eRCO3pwzmh5uL5k5xNLC8PtNJD/w+Pnfj89ZXeGBMY4AGi883TmxNJb2jZV9tSNgH26eq38/qbvkjlGmc5X5zniI5QNwOsdFYWOadvJ5lDWoY3QOt5aikGZnf+C/UgR/Oq7GveS2PK9nkflqybjgFkuPCi5hZUUUDIAXyvCFUWdcaK0asOfn9kJ+evDqsPQ/KKUAj0dL0PWnie+DWM4WSXr97LxpBhhebux6aw995reN/BubizjhgIlv2PTxnQIQWNYfl2D66WDPNPK3AflrPQAHB+SG6N9KDaTKpSG",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210099,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 275,
+    "prompt_tokens": 1762,
+    "total_tokens": 2037,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 197,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00235275,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00235275,
+      "upstream_inference_prompt_cost": 0.0013215,
+      "upstream_inference_completions_cost": 0.00103125
+    }
+  },
+  "provider": "Google"
+}

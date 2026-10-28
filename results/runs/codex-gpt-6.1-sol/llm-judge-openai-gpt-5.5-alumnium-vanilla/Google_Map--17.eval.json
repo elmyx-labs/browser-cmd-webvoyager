@@ -1,0 +1,31 @@
+{
+  "id": "Google Map--17",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for locksmiths open now but not open 24 hours in Texas City.",
+  "answer": "FINAL: Affordable Lock and Safe’s retail location in Texas City is open now and has non-24-hour business hours.\n\nAddress: 2504 25th Ave N, Suite 2, Texas City, TX 77590\nPhone: (409) 502-3238\nCurrent status: “Open until 6 pm,” checked Tuesday, October 27, 2026, at approximately 5:30 PM CDT.\n\nListed location hours:\n- Monday–Friday: 9 AM–6 PM\n- Saturday: 9 AM–1 PM\n- Sunday: Closed\n\nThis is an actual locksmith business offering residential, commercial, and automotive services. Its retail location meets the requested hours conditions. It separately offers 24-hour emergency mobile locksmith service; those emergency service hours are distinct from the location’s listed business hours.\n\nSource: https://www.mapquest.com/us/texas/affordable-lock-and-safe-380040840\nEvidence: final.png shows the business name, Texas City address, “Open until 6 pm” status, and expanded weekly hours together.\n\nMinute Key is excluded because the Texas City location is a key-copy kiosk; its separate locksmith network operates 24/7. Source: https://www.minutekey.com/key-services/texas/texas-city/locksmith-key-copy-duplication-3620-emmett-f--lowry-expway/475/",
+  "response": "The task was to search for locksmiths in Texas City that are **open now** but **not open 24 hours**.\n\nThe screenshot shows a MapQuest listing for **Affordable Lock and Safe** in Texas City. It clearly displays:\n\n- Business name: **Affordable Lock and Safe**\n- Location: **2504 25th Ave N, Ste 2, Texas City, TX 77590**\n- Status: **Open until 6 pm**\n- Hours:\n  - Mon–Fri: 9 am–6 pm\n  - Sat: 9 am–1 pm\n  - Sun: Closed\n\nThese hours demonstrate that the business is currently open and is **not open 24 hours**. The listing is also for a locksmith-related business, and the response provides the address and phone number.\n\nAlthough the response mentions separate 24-hour emergency mobile service, the screenshot’s listed business/location hours are clearly not 24-hour hours, which satisfies the stated condition based on the visible evidence.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to search for locksmiths in Texas City that are **open now** but **not open 24 hours**. The screenshot shows a MapQuest listing for **Affordable Lock and Safe** in Texas City. It clearly displays: - Business name: **Affordable ",
+  "screenshots": [
+    "task_464/final.png"
+  ],
+  "raw_screenshot": "task_464/final.png",
+  "source_result": "task_464",
+  "usage": {
+    "completion_tokens": 729,
+    "prompt_tokens": 2632,
+    "total_tokens": 3361,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 11.79
+}

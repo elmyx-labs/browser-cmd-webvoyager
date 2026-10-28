@@ -1,0 +1,9 @@
+{
+  "id": "Huggingface--34",
+  "task": "List the benefits of hugging face classroom mentioned on Hugging face website.",
+  "answer": "FINAL: Hugging Face Classroom lists three benefits:\n\n1. State-of-the-art resources and collaboration: build machine-learning applications and collaborate with students on datasets, models and ML demos in a dedicated classroom workspace.\n2. Unlimited access to modern machine-learning tools: upload datasets, models and demos for free; train, fine-tune, experiment and deploy; then share models and demos with the classroom or community, all hosted for free.\n3. Free advanced computational resources, such as access to the Accelerated Inference API.\n\nEvidence: Hugging Face’s official Education Toolkit, “The 🤗 Classroom” section, accessed October 27, 2026:\nhttps://github.com/huggingface/education-toolkit/blob/main/README.md#the--classroom\nScreenshot: final.png.\n\nThe toolkit links to https://huggingface.co/classrooms. That page returned HTTP 429, so direct verification on huggingface.co could not be completed; the benefits above come from Hugging Face’s official GitHub toolkit.",
+  "screenshots": [
+    "task_560/final.png"
+  ],
+  "raw_screenshot": "task_560/final.png"
+}

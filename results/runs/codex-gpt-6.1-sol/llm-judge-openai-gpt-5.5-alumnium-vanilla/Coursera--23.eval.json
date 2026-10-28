@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--23",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a course on Coursera about 'Artificial Intelligence Ethics', which has a duration of less than 5 weeks and has been rated 4.5 stars or higher. Provide the course name and the instructor's name.",
+  "answer": "FINAL: Artificial Intelligence: Ethics & Societal Challenges — instructor: Maria Hedlund (Lund University). Coursera lists a 4.7/5 rating from 433 reviews and a flexible duration of 1 week at 10 hours per week, meeting both requirements. Source: https://www.coursera.org/learn/ai-ethics (accessed October 27, 2026). Evidence: final.png.",
+  "response": "The task was to find a Coursera course about “Artificial Intelligence Ethics” that:\n\n1. Has a duration of less than 5 weeks  \n2. Has a rating of 4.5 stars or higher  \n3. Provides the course name and instructor’s name  \n\nThe screenshot shows the Coursera course **“Artificial Intelligence: Ethics & Societal Challenges”** from Lund University. It lists:\n\n- Rating: **4.7**, which is above 4.5  \n- Duration: **1 week at 10 hours a week**, which is less than 5 weeks  \n- Instructor: **Maria Hedlund** shown, with “+2 more” also indicated  \n\nThe result response accurately provides the course name and an instructor name, and the course satisfies the rating and duration requirements.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find a Coursera course about “Artificial Intelligence Ethics” that: 1. Has a duration of less than 5 weeks 2. Has a rating of 4.5 stars or higher 3. Provides the course name and instructor’s name The screenshot shows the Cou",
+  "screenshots": [
+    "task_305/final.png"
+  ],
+  "raw_screenshot": "task_305/final.png",
+  "source_result": "task_305",
+  "usage": {
+    "completion_tokens": 311,
+    "prompt_tokens": 1696,
+    "total_tokens": 2007,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 136,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.48
+}

@@ -1,0 +1,9 @@
+{
+  "id": "Huggingface--29",
+  "task": "Summarize the description of the recent open-source NLP model released on Hugging Face for medical summarization.",
+  "answer": "FINAL: The recent release selected is Qwen2.5-0.5B Medical Note Summarizer (ritujaa1/qwen05-med-summarizer-gguf), an Apache 2.0 model whose Hugging Face repository was created on October 26, 2026. Its model file was uploaded that same day.\n\nBased on Qwen2.5-0.5B, it was fine-tuned on about 500 synthetic clinical notes to generate structured summaries containing diagnosis, key findings, medications, action items and follow-up. The model card describes its compact GGUF Q4_K_M version as 379 MB and suitable for free hosting tiers. It is an educational project for synthetic data only; the author excludes real patient data and clinical use.\n\nEvidence:\n• Description, license and screenshot source: https://huggingface.co/ritujaa1/qwen05-med-summarizer-gguf/blob/main/README.md\n• Repository creation: October 26, 2026, 07:23:56 UTC (createdAt): https://huggingface.co/api/models/ritujaa1/qwen05-med-summarizer-gguf\n• Model-file upload: October 26, 2026, 07:24:08 UTC: https://huggingface.co/api/models/ritujaa1/qwen05-med-summarizer-gguf/commits/main\n• It is first in the Hugging Face API listing filtered to medical, summarization and Apache 2.0, sorted by creation date descending: https://huggingface.co/api/models?filter=medical,summarization,license:apache-2.0&sort=createdAt&direction=-1&limit=5&full=true\n• The Hugging Face model listing sorted “Recently created” also places this repository above the older imkalpx repository: https://huggingface.co/models?search=qwen05-med-summarizer&sort=created\n\nScreenshot: final.png shows the repository name, Apache 2.0 license, README timestamp (“1 day ago”), model description and usage restriction together.",
+  "screenshots": [
+    "task_556/final.png"
+  ],
+  "raw_screenshot": "task_556/final.png"
+}

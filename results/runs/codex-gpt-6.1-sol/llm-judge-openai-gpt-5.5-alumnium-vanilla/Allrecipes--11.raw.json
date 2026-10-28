@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyWZMeVZrkKWsELuB2XBbgW8dkg3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find a chocolate cupcake recipe on Allrecipes with:\n\n- Preparation time under 1 hour\n- At least 100 user reviews\n\nThe screenshot shows the Allrecipes page for **“Easy Moist Chocolate Cupcakes.”** It displays:\n\n- **Prep Time:** 15 minutes\n- **Total Time:** 30 minutes\n- **Reviews:** 958 Reviews\n\nThis satisfies both requirements: the prep time is well under 1 hour, and the recipe has more than 100 user reviews. The result response accurately identifies the recipe and supporting details shown in the screenshot.\n\n**Verdict: SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196155,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 229,
+    "prompt_tokens": 2443,
+    "total_tokens": 2672,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

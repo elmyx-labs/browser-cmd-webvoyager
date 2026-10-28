@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "BBC News",
+    "id": "BBC News--19",
+    "ques": "Visit the Athletics calendar for the date of the next earliest game.",
+    "web": "https://www.bbc.com/news/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The next Athletics event is the New York City Marathon on Sunday, 1 November 2026. Opened BBC Sport’s Athletics Calendar with November 2026 selected: https://www.bbc.com/sport/athletics/calendar/2026-11. The calendar shows “Sun 01 Nov” beside “New York City Marathon”; evidence is saved in final.png.",
+    "result_text": "FINAL: The next Athletics event is the New York City Marathon on Sunday, 1 November 2026. Opened BBC Sport’s Athletics Calendar with November 2026 selected: https://www.bbc.com/sport/athletics/calendar/2026-11. The calendar shows “Sun 01 Nov” beside “New York City Marathon”; evidence is saved in final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_181/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_181",
+  "elapsed_seconds": 67.25985193252563,
+  "execution_error": null,
+  "proxy_bytes": null
+}

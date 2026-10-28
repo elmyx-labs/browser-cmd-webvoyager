@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--5",
+    "ques": "Search for a parking garage near Thalia Hall in Chicago that isn't open 24 hours.",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The Maxwell parking garage, 1087 S. Clinton, Chicago, is 1.6 miles by car from Thalia Hall. Its daily hours are 4:00 a.m.–midnight, so it is not open 24 hours.\nSources: Parkopedia (garage, address and hours): https://en.parkopedia.com/parking/garage/the_maxwell/60607/chicago/ ; Google Maps (distance): https://www.google.com/maps/dir/Thalia+Hall,+South+Allport+Street,+Chicago,+IL/The+Maxwell+Parking+Garage,+Chicago,+IL/?hl=en\nVerified October 27, 2026. Evidence: final.png.",
+    "result_text": "FINAL: The Maxwell parking garage, 1087 S. Clinton, Chicago, is 1.6 miles by car from Thalia Hall. Its daily hours are 4:00 a.m.–midnight, so it is not open 24 hours.\nSources: Parkopedia (garage, address and hours): https://en.parkopedia.com/parking/garage/the_maxwell/60607/chicago/ ; Google Maps (distance): https://www.google.com/maps/dir/Thalia+Hall,+South+Allport+Street,+Chicago,+IL/The+Maxwell+Parking+Garage,+Chicago,+IL/?hl=en\nVerified October 27, 2026. Evidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_453/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_453",
+  "elapsed_seconds": 350.26227617263794,
+  "execution_error": null,
+  "proxy_bytes": null
+}

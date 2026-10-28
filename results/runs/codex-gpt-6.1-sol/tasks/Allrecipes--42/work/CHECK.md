@@ -1,0 +1,5 @@
+- [x] Find a recipe for banana bread on Allrecipes. https://www.allrecipes.com/recipe/17066/janets-rich-banana-bread/ — "Janet's Rich Banana Bread".
+- [x] More than 200 reviews. Same source — "8,333 Reviews".
+- [x] Rating of at least 4.0 stars. Same source — "4.8" and "4.8 out of 5".
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing name, rating and review count together with no pop-up, banner or dialog over it. final.png shows the source above and all three facts. No filters, sorts or date constraints were requested.
+- [x] Write result and evidence to ./ANSWER.txt. ANSWER.txt contains result, source, verification date and screenshot reference.

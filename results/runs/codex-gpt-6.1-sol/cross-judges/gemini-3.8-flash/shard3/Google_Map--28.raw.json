@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210503-L0nMmd5HTDbiXP2Jzijv",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find the search settings for Google Maps and identify the options displayed on that page.\n\n1. **Navigation**: In Google Maps, selecting \"Search settings\" from the side menu opens the Google Search Settings page (`google.com/preferences`).\n2. **Displayed Options**: \n   - The screenshot confirms navigation to the Search settings page, highlighting the sections available:\n     - Side navigation: `Privacy & Safety`, `Other settings`\n     - Under `Other settings`:\n       - Language: `Language and region`\n       - Desktop: `Dark theme`, `Results in a new window`, `Spoken answers`, `Auto-complete with trending searches`\n3. **Response Completeness**: The textual response accurately describes the structure and the settings visible on the page.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Navigating Google Settings**\n\nI've successfully accessed the Google Maps menu and located the \"Search settings\" option. My exploration led me to Google Search settings rather than a dedicated Maps settings page, which is an interesting detour.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Navigating Google Settings**\n\nI've successfully accessed the Google Maps menu and located the \"Search settings\" option. My exploration led me to Google Search settings rather than a dedicated Maps settings page, which is an interesting detour.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1853Am/8YQzGIBVwaxotahdXU3+/1bZmIe/XLEOXq9qveQrWjQcw7Jefhf6+pyxdFZ+Cvnz96aQAaeM3FpWG9ePXH3t2yrjrWu3EbH1KywAEpoXhnUvKzyR8qfJ0eyKok4unRRbA6AUb18dyOgewZB51ikIevwbWqJRcCBVjqVZ3UJTQmPSqqSjWONP266td45ECDhrqezZciKEOGLdweYEFId2mR+MUJkM3YLsTxjYWS90Ca3J7bqFzv+enD1lm56IoGQiDm0cAVhOElxEKS0RfXHI15ATx5atnbIZfJydvcoHbEfg5QAD/wAC0eGMhvUj0MRqaV9XkMCRPga2TBmsL3UnSh+o/L2Nm+pAAr9Pw6YpfFmRWi64QVTiyhkncxnal5/EFBNdqA9Jq/5snWlYSB8Qc3THsFspzXukeL8rMjXZReyfTT9K3jfd/DIPznF1LJvm3hSyIqGdU7fnFoEwp8HvU8ZzAKyjANbtaKGVTxfWuVmQ3+835ryUluyDcjAvfP0F/O92qtAhD3Nw9SLb4gYmz+VVTPDUky4UDeHHwSU1FvUdwGW538MMgpTsffrUS97agDJaeh1fpIEIzl0CoIc+6UnPnmvVn2uGDn9Pb+5lLxImdcdTM6a1gq0SQgZvxqLr4wvA0FIFcOr37M3tTSdGETASQNJn7B0f8kCZtz8Ca477wA8ifWDRi9iombW7xWMYpbE/jlsbSJqiD364+NVYb9lCla/YIt1yJ8MePMU5DjNB1Evbjq9FgjTknKvps7DNy5EktcVFHwlrx2kPlnltUeo5ozk0SRRX3r/Ah824c+vfLYSVr+Qfx5E/6wpbB3QAtnSRJFHJTdvGSCdC240N2PfwTZeFsFJR4XpJ9xR+wEYRHfY9qpz4TqLFjfsARJ1OGLuHC0x7kjVou8TdgkMMWUVDAZL8OGENpqnE4/yUVwQdDZiqiXiuHksS058LKEyvIXtxNl/twvG9ocl1bARpUVN7pGaZo3ullegaU/jj+ek90BUTvBXpopU+jK4srKh32ukxy2x/yyzvNlSwEDHPhwMhrEGtLrJN/k+o2F5EFAtHSZmLg5vV0SmZ/FWcptluQVwjUkq14c5ga7PCUBgb7l8K+usYskOACY3Tyxq5kt/pd947NGEjxOWcX5afRF6bvoAmqkLHr/YHgVGvrwC3OXGuxvm0Kh0RjM5ndo5SEq24wHsUUGuafdaUHiGSOn6HoEayGNbbvXbxei6xfAij5iyui87/1l/cLlhYRbz+y9nk3ruGy6FxPCKP21RGMb/fcj0GGgjswRDQgZCLs7VcirdBnIF0OKcTbin5UQ+Ev14WkXO+wM+YAmvo6X2BI+m7xq59Yrwmo35Gql507RKbKqQq1rJziuhkJ0TVZAT7VKmxtZVS5htthVoi5M75xs3ZTo/p7E0XL6iy27duC7afOzHi0rcGMZMK1Ie0mighHUCgn0y77IJmEvk8UxIMNX8tp5rqeAO8d3Fua8l1gt3L5oQZSjHBR/ymZzDDLv2OCCoQZgCAFABidswF/fCwQcVQHb7tNC3XEKx9tgCBDVcsG+5l1cppHuX5Ijq06yqvXfulYlU8/aj9d17GjFk4GOU/vcmL33Kq9nYAgn9BTju6WI0XmDNKICieP0eOofMgHBLHbSANcGHoQRTkSt6MRAFEs/NSN67YJWqEcAPp+UCLAf6YWFbEyKu1pg4a2Rh/4eBgHn2FPReduXZafhANMGdT2d/EnGZVXZzrFirNB2sALCkKkAtp9BwBYPlZJQ1wjoF0i7GWV1QcSGNOrlUODcoOtu+YpXZdVSjHhD1vEkoOuY9sT6B5bIqL5KwnVQ==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210503,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 433,
+    "prompt_tokens": 1716,
+    "total_tokens": 2149,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 258,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00291075,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00291075,
+      "upstream_inference_prompt_cost": 0.001287,
+      "upstream_inference_completions_cost": 0.00162375
+    }
+  },
+  "provider": "Google"
+}

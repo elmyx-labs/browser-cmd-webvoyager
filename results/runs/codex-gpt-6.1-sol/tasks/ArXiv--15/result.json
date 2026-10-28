@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ArXiv",
+    "id": "ArXiv--15",
+    "ques": "Searching Chinese Benchmark on ArXiv, how many papers announced in December 2023 mention being accepted for AAAI 2024?",
+    "web": "https://arxiv.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: 1 paper — MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models (arXiv:2312.12806). Its arXiv search record says “originally announced December 2023” and “accepted by AAAI-24.”\nSource: https://arxiv.org/abs/2312.12806\nFiltered search: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Chinese+Benchmark&terms-0-field=all&terms-1-operator=AND&terms-1-term=AAAI&terms-1-field=comments&terms-2-operator=AND&terms-2-term=accepted&terms-2-field=comments&classification-include_cross_list=include&date-filter_by=date_range&date-from_date=2023-12-01&date-to_date=2024-01-01&date-date_type=announced_date_first&abstracts=show&size=50&order=-announced_date_first\nEvidence: final.png shows the single result, search filters and dates, December 2023 announcement, and AAAI-24 acceptance comment.",
+    "result_text": "FINAL: 1 paper — MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models (arXiv:2312.12806). Its arXiv search record says “originally announced December 2023” and “accepted by AAAI-24.”\nSource: https://arxiv.org/abs/2312.12806\nFiltered search: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Chinese+Benchmark&terms-0-field=all&terms-1-operator=AND&terms-1-term=AAAI&terms-1-field=comments&terms-2-operator=AND&terms-2-term=accepted&terms-2-field=comments&classification-include_cross_list=include&date-filter_by=date_range&date-from_date=2023-12-01&date-to_date=2024-01-01&date-date_type=announced_date_first&abstracts=show&size=50&order=-announced_date_first\nEvidence: final.png shows the single result, search filters and dates, December 2023 announcement, and AAAI-24 acceptance comment.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_135/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_135",
+  "elapsed_seconds": 140.34713077545166,
+  "execution_error": null,
+  "proxy_bytes": null
+}

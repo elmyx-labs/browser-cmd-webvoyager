@@ -1,0 +1,4 @@
+[x] Find a news article on BBC News about the impact of the recent tech industry layoffs on the global economy. — https://www.bbc.com/news/business-64189106, “Are tech job cuts a warning for the wider economy?”; article discusses foreign staff affected, global recession risks, and possible spillovers from layoffs.
+[x] Summarize the key points and the name of the author, and provide the date of publication. — Same URL; “Natalie Sherman”, “Business reporter, New York”, “6 January 2023”; summary saved in ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the article name and deciding facts without overlays. — final.png, 1280×723; headline, publication date and author visible together.
+[x] Write the final answer with result and evidence to ./ANSWER.txt. — ANSWER.txt includes article, byline, date, summary, source URL and screenshot reference.

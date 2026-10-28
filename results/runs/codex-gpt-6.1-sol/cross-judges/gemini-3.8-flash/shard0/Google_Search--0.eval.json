@@ -1,0 +1,41 @@
+{
+  "id": "Google Search--0",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the initial release date for Guardians of the Galaxy Vol. 3 the movie.",
+  "answer": "FINAL: Guardians of the Galaxy Vol. 3's initial release was April 19, 2023, at its Seoul, South Korea premiere—the earliest release listed by IMDb.\nEvidence: IMDb's Release info page lists “South Korea — April 19, 2023 (Seoul, Korea, premiere)” before France's April 22 premiere and May 3 theatrical releases. Source: https://www.imdb.com/title/tt6791350/releaseinfo/\nScreenshot: final.png",
+  "response": "The task was to find the initial release date for the movie *Guardians of the Galaxy Vol. 3*. \n\nThe provided screenshot displays the IMDb \"Release info\" page for *Guardians of the Galaxy Vol. 3*, listing the earliest release date as April 19, 2023 (for the Seoul, Korea premiere). The result response correctly identifies and states this date.\n\nSUCCESS",
+  "reason_short": "The task was to find the initial release date for the movie *Guardians of the Galaxy Vol. 3*. The provided screenshot displays the IMDb \"Release info\" page for *Guardians of the Galaxy Vol. 3*, listing the earliest release date as April 19,",
+  "screenshots": [
+    "task_488/final.png"
+  ],
+  "raw_screenshot": "task_488/final.png",
+  "source_result": "task_488",
+  "usage": {
+    "completion_tokens": 247,
+    "prompt_tokens": 1696,
+    "total_tokens": 1943,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 163,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00219825,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00219825,
+      "upstream_inference_prompt_cost": 0.001272,
+      "upstream_inference_completions_cost": 0.00092625
+    }
+  },
+  "elapsed_seconds": 15.8
+}

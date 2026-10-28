@@ -1,0 +1,3 @@
+- [x] Visit ArXiv Help on how to withdraw an article if the submission is not yet announced. https://info.arxiv.org/help/withdraw.html — “Submission not yet announced”: user page → Delete or Unsubmit; delete removes it, unsubmit returns it to incomplete status.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item name and deciding facts visible together. final.png is 1280×723, shows “Withdrawing an article,” the section title, and all relevant instructions; announcement dismissed. No filters, sorts or dates apply to this help page.
+- [x] Write the result and its evidence to ./ANSWER.txt. Includes instructions, source URL, access date, and screenshot reference.

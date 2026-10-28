@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210461-YttjdSQazlsq2ocUZWlp",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to search for a natural reserve in Texas called Big Bend National Park and gather its basic information.\n\nThe screenshot shows the Google Maps page for Big Bend National Park with the overview panel displayed, containing its name, category, rating, description, location, hours, website, phone number, and plus code. The Result Response accurately extracted and compiled all of these details.\n\nTherefore, the task was completed successfully.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Big Bend**\n\nI'm currently examining the initial Google Maps search results for Big Bend National Park. The sidebar is displaying its name, which is a good start.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Big Bend**\n\nI'm currently examining the initial Google Maps search results for Big Bend National Park. The sidebar is displaying its name, which is a good start.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19iC7VG7uH/xI5N8o2/hS7K+Eq7r63YkWClCo8EScW0MrsL/D9tyX0PLcOGZY1NRm/1P95Kq34OUOuXltmctPRx121yGigKkcUfih3f6t19drW6yI5PoNl2g5IauDY6vDCSW0nkcXJcYsGCDYdt6kwpHCTx3A8dFDEACeXebRjSv6MPF0fKucAIVdV5qMhhmEiga3eIwD83ZReSWKhEPZRO2C84xY5rjVQfCHSkD/RAgbQMN2+EOxixaJqNyh/AGUuN8nZ+yJDchpXoG/6zY3Ne5V8iQr6nddG6dpNeccEWZ1M/eK+kFYsL9MvQ6TPYH8gvxIvqCQCmDKM19Z1N6FBcDp1tVHsInbZ1fQnDoIJV9ZnwM1Mvr9pNpZ1D16qExu+pcG1diIF6A92HWWBQvUQHB7Dx9zV6veG1N0Og9twTuOd7tB3D05Kx+VPXF+rFGV01puKAsPeatQrk+SpQI2T45Gqn8+/lVDmZWhr0gfGP0EQBzKUyzn8eL6T7Qtk3JrAg2V/kdy3UZlzQJkgU8B69KVbGjLW8tSUMg9SrrtsxUG2np9Xd+6kuWqNaPqSbAPV7/GX3axykNDP/5ttful53aHHT8tBeDpyWR1dM8kq7XUNXNkHDXTlx4/XNg0RLxyI5ASUvqj7rG3vLt3JGeNU5bMRc+Ds+mmHoEA8qYV3ln9NqHqdfP6pncloHSDOTRaJGITb5xxgFMJGDImJRmykkIlWnQeM30RkA5FWnw2gqvyZ7V5ELokuc0eV1z9RQMYvAlI77A5H0AR9tY1JaidTjNbqALrIYi6czeXbdSijtdg2JwnmTqKK9ZlECeZHzmLqtv3Ccqp9L6ncIqD6N58xK3jWRq8AeEugpHQrXKMsKUBiUvE9PncLeuiTcPOPZWjk5ifzXK+Q1phggOtyXZMuwIKhey0g/lZJY6CKli4RslP2xbGuSY5I1Zr1rKAvprJ8CG7QA9mZIfBi84scBceK//DEJELM8y0EK7jE8Y0SZgsmPfJTxyVVzifD2tHuvFcySm8sglUxCNgWYUsYmfcki8XSqbZKe+Rve3ThEKojFo6DGc5TbqMsNXel3ZiFLRjafauMOpZjJAiqlEPaC8PEn8EzSLEZZFTJHYSIlEEVzUwqsoo0D2D13rQ/MCINZoYYwJ2B4YXgZDcdIMBupAkQM6NT7+eftBGyIjgNHh2RKNurCyJLNPVlYub4jD4Ny8fM=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210461,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 269,
+    "prompt_tokens": 1896,
+    "total_tokens": 2165,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 182,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00243075,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00243075,
+      "upstream_inference_prompt_cost": 0.001422,
+      "upstream_inference_completions_cost": 0.00100875
+    }
+  },
+  "provider": "Google"
+}

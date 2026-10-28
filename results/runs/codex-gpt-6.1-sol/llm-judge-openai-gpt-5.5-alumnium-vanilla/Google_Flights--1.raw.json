@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyeicVvlLFrF4TLlbyMLZNUm7sqL",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to show a list of one-way flights on June 17, 2027 from Chicago to Paris.\n\nThe screenshot supports the key requirements:\n\n- Google Flights is open.\n- Trip type is set to **One way**.\n- Origin is **Chicago**.\n- Destination is **Paris**.\n- Date shown is **Thu, Jun 17**, which matches June 17, 2027.\n- Results are displayed in the flights list, including airlines, times, durations, stops, routes, emissions, and prices.\n- The visible results include Chicago–Paris options such as ORD–ORY and ORD–CDG.\n\nThe result response provides a detailed list of flights, including prices, airlines, routes, departure/arrival times, stops, and durations. Although the screenshot only visibly confirms part of the list, the response’s additional flight details do not contradict the screenshot, and the requested flight list is clearly provided.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196660,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 714,
+    "prompt_tokens": 7428,
+    "total_tokens": 8142,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

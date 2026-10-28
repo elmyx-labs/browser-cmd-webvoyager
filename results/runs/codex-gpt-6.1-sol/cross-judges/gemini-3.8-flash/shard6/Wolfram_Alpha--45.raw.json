@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210608-tjg5oYA7wmO3aAECrIeI",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a summary of the metabolic properties for a 175 cm tall, 85 kg, 40-year-old man climbing 2,500 steps at 18 cm per step and 40 steps per minute.\n\nThe screenshot shows the WolframAlpha calculation with all specified inputs correctly configured:\n- **Input information:** male, 40 years old, 175 cm, 85 kg, 2,500 steps, 18 cm step height, 40 steps/min.\n- **Metabolic properties:**\n  - Energy expenditure: 2720 kJ\n  - Average energy expenditure per step: 1.1 kJ/step\n  - Fat burned: 0.0842 kg\n  - Oxygen consumption: 129.9 L\n  - Metabolic equivalent: 7 metabolic equivalents\n\nThe result response accurately summarizes these exact figures.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Calculating Metabolic Properties**\n\nI'm focusing on the input data needed to determine metabolic properties. I have all the user's physical attributes and activity details ready for processing.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Calculating Metabolic Properties**\n\nI'm focusing on the input data needed to determine metabolic properties. I have all the user's physical attributes and activity details ready for processing.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/USRYPHJ+CuPX8T2Z+KUhzAOZTAc59DacpaDQ89Tai2qWiJa0YuP5jpcv8Wpp3hplOqlz1onBqLuDmmEYapci2S3fWffzlJJHcsXCummSCW679qKeA6rJYXot9kkfZkcv0YWXM1aJoqjeJkLidjtuF/dAg1NdIOz2WSekx04vlC0Wns6oMeoYgAMeZm8f99RXXRU2WZvUtZ2YkxlL9cittQEql+Z6kgWkzQuEYo8dPVKpIamnYE+sHcCZUQ2nt24FGO+fqxrv/e7+cxFLuhOaEihIEpm9Nf3T1Wn9SVQetBXSzV4JHd21kip/j+J9zNzeGVdNI+f+qWHnX6ad/1vpLFYuThgPp26WMBPb8krBBl8vCNtL4kQdYJ9eh3+gxkSjo9KQYQgvcZ3jj8FJZ+BNBkfjGuNjhxkaZyhLa05ywXq7faYrelRWssO/PXT1+L9PPSyRvThwPUxtb01p7RVq4Vy61HAaeKnKl09SZUJagezOWWqy6dRS6JCg0+RQPNfk27ANrPkkh3f9PUcq6OVrAFCqO9fD+Ynpkn6YwSmWJi6G/8Jet0gb7rYDmgr0P+iacyhDRo1K4x0fb8OsLsajOjdTpTeMbgLpWhCA9JVf8fsidwVuaG/NCjH5vbJrUSVjvnPvjOGkONGSqyhaoGLXtGeGfLkJxFYyXlJSwQr/b0Eb7guT9iwoPHFM3kXyMZhrnBf+WH2sOnPwfFriHBaKHruTYLXFdFb6Ri0Ew2uonr2YzfQWLbd/DvW5smi2Q/WKjtldAA6YKq8DVrac4sWuZRAEJFaxR8osauy/EsFCcsCQaXf+DBEZmAmrGJ4h4knzuUCTAxVE63lucly4sdj7tq9PXD4UpuiZ4ABANHte4vsXww7UTGxohU/C0iD65MRAcmwOieTKCtRq8zf1/oyxGOVs3pBV/Bq24mbaPHdTpEIR6WkCFp77HmZHG2K3mEzgAHzqC2C/GJJPwonPCS6LhPWq7YYTMQQ6BQIjxV/5rI9Dbikcd1uPSU1W8pVz0LnEoTw9QCdg4ZlPJm5omGGGDhQN4OMaOzMACKjauaVWfSQ5pwdZ+mFYMZwwK5fsIdlt4RTlJD+ZIAFcAKa/2rYi5azompZXMBmKwUsufm4MwZYpTZ9pK/Hb+klJp6dsb87GZbLU8MK8u4QhUr9pCjhuQ5AMmMHZmd0MyW3f6ktZCd9kZCXXSSt8Yl4VaII5+FVqqgS47B5qkXZUQH0t5G2YLA/z30KzijYIxds91tseqLP3jYBAUUE16+0e73kOLu51IPIkefH1FYSbDDMyYFZBKkmb12vAWlPN8RIGjKmSeX4rVyabqXdycC/4iyfFGp9MEpVa5WJWxNcRvNhtlwhVTK27IvWl2dT5/pH71ImwC68q4ok/dMOyEzMXrT38TgLplaZ7PgOi4t9x3LuEexqZEsC+qf1lUHkWhEeRU/06yMAQyewKRSGu4II0+IZnMovxObzG9gidymycFWSsEY9J6gnzy3a2zAUFOlpcMP5ZrHh7O0/Ya7uY=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210608,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 479,
+    "prompt_tokens": 2546,
+    "total_tokens": 3025,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 279,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00370575,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00370575,
+      "upstream_inference_prompt_cost": 0.0019095,
+      "upstream_inference_completions_cost": 0.00179625
+    }
+  },
+  "provider": "Google"
+}

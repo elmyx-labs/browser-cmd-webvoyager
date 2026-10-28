@@ -1,0 +1,41 @@
+{
+  "id": "ArXiv--11",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "For Non-English submissions, do I need to provide a multi-language abstract, if need, answer the separator between the multiple abstracts.",
+  "answer": "FINAL: arXiv’s current guidance does not state a requirement for a multilingual abstract or specify a separator between abstracts. It requires an English version of the entire paper, placed first, followed by the non-English version; an English abstract alone is insufficient. This policy took effect on February 11, 2026.\n\nSources: arXiv’s “Non-English submissions” page (https://info.arxiv.org/help/faq/multilang.html), its “Abstract: required” metadata instructions (https://info.arxiv.org/help/prep.html), and its policy update (https://blog.arxiv.org/2026/01/13/non-english-paper-submission-guidelines/).\nScreenshot evidence: final.png shows the current non-English submission guidance and English-first requirement.",
+  "response": "Based on the provided task instruction, screenshot, and textual response:\n\n1. **Task Requirement**: Determine whether a multi-language abstract is required for non-English submissions, and if it is needed, state the separator between the multiple abstracts.\n2. **Evaluation**:\n   - The screenshot shows arXiv's policy page for \"Submissions in Languages Other Than English and Multiple-Language Submissions.\"\n   - The response correctly addresses the question by stating that a multi-language abstract is not required under the current guidance (which instead requires an entire English version of the paper). Because it is not needed, the conditional requirement to provide a separator does not apply.\n\nThe response accurately and directly answers the question based on the official guidelines.\n\nSUCCESS",
+  "reason_short": "Based on the provided task instruction, screenshot, and textual response: 1. **Task Requirement**: Determine whether a multi-language abstract is required for non-English submissions, and if it is needed, state the separator between the mul",
+  "screenshots": [
+    "task_131/final.png"
+  ],
+  "raw_screenshot": "task_131/final.png",
+  "source_result": "task_2",
+  "usage": {
+    "completion_tokens": 979,
+    "prompt_tokens": 1764,
+    "total_tokens": 2743,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 827,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00499425,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00499425,
+      "upstream_inference_prompt_cost": 0.001323,
+      "upstream_inference_completions_cost": 0.00367125
+    }
+  },
+  "elapsed_seconds": 8.92
+}

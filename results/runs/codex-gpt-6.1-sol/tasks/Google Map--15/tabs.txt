@@ -1,0 +1,7 @@
+## session of the actor
+No tab is kept.
+<browser trusted="no">
+ t1 ok https://www.google.com/maps/place/Park+N'+Lock/@40.7495804,-73.9958947,17z/data=!3m2!4b1!5s0x89c259ae350b9551:0x547569f890d03158!4m6!3m5!1s0x89c259ae362009b7:0xce521427e4bc3c9a!8m2!3d40.7495764!4d-73.9933198!16s%2Fg%2F11f656kdb6?hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D — Park N' Lock - Google Maps
+ t2 http 429 https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Ddaytime%2Bonly%2Bparking%2BMadison%2BSquare%2BGarden%26sei%3DryLhapK7B6CdseMPn_HP8A8&q=EgS5R1iwGK_FhNcGIjDf-VblTvkYYb7roMHALWj-IFFQp1SasU0sKmxs_kRIxHMSjHjZVEu2iEWanG2MqS4yAnJSWgFDYJLqsYTNlJO2mAE — https://www.google.com/search?q=daytime+only+parking+Madison+Square+Garden&sei=ryLhapK7B6CdseMPn_HP8A8
+*t3 ok https://en.parkopedia.com/parking/building/madison-square-garden-center-new-york-ny/?arriving=202610280900&leaving=202610281700 — Madison Square Garden Center parking - free or cheap lots, garages and street meter spots
+</browser>

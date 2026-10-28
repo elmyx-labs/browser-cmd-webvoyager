@@ -1,0 +1,4 @@
+[x] Look up the most recent papers related to 'cs.CL'. Evidence: https://arxiv.org/list/cs.CL/recent — “Authors and titles for recent submissions”; “Tue, 27 Oct 2026”; first entry arXiv:2610.35846.
+[x] Select one and show its abstract. Evidence: https://arxiv.org/abs/2610.35846 — “Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR”; full abstract recorded in ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts in view together. Evidence: final.png, selected paper page showing title, submission date, cs.CL subject, and abstract. No filters or sort controls were applied on the abstract page.
+[x] Write the result and its evidence to ./ANSWER.txt. Evidence: ANSWER.txt contains selected paper, listing and submission dates, abstract, source URLs, and screenshot reference.

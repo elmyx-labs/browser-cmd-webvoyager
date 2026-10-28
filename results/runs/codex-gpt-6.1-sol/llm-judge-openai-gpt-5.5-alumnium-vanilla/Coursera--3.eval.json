@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--3",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify a new course or Specialization on Coursera related to Python Data Science, sort the courses by newest, what the first course is and which institution offers it.",
+  "answer": "FINAL: The first result is “Build AI Apps with Python and Large Language Models,” offered by The Skill Valley.\n\nOn October 27, 2026, I searched Coursera for “Python Data Science,” selected Newest, and applied Data Science (topic), Python Programming (skill), and Courses/Specializations (learning products). The course appears first and is marked “New.”\n\nSource: https://www.coursera.org/search?query=Python%20Data%20Science&productTypeDescription=Courses&productTypeDescription=Specializations&skills=Python%20Programming&topic=Data%20Science&sortBy=NEW\nCourse: https://www.coursera.org/learn/build-ai-apps-python-large-language-models\nEvidence: final.png.\n\nScreenshot limitation: Coursera displays the selected “Newest” option only inside its sort dialog. The screenshot shows the results with the dialog closed; the applied sort is recorded as sortBy=NEW in the source URL above.",
+  "response": "The task was to find a new Coursera course or Specialization related to “Python Data Science,” sort results by newest, and report the first course and institution.\n\nThe screenshot shows Coursera search results for “Python Data Science” with relevant filters applied, including Python Programming, Data Science, and Courses/Specializations. The first visible result is:\n\n- **Course:** “Build AI Apps with Python and Large Language Models”\n- **Institution:** The Skill Valley\n- It is marked **“New”**\n\nAlthough the screenshot does not visibly show the “Newest” sort option selected, the result response provides a Coursera URL containing `sortBy=NEW`, which supports that the results were sorted by newest.\n\nTherefore, the task was completed as requested.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The task was to find a new Coursera course or Specialization related to “Python Data Science,” sort results by newest, and report the first course and institution. The screenshot shows Coursera search results for “Python Data Science” with ",
+  "screenshots": [
+    "task_286/final.png"
+  ],
+  "raw_screenshot": "task_286/final.png",
+  "source_result": "task_286",
+  "usage": {
+    "completion_tokens": 395,
+    "prompt_tokens": 1797,
+    "total_tokens": 2192,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 229,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.4
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Booking--20",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Locate a hotel in Rome with a good rating (7 or above) that offers free cancellation and breakfast included, for a stay from October 28 to November 2, 2026, for two adults.",
+  "answer": "FINAL: Hilton Garden Inn Rome Claridge in Rome matches the requested stay: October 28–November 2, 2026 (5 nights), for 2 adults in 1 room.\n\nBooking.com lists a Queen Room with 1 queen bed, breakfast included, and free cancellation. Its guest rating is 8.5/10 (“Very Good”), based on 593 reviews.\n\nEvidence: final.png shows the hotel, rating, room, breakfast and cancellation terms together with the dates, occupancy, and applied Hotels, Good: 7+, Breakfast included, and Free cancellation filters. The search URL confirms the year 2026.\n\nSource: https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaMEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALPj4TXBsACAdICJDczNzlhMzhkLWIzY2ItNDEwYi1iMGFlLTU3OGVkM2VlNDUxY9gCAeACAQ&aid=304142&ss=Rome&efdco=1&lang=en-us&src=index&dest_id=-126693&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=53a48f27547b0439&checkin=2026-10-28&checkout=2026-11-02&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bfc%3D2%3Bmealplan%3D1%3Breview_score%3D70",
+  "response": "The evaluation of the task is based on the following criteria:\n\n1. **Destination & Dates**: The search was conducted for Rome from Wednesday, October 28 to Monday, November 2, 2026 (5 nights).\n2. **Occupancy**: The search was set for 2 adults in 1 room.\n3. **Rating & Amenities**: The filters \"Good: 7+\", \"Breakfast included\", and \"Free cancellation\" were properly applied.\n4. **Hotel Result**: The resulting hotel, *Hilton Garden Inn Rome Claridge*, has a rating of 8.5/10 (above 7), explicitly displays \"Breakfast included\" and \"Free cancellation\", and accommodates 2 adults.\n\nAll requirements specified in the task instruction have been successfully met.\n\nSUCCESS",
+  "reason_short": "The evaluation of the task is based on the following criteria: 1. **Destination & Dates**: The search was conducted for Rome from Wednesday, October 28 to Monday, November 2, 2026 (5 nights). 2. **Occupancy**: The search was set for 2 adult",
+  "screenshots": [
+    "task_218/final.png"
+  ],
+  "raw_screenshot": "task_218/final.png",
+  "source_result": "task_218",
+  "usage": {
+    "completion_tokens": 463,
+    "prompt_tokens": 2048,
+    "total_tokens": 2511,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 297,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00327225,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00327225,
+      "upstream_inference_prompt_cost": 0.001536,
+      "upstream_inference_completions_cost": 0.00173625
+    }
+  },
+  "elapsed_seconds": 5.79
+}

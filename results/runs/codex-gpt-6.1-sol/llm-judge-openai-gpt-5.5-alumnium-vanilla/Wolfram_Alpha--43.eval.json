@@ -1,0 +1,31 @@
+{
+  "id": "Wolfram Alpha--43",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "A polyominoes of order 6 means you have 6 identical squares to combine different shapes (2-sided). How many combinations are there? Looking at all the shapes in the result, how many of them have only 2 rows in total?",
+  "answer": "FINAL: There are 35 two-sided polyominoes of order 6, and 12 of the displayed shapes occupy exactly two rows.\n\nEvidence: WolframAlpha's “polyomino | order 6” result lists “including orientation (2-sided) | 35.” In its fully expanded Images diagram, the two-row shapes are positions 2–9 and 18–21, counting left to right, top to bottom. The one-row straight shape is excluded.\nSource: https://www.wolframalpha.com/input?i=polyominoes+of+order+6\nScreenshot: final.png (viewport, 1280 × 1111 pixels).",
+  "response": "The result matches the task.\n\n- The screenshot shows WolframAlpha for “polyominoes of order 6.”\n- In the Counts table, it lists **including orientation (2-sided): 35**, which answers the first question.\n- The expanded Images section displays the 35 shapes. Counting the shapes that visibly occupy exactly **2 rows** gives **12**: positions 2–9 and 18–21 when read left-to-right, top-to-bottom.\n- The result response correctly states both requested values: **35 combinations** and **12 shapes with only 2 rows**.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The result matches the task. - The screenshot shows WolframAlpha for “polyominoes of order 6.” - In the Counts table, it lists **including orientation (2-sided): 35**, which answers the first question. - The expanded Images section displays",
+  "screenshots": [
+    "task_612/final.png"
+  ],
+  "raw_screenshot": "task_612/final.png",
+  "source_result": "task_612",
+  "usage": {
+    "completion_tokens": 2370,
+    "prompt_tokens": 2329,
+    "total_tokens": 4699,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2210,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  },
+  "elapsed_seconds": 63.58
+}

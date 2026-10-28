@@ -1,0 +1,41 @@
+{
+  "id": "Booking--4",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for the cheapest Hotel near Kashi Vishwanath Temple that offer breakfast from Dec 25th - Dec 26th, 2026.",
+  "answer": "FINAL: Super Hotel O Benia Park Formerly Parv is the cheapest matching hotel on Booking.com for December 25–26, 2026: ₹2,099 plus ₹139 taxes and fees for 1 night, 2 adults, 1 room. The Classic Triple Room includes breakfast and is listed 0.8 km from Kashi Vishwanath Temple.\n\nI defined “near” as less than 1 km. Booking.com showed 32 results with Hotels, Breakfast included, and Less than 1 km applied, sorted by Price (lowest first); this hotel was first.\n\nSource: https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaMEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKciYTXBsACAdICJDIzOTM2YmYxLTFmNzQtNDU5OC1iMmRmLWQzZWJhNzRlMjAxMdgCAeACAQ&aid=304142&ss=Kashi+Vishwanath+Temple%2C+Varanasi%2C+Uttar+Pradesh%2C+India&map=1&efdco=1&lang=en-us&dest_id=264353&dest_type=landmark&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=d7578d8e628500a5&checkin=2026-12-25&checkout=2026-12-26&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bmealplan%3D1%3Bdistance%3D1000&order=price&selected_currency=INR#map_closed\nEvidence: final.png (viewport screenshot of the filtered results).",
+  "response": "**Evaluation:**\n\n1. **Destination & Dates:** The search correctly targeted \"Kashi Vishwanath Temple\" for the dates Fri, Dec 25 – Sat, Dec 26, 2026.\n2. **Criteria & Filters:** Filters for \"Hotels\", \"Breakfast included\", and distance (\"Less than 1 km\") were properly selected, and results were sorted by \"Price (lowest first)\".\n3. **Accuracy of Findings:** The top result displayed is \"Super Hotel O Benia Park Formerly Parv\", located 0.8 km from Kashi Vishwanath Temple, offering a room with breakfast included at Rs. 2,099 (+ taxes/fees), which matches the details provided in the final response.\n\nAll requirements of the prompt were accurately satisfied.\n\n**Verdict:** SUCCESS",
+  "reason_short": "**Evaluation:** 1. **Destination & Dates:** The search correctly targeted \"Kashi Vishwanath Temple\" for the dates Fri, Dec 25 – Sat, Dec 26, 2026. 2. **Criteria & Filters:** Filters for \"Hotels\", \"Breakfast included\", and distance (\"Less th",
+  "screenshots": [
+    "task_206/final.png"
+  ],
+  "raw_screenshot": "task_206/final.png",
+  "source_result": "task_206",
+  "usage": {
+    "completion_tokens": 512,
+    "prompt_tokens": 2071,
+    "total_tokens": 2583,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 343,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00347325,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00347325,
+      "upstream_inference_prompt_cost": 0.00155325,
+      "upstream_inference_completions_cost": 0.00192
+    }
+  },
+  "elapsed_seconds": 7.28
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210289-14IX0kZUDNKZcZFiPKxX",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task requires finding the cheapest one-way flight from New York to Tokyo departing on January 15, 2027, along with the airline and total flight duration.\n\nBased on the provided screenshot of Google Flights:\n- **Date & Route**: One-way from New York to Tokyo departing on Friday, January 15 (2027).\n- **Cheapest flight**: Air India at $407.\n- **Flight duration**: 29 hours 55 minutes.\n\nThe response accurately reports the airline (Air India) and the total flight duration (29 hours 55 minutes) matching the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Flight Parameters**\n\nI've got the core parameters locked in: one-way, economy class, one adult passenger, New York to Tokyo. The departure date is set for January 15, 2027. Now I'm focused on extracting and interpreting the required data, ensuring I can identify the most economical flight option. I'll need to extract the airline and total flight duration.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Flight Parameters**\n\nI've got the core parameters locked in: one-way, economy class, one adult passenger, New York to Tokyo. The departure date is set for January 15, 2027. Now I'm focused on extracting and interpreting the required data, ensuring I can identify the most economical flight option. I'll need to extract the airline and total flight duration.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EvwICvkIAWkUfRPeS5GzBAO4fUIh/bJMT9pyfXnt877q12uIcX+1yRjERE9lCw3pBbucXquQS936XeSS6v+BqJebofabN7js1Amw9VS0yEqDS4TvR45C0dUmv/Fp2IJ4P14UR7C65UqcZSGcdHyhiasotHcXOA0sUId4SrOQFIMiIEDYqPS9LHOWJvnlNuk8Xa8Fqr7lBER2WPXgdgKJMS/Jrr0YUdXyAyrRqp3DtJHD7oDbX0TybJJYifCvnW6YtqJJsWzN6kSjuyfwPG8OBlZ8h0d0LrTU6LGkTtmLnqvRU0vB2WcODIUe4FRO0W9nW0+xHjWBYtPab5BQi+jiKb/7BqoqwDbB3C1pJc2IZkckZZRa91GxQnbl+eJXlui9FWj2OFei5gR6P2/BiwZwFtLR1hulwwj4Ufh6tFyNGlgA6XeZPa+lwq33v1ilK8bawDF/yPwWa99Wkns1sKiH/hQW0ojP+JmgRqDIVBhL6qTgHqYBDhNrfVaXjTbAoYtub04X300nPGUGDmVUsFhZjc4EiAByikz4gyb0hLNT1+To3qP00KCSD+IyKgha/UgAehxLJMHEaOt30w+Lnhow8zHSjDYTFLFx6DV6xjuN4DY31OBmab+JASEQPwhPZMgtjsQqxjsP0mX6u6Jf4f6Caox+/fhnW6fOIDrPs9Blqm+HCyRNkU+QCuDXuA1EAbu2K+weV1IRQ386laJnKQK3d/11yHHVeaMxL0uUfVr2H4+Ty5Lu/yJhga6vr2WsGBsXIPkJU8s7tPFcE73O4qg5I2Dh5HkfCbLoupNfjOcsPDYTx32LHzPOtk6ZOIfmGdVdCgpd9Rk9l1vVFK+KfvJfHApDaMWLOb7QcloSjv8M09oxBvYroj9NnHWfzKIHmLLZiHfBGPGyC8/0TP72MtzljMh0r52I+ilkbkGBtF/n/bAyTSTRTkJ4zJBLoZFMUPxvuxkPkueeeM2C6p0TFp9X0uOSjLUHll7nx+/iaKMCLvm61cfb8/NVlCkde9BbmbtnPFQBEted3pYntkg00mx5v6OZDIeBRSP1PKmz/ih0MQ3sUnL7mZ1E2sdokAlBReaJlTVuzbQwzDZSrSYKkbxZW5ORgusHQii17NURcY8sC7wHkj4WHzyR9b9zW5RbtXPBkr1fTlu8+upbYc9f5zR4axUeIc7pCiFB99pCz/qm/weRyz2MmEt1rnXW1GKeX/Tz3SBwKRzjwQunxZ/z46QdASIh/hRPg1sqvwCBEcmVAlS2qBWzO8R+PGUQxswycEY0t7Dq97kUBkAXdJ8POyapdqNl4ng8wwy3KsDmibySViyjW+aDUEnfhJnans0hzRHhLUh0CKMKL5ruKssOf/0Al76Su5TkdOULMz7UL5sPBqonbTvA1yl86fmbrB+i1ueqIXmIoDNN4Ur0wXnnb2wiBVrG3H0I/W7eZkAy1Jp8RbKkTonAZgs5qqjqMTtWrS0Z07/G6LGh3aUIFdZYwq7dXi8P8au8wcycmQ9SfDJdL/s7voc9dAO0zCz6ah7nbnU=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210289,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 420,
+    "prompt_tokens": 1800,
+    "total_tokens": 2220,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 283,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002925,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002925,
+      "upstream_inference_prompt_cost": 0.00135,
+      "upstream_inference_completions_cost": 0.001575
+    }
+  },
+  "provider": "Google AI Studio"
+}

@@ -1,0 +1,4 @@
+- [x] Browse Apple Music on the entertainment section of the Apple's website. — https://www.apple.com/apple-music/, reached from Entertainment > Apple Music.
+- [x] See which singers' names are included in the pictures on this page. — Main captions “Olivia Rodrigo” and “Die On This Hill by SIENNA SPIRO”; additional image descriptions name Nao, Kapo, Myke Towers, Ed Sheeran, ROSÉ, and Bruno Mars. Exact wording recorded in NOTES.md.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the evidence without a popup or banner. — final.png, 774×1280, shows Apple Music and both main picture captions; sole evidence image read.
+- [x] Write the result and its evidence to ./ANSWER.txt. — FINAL line, source URL, date and image evidence saved.

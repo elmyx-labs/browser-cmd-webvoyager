@@ -1,0 +1,3 @@
+[x] Check out LeBron James' Stats to see how many games he has played in his career so far. https://www.espn.com/nba/player/stats/_/id/1966/lebron-james — Regular Season Averages, Career row, GP 1625; glossary GP:Games Played.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with name and deciding facts visible together. final.png from browser-0001.png, 1440x1370 viewport shrunk to 1280px; browser evidence confirms LEBRON JAMES, Regular Season, GP, Career and 1625 in view.
+[x] Write result and evidence to ./ANSWER.txt. FINAL line states 1,625 career regular-season games, date and ESPN source.

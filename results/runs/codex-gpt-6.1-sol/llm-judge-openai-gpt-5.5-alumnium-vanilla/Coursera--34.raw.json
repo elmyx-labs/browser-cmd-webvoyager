@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edyd9SyjZRlPqX7A2doSpfFpjJk8C",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find Coursera’s “Essentials of Global Health,” identify its instructor, summarize the instructor’s bio, and note any other Coursera courses offered by that instructor.\n\nThe result response identifies the instructor as **Richard Skolnik**, and the screenshot shows Richard Skolnik’s Coursera instructor profile with the course **“Essentials of Global Health”** listed under “Courses - English.” The bio summary in the response accurately reflects the visible Coursera bio, including his 40+ years of experience, authorship of *Global Health 101*, World Bank background, work in global health systems and equity, roles at PRB/GW/Harvard, Yale teaching, and educational background. The response also correctly notes that no additional Coursera courses are listed on the profile; the screenshot shows only “Essentials of Global Health.”\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196563,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 460,
+    "prompt_tokens": 2426,
+    "total_tokens": 2886,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 274,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

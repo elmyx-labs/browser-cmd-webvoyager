@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--14",
+    "ques": "Find motorcycle parking near Radio City Music Hall.",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Centerpark’s 158 West 54th Street Garage is a verified motorcycle parking option near Radio City Music Hall.\n\nAddress: 158 West 54th Street, between Sixth and Seventh Avenues, New York, NY.\nMotorcycles: The operator explicitly lists “Bicycle and motorcycle parking available.”\nHours: “24/7 Access.”\nDistance: Google Maps shows a 7-minute walk (0.3 mile) to Radio City Music Hall via West 54th Street and Sixth Avenue.\n\nVerified October 27, 2026.\nSources:\n- Centerpark operator listing: https://centerparkus.com/location/158-west-54th-street\n- Google Maps walking route: https://www.google.com/maps/dir/?api=1&origin=158+West+54th+Street+New+York+NY&destination=Radio+City+Music+Hall+New+York&travelmode=walking&hl=en\nEvidence: final.png shows the garage name, address, motorcycle parking feature, and 24/7 access together on the operator’s page.",
+    "result_text": "FINAL: Centerpark’s 158 West 54th Street Garage is a verified motorcycle parking option near Radio City Music Hall.\n\nAddress: 158 West 54th Street, between Sixth and Seventh Avenues, New York, NY.\nMotorcycles: The operator explicitly lists “Bicycle and motorcycle parking available.”\nHours: “24/7 Access.”\nDistance: Google Maps shows a 7-minute walk (0.3 mile) to Radio City Music Hall via West 54th Street and Sixth Avenue.\n\nVerified October 27, 2026.\nSources:\n- Centerpark operator listing: https://centerparkus.com/location/158-west-54th-street\n- Google Maps walking route: https://www.google.com/maps/dir/?api=1&origin=158+West+54th+Street+New+York+NY&destination=Radio+City+Music+Hall+New+York&travelmode=walking&hl=en\nEvidence: final.png shows the garage name, address, motorcycle parking feature, and 24/7 access together on the operator’s page.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_461/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_461",
+  "elapsed_seconds": 345.8619849681854,
+  "execution_error": null,
+  "proxy_bytes": null
+}

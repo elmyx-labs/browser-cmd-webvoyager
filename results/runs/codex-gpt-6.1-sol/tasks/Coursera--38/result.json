@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--38",
+    "ques": "Browse Coursera, which universities and companies from Australia are partners of Coursera? List all of them.",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Coursera lists five partners from Australia, all universities:\n\n1. Macquarie University\n2. The University of Melbourne\n3. The University of Sydney\n4. University of Western Australia\n5. UNSW Sydney (The University of New South Wales)\n\nNo companies are listed under Australia in Coursera's partner directory.\n\nEvidence: https://www.coursera.org/partners — “Meet our partners,” filtered by country to Australia, checked 27 October 2026. These are the complete filtered results; each is labelled “Australia.” Screenshot: final.png.",
+    "result_text": "FINAL: Coursera lists five partners from Australia, all universities:\n\n1. Macquarie University\n2. The University of Melbourne\n3. The University of Sydney\n4. University of Western Australia\n5. UNSW Sydney (The University of New South Wales)\n\nNo companies are listed under Australia in Coursera's partner directory.\n\nEvidence: https://www.coursera.org/partners — “Meet our partners,” filtered by country to Australia, checked 27 October 2026. These are the complete filtered results; each is labelled “Australia.” Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_319/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_319",
+  "elapsed_seconds": 79.19228792190552,
+  "execution_error": null,
+  "proxy_bytes": null
+}

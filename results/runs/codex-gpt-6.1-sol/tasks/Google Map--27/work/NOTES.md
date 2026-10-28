@@ -1,0 +1,2 @@
+Google Maps search “Target stores in Atlanta, GA” returned seven Target entries: 375 18th St NW; 1275 Caroline St NE; 3535 Peachtree Rd NE; 2400 N Druid Hills Rd NE; 2539 Piedmont Rd NE; 3660 Marketplace Blvd; 100 Perimeter Center Pl. Exact end text: “You've reached the end of the list.” Final viewport shows seven red Target pins, search query and list end.
+Source: https://www.google.com/maps/search/Target+stores+in+Atlanta,+GA/@33.7950748,-84.5769552,11z/data=!3m1!4b1?hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D

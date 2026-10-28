@@ -1,0 +1,3 @@
+[x] How many days are there between February 12, 2024 and August 9, 2050? — https://www.wolframalpha.com/input?i=days+between+February+12%2C+2024+and+August+9%2C+2050 shows “days from Monday, February 12, 2024 to Tuesday, August 9, 2050” and “9675 days”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with both dates and result visible and no overlay. — final.png, 1280 × 723, shows the input interpretation and result together.
+[x] Write ./ANSWER.txt with the result, dates, and evidence; first line begins FINAL:. — ANSWER.txt saved with 9,675 days, both dates, source URL, and screenshot reference.

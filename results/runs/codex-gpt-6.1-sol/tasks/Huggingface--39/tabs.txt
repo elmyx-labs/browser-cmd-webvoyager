@@ -1,0 +1,8 @@
+## session of the actor
+3 kept tabs: 2 ok, 1 not (t3 http 429).
+<browser trusted="no">
+*t1 kept "Trainer API reference" ok https://huggingface.co/docs/transformers/main/en/main_classes/trainer#transformers.Trainer — Main classes [screenshot media/browser/browser-0003.png]
+ t2 kept ok https://huggingface.co/docs/transformers/training — Fine-tuning · Hugging Face [screenshot media/browser/browser-0004.png]
+ t3 kept http 429 https://huggingface.co/docs/transformers/main/en/main_classes/trainer — 429 – Hugging Face [screenshot media/browser/browser-0005.png]
+ t4 http 429 https://huggingface.co/docs/transformers/en/main_classes/trainer — 429 – Hugging Face
+</browser>

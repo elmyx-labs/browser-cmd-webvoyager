@@ -1,0 +1,3 @@
+[x] Search for "feel giddy" in Cambridge Dictionary's Thesaurus and list the synonyms the dictionary provides. URL: https://dictionary.cambridge.org/thesaurus/feel-giddy; "Synonyms": "feel dizzy", "whirl", "spin", "reel".
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item name and synonyms together, without overlays. final.png shows "feel giddy" and all four synonyms; 1280 px long side.
+[x] Write the result and evidence to ./ANSWER.txt with first line FINAL:. ANSWER.txt contains the four synonyms, source URL, access date and screenshot reference.

@@ -1,0 +1,5 @@
+- [x] Find a hotel in Ohio. Booking.com Ohio results show “Holiday Inn Columbus Dwtn-Capitol Square by IHG”, “Columbus”, and selected “Hotels”. Source URL in ANSWER.txt.
+- [x] From December 20th to December 23th, 2026. Search shows “Sun, Dec 20 — Wed, Dec 23”; source URL has checkin=2026-12-20&checkout=2026-12-23.
+- [x] For 3 adults and 2 rooms. Search shows “3 adults · 0 children · 2 rooms”; hotel offer says “Recommended for your group”, “2× Standard King Room”, and “3 nights, 3 adults”. Source URL in ANSWER.txt.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with hotel name and constraints visible and no overlay. Saved at 1280×723; only evidence image read.
+- [x] Write result and evidence to ./ANSWER.txt. Written with result, dates, occupancy, room offer, price, and exact source URL.

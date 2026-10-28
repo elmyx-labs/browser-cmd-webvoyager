@@ -1,0 +1,41 @@
+{
+  "id": "Google Search--34",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Determine the distance from Earth to Mars as of today's date.",
+  "answer": "FINAL: On October 28, 2026 at 00:00 Europe/London, the Earth–Mars distance is approximately 219.11 million kilometres.\n\nEvidence: TheSkyLive’s Mars planetarium displays “28-Oct-2026 00:00”, “Object: Mars”, and “Earth Dist: 219.11 MKm” together. Source: https://theskylive.com/planetarium?obj=mars&date=2026-10-28&h=00&m=00 . The supporting viewport screenshot is final.png.",
+  "response": "Based on the provided screenshot and response:\n\n1. The screenshot from TheSkyLive shows the date set to 28-Oct-2026 00:00 for the object Mars.\n2. The displayed distance from Earth (\"Earth Dist\") is clearly stated as `219.11 MKm` (million kilometers).\n3. The response accurately reflects this information, fulfilling the task requirement to determine the distance from Earth to Mars as of the specified date.\n\nVerdict: SUCCESS",
+  "reason_short": "Based on the provided screenshot and response: 1. The screenshot from TheSkyLive shows the date set to 28-Oct-2026 00:00 for the object Mars. 2. The displayed distance from Earth (\"Earth Dist\") is clearly stated as `219.11 MKm` (million kil",
+  "screenshots": [
+    "task_521/final.png"
+  ],
+  "raw_screenshot": "task_521/final.png",
+  "source_result": "task_521",
+  "usage": {
+    "completion_tokens": 267,
+    "prompt_tokens": 1715,
+    "total_tokens": 1982,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 162,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0022875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0022875,
+      "upstream_inference_prompt_cost": 0.00128625,
+      "upstream_inference_completions_cost": 0.00100125
+    }
+  },
+  "elapsed_seconds": 5.46
+}

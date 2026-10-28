@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edyc1FaILKGXdW0x87JfiJ3NVCCjV",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to locate a hotel in Rome for October 28 to November 2, 2026, for two adults, with:\n\n- Rating of 7 or above\n- Free cancellation\n- Breakfast included\n\nThe screenshot shows Booking.com search results for Rome with:\n\n- Dates: Wed, Oct 28 to Mon, Nov 2\n- Occupancy: 2 adults, 0 children, 1 room\n- Filters applied: Hotels, Good: 7+, Breakfast included, Free cancellation\n- A listed property: Hilton Garden Inn Rome Claridge\n- Rating: 8.5 “Very Good”\n- Room: Queen Room\n- Breakfast included\n- Free cancellation\n\nThe result response also provides the Booking.com URL with `checkin=2026-10-28` and `checkout=2026-11-02`, confirming the requested year.\n\nAll required conditions are satisfied.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196493,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 347,
+    "prompt_tokens": 1981,
+    "total_tokens": 2328,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 151,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

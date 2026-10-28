@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210443-usgtc93vyHaf6EGBFLLt",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user asked to search for a park in California called \"Castle Mountains National Monument\" and find out its \"Basic Information\".\n\nThe screenshot confirms the agent navigated to the official National Park Service page for Castle Mountains National Monument under the \"Basic Information\" section. The response details the information found on that page, including operating hours, facilities, admission, address, directions, weather, and contact info.\n\nTherefore, the task was successfully completed.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Discovering Castle Mountains**\n\nI'm currently reviewing the National Park Service page for Castle Mountains National Monument. My focus is on extracting its fundamental details.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Discovering Castle Mountains**\n\nI'm currently reviewing the National Park Service page for Castle Mountains National Monument. My focus is on extracting its fundamental details.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+ncZkandMrmaIGOQhtUBPERZi2cYf+cpaUH6yerOq1ZaUaLD/KeGH2lmC77v7wZz/Z5xUS+Ue7ZYYVQ+uMqOScbgO2z/CEv/iLkuNvs4cnhnTR6mEr0/cyfWFkb17aIS5EsnBB/AGz9zVpMJ4zM7zIHjhOBUhOoIPrWJEYa65PvZ/2eoK4XILyOrQtpNTaZUISBQ4/I49u3VNyicDQadxYGdpzMIbCEqzjMGFPpW17BNGLLYFtPIFgz45rMaPVyJ7ixfB9mVrKcuKAdOCdRGrtM8WJSkeYXgucKm/TfiQ6LJpOwd0JIH5N41n2h5a/eHSsFnXwGxuDQsadMoS0xRO8aaIUc/Vjkg/QIPWlyo8KbMx2xyxWvkvIq33UDfWM7kPpav/98zuiS10jTvuddFSQSyIY9aumma90vEtLu1vYnRg6fBakxranZ5b9z1Bg6ENh3V3VqoOfCI2ba2L4wucuqxNLauCpUuXJ9tgBgv2XPvfoM8SD9Zgd0pCqdL+lZtRnveyGjztoXJ0l4o+nN9GeECJXwo0YgRALydYdfKi4p0wJHPsk56dMbIgGXHklEZ13oUiD4PfuVzm8Bin2QjnthtmoeEgVVy8I1XJTDZ+GRPS58xM331NGfyov6DPtwfwLJM2ETQmSyhL1D6WaSmdlpthRRw1Ud4nWVFiI7BU/cfCp002/T1+77BtQeuR621DsbmOt6BDGQNcI5ERZuoJphMrFZwxIODbkwRCUrn3299nKzzRT4BEpa5gnL9nH872IBAfJ7w1AANA3Cr1kcD/iP//VRxqrC4ZUjOT7Ai2P8kp2cJ3vKE0FlTF3n4N4185d9zA16eY54hZQPaH/bS6KjZTGsHDeZy5aaXHo5+soroPZLXxs++Gj9DEFU7wMHAa74zFLrpnR+V5lO6i8sOTbgaNKlhIOlD+5jlvNEWkjTnoHJZLf4Oe+Pd9Q6+bktnuHhsFTNi5L0yfEGJj5tLQZyW3mogS2KRxDux14HdTshx0NBiEU+Ngb0ZAMCKEek6RGyal06/Vh7wKDp9xlLlplN0Es1wgDJ5qXB0ngXj2580CSVNFucx+oAQNUMgCsrMbS2tO4XoWfaAB1mzl61hX3W1TRAwHg5ejKpsNkf4DJAl6R4IL28EO5wLUWbn0BkASaOGepbkSvfMIsquK6sYPXFL9P6SCGzTbJcYdVTDpJDOYou18K6l7lnxcC8K/eaDpFua21XxyQTCk/c9pYzSmDMEZOr3Pyc5bQmCADcNtI00i6G0CAKW8CaBW3+uo5y6Ojyino71o0GgyFo3k3pPsPo2dlV2ZLKKuG4FI2kAOHj4AFOJqvNhRVMrCYfUgdrrz3qMcle7ZM9GefgeO1Xg5jY1FHrmlS/ObzubBlBSyPNZXbgfRoWaWOKyswJusQh14Yq9We4Q1nMdSxSACZ6x0E6hac2Ms2ttAarU4Z6lCJ6dx0Etz/Otk5G6rmVeBzorAe6FnaVTXG4aNIBzcNN8oT44IXfZefPW3JpRgUGBcjgnfy41yajJNPbXtBIrl8FZudjnB02M7BPf8F3isvcvXq86Ra5KfRf6KGeQMz+itq",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210443,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 291,
+    "prompt_tokens": 2020,
+    "total_tokens": 2311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 200,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00260625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00260625,
+      "upstream_inference_prompt_cost": 0.001515,
+      "upstream_inference_completions_cost": 0.00109125
+    }
+  },
+  "provider": "Google"
+}

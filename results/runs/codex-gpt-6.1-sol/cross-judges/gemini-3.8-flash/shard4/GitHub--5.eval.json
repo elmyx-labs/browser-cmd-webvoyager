@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--5",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a Python repository on GitHub that has been updated in the past 2 days and has at least 500 stars.",
+  "answer": "FINAL: JdeRobot/RoboticsAcademy — https://github.com/JdeRobot/RoboticsAcademy\nPython is its largest language (44.2%), and it has 505 stars. Its latest commit is dated October 28, 2026; the page shows “2 minutes ago” when checked on October 28, 2026, satisfying the requirement for an update in the past 2 days.\nEvidence: final.png is a viewport screenshot showing the repository name, 505 stars, latest commit age, active humble-devel branch, and Python language share together.\nSource: https://github.com/JdeRobot/RoboticsAcademy",
+  "response": "An evaluation of the task requirements against the provided screenshot and response:\n\n1. **Python repository**: In the Languages section on the right side of the repository page, Python is the top language at 44.2%.\n2. **Updated in the past 2 days**: The latest commit on the branch was made \"2 minutes ago\", which clearly satisfies being updated within the past 2 days.\n3. **At least 500 stars**: The repository has 505 stars (visible both in the star button and the \"About\" section).\n\nAll criteria have been fully satisfied.\n\nSUCCESS",
+  "reason_short": "An evaluation of the task requirements against the provided screenshot and response: 1. **Python repository**: In the Languages section on the right side of the repository page, Python is the top language at 44.2%. 2. **Updated in the past ",
+  "screenshots": [
+    "task_372/final.png"
+  ],
+  "raw_screenshot": "task_372/final.png",
+  "source_result": "task_372",
+  "usage": {
+    "completion_tokens": 356,
+    "prompt_tokens": 1721,
+    "total_tokens": 2077,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 230,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00262575,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00262575,
+      "upstream_inference_prompt_cost": 0.00129075,
+      "upstream_inference_completions_cost": 0.001335
+    }
+  },
+  "elapsed_seconds": 8.9
+}

@@ -1,0 +1,2 @@
+Repository: https://github.com/microsoft/vscode — title: GitHub - microsoft/vscode: Visual Studio Code; README heading: Visual Studio Code - Open Source ("Code - OSS").
+Ranking: https://github.com/microsoft/vscode/graphs/contributors?all=1 — Period: All; Weekly from Nov 7, 2015 to Oct 24, 2026; contributions per week to main. Top cards: bpasero, 15,030 commits; jrieken, 12,862 commits; Tyriar, 12,716 commits. Observed October 28, 2026.

@@ -1,0 +1,4 @@
+[x] Search for LLaMA in the huggingface doc. Used the Transformers documentation search for LLaMA, then opened the LLaMA documentation: https://huggingface.co/docs/transformers/v4.56.2/en/model_doc/llama
+[x] What type is the spaces_between_special_tokens parameter in LlamaTokenizer and what is its default value. Source: https://huggingface.co/docs/transformers/v4.56.2/en/model_doc/llama#transformers.LlamaTokenizer — “spaces_between_special_tokens (bool, optional, defaults to False)”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and deciding facts together with no overlay. final.png is 1280 × 723 and shows the parameter, bool, False, LLaMA navigation and v4.56.2 selector.
+[x] Write the result and evidence to ./ANSWER.txt. Saved the result, exact evidence, source URL and screenshot reference.

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209895-vHF5PWj16GcTbnrP8Us6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find the \"Easy Vegetarian Spinach Lasagna\" recipe on Allrecipes and identify the content of its latest review.\n\nThe screenshot confirms that the recipe page for \"Easy Vegetarian Spinach Lasagna\" on Allrecipes was found, and the reviews section shows the latest review by HealthyPlate dated 04/13/2026, reading: \"Easy to make and very delicious.\" \n\nThe Result Response accurately captures this information, including the reviewer, date, review text, and accompanying tags.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Latest Review**\n\nI've located the \"Easy Vegetarian Spinach Lasagna\" recipe on Allrecipes. My current focus is on identifying and extracting the content of the most recent user review, ensuring I can accurately report on its key message.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Latest Review**\n\nI've located the \"Easy Vegetarian Spinach Lasagna\" recipe on Allrecipes. My current focus is on identifying and extracting the content of the most recent user review, ensuring I can accurately report on its key message.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+g4Z/+R5vdtoX07GnSR63PRn6T6I1R6TgxHTDddYRMj1YlyJQUSHkuHBPcBrBTHPiwS6O1gkfQiBsHGmdAz7yDG7PnJKy/PR7muvOBsToA/EVuvPznnrqskM+CjQtCgocXD2hgs4NBKOiYZKL998Yxx4K5POekSd/QK2h3QzBSYgk7SP2byE+iAmpD145/3msY8Z8xOb6/IsNYbx6p4EgTAAJkOoaq2kz77lCm5rgCcBl24etHP8BxogOrfQg0XCF0gHk23roAwEgLbsGP+xd8ufeDk71lqMtTGu1ZL8RVP7UfZ9kjezIFdN/mBX36FtHXEu8Z/jIarJqzzpRWvw5Kv+Lv5P30AStKDb06p1lW6vUA2HjnYzQjQ1RFPwQpl2Mzxl7dAhBPqny1xsA0val0yKzMPMTwH+c9WYFsUoVsv1w8UYW2OxDWpNozuSfHw1qvd9RK50WgM1miIdTnjXS806lD94eF3CCfEzTKDzlYKzmP3n+TRcuWHOHDp76DW3XdbcxIKkNVhI1FsfM9RHULE1YAJIIGp/qo1ALKvz3jd3Tfkyk9To7n3AsArpuaLPjDO8uNrsyiPda0+W8668NZGsBDS8S5yw0U9dTyp6OBhsJqh4OkYuO9sftEPM4joteKW6oO8WFzK/fkDs9kPCyNQ8su4neJIRP85oJqYglIsNT+3pbu53Z0H5PpDzmTpqqjyGZRa5aX4FdfFXBHQtuZX+v6fI4AU6ofpnx1AJRQwvaqpa0QABq+/R4bXO/NZkNGP6HB03kcWDHhEAsyDQUOpZHvV+O1iG2he4GWd/Q7ojMRBXi0SW3E9DO7xq4b5/hm6eJS3OlLmzImpuIhzljgTeO63Ar3eClr/SbIIOZGiM/B30n8x3xsg35RaDs5b8OnOwiCz33JXiyRZe74uyyWtyrikYckWyS6Y+YBS0eLVnD8wmiOc4dWj3xOsSze1/cfijWC/N2lFX2k4V3ET+mntYW1BIEAD9gNkAekQxsWAfFT4GN5DfBb5Q/0UFhb0Oga59oEfwz260lvNThcxpCaHgNZHW+b8r1r4Ib8eTNV79Lf+wCk947p8I62S03OayfgdwHI0OXjZlZdxA8xFLAxI2hK4PKrxebcs5fZkhUPS1dGhFspBzNDffiBjaxBN8++WLdbN/Mnq2tr1w793XdUf0vN+3JlrXC7Oozr6T8HRQd7pktGzQFU+WH90ZS3m9SlUhGktsJ/CROvzEPDUd3mfi69yvXUEOz+M8SaPLV0h+KMZupxi2GO7+h+rv2deuL5TVd4MCP7lWnP9fnBRXhnIKNVKWG1HzupFOuBXJhNb4ezWmaHHuiZKx13ncLR2lQY8psRhXNrX7KVc6KnXwwu3+VCL84ANXED5J7nvFEX4GFP5CSWvp+0WhUSTNNZa2oMkuKfSw==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209895,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 331,
+    "prompt_tokens": 1662,
+    "total_tokens": 1993,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 224,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00248775,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00248775,
+      "upstream_inference_prompt_cost": 0.0012465,
+      "upstream_inference_completions_cost": 0.00124125
+    }
+  },
+  "provider": "Google"
+}

@@ -1,0 +1,4 @@
+[x] Search for the differences between "fewer" and "less" in grammar section. Searched “fewer less”; Cambridge returned https://dictionary.cambridge.org/grammar/british-grammar/less-or-fewer?q=fewer+less. Evidence: “We usually use less with uncountable nouns. We use fewer with plural nouns”.
+[x] Provide examples illustrating their correct usage from the Cambridge Dictionary. Same URL: “I do less work at weekends than I used to.” and “Better cycle routes would mean fewer cars and fewer accidents.” Included in ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item name and deciding facts visible and no overlay. final.png is 1280×723, showing “Less or fewer?”, Grammar search, the rule, both examples and usage warning. Cookie notice closed.
+[x] Write the result and its evidence to ./ANSWER.txt. Includes the result, examples, source URL, access date and screenshot filename.

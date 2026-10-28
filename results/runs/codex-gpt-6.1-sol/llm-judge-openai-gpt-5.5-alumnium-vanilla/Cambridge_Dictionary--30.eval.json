@@ -1,0 +1,31 @@
+{
+  "id": "Cambridge Dictionary--30",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the grammar for present perfect simple uses in English, including examples of affirmative, negative, and interrogative sentences, on the Cambridge Dictionary website.",
+  "answer": "FINAL: Cambridge Dictionary’s English Grammar Today article “Present perfect simple (I have worked)” explains the uses and sentence forms.\n\nSource: https://dictionary.cambridge.org/grammar/british-grammar/present-perfect-simple-i-have-worked\n\nThe tense links the past with the present. Cambridge lists these uses:\n• Experiences up to now, without specifying an important time.\n• Very recent completed events or states, often with just or recently.\n• Past actions with present results.\n• Situations that began in the past and continue now. For gives a duration (for three years); since gives a starting point (since 2006). How long …? asks about duration.\n• Yet, mainly in questions and negative statements, for intended actions that remain undone.\n• Already to emphasise completion or achievement, often before the expected time.\n• Still to emphasise that something expected continues not to happen.\n• Introducing a recent news event in the present perfect, followed by past-simple details. The tense can also introduce a general point, with the past simple supplying specific information about it.\n\nSentence forms and examples assembled from Cambridge’s form table:\n• Affirmative: subject + have/has + past participle — “I have worked.”\n• Negative: subject + have/has not + past participle — “I have not worked.”\n• Interrogative: Have/Has + subject + past participle? — “Have you worked?”\nUse has with he/she/it and have with I/you/we/they. Negative contractions are haven’t and hasn’t.\n\nCambridge states that American English often uses the past simple instead of the present perfect simple, often with already and yet. Its comparison table contrasts American past-simple questions with British present-perfect questions about eating and finishing.\n\nEvidence: final.png shows the article title, sentence-form table and uses introduction. NOTES.md records supporting details from the individual sections and the article’s exact American English wording. Accessed 27 October 2026.",
+  "response": "The task was to find Cambridge Dictionary grammar information on the **present perfect simple**, specifically its **uses** and examples of **affirmative, negative, and interrogative** forms.\n\nThe screenshot shows the Cambridge Dictionary page titled **“Present perfect simple (I have worked)”** from **English Grammar Today**, which matches the requested source. It visibly includes:\n\n- The form explanation: **“We use have/has + the -ed form of the verb.”**\n- A table showing affirmative, negative, and question/interrogative forms:\n  - Affirmative: **have/has worked**\n  - Negative: **have not / has not worked**, **haven’t / hasn’t worked**\n  - Interrogative: **Have/Has … worked?**\n- The beginning of the **“Present perfect simple: uses”** section, including the introductory statement that it refers to past events connected to the present.\n\nThe result response also provides a detailed summary of Cambridge’s listed uses and includes example sentence patterns for affirmative, negative, and interrogative forms. Nothing in the response contradicts the screenshot, and the screenshot confirms the correct Cambridge Dictionary page was accessed.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find Cambridge Dictionary grammar information on the **present perfect simple**, specifically its **uses** and examples of **affirmative, negative, and interrogative** forms. The screenshot shows the Cambridge Dictionary pag",
+  "screenshots": [
+    "task_271/final.png"
+  ],
+  "raw_screenshot": "task_271/final.png",
+  "source_result": "task_271",
+  "usage": {
+    "completion_tokens": 476,
+    "prompt_tokens": 2520,
+    "total_tokens": 2996,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 228,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.64
+}

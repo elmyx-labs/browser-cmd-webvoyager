@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyX0P9pyfH7JaJDaIqV1MDy0GJyK",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find the Easy Vegetarian Spinach Lasagna recipe on Allrecipes and report what the latest review says.\n\nThe screenshot shows the Allrecipes page for “Easy Vegetarian Spinach Lasagna” and the reviews section. The visible top review is by HealthyPlate, dated 04/13/2026, and says: “Easy to make and very delicious.” It also shows the tags “Crowd-pleaser,” “Easy to follow,” and “Worth the effort.” The result response matches the visible review content and provides the requested latest review text.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196182,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 349,
+    "prompt_tokens": 1731,
+    "total_tokens": 2080,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 223,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

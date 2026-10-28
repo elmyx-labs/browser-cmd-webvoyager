@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209970-0cRDaKmUAWUbgALNfHWN",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to locate a queen-sized bedspread on Amazon with a floral pattern and check if it is available in blue color.\n\nThe provided screenshot shows the Amazon product page for \"WONGS BEDDING Blue Quilt Set Queen Size, Botanical Floral Bedspread\", where:\n- The item has a floral pattern (\"Botanical Floral\").\n- The size selected is \"Queen\".\n- The color selected is \"Blue\".\n- The item is shown as \"In Stock\" (available).\n\nThe result response correctly summarizes these details and confirms its availability in blue.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Locating Floral Bedspreads**\n\nI've homed in on a queen-sized bedspread. Amazon has a promising contender: \"WONGS BEDDING Blue Quilt Set,\" boasting a botanical floral pattern. It appears to be available in blue as desired. I am checking the size selection on the webpage, and that is also queen sized.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Locating Floral Bedspreads**\n\nI've homed in on a queen-sized bedspread. Amazon has a promising contender: \"WONGS BEDDING Blue Quilt Set,\" boasting a botanical floral pattern. It appears to be available in blue as desired. I am checking the size selection on the webpage, and that is also queen sized.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "Ev4HCvsHAWkUfROC7e0cTgOSe8YFYiH7Q76/F4JTJss+USpRx8glWgx02kGpLyzrjZoMAYAh6BYhXAzXumqgURqTDDPuZ2PeJqA+mVDwwYGQKD1QuOAxYInDmlrSF4skSGCzniPnmRRCV4iMKkQgmmpxeW0XampAPM0NItvgOXnB+xnmU3uxC6qBb6RYGCD9wLwrBkc0Ky1p7GnyZjKuydsWM15qiaA4Wz4M6pXgfEFv7rpBxqjXsHi0K5RnQmM6FegnrNiZLtodbsUe56IMtsBAXycR8/soEnxfXRwPhU1Yd/UUws1xGQGH6dCki21moAZSr4bqsqXKD9GWYOK8CntJLq3aLFfeUaPdzdJKlu9kPSEndaQ44bMJfJNLENq7Jlbk0x/segGVCuf0C73SkbngnQYCQNaVt5yfIyedKi/V8D8vnAmBS+QUhXvRrFxeED1W8XxA6wMZR2eMXGqekLhxWrDfg0AyyFPFUVHyW87yoSXOMplSRGawNeuGc9hCdXAesuVb3CY8kjMMH6CTsohnsCoTIJLZe7rwBRFHSJKKU+DllRlVpYB89ZbfAk3yfK3YKtnhKSisWZsi/MW/hQ+u0KrZJ2BSS8PcMl35y+XYo9lmRi33CgdFz68fd1KaTewB3LewMPGUbSWPcDLViAhHYSftxO7GgVFU+vzBFaEsg8E5kSVAkPZc3B6FonO87weACXdGR2zy+lpZeOmgARO3KrNcgrdPSQR+KemN2k8JiQKz1BzojEZj4Vt9B4O5mqq6cdVqGxw74KgSQtWXWuOtOZUgro5PTkVXtJKYmkW/AZoSGjg9X8zOIpyXpjHS916Wt0XD7RnYezBMLSrEQVrTivLF4C3JCTa8Wn1wOuDYVeIxssL68LRSuvEJ3yQPbF+YhdMZM/60bwIZ7KflcuFZyXMYvZkmyTxj2DG9CyJhlyhNxAn+3hOQj/y9f1nWSpY5i05V7kuF0ODoc0SLhCFZwUMcYpG83OtjR2OBUymiO1lzCcS0X06Rb1uKhDe+5qQGjLz6g9aMl7SXvj8jOm398vOw66n8mmkawAUBbLZE34aDA/qapsvX0/PNNbSqr0s7XP/0zDilfKEkU6iYCKU3WkmfmHO+qFtNkGkuGmpvknuF6RD3UYZf01vhvoG7I5S6Xs85bBD5YG+X5EC3RXb2PlqgfQSUb59PA+k+jTMroKiyBUfr6Zk/d7k9jTIdMGiAjhmWJV3y0Z+RZFute7NHyGUlw7HOMxUFXaNHGyWINEAC2gPpDTO3sMWPm8kWW/oqTMQ2Uh2cPtQui6PEd2gEwXMBKaP53yhW1FuqjSRh3eGBNjizjeRevMwCsEIjJpTXAJJWdQgOYt79y+C4x/I=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209970,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 323,
+    "prompt_tokens": 1678,
+    "total_tokens": 2001,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 203,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00246975,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00246975,
+      "upstream_inference_prompt_cost": 0.0012585,
+      "upstream_inference_completions_cost": 0.00121125
+    }
+  },
+  "provider": "Google AI Studio"
+}

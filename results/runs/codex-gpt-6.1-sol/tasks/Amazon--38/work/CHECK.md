@@ -1,0 +1,5 @@
+- [x] Find a bird feeder on Amazon suitable for small birds. https://www.amazon.com/dp/B0DSTVYFBX — LCSEVEN green 3LB feeder; listing says "providing comfort for both large and small birds".
+- [x] With an anti-squirrel mechanism. Same URL — "When a squirrel climbs on the feeder, its weight tiggers the closure of feeding ports".
+- [x] Check if it's available with free shipping. Same URL — "In Stock", "$26.99", "No Import Charges & $47.74 Shipping to Serbia". Free shipping is not offered for the displayed destination.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts in view together, no overlay. final.png is a 1280x1244 resized browser viewport; name, shipping, stock, mechanism, and small-bird description are visible together. No filters, sort, or date filters applied on the product page.
+- [x] Write the result and evidence to ./ANSWER.txt. Includes source URL, check date, price, availability, small-bird suitability, mechanism, shipping destination and fee, and screenshot reference.

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Booking",
+    "id": "Booking--41",
+    "ques": "Browse Booking's homepage to find out which company it belongs to.",
+    "web": "https://www.booking.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Booking.com belongs to Booking Holdings Inc. The Booking.com homepage footer states: “Booking.com is part of Booking Holdings Inc.” Source: https://www.booking.com/ (viewed October 27, 2026). Evidence: final.png.",
+    "result_text": "FINAL: Booking.com belongs to Booking Holdings Inc. The Booking.com homepage footer states: “Booking.com is part of Booking Holdings Inc.” Source: https://www.booking.com/ (viewed October 27, 2026). Evidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_239/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_239",
+  "elapsed_seconds": 38.55038595199585,
+  "execution_error": null,
+  "proxy_bytes": null
+}

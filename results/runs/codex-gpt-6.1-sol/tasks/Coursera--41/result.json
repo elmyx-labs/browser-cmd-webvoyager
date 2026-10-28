@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--41",
+    "ques": "Browse online degrees section on Coursera and list 3 Bachelor's degree programmes.",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Three online Bachelor's degree programmes listed on Coursera are:\n\n1. Bachelor of Science in Computer Science — University of London.\n   https://www.coursera.org/degrees/bachelor-of-science-computer-science-london\n2. Bachelor of Arts in Liberal Studies — Georgetown University.\n   https://www.coursera.org/degrees/ba-liberal-studies-georgetown\n3. Bachelor of Information Technology — Illinois Tech.\n   https://www.coursera.org/degrees/bach-information-technology-illinois-tech\n\nSource: Coursera's online Bachelor's degree listings, https://www.coursera.org/degrees/bachelors (accessed 27 October 2026).\nEvidence: final.png shows the bachelor's listing heading and the three programme cards with their universities.",
+    "result_text": "FINAL: Three online Bachelor's degree programmes listed on Coursera are:\n\n1. Bachelor of Science in Computer Science — University of London.\n   https://www.coursera.org/degrees/bachelor-of-science-computer-science-london\n2. Bachelor of Arts in Liberal Studies — Georgetown University.\n   https://www.coursera.org/degrees/ba-liberal-studies-georgetown\n3. Bachelor of Information Technology — Illinois Tech.\n   https://www.coursera.org/degrees/bach-information-technology-illinois-tech\n\nSource: Coursera's online Bachelor's degree listings, https://www.coursera.org/degrees/bachelors (accessed 27 October 2026).\nEvidence: final.png shows the bachelor's listing heading and the three programme cards with their universities.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_322/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_322",
+  "elapsed_seconds": 66.9318151473999,
+  "execution_error": null,
+  "proxy_bytes": null
+}

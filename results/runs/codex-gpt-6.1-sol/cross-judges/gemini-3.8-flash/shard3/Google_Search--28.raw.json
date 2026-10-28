@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210552-SISckBkfpADcsMbFZ8Hr",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task required checking the IMDb and Metacritic scores for the movie \"Inception.\" \n\nBased on the provided screenshot and response:\n- The IMDb page for \"Inception\" clearly displays an IMDb rating of **8.8/10**.\n- The page also displays the Metacritic Metascore of **74**.\n\nBoth scores were accurately identified and provided in the final response.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Movie Scores**\n\nI have successfully extracted the IMDb and Metacritic scores for \"Inception (2010).\" The IMDb rating is 8.8/10 based on 2.9 million votes. The Metascore is 74. I have all the data needed now.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Movie Scores**\n\nI have successfully extracted the IMDb and Metacritic scores for \"Inception (2010).\" The IMDb rating is 8.8/10 based on 2.9 million votes. The Metascore is 74. I have all the data needed now.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "ErkFCrYFAWkUfROKCbF97cZJMsBD3hlEkmia6Uhew3ElpnAxFPml5hjSe3SdYL1HGI+UAlE9fBZUPlGX/hf4dAvaV0kWKLzriQOgi6kjEgCQZFKxw4ypOcRf+xCw81V3rJI/tsV0PtkF/dK5mcQZMviTWgtYazSEDkqtq5nRsakXlzNj8x4CBtuD2rK4hbLwS6gkvztVeHIQgjoGlGGI0PlRB5m2mHegVOt2EzQqhOGl/c67iL6UxFxdvPRI1xFdsXzpwkbdTfUHmuz+VH7vYzrLuPszo8stgoV+a8xul8q54Iy4wbbr46DqRY0Jh/OqxAbYjg7IUhDStLKtyTjX6zl7J7reURcHGUiphJudLKzq2awvkDifHUfBjIL130cP94HJ70KrzNmiQY2CZ96a8p8dXPM1mAziOETnBx+9MsRTs8yLb8UESXhZzYohIJ9HKstwplCUSyDMArHe1PjWgSh1YE5OXsurZ5zvCmS3iTBPYadUlq4qLPStiVNGl/LL0Nvi4WN3YBIDe5U96iXp55oQV+XTsrUGIM0x7ue305ax8v74AEH52i1VH34GCn5PijeG9F08aTJruBxjHfOBJYVt0ha3g9tx60Svg2mKmGy8GqE9Nl0eot4GUIiByH1xAs3/OBCOjKIWFf7je5nz9UilIl0EQp8cEV0g6VyUr+e2h4CZacSizDJG3SujCETUNjPyXjDIfQhprew/5Htic4vPeWVcHzv9n8wTr0Zt/8VRqGl7VpheOjMnkM5XWIXbbLtk4ZUmQySFFQ4mdaF9UTcm31KzPEjmCpnJecOZbSrTe0IqqFLN5fiR1wNxcfrDulk3or9WbPNaqyIDkxWlqOzK1WhZg/m89Vymt0IQYgkgiVLqo8e1GUWEWifhak/nZ8+3GJZpD/FBrvW14GOZ+AKfVfIlSfIpsRz6Lw==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210552,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 243,
+    "prompt_tokens": 1699,
+    "total_tokens": 1942,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 160,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0021855,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0021855,
+      "upstream_inference_prompt_cost": 0.00127425,
+      "upstream_inference_completions_cost": 0.00091125
+    }
+  },
+  "provider": "Google AI Studio"
+}

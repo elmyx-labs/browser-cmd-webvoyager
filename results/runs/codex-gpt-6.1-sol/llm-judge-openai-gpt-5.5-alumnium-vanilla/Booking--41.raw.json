@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edyd2ytGuZwTErTsamGmHFbHJvcW8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to browse Booking’s homepage and identify which company Booking.com belongs to.\n\nThe screenshot shows the Booking.com homepage footer, where it states: “Booking.com is part of Booking Holdings Inc., the world leader in online travel and related services.” The result response correctly reports that Booking.com belongs to Booking Holdings Inc.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196556,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1628,
+    "total_tokens": 1752,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 47,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

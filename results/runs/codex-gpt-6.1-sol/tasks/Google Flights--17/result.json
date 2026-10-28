@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Flights",
+    "id": "Google Flights--17",
+    "ques": "Find the cheapest round-trip flight from New York to Paris leaving on June 27, 2027, and returning on July 10, 2027.",
+    "web": "https://www.google.com/travel/flights/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The cheapest round-trip flight found on Google Flights is TAP Air Portugal for US$774 per adult in economy, offered through Booking.com, departing New York Newark (EWR) on June 27, 2027, and returning from Paris Orly (ORY) on July 10, 2027.\n\n• Outbound: June 27 at 10:45 PM → June 28 at 4:05 PM. EWR–Porto (OPO)–ORY; 11 hr 20 min total, including a 2 hr 15 min layover. Flights TP212 and TP454.\n• Return: July 10 at 7:00 AM → July 10 at 8:20 PM. ORY–OPO–EWR; 19 hr 20 min total, including an 8 hr 55 min layover. Flights TP457 and TP211.\n\nAll times are local. Price includes required taxes and fees; optional baggage charges may apply. Search: one adult, round trip, economy, US location, USD.\n\nEvidence: final.png shows the completed Cheapest results sorted by price, the New York–Paris route, June 27–July 10 dates, and the first TAP result at $774 round trip. The selected itinerary's Google Flights booking summary also confirmed Booking.com at $774 as the lowest total price.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhopEgoyMDI3LTA2LTI3ag0IAxIJL20vMDJfMjg2cgwIAxIIL20vMDVxdGoaKRIKMjAyNy0wNy0xMGoMCAMSCC9tLzA1cXRqcg0IAxIJL20vMDJfMjg2QAFIAXABggELCP___________wGYAQE&tfu=EgoIAhAAGAAgAigB&hl=en&curr=USD&gl=US",
+    "result_text": "FINAL: The cheapest round-trip flight found on Google Flights is TAP Air Portugal for US$774 per adult in economy, offered through Booking.com, departing New York Newark (EWR) on June 27, 2027, and returning from Paris Orly (ORY) on July 10, 2027.\n\n• Outbound: June 27 at 10:45 PM → June 28 at 4:05 PM. EWR–Porto (OPO)–ORY; 11 hr 20 min total, including a 2 hr 15 min layover. Flights TP212 and TP454.\n• Return: July 10 at 7:00 AM → July 10 at 8:20 PM. ORY–OPO–EWR; 19 hr 20 min total, including an 8 hr 55 min layover. Flights TP457 and TP211.\n\nAll times are local. Price includes required taxes and fees; optional baggage charges may apply. Search: one adult, round trip, economy, US location, USD.\n\nEvidence: final.png shows the completed Cheapest results sorted by price, the New York–Paris route, June 27–July 10 dates, and the first TAP result at $774 round trip. The selected itinerary's Google Flights booking summary also confirmed Booking.com at $774 as the lowest total price.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhopEgoyMDI3LTA2LTI3ag0IAxIJL20vMDJfMjg2cgwIAxIIL20vMDVxdGoaKRIKMjAyNy0wNy0xMGoMCAMSCC9tLzA1cXRqcg0IAxIJL20vMDJfMjg2QAFIAXABggELCP___________wGYAQE&tfu=EgoIAhAAGAAgAigB&hl=en&curr=USD&gl=US",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_424/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_424",
+  "elapsed_seconds": 181.61349773406982,
+  "execution_error": null,
+  "proxy_bytes": null
+}

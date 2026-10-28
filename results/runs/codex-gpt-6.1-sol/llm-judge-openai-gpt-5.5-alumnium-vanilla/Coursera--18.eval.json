@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--18",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify a Coursera course that teaches JavaScript, which is beginner-friendly and includes a certificate upon completion.",
+  "answer": "FINAL: Programming with JavaScript by Meta on Coursera meets all three requirements.\n\n- Teaches JavaScript: the course lists “Creating simple JavaScript codes” among its learning outcomes.\n- Beginner-friendly: labeled “Beginner level”; Coursera says no prior web development experience is needed.\n- Certificate upon completion: lists a “Shareable certificate,” and its FAQ confirms that learners earn a certificate when they complete the work through certificate enrollment.\n\nSource: https://www.coursera.org/learn/programming-with-javascript\nVerified October 27, 2026. Screenshot: final.png.",
+  "response": "The task was to identify a Coursera course that:\n\n1. Teaches JavaScript  \n2. Is beginner-friendly  \n3. Includes a certificate upon completion  \n\nThe screenshot shows the Coursera page for **“Programming with JavaScript” by Meta**. It visibly supports the requirements:\n\n- The course title and outcomes/tools indicate it teaches JavaScript, including “Creating simple JavaScript codes” and “Javascript” under tools.\n- It is labeled **“Beginner level.”**\n- The “Details to know” section lists a **“Shareable certificate.”**\n\nThe result response accurately identifies this course and explains why it meets the criteria. There is no contradiction between the response and the screenshot.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to identify a Coursera course that: 1. Teaches JavaScript 2. Is beginner-friendly 3. Includes a certificate upon completion The screenshot shows the Coursera page for **“Programming with JavaScript” by Meta**. It visibly suppor",
+  "screenshots": [
+    "task_300/final.png"
+  ],
+  "raw_screenshot": "task_300/final.png",
+  "source_result": "task_300",
+  "usage": {
+    "completion_tokens": 240,
+    "prompt_tokens": 2328,
+    "total_tokens": 2568,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.17
+}

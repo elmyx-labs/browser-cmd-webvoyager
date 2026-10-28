@@ -1,0 +1,5 @@
+[x] Find a course on Coursera named 'Introduction to Mathematical Thinking' offered by Stanford. https://www.coursera.org/learn/mathematical-thinking — "Introduction to Mathematical Thinking"; "Offered by"; "Stanford Online".
+[x] What is the percentage (rounded) of 5 star ratings in reviews? https://www.coursera.org/learn/mathematical-thinking/reviews — "5 stars 84.18%", rounds to 84%.
+[x] Which level has the least percentage? Same reviews URL — 5 stars 84.18%; 4 stars 12.62%; 3 stars 1.67%; 2 stars 0.52%; 1 star 0.98%. Minimum is 2 stars at 0.52%.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the course name and deciding facts together without overlays. final.png is a 1280 px wide resized viewport screenshot of the reviews URL; title, Stanford logo, full rating distribution, and All Learners / All Stars / Most Helpful controls visible. Only final.png was read as an evidence image.
+[x] Write the result and evidence to ./ANSWER.txt. ANSWER.txt starts with FINAL and includes result, source URLs, observation date, and screenshot reference.

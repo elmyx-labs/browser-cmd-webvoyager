@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--27",
+    "ques": "Locate the Target stores in Atlanta, GA. How many results are shown on the map.",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Google Maps shows 7 Target results for “Target stores in Atlanta, GA.” Evidence: final.png shows seven Target map pins and “You've reached the end of the list.” Source: https://www.google.com/maps/search/Target+stores+in+Atlanta,+GA/ (viewed October 27, 2026).",
+    "result_text": "FINAL: Google Maps shows 7 Target results for “Target stores in Atlanta, GA.” Evidence: final.png shows seven Target map pins and “You've reached the end of the list.” Source: https://www.google.com/maps/search/Target+stores+in+Atlanta,+GA/ (viewed October 27, 2026).",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_474/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_474",
+  "elapsed_seconds": 105.61565399169922,
+  "execution_error": null,
+  "proxy_bytes": null
+}

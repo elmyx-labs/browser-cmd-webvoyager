@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210455-4m0F0d7FaHuBYq2j7t4Y",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the instruction, the task is to search for bicycle parking near the Empire State Building.\n\nThe screenshot and result response show a successfully found bicycle parking location (\"Bike Parking, 104 W 38th St, New York, NY 10018\") located approximately 0.3 miles (an 8-minute walk) from the Empire State Building, with clear details and navigation shown on Google Maps.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating the Result**\n\nI've got the result for \"bicycle parking near the Empire State Building.\" The system suggests a bike rack at 104 W 38th St, and it's an eight-minute walk according to Google Maps. I'm assessing the relevance and completeness of this response. Next step is to assess the response against my knowledge.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating the Result**\n\nI've got the result for \"bicycle parking near the Empire State Building.\" The system suggests a bike rack at 104 W 38th St, and it's an eight-minute walk according to Google Maps. I'm assessing the relevance and completeness of this response. Next step is to assess the response against my knowledge.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EvsHCvgHAWkUfRNyh3cA4pQ/19Pq1YdB6emVaNWvo6w6uoAymYwiZVRII0JWSIdmbgbLHZmhnzzupyco9bkyWHvDQscJg7/k+sTH1wCq1HYtRMRW4OTKWVUS6VFXbm8t4rtX4qYjQ3S+CzJue/EXbBRW1asDgbgqdas3CJyiL+zobHn2gM3hkzBjCZ/hQd0b8/m3KxzyjT9f9wFecmAfGLplJDJ784lruVvlnlEKun5yHKEar8iMZiFjPswekoLWEZlHQMFh6ksC15aCYA0R7sky/qBV7AvBjj6H7Ps1gmUgXnksdMxk5sNDkj/30Ge07SrzQutwa9NQLHoMc/dlBrXRFt31uDt4fjj1o99vVQ6LwIK4qIN08jMTOeSuLGlFVYUJGY6C8KQb+kfS1VzBuS71LwWZXOzvOkzEEsOKpjQJXYkcOEdqc17Xk/8tfSZTOguUbURngv8/Wt/0zhKmabaVJXIPVjHjVCZ3U7Oc+fJ6sq+3KcAwJAnTZpxXySxXisLjzzViyZsmIudnGxqBuZWmjU79rCpNHNlsXBJmNPU09vRSzj+ZNuo99kqndBs6jK9zz59XmDKlD7CWHmbckFjKstwhcA+kpxRWzVy4k75+oIvGcxHzRkRAAt0I68Y2oqeKnAQltIOK+D/uVCpG3qEjWLvDs0pCAuL5HoTcCKhhjLaGD6/7I3u4GkISD+zVwWshW6eeB1AIIeBfmgE20NUs+DADZHTBrN7aqe8TSGT7AeDDn6YWjMz6Y9+uDTu1PhDK8iOIQwZVwy7ZyzYj+1oq/2pltXWp9W0hqNLPaCJAkuT4pZfOKxFNhRgFj0Ox8wqcWAENv1gEaLUapQOaA8oly36gFB1wELKAN8+RjNXVVrdVUDROJYZ22pF7WruLvZu9NsglsXvP4yNThfP0J+hygp/kJSivqQbSAYR1QFd4KdAsJWyfJZxawNG40M77CF1dhD9z3ns3yWqrc2Sd1eIkSCyQbuJqitIcivzJnelDv+2naVpQA6DO4W0cdjJacTDPYkD6zh+HSMwQR4RCd98bApcMMCvWe1sN9qEMn7Pbpck2eD8CVkDM2RJQHK02xYIe7nXui3fBoiPnjtPgcrKMEUshv31b/5mKtc9tmFOtAa/tg+BmUi6qc+IU23EbXHJlPFa+uQKVxUrejIXhxFLlA9Wr30yVLSWGZDfTj0ZsRd1qsuoELUG9lRvYw+KhuX4GKJH6o22ONdtl/UQ6bpk6AByurF3QNiiE6H4DYrRVpr4LsbwbuvNI8D1hGiP7MfkiplohATdv6H+JByNPoJAMDJpPspnbBhTxTg22DnQP0j2pp58GyaDH8XZd7eWS7XL2cD48107dBPCBGQ4=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210455,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 302,
+    "prompt_tokens": 1989,
+    "total_tokens": 2291,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 211,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00262425,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00262425,
+      "upstream_inference_prompt_cost": 0.00149175,
+      "upstream_inference_completions_cost": 0.0011325
+    }
+  },
+  "provider": "Google AI Studio"
+}

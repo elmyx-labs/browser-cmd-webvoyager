@@ -1,0 +1,31 @@
+{
+  "id": "Cambridge Dictionary--18",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for \"to behave well\" in Cambridge Dictionary's Thesaurus and see which synonyms the dictionary gives.",
+  "answer": "FINAL: Cambridge Dictionary’s Thesaurus gives “behave yourself” (shown in the article as “behaves themselves”), “behave,” and “be on your best behaviour” (shown as “be on their best behaviour”) as ways to say “to behave well.” The US spelling is “behavior.”\n\nSource: Cambridge English Thesaurus, “to behave well,” https://dictionary.cambridge.org/thesaurus/articles/to-behave-well (accessed 27 October 2026).\nEvidence: final.png shows the article title and the paragraphs containing these synonyms.",
+  "response": "The screenshot shows the Cambridge Dictionary Thesaurus article titled “to behave well,” which matches the requested search. The visible article text lists the relevant expressions:\n\n- “behaves themselves” / “behave yourself”\n- “behave”\n- “be on their best behaviour” / “be on your best behaviour”\n\nThe Result Response accurately reports these synonyms and notes the UK/US spelling distinction for “behaviour/behavior,” which is also visible in the screenshot.\n\nVerdict: SUCCESS",
+  "reason_short": "The screenshot shows the Cambridge Dictionary Thesaurus article titled “to behave well,” which matches the requested search. The visible article text lists the relevant expressions: - “behaves themselves” / “behave yourself” - “behave” - “b",
+  "screenshots": [
+    "task_260/final.png"
+  ],
+  "raw_screenshot": "task_260/final.png",
+  "source_result": "task_260",
+  "usage": {
+    "completion_tokens": 371,
+    "prompt_tokens": 1702,
+    "total_tokens": 2073,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 264,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.78
+}

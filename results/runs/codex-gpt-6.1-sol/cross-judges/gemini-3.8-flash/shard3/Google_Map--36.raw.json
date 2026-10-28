@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210509-n7qiriLNM5McVOYfdGTT",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The search results for pizza restaurants near ZIP code 30309 were located on Google Maps. Five restaurants were extracted and correctly ranked in descending order based on their user ratings (4.9, 4.6, 4.6, 4.5, 4.5), fulfilling all task requirements.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Pizza Options**\n\nI'm reviewing the top pizza contenders near 30309. Varasano's Pizzeria in Buckhead leads with a 4.9 rating, and Antico Pizza Nap is also a strong contender, currently tied. My focus is on finalizing the ranking based on available data.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Pizza Options**\n\nI'm reviewing the top pizza contenders near 30309. Varasano's Pizzeria in Buckhead leads with a 4.9 rating, and Antico Pizza Nap is also a strong contender, currently tied. My focus is on finalizing the ranking based on available data.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210509,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 521,
+    "prompt_tokens": 1870,
+    "total_tokens": 2391,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 453,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00335625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00335625,
+      "upstream_inference_prompt_cost": 0.0014025,
+      "upstream_inference_completions_cost": 0.00195375
+    }
+  },
+  "provider": "Google"
+}

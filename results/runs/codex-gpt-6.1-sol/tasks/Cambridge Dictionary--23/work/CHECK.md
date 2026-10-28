@@ -1,0 +1,4 @@
+[x] Find the US English pronunciation of the word "meticulous" using the Cambridge Dictionary and note the International Phonetic Alphabet (IPA) notation. Evidence: https://dictionary.cambridge.org/dictionary/english/meticulous — “us /məˈtɪk.jə.ləs/”.
+[x] Find one example sentence provided in the dictionary using this word. Evidence: same URL — “Many hours of meticulous preparation have gone into writing the book.”
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the word and deciding facts visible together and no overlays. Evidence: final.png, 1280 × 723; word, US IPA, and example visible together.
+[x] Write the result and evidence to ./ANSWER.txt. Evidence: ANSWER.txt includes pronunciation, example, source URL, access date, and screenshot reference.

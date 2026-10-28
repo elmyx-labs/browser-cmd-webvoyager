@@ -1,0 +1,3 @@
+- [x] Find out the current world record for the men's 100m sprint. World Athletics https://worldathletics.org/records/by-discipline/sprints/100-metres/all/men shows “Men - SENIOR”, “World Records”, “9.58”, “Usain BOLT”, “JAM”, “Olympiastadion, Berlin (GER)”, “16 AUG 2009”.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the name and deciding facts visible and no overlay. final.png is 1280×723, showing the Men/Sprints/100 Metres filters and world-record row with date; visually inspected.
+- [x] Write the result and evidence to ./ANSWER.txt. Includes the record, athlete, place, date, source URL, check date and screenshot filename.

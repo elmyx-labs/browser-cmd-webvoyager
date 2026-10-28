@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--2",
+    "ques": "Find Apple Stores close to zip code 90028",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Google Maps lists these Apple Stores near ZIP code 90028:\n- Apple The Grove — 189 The Grove Dr, Los Angeles, CA 90036.\n- Apple Beverly Center — 8500 Beverly Blvd, Los Angeles, CA 90048.\n- Apple Tower Theatre — 802 S Broadway, Los Angeles, CA 90014.\n\nSource: Google Maps search for “Apple Stores near 90028” and each store’s place details, checked October 27, 2026: https://www.google.com/maps/search/Apple+Stores+near+90028/?hl=en\nEvidence: final.png shows the search and nearby store names and street addresses.",
+    "result_text": "FINAL: Google Maps lists these Apple Stores near ZIP code 90028:\n- Apple The Grove — 189 The Grove Dr, Los Angeles, CA 90036.\n- Apple Beverly Center — 8500 Beverly Blvd, Los Angeles, CA 90048.\n- Apple Tower Theatre — 802 S Broadway, Los Angeles, CA 90014.\n\nSource: Google Maps search for “Apple Stores near 90028” and each store’s place details, checked October 27, 2026: https://www.google.com/maps/search/Apple+Stores+near+90028/?hl=en\nEvidence: final.png shows the search and nearby store names and street addresses.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_450/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_450",
+  "elapsed_seconds": 98.24604201316833,
+  "execution_error": null,
+  "proxy_bytes": null
+}

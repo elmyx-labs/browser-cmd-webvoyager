@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--38",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Browse Coursera, which universities and companies from Australia are partners of Coursera? List all of them.",
+  "answer": "FINAL: Coursera lists five partners from Australia, all universities:\n\n1. Macquarie University\n2. The University of Melbourne\n3. The University of Sydney\n4. University of Western Australia\n5. UNSW Sydney (The University of New South Wales)\n\nNo companies are listed under Australia in Coursera's partner directory.\n\nEvidence: https://www.coursera.org/partners — “Meet our partners,” filtered by country to Australia, checked 27 October 2026. These are the complete filtered results; each is labelled “Australia.” Screenshot: final.png.",
+  "response": "An evaluation of the provided screenshot and result response reveals the following:\n\n- The task requested to browse Coursera and list all universities and companies from Australia that are partners of Coursera.\n- The screenshot shows the Coursera partners directory filtered by country to Australia (\"Filter country 1\").\n- The displayed results feature five partners:\n  1. Macquarie University\n  2. The University of Melbourne\n  3. The University of Sydney\n  4. University of Western Australia\n  5. UNSW Sydney (The University of New South Wales)\n- The result response accurately lists all five universities and notes that no companies are listed under Australia.\n\nEverything aligns completely with the requirements and the visual evidence.\n\nSUCCESS",
+  "reason_short": "An evaluation of the provided screenshot and result response reveals the following: - The task requested to browse Coursera and list all universities and companies from Australia that are partners of Coursera. - The screenshot shows the Cou",
+  "screenshots": [
+    "task_319/final.png"
+  ],
+  "raw_screenshot": "task_319/final.png",
+  "source_result": "task_319",
+  "usage": {
+    "completion_tokens": 350,
+    "prompt_tokens": 1703,
+    "total_tokens": 2053,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 204,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00258975,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00258975,
+      "upstream_inference_prompt_cost": 0.00127725,
+      "upstream_inference_completions_cost": 0.0013125
+    }
+  },
+  "elapsed_seconds": 8.25
+}

@@ -1,0 +1,3 @@
+[x] Find the year that Tom Brady had the most touchdowns in a single seasson. Source: https://www.statmuse.com/nfl/ask/tom-brady-most-touchdown-passes-in-a-season — "Tom Brady had his most passing touchdowns in a season in 2007, with 50 touchdowns." The descending table begins 50 (2007), 43 (2021), 40 (2020).
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with Tom Brady and the decisive season touchdown values visible together and no pop-up, banner or dialog. Saved final.png at 1280 × 723 from the source viewport; query, headline, and ranked table are visible.
+[x] Write the result and its evidence to ./ANSWER.txt. Saved the answer, source URL, and screenshot reference.

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210515-gWYepb0VpPF5EysHtdYG",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a list of comedy movies sorted by user rating, specifically asking for the top 5 movies.\n\nThe screenshot shows an IMDb Advanced Title Search filtered by \"Movie\" and \"Comedy\", sorted by \"User rating\" in descending order. The top 5 displayed movies are:\n1. La Herencia de los Ramírez (10/10)\n2. Dark plague birds. Funny filming (10/10)\n3. Fantasy Football (9.9/10)\n4. Om Ka Hari (9.8/10)\n5. Tails California (9.8/10)\n\nThe result response correctly provides this exact list along with ratings and vote counts corresponding to the search results.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing User Intent**\n\nI am now focusing on dissecting the user's request. It appears they are seeking a curated list of comedy movies, specifically the top-rated ones according to user reviews. The user explicitly mentions the number of movies to display (Top 5). I am breaking this down into key components for accurate filtering and sorting.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing User Intent**\n\nI am now focusing on dissecting the user's request. It appears they are seeking a curated list of comedy movies, specifically the top-rated ones according to user reviews. The user explicitly mentions the number of movies to display (Top 5). I am breaking this down into key components for accurate filtering and sorting.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "Eq4GCqsGAWkUfROVNJI4A2eqzQALg9h2nsQjyo5SEvlkAlha4meiGLZIE+1NnvSrH34fw+d38D18OHMtyumO0EGl2klUdMp/+LZQn0GJRRnzaXzAG7Y8xsft1k1cBkHarTHEYjnPNmioN6w7L+n6CwLp4Lce2coBZK53Z5u2IQoEH0P9fTVnxoF3+UVVd3hEQ37Ax2rCHjEsSAtlknyg32Y8Sua58DqRwL/M+pKQGOxvN5B2VhWDwQ/poZ1AiBnb7gCgyr9a4Kevi3AqvwXlfT4hqagxGcUb4Js1RSV8yM/qd772Hs8zBYOtACCyztz4v4bBATjyvofJ6o/Gy5VvIixzwZTAZKKUCAqCb3ETMiV6mzKmeDuhl8poijnpggKRQOH8W/v9bfcUAtQw53tlUY3aTeC/XbphlMup7QdywvnQhqv+bBwJgx0E4e3XUg8iZ6rHYEKHhEipQnXE1eq3cnF0/thPDiOF5/aFXzXHNmYKL0a64GQi3Rm0GTDjTaWyU/C7A0V8+yEx8+r2ocyPmWYfwwFALaJFdlSrzCHL6483S8Ym/fUq27XAfNuZSS37O+LFz1fRO1L117hyvCfwiHaBiH1GLOZOVoiOoPskvIwtzEWPMBx/P4t66wiYIlE9SYFq3DEZKLEcavzkuXUPQJTc1PbIOmNwxGJPx0X8UrBK85QBKuWDCVFOpfeC/Wt0fsIA1kRbnxoduPRITENrg65Xa1PdhwFOWAgjFrgfJ9hUbnOeNiqrBa44F98wQloKaMA0qNw71YtRMulInQ/2cGrLk3+L/Vj/HcmjXUsg0B+WXZFnXQwZ0MLu6x4sSvmOEiK1e7lsQTn67EnMQz30pWWU+k8dAkM+Q9hmb2OkSMiFK8CdluTQIpJzp3l8btkq7FMMwao9PxY2ahF9Lau3hlYmN3U5TvaFu3ZArngCEvX9Myr0ohNCuxOvgverjW72TrYCjkz5uhbJHj20owZUop2vVe4xUuFFVRnLSwTEOJQChN5E+/7KTQOuhUK8hKJ4AFZE8B+6pr7roGQg7QNkeA2vIUuk0Qf1A7KySjIckmMRLPYsFhDgNPCvSfLvA5lIsg==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210515,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 337,
+    "prompt_tokens": 1821,
+    "total_tokens": 2158,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 184,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0026295,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0026295,
+      "upstream_inference_prompt_cost": 0.00136575,
+      "upstream_inference_completions_cost": 0.00126375
+    }
+  },
+  "provider": "Google AI Studio"
+}

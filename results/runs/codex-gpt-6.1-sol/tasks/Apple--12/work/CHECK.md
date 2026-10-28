@@ -1,0 +1,3 @@
+- [x] What Apple Repair ways are mentioned on apple website, answer 2 of them. Source: https://support.apple.com/iphone/repair?services=service — “In Person” and “By Mail.”
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and deciding facts together without overlays. final.png shows both headings and full descriptions under “Where can I get service?”; no filters, sorts, or dates apply.
+- [x] Write the result and evidence to ./ANSWER.txt, first line FINAL: and one answer, with source. ANSWER.txt contains both options, URL, and screenshot reference.

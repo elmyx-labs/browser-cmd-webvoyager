@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210230-8XJIoqSmnxqpoUrs2gcw",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**Evaluation:**\n\nThe user requested to locate a hotel in Melbourne offering free parking and free WiFi for the dates June 28 to July 4, 2027.\n\n1. **Location & Dates:** The search was performed for Melbourne with dates Mon, Jun 28 – Sun, Jul 4 (which correspond to the requested 2027 dates).\n2. **Filters & Hotel Category:** Filters for \"Hotels\", \"Free parking\", and \"Free Wifi\" were applied.\n3. **Result:** The search results show qualifying hotels, specifically \"Toorak Manor Hotel Free Parking\", which meets all criteria, and this was clearly detailed in the final response.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Pinpointing Melbourne Hotels**\n\nI'm now focused on finding hotels in Melbourne that meet the criteria. The crucial details are clear: free parking and Wi-Fi are must-haves for the June 28 - July 4, 2027 timeframe. I'm homing in on the specifics gleaned from the information provided, zeroing in on this particular search parameters.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Pinpointing Melbourne Hotels**\n\nI'm now focused on finding hotels in Melbourne that meet the criteria. The crucial details are clear: free parking and Wi-Fi are must-haves for the June 28 - July 4, 2027 timeframe. I'm homing in on the specifics gleaned from the information provided, zeroing in on this particular search parameters.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EtIICs8IAWkUfRMQya/0Yprc4/IIIiKzxULeFBdJF/eCDGo1AvEfsLsfnvted0lky2FZQAT3bQ+vsnUP98ttAjmpMECBQVbeAWyQ5sQvYzWW15d9KOwSxKRFVZzEbC8wRp+aGDlf1BY4AkItv7Hs4PhwiHH+oms4/JFTTO/iet9pd1cbkSYZq36Ew1NPewsxhkemH6EsNrcqk7LO56wgJKHXxKEEcMFvj/kd4dd7loOzXRGc/mho8rKZWMPSeMlge8fhZ8gx8vYhkrnpd8VbttgGtgEOvdr318u+Ua9YPUstOYa6AYeWxaLSYAgVH+qJl6XiLJYbNVa4NiIFW3WP99CtfNGNnS6YqwzsSeDOvqC3Lm/+m3i5jIfrvIWO9jZKRA4auPfl0b6T871x/COrHK9wx8XuOnqDLDNodaZC/Xyz3K2FxqEdUCmNUn/fjJ74S+NiQPgQuU7Lqe3zIznElC34Pf86rHXfy3txgSC7kS72SQ/I6qbq7zimkQBAxJLBryuIaeRFpUuz9Mar4HvXPRYkKJ97/RlRFAsdFqBbaKDyACI92VoAft/kDvFbD8LlIcalagSAXfycnmPCPtCyo3W1zim2ShzETp4XxS8udrBavBv9IZiYgIdK1+GmlJU3EHBZmOH/1irsOFJqoYLdwF1mAUNekXx4JepWa+wLOX0UK8UngIKyK0Pn9wh9Qpvo4MoAbYrC17w/irDIfrdXNq74AHZGBlKB2bnv4gwvrhW4UPwF2ma8dZCG0mPr0AZ7cfBnORAPu1SmCNZzPRodHgNhu3rIWZyZT44gsEIIkgRYjRfUNZ24PDxHQZ2nHD581IDXqjigQmf1ZTYIE8JadzKyJf9XK03LlhAU+oKZEC6JAJ4rx5vQC9fdbbCi4IAgm2wbj8z4l3jaekHfFIFEpZNQ/pW5AatTHJa4F7xJeUhReziemiXDxusbALFEccZ8rFzN3zxARkuzYi4wiSaRrw0etxA36RkvHimmtkdPk63ONvvXlUQkvi5XnKgaykQUWW/m+Y3AGal45lene0SVc0XxQBfZQMcg4MWTc4TT+dCwnbqRHhyRLRBbdc/CLAD8id6XXqBUKOD81R2FHLeh1GJNKJtv2t79QDFT1+NkKTblrRAryAt125iqxSE9l9CuU5VqZCSn1G5IfmRoRDHWrM961DiIXrikKfJEcrzw+ipy2OL8YaXxtZyALrAgftuvSOF9oTns6iKTjjDY2Z39VJy8uCTzIFc3sT6bEmHLwZQQpnB+zUzqWQ6iliEUz3zCJ8yPTSYrSrwSubWPhFeOFjugq8shx7aV4YdpN8oYzMPuqY+fv+NNjxaKufFpdAsDjQ//RF5Xn7HOSGmrkwd8xnmGfvCTGiXV0om9mQViH3CwxIl9n51lhxwhKt17z9t2CIS46myVJ+N3U0x9vUOiPRCC7DWamvJgK3IOc79TSNK7Yb8kv8N3Xxn+Dz+IIHrkA0dnMA8=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210230,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 400,
+    "prompt_tokens": 1923,
+    "total_tokens": 2323,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00294225,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00294225,
+      "upstream_inference_prompt_cost": 0.00144225,
+      "upstream_inference_completions_cost": 0.0015
+    }
+  },
+  "provider": "Google AI Studio"
+}

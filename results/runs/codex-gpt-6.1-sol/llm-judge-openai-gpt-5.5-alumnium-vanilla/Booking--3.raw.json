@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edybp4GWYTa7X1Ntsr51dQCjYFt8M",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find a hotel in Los Angeles with a 4-star-or-above rating for a 3-day stay starting July 18.\n\nThe result satisfies the requirements:\n\n- Destination is Los Angeles.\n- Dates shown are July 18 to July 21, which is 3 nights.\n- The response clarifies this is July 18–21, 2027, which is reasonable given the current year is 2026 and July 18, 2026 has already passed.\n- The Booking.com results show filters applied for Hotels and Property rating, and the provided URL includes 4-star and 5-star filters.\n- The selected hotel, Loews Hollywood Hotel, is shown as a hotel with a 4-star property rating.\n- The listing appears available for the specified dates, showing a room type and price.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196481,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 519,
+    "prompt_tokens": 1819,
+    "total_tokens": 2338,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 338,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

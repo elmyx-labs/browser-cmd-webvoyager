@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edyg5NCbr1EDAwNnY0F87v6ch8gDA",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to look up the elevation of Mount Kilimanjaro on Google Search.\n\nThe screenshot shows a Google Search results page for “Mount Kilimanjaro elevation.” The visible AI Overview states that Mount Kilimanjaro is **5,895 meters (19,341 feet)** high at its highest point, **Uhuru Peak**. The result response provides the same elevation and identifies Uhuru Peak.\n\nThis directly satisfies the task.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196745,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 163,
+    "prompt_tokens": 1690,
+    "total_tokens": 1853,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

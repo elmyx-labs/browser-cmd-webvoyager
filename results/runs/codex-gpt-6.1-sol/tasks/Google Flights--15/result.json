@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Flights",
+    "id": "Google Flights--15",
+    "ques": "Compare the prices and total duration of non-stop flights from New York to Tokyo Narita Airport departing on July 12th, 2027, and returning on July 26th, 2027.",
+    "web": "https://www.google.com/travel/flights/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Google Flights showed one nonstop round-trip itinerary for New York–Tokyo Narita, July 12–26, 2027: United (also listed with ANA), from US$1,544 per adult, with 26 hr 40 min combined flying time.\n\n• Outbound July 12: United UA 79, Newark (EWR) 11:40 AM → Narita (NRT) 2:30 PM July 13; 13 hr 50 min.\n• Return July 26: United UA 78, NRT 5:25 PM → EWR 5:15 PM the same day; 12 hr 50 min.\nAll times are local. Both flights are nonstop.\n\nPrice comparison for the same flights (round trip, 1 adult): United Basic Economy $1,544; Economy $1,804; Economy Fully Refundable $2,174; Economy Plus $2,416. All have the same 26 hr 40 min total flying time. Basic Economy is the cheapest displayed fare; standard Economy costs $260 more.\n\nEvidence: Google Flights, searched October 27, 2026 with New York (all airports), NRT, July 12–26, 2027 and Nonstop only. Only one outbound and one matching nonstop return were displayed. Required taxes and fees are included; optional charges may apply.\nSearch source: https://www.google.com/travel/flights/search?tfs=CBwQAhomEgoyMDI3LTA3LTEyKABqDQgDEgkvbS8wMl8yODZyBwgBEgNOUlQaJhIKMjAyNy0wNy0yNigAagcIARIDTlJUcg0IAxIJL20vMDJfMjg2QAFIAXABggELCP___________wGYAQE&tfu=EgYIABAAGAA&hl=en&curr=USD\nItinerary and fare source: https://www.google.com/travel/flights/booking?tfs=CBwQAhpGEgoyMDI3LTA3LTEyIh4KA0VXUhIKMjAyNy0wNy0xMhoDTlJUKgJVQTICNzkoAGoNCAMSCS9tLzAyXzI4NnIHCAESA05SVBpGEgoyMDI3LTA3LTI2Ih4KA05SVBIKMjAyNy0wNy0yNhoDRVdSKgJVQTICNzgoAGoHCAESA05SVHINCAMSCS9tLzAyXzI4NkABSAFwAYIBCwj___________8BmAEB&hl=en&curr=USD\nScreenshot: final.png shows both nonstop legs, dates, durations, lowest total price and visible United fare choices.",
+    "result_text": "FINAL: Google Flights showed one nonstop round-trip itinerary for New York–Tokyo Narita, July 12–26, 2027: United (also listed with ANA), from US$1,544 per adult, with 26 hr 40 min combined flying time.\n\n• Outbound July 12: United UA 79, Newark (EWR) 11:40 AM → Narita (NRT) 2:30 PM July 13; 13 hr 50 min.\n• Return July 26: United UA 78, NRT 5:25 PM → EWR 5:15 PM the same day; 12 hr 50 min.\nAll times are local. Both flights are nonstop.\n\nPrice comparison for the same flights (round trip, 1 adult): United Basic Economy $1,544; Economy $1,804; Economy Fully Refundable $2,174; Economy Plus $2,416. All have the same 26 hr 40 min total flying time. Basic Economy is the cheapest displayed fare; standard Economy costs $260 more.\n\nEvidence: Google Flights, searched October 27, 2026 with New York (all airports), NRT, July 12–26, 2027 and Nonstop only. Only one outbound and one matching nonstop return were displayed. Required taxes and fees are included; optional charges may apply.\nSearch source: https://www.google.com/travel/flights/search?tfs=CBwQAhomEgoyMDI3LTA3LTEyKABqDQgDEgkvbS8wMl8yODZyBwgBEgNOUlQaJhIKMjAyNy0wNy0yNigAagcIARIDTlJUcg0IAxIJL20vMDJfMjg2QAFIAXABggELCP___________wGYAQE&tfu=EgYIABAAGAA&hl=en&curr=USD\nItinerary and fare source: https://www.google.com/travel/flights/booking?tfs=CBwQAhpGEgoyMDI3LTA3LTEyIh4KA0VXUhIKMjAyNy0wNy0xMhoDTlJUKgJVQTICNzkoAGoNCAMSCS9tLzAyXzI4NnIHCAESA05SVBpGEgoyMDI3LTA3LTI2Ih4KA05SVBIKMjAyNy0wNy0yNhoDRVdSKgJVQTICNzgoAGoHCAESA05SVHINCAMSCS9tLzAyXzI4NkABSAFwAYIBCwj___________8BmAEB&hl=en&curr=USD\nScreenshot: final.png shows both nonstop legs, dates, durations, lowest total price and visible United fare choices.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_422/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_422",
+  "elapsed_seconds": 117.3757119178772,
+  "execution_error": null,
+  "proxy_bytes": null
+}

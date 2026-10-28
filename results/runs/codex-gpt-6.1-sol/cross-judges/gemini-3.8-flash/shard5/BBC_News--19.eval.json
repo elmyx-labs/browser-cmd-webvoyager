@@ -1,0 +1,41 @@
+{
+  "id": "BBC News--19",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Visit the Athletics calendar for the date of the next earliest game.",
+  "answer": "FINAL: The next Athletics event is the New York City Marathon on Sunday, 1 November 2026. Opened BBC Sport’s Athletics Calendar with November 2026 selected: https://www.bbc.com/sport/athletics/calendar/2026-11. The calendar shows “Sun 01 Nov” beside “New York City Marathon”; evidence is saved in final.png.",
+  "response": "Based on the instruction, the task is to visit the Athletics calendar to find the date of the next earliest event/game. \n\nThe screenshot shows the BBC Sport Athletics Calendar, displaying the next event as the **New York City Marathon** on **Sunday, 1 November 2026** (\"Sun 01 Nov\"). The Result Response accurately identifies this event and date directly from the calendar.\n\nSUCCESS",
+  "reason_short": "Based on the instruction, the task is to visit the Athletics calendar to find the date of the next earliest event/game. The screenshot shows the BBC Sport Athletics Calendar, displaying the next event as the **New York City Marathon** on **",
+  "screenshots": [
+    "task_181/final.png"
+  ],
+  "raw_screenshot": "task_181/final.png",
+  "source_result": "task_181",
+  "usage": {
+    "completion_tokens": 965,
+    "prompt_tokens": 1661,
+    "total_tokens": 2626,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 881,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0048645,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0048645,
+      "upstream_inference_prompt_cost": 0.00124575,
+      "upstream_inference_completions_cost": 0.00361875
+    }
+  },
+  "elapsed_seconds": 20.37
+}

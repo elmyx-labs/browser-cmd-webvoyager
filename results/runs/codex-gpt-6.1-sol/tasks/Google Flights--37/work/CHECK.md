@@ -1,0 +1,4 @@
+[x] Locate a round-trip flight from Buenos Aires to Beijing, leaving on June 28, 2027, and returning on July 3, 2027. Evidence: Google Flights booking URL in ANSWER.txt; “Buenos Aires”, “Beijing”, “Round trip”, and track-prices switch “departing 2027-06-28 and returning 2027-07-03”.
+[x] Check out one of the options and tell me if the airline for my return flight is the same as my departure flight. Evidence: same booking URL, “Selected flights”: “Mon, Jun 28 ... KLM” and “Sat, Jul 3 ... Air France”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with name, deciding facts, and dates visible and no dialog. Evidence: final.png, 1280x723, showing selected itinerary with route, dates, and airline names.
+[x] Write the result and evidence to ./ANSWER.txt. Evidence: ANSWER.txt contains result, dates, source URL, and screenshot reference.

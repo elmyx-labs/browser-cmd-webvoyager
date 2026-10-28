@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210587-YEmFSbvnDo9JNhdebdNI",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested the names of Donald Trump's children. \n\nThe screenshot of the Wikipedia article (\"Trump family\" under the \"Children\" section) clearly shows his five children: Donald Trump Jr., Ivanka Trump, Eric Trump, Tiffany Trump, and Barron Trump. The result response accurately lists these five children based on the verified evidence.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Recalling Key Details**\n\nI'm focusing on accurately recalling the names of Donald Trump's five children. My current thought process has confirmed them as Donald Jr., Ivanka, Eric, Tiffany, and Barron, supported by reliable external sources.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Recalling Key Details**\n\nI'm focusing on accurately recalling the names of Donald Trump's five children. My current thought process has confirmed them as Donald Jr., Ivanka, Eric, Tiffany, and Barron, supported by reliable external sources.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18n3q+cY0CFdc39ZHAms4Ws1N695CHinFpm5yuRkdNElRqkbnhXQvBZ1BeV7xeQzN7oMgnmI6eBTWbXK4JwXccvtmnmP/l26Zy3WI0UP59uQdPqz5ekT+C4ZJ2xIJRlPfSzzyVHczJ2Kg2dAj/Ayr2HNuj9eW1Q8Jok7nYYMy0eaiXTqpwqjWEkDgmOoXiWTdLCS23vgR7oEVxAadK7pFc9nyAYWoWmPLBEexuN3wUQdtzpybS7Hmj2+Bmr0Qq0pFE18y3YbeoebVyVirIsSXuf7w2iA9fpNi64WvAq8pnSz7WLISUXiDMtfcIIWePeFh6wSJWrAIBjnEZrP3DLFW/F5GvFqRiXgpIfTIpapWozuf7ubs51pxgvaKzs5yKsfaei0cGCs7Ah6EAFaa1jIzouVj9gds8yWw7DbRmbhuwICY4Xo2KUgJeL4lWk4QGndTou/+4Hf6gp0FEHxfhTqqPpNsb9zX1l8WJa5RJixjYcF2+Cs13IWEmHPaElmgDR70CzaT0yKzitKm0phghRImMK7lodI1Px3b059qj19XjNdQ49zB9KnyPiwXWL0cDH6l1C604V+DCnGl/V8xBUUCiNrCJeyb3VgLQO4DroU7kZBHPHTWgvLWTPeNvcQJSdV206PHkMdGyDOlyZEI7UD6AfEJ8FeizEZrO/I2qcwIsTGLEH7pFeLbygbWstQjXBLx7QtNDXRONFJML3uMlPwGN2KEIv0CXsAz2p/M8FVnXdkhn3zKfKPyoJoBjpNacvv7MUvwZ3hPMQV2wIMF8c0OJlqGabSv+qcgj9QmLRuFbeRTTbMsuWRjKE/1dEHg2NIH3IzPlU+2iT/DJSWpuEUi5sCH902KXa09W/oIEt1MMorGh3i+4K762ERMX91SO8TC0EmQsAu77k2fifiePrNXu9jX29WHvOXJJDM2VWZp/3OOupBKcq+/GSuJHgbYrlLLpr5NIJWaSRSVXq6an3xH3pxjeRCFJVTB80DTHn1TlBHb0azyY2eMbww3+S3gRePpqxv/c5npI3lVZYdN8dPeWVX/6v44BConadakt1oGPqofAotxZts94sOWK8TmWnz1a2e23UigQF2ptL88qOIKKwvB3OHIMANpUsr2jwr9LKF1BlfHah7iNdfui6CRRRDJ/s67f0ozutSmt9Rrt/VG7Vf2/UldCPgZy5NkT5lpsNIOIeiPmKGRKs+mcd9mQPWmJOV87VF5SuDTvOOftXak1uzPkGqr1+RfIxi53Y05lFiGn8UmWieErRfS9CtBod5xIiMqew7oPbNMLfyCMyKZIo0zoRincanJiy7yLJUN97ZTrHbkpxxHNnj5PpWx77hJLhUEbj6iBgcGPXR5/x6abU5pWaIJ1xU1aKsM7OEX9TA1eILGzcq64mdmJ0Gd4+b6gq3KEQ8mF5a1qGSbfiGVbjDSDmCpLVcFfSpD2UyNQB0gqb+p3oLJU=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210587,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 276,
+    "prompt_tokens": 1652,
+    "total_tokens": 1928,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 205,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002274,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002274,
+      "upstream_inference_prompt_cost": 0.001239,
+      "upstream_inference_completions_cost": 0.001035
+    }
+  },
+  "provider": "Google"
+}

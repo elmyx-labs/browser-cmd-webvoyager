@@ -1,0 +1,4 @@
+[x] Look up the latest stable release version of Vuex. https://github.com/vuejs/vuex/tags — first tag “v4.1.0”; npm search result identifies 4.1.0 with tag “latest”.
+[x] Find out when it was published. https://security.snyk.io/package/npm/vuex/versions — “4.1.0 | 14 Oct, 2022”; https://github.com/vuejs/vuex/tags — “v4.1.0” and “Oct 14, 2022”.
+[x] Save one genuine viewport screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side, showing item's name and deciding facts together without an overlay. final.png is the 1280x723 resized viewport of https://github.com/vuejs/vuex/tags, showing vuejs/vuex, v4.1.0, and Oct 14, 2022; no overlay.
+[x] Write final answer to ./ANSWER.txt with result and evidence. ANSWER.txt starts FINAL: and includes the version, publication date, source URLs, and final.png.

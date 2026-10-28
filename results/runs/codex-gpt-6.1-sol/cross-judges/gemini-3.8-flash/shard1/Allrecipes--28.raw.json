@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209926-TrpihOdcvGauB2haHTXo",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided task instruction and results:\n\n1. **Website & Recipe:** The recipe found is \"Vegan Brownies\" on Allrecipes.\n2. **Reviews & Rating:** As shown in the screenshot, the recipe has a **4.6 rating** (requirement: $\\ge$ 4.5) and **835 reviews** (requirement: $\\ge$ 40 reviews).\n3. **Required Details:** The response includes the full list of ingredients, the prep and cook times (15 mins prep, 30 mins cook, total time), and a clear, brief overview of the preparation steps.\n\nAll instructions have been completely satisfied.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Recipe Criteria**\n\nOkay, I'm now honing in on finding a vegan brownie recipe on Allrecipes. I'm focusing on the criteria: a minimum of 40 reviews, a rating of 4.5 or better, an included ingredient list, prep/cook times, and a brief prep overview. I'm now beginning to process the screenshot to gather this relevant data.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Recipe Criteria**\n\nOkay, I'm now honing in on finding a vegan brownie recipe on Allrecipes. I'm focusing on the criteria: a minimum of 40 reviews, a rating of 4.5 or better, an included ingredient list, prep/cook times, and a brief prep overview. I'm now beginning to process the screenshot to gather this relevant data.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209926,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 477,
+    "prompt_tokens": 1978,
+    "total_tokens": 2455,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 337,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00327225,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00327225,
+      "upstream_inference_prompt_cost": 0.0014835,
+      "upstream_inference_completions_cost": 0.00178875
+    }
+  },
+  "provider": "Google AI Studio"
+}

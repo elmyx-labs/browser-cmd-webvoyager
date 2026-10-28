@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--35",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Check the latest release version of React and the date it was published on GitHub.",
+  "answer": "FINAL: React’s latest GitHub release is v19.3.1, published October 14, 2026. The release page displays “19.3.1 (October 14th, 2026)” with the “Latest” badge. Source: https://github.com/react/react/releases/tag/v19.3.1 . Evidence: final.png.",
+  "response": "**Evaluation:**\n\nThe user requested the latest release version of React and its publication date on GitHub. The provided screenshot shows the React repository's release page with the tag `v19.3.1` marked with the \"Latest\" badge, dated October 14th, 2026. The result response accurately identifies both the version and the date matching the evidence.\n\n**Verdict:** SUCCESS",
+  "reason_short": "**Evaluation:** The user requested the latest release version of React and its publication date on GitHub. The provided screenshot shows the React repository's release page with the tag `v19.3.1` marked with the \"Latest\" badge, dated Octobe",
+  "screenshots": [
+    "task_402/final.png"
+  ],
+  "raw_screenshot": "task_402/final.png",
+  "source_result": "task_402",
+  "usage": {
+    "completion_tokens": 400,
+    "prompt_tokens": 1665,
+    "total_tokens": 2065,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 316,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00274875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00274875,
+      "upstream_inference_prompt_cost": 0.00124875,
+      "upstream_inference_completions_cost": 0.0015
+    }
+  },
+  "elapsed_seconds": 6.47
+}

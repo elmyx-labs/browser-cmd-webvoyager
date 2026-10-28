@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdygxbAZMDsRb4iVOi5EFjsR28QoA",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to determine the approximate time to sunburn for each skin type when standing in the sun from 11:00 am with SPF 5 in Australia.\n\nThe screenshot shows a WolframAlpha result with:\n- Location: Australia\n- Start time: 11:00 am AEDT, Wednesday, October 28, 2026\n- SPF: 5\n- Skin type: all\n\nIt also displays the “Typical time to sunburn” table for skin types I through VI. The Result Response accurately transcribes the values shown in the screenshot:\n\n- Skin type I: 1 hour 7 minutes\n- Skin type II: 1 hour 21 minutes\n- Skin type III: 1 hour 49 minutes\n- Skin type IV: 2.5 hours\n- Skin type V: 3 hours\n- Skin type VI: 5.5 hours\n\nThis directly answers the task and is supported by the screenshot.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196799,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 385,
+    "prompt_tokens": 1764,
+    "total_tokens": 2149,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 179,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

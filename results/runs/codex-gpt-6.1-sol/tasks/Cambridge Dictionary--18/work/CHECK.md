@@ -1,0 +1,3 @@
+[x] Search for "to behave well" in Cambridge Dictionary's Thesaurus and see which synonyms the dictionary gives. Evidence: https://dictionary.cambridge.org/thesaurus/articles/to-behave-well — “behaves themselves,” “behave,” “be on their best behaviour.”
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and decisive facts visible together and no overlay. Evidence: final.png; privacy banner closed; title “to behave well” and synonym paragraphs in view.
+[x] Write the result and evidence to ./ANSWER.txt. Evidence: ANSWER.txt contains the result, source URL, access date, and screenshot reference.

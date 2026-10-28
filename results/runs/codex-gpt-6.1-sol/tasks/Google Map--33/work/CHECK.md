@@ -1,0 +1,5 @@
+[x] Which level has the least proportion in reviews for Denver International Airport — Google Maps Reviews: "2 stars, 2,309 reviews", against 27,819 / 11,666 / 4,535 / 4,714 for other levels; 51,043 total. URL in ANSWER.txt.
+[x] What are its Accessibility — Google Maps About: "Assistive hearing loop", "Wheelchair-accessible car park", "Wheelchair-accessible entrance", "Wheelchair-accessible seating", "Wheelchair-accessible toilet". URL in ANSWER.txt.
+[x] What are its Amenities — CoParking listing: "Has gender-neutral toilets", "Has toilet", "Has Wi-Fi", "Free Wi-Fi". https://coparking.ch/en/United-States/parking/denver-international-airport-32185
+[x] Save one genuine viewport screenshot as ./final.png, only evidence image read, shrunk to about 1280 px on its long side — 1280 x 723 Google Maps viewport, airport name and review distribution together; All reviews selected; no date filter.
+[x] Write final answer and evidence to ./ANSWER.txt — includes result, counts, sources, check date and signed-out Amenities limitation.

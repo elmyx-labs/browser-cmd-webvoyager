@@ -1,0 +1,4 @@
+[x] Compare prices of non-stop flights from New York to Tokyo Narita Airport, departing July 12, 2027 and returning July 26, 2027. Google Flights search URL in NOTES.md: “1 result returned”; selected itinerary “Lowest total price” $1,544. United fare options recorded in NOTES.md and ANSWER.txt.
+[x] Compare total duration of those flights, with dates, airport and nonstop filter verified. Search “Nonstop” selected; itinerary “EWR–NRT”, “NRT–EWR”, “13 hr 50 min”, “12 hr 50 min”. Total calculated 26 hr 40 min. Dates encoded 2027-07-12 and 2027-07-26 in source URLs.
+[x] Save one genuine viewport evidence screenshot ./final.png, about 1280 px long side, showing names, decisive facts, dates and filters without overlays. 1280×723 viewport image: both legs marked Nonstop, July 12/26 dates, durations and prices visible; no additional sort was requested or applied to the itinerary summary.
+[x] Write ./ANSWER.txt with FINAL: first line, results, dates and sources.

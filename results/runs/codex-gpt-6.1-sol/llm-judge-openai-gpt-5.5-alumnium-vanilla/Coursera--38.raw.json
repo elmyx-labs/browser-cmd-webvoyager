@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdydvH4CiZYda7rv9cnK26tHzWQO2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task asked to identify all Coursera partners from Australia, including both universities and companies.\n\nThe screenshot shows Coursera’s “Meet our partners” page with a country filter applied, and the visible filtered results are five Australian partners:\n\n1. Macquarie University  \n2. The University of Melbourne  \n3. The University of Sydney  \n4. University of Western Australia  \n5. UNSW Sydney / The University of New South Wales  \n\nAll visible partner cards are labeled “Australia,” and no company partner cards are shown. The result response lists exactly these five institutions and states that no companies are listed under Australia. This aligns with the screenshot and completes the requested task.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196611,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 374,
+    "prompt_tokens": 1701,
+    "total_tokens": 2075,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 228,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

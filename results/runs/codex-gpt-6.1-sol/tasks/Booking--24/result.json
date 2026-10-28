@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Booking",
+    "id": "Booking--24",
+    "ques": "Find a hotel in Barcelona for a stay from February 25-28, 2027. Please sort the results by distance from the beach and make sure they offer free Wi-Fi and breakfast.",
+    "web": "https://www.booking.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Eurohotel Diagonal Port in Barcelona — February 25–28, 2027 (3 nights; 2 adults, 1 room).\n\nIt is the first result after sorting by “Distance from closest beach” with “Hotels”, “Free Wifi”, and “Breakfast included” applied. The listing is marked “Beachfront”; the Standard Double or Twin Room includes breakfast and free cancellation.\n\nDisplayed price: RSD 62,741 plus RSD 6,514 in taxes and fees for the stay.\n\nSource: https://www.booking.com/searchresults.html?ss=Barcelona&dest_id=-372490&dest_type=city&checkin=2027-02-25&checkout=2027-02-28&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bmealplan%3D1%3Bhotelfacility%3D107&order=closest_beach_distance_v2\nHotel: https://www.booking.com/hotel/es/rafaeldiagonal.html?checkin=2027-02-25&checkout=2027-02-28&group_adults=2&no_rooms=1&group_children=0\nEvidence: final.png shows the selected dates, all three applied filters, beach-distance sort, and the hotel's beachfront and breakfast details together.",
+    "result_text": "FINAL: Eurohotel Diagonal Port in Barcelona — February 25–28, 2027 (3 nights; 2 adults, 1 room).\n\nIt is the first result after sorting by “Distance from closest beach” with “Hotels”, “Free Wifi”, and “Breakfast included” applied. The listing is marked “Beachfront”; the Standard Double or Twin Room includes breakfast and free cancellation.\n\nDisplayed price: RSD 62,741 plus RSD 6,514 in taxes and fees for the stay.\n\nSource: https://www.booking.com/searchresults.html?ss=Barcelona&dest_id=-372490&dest_type=city&checkin=2027-02-25&checkout=2027-02-28&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bmealplan%3D1%3Bhotelfacility%3D107&order=closest_beach_distance_v2\nHotel: https://www.booking.com/hotel/es/rafaeldiagonal.html?checkin=2027-02-25&checkout=2027-02-28&group_adults=2&no_rooms=1&group_children=0\nEvidence: final.png shows the selected dates, all three applied filters, beach-distance sort, and the hotel's beachfront and breakfast details together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_222/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_222",
+  "elapsed_seconds": 118.86006689071655,
+  "execution_error": null,
+  "proxy_bytes": null
+}

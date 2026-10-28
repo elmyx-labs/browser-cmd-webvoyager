@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--14",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a course on Coursera related to Introductory Project Management that includes modules on Agile methodology.",
+  "answer": "FINAL: Foundations of Agile Project Management, offered by Google on Coursera, matches the request. This beginner-level, 3-hour course includes three modules:\n1. Introduction to Agile Project Management\n2. Adopting an Agile Mindset\n3. Explore Popular Agile Frameworks\nModule 1 explicitly covers Agile versus Waterfall and the Agile Manifesto’s four values and twelve principles. The course overview also covers Scrum, Kanban, XP, and Lean.\nSource: https://www.coursera.org/learn/google-foundations-of-agile-project-management\nVerified October 27, 2026. Evidence: final.png shows the course title, provider, all three modules, and Module 1’s Agile content.",
+  "response": "The user requested to find a course on Coursera related to Introductory Project Management that includes modules on Agile methodology.\n\nThe screenshot and response provide a course on Coursera titled \"Foundations of Agile Project Management\" by Google, which covers introductory project management concepts and includes modules explicitly focusing on Agile methodology (such as \"Introduction to Agile Project Management\", \"Adopting an Agile Mindset\", and \"Explore Popular Agile Frameworks\").\n\nThus, the task was successfully accomplished.\n\nSUCCESS",
+  "reason_short": "The user requested to find a course on Coursera related to Introductory Project Management that includes modules on Agile methodology. The screenshot and response provide a course on Coursera titled \"Foundations of Agile Project Management\"",
+  "screenshots": [
+    "task_297/final.png"
+  ],
+  "raw_screenshot": "task_297/final.png",
+  "source_result": "task_297",
+  "usage": {
+    "completion_tokens": 397,
+    "prompt_tokens": 1735,
+    "total_tokens": 2132,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 301,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00279,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00279,
+      "upstream_inference_prompt_cost": 0.00130125,
+      "upstream_inference_completions_cost": 0.00148875
+    }
+  },
+  "elapsed_seconds": 4.72
+}

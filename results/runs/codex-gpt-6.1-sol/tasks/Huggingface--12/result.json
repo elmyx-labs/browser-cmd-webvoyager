@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Huggingface",
+    "id": "Huggingface--12",
+    "ques": "Find the most recently updated machine learning model on Huggingface which focuses on Error Correction.",
+    "web": "https://huggingface.co/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: eulogik/Prajna-CRNv2 — last updated October 1, 2026 at 05:52:45 UTC.\nIt ranks first among Hugging Face models tagged error-correction when sorted by “Recently updated,” displaying “Updated 27 days ago.” Its model card calls it “Safe Error Correction for Language Models” and describes a 34M-parameter correction module over a frozen Gemma-4-E2B.\nModel: https://huggingface.co/eulogik/Prajna-CRNv2\nFiltered, sorted results: https://huggingface.co/models?other=error-correction&sort=modified\nLatest commit timestamp: https://huggingface.co/eulogik/Prajna-CRNv2/tree/main\nEvidence screenshot: final.png",
+    "result_text": "FINAL: eulogik/Prajna-CRNv2 — last updated October 1, 2026 at 05:52:45 UTC.\nIt ranks first among Hugging Face models tagged error-correction when sorted by “Recently updated,” displaying “Updated 27 days ago.” Its model card calls it “Safe Error Correction for Language Models” and describes a 34M-parameter correction module over a frozen Gemma-4-E2B.\nModel: https://huggingface.co/eulogik/Prajna-CRNv2\nFiltered, sorted results: https://huggingface.co/models?other=error-correction&sort=modified\nLatest commit timestamp: https://huggingface.co/eulogik/Prajna-CRNv2/tree/main\nEvidence screenshot: final.png",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_539/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_539",
+  "elapsed_seconds": 137.2064950466156,
+  "execution_error": null,
+  "proxy_bytes": null
+}

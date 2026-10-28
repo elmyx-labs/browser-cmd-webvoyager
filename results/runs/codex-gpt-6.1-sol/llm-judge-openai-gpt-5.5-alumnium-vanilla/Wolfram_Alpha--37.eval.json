@@ -1,0 +1,31 @@
+{
+  "id": "Wolfram Alpha--37",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "How many days are there between February 12, 2024 and August 9, 2050?",
+  "answer": "FINAL: There are 9,675 days between February 12, 2024 and August 9, 2050. WolframAlpha interprets the input as those dates and shows “9675 days” under Result. Source: https://www.wolframalpha.com/input?i=days+between+February+12%2C+2024+and+August+9%2C+2050 . Screenshot: final.png.",
+  "response": "The task asks for the number of days between February 12, 2024 and August 9, 2050.\n\nThe screenshot shows WolframAlpha interpreting the query as “days from Monday, February 12, 2024 to Tuesday, August 9, 2050” and displaying the result as “9675 days.” The Result Response matches the screenshot and provides the requested answer directly.\n\nVerdict: SUCCESS",
+  "reason_short": "The task asks for the number of days between February 12, 2024 and August 9, 2050. The screenshot shows WolframAlpha interpreting the query as “days from Monday, February 12, 2024 to Tuesday, August 9, 2050” and displaying the result as “96",
+  "screenshots": [
+    "task_606/final.png"
+  ],
+  "raw_screenshot": "task_606/final.png",
+  "source_result": "task_606",
+  "usage": {
+    "completion_tokens": 196,
+    "prompt_tokens": 1677,
+    "total_tokens": 1873,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 4.19
+}

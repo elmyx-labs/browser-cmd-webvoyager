@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Allrecipes",
+    "id": "Allrecipes--32",
+    "ques": "Find a high-rated beef stew recipe on Allrecipes that requires a slow cooker and has at least 30 reviews. Detail the cooking time and the first five ingredients listed in the recipe.",
+    "web": "https://www.allrecipes.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Slow Cooker Beef Stew on Allrecipes qualifies: it is rated 4.5/5 from 5,504 ratings, has 4,045 reviews, and its directions require a slow cooker.\n\nCooking time: The recipe lists 4 hours of cooking, plus 20 minutes of preparation (4 hours 20 minutes total). The directions specify 4–6 hours on High or 8–12 hours on Low, until the beef is tender.\n\nFirst five ingredients, in the listed order for the original 1X recipe (6 servings):\n1. 2 pounds beef stew meat, cut into 1-inch pieces\n2. ¼ cup all-purpose flour\n3. ½ teaspoon salt\n4. ½ teaspoon ground black pepper\n5. 1½ cups beef broth\n\nSource: https://www.allrecipes.com/recipe/14685/slow-cooker-beef-stew-i/\nThe recipe page says it was updated October 22, 2026. Evidence: final.png shows the recipe name, rating, and review count together.",
+    "result_text": "FINAL: Slow Cooker Beef Stew on Allrecipes qualifies: it is rated 4.5/5 from 5,504 ratings, has 4,045 reviews, and its directions require a slow cooker.\n\nCooking time: The recipe lists 4 hours of cooking, plus 20 minutes of preparation (4 hours 20 minutes total). The directions specify 4–6 hours on High or 8–12 hours on Low, until the beef is tender.\n\nFirst five ingredients, in the listed order for the original 1X recipe (6 servings):\n1. 2 pounds beef stew meat, cut into 1-inch pieces\n2. ¼ cup all-purpose flour\n3. ½ teaspoon salt\n4. ½ teaspoon ground black pepper\n5. 1½ cups beef broth\n\nSource: https://www.allrecipes.com/recipe/14685/slow-cooker-beef-stew-i/\nThe recipe page says it was updated October 22, 2026. Evidence: final.png shows the recipe name, rating, and review count together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_27/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_27",
+  "elapsed_seconds": 84.03943586349487,
+  "execution_error": null,
+  "proxy_bytes": 51316742
+}

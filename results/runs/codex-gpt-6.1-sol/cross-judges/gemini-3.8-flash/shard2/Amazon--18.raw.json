@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210004-CzrIvRbfxjJEtN0X39iN",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response:\n\n1. The user requested to open Amazon's home page and find the deals currently running. The page navigated to is \"Today's Deals\".\n2. The user requested the names of at least two items on offer and their respective percentage discounts.\n3. The response lists:\n   - *Mediterranean All the Way: Bold Flavors, Built to Share: A Cookbook* at **20% off**\n   - *Shark Stratos Upright Vacuum* at **50% off**\n4. Both items and their discount percentages match the information visible in the screenshot.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Navigating Amazon Deals**\n\nI'm currently focused on extracting key deal information from Amazon. My recent progress involves identifying specific items, their percentage discounts, and the current \"Today's Deals\" or limited-time offers.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Navigating Amazon Deals**\n\nI'm currently focused on extracting key deal information from Amazon. My recent progress involves identifying specific items, their percentage discounts, and the current \"Today's Deals\" or limited-time offers.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a196FnNcQjjDAfvWHIn5pFle2ts6xLbuUWrtiFMn0jI/z+qDLaHGa63h2oPRur37i71sJNrfRmwZAyNoIBIKDOZv1fGQ7BV5Qzayqqkbk8Owt8mOvOjIeLm2uIjTNv6sO7M/HJBOjbX4A0Kb+p0q2sbFDQSLrCDgr+5GelBhuSxhEkcyb6rGVJIuyZAoxWPoWqlL7OzrIZFSHYyhFDEXEWZGwEg+7UrvveWbood/Ft8o4PZZyICd1Burgv30qUEE5nJNJlxd9i3rcemM+DyrM7XHehAa1KcWf6a2mx8s9pQb7q8KV2Nq2doage9PYBPuggc1r1k9mkqIedevPM+3GvZq3OwGTG+FNTzDLEucDQIT7bfw5FyBftf5Gfiyw2IfH63AtB8Y2hopqCpydXd0vwlzBPvIvDSbSP41uaukPTlPgMEAdW+dHRwdcdtNdcCWSNVYEd71Gb8cIyshZIv9ka2jltNXVJGPsmhveFMecUEodpE2IrrbiIbiYAabDHl5iXpe0Sqky2ZoY831KWcd9QywHPs2o3b5iy05bzn65/9bJMsynQ9beANBjVMU1As1IqwoihcrG1UecKk1ljEJxjF9xP6p1DvnPRciAfxPt0VeA417tTNuRC2H760rO7BcIJ+fwlri7fM+dJxsnxzHjDsnMqaNUf5bh5+YnE7waIEXqPK///WWtgTqG9IVlCdDD16dKefLE5XyNfsNSz1hCkPyzzOa6JkusgU0AM09KqeJN1W7DDGK6XQvEC1p54XkWV2BZt6/1qCaEECNrKpa5BGlF5Q7NctoW/8u7lIPwNzWeQG1ssLG+5ti65BOnZbcaXoMd40uYQYj2cSp9tzAT5iGGReTfacZCc4lv0w1romVYAYadTBzkscrty49vNkfyJ+Y930aZt0xOe3K4nipms/IEiwzoWRfvRgfREAoO/ZP93jn4wt8y4Y+qm45JW6zhMKG/c8YwVJF33l9nkOT5xZ7eci8Q/DWdktGux/sjEtmJ5YxPmKMpUJkwpf+KfDnDO19MrASXCffLeo9EYznTRHeX89XFcz+zLrOTpZiqHnsx/41mU+4ChkcEWBIng7oQhvnT94pHFxGjFP7Z8u42Qa/qSOmOfJqvE1g2Wmwsw9hw1DqFUuKRrtvyKVize+v8rQs3ODxGU6FZ3/ijBUzrZrUeIxWTz7TXHTLUgObS1xjuF83cevuBVzSVHOxtluLNmaJLEANTP4KNUJQqGBVO+5RpI4Iu4lkxREip1ezmn1hFAImdkDdStcL10mWtw4MNTkC0OSgH03mJfATNkvf7v+OgZ2mY/ooYg0x7JMCi/5IfzJqhoJZGU7Qlcv2YyXOYaNXzSSv3QpRi8W7Vk0MFHvUx/XpW/mBkG9JQPICrbPCkaRLGGk+XdjedDz55Yqt13XCwEgA4v+M9WWLe/s3LbBJpCxWaZouqXGCmxibApg+eO+5Qbz3N5WpkQUfchOjq5FzHs9kigxmtyKDs8yv/0esvZNmGF4hlN8bQ6iQpavFw+mE1xcnNMqt",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210004,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 419,
+    "prompt_tokens": 1752,
+    "total_tokens": 2171,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 278,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00288525,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00288525,
+      "upstream_inference_prompt_cost": 0.001314,
+      "upstream_inference_completions_cost": 0.00157125
+    }
+  },
+  "provider": "Google"
+}

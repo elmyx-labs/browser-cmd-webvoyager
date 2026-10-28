@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyfnK2pg5sn4s6SLPlfmNLsOYoOb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find a route from Miami to New Orleans and provide detailed route information.\n\nThe screenshot shows Google Maps with driving directions from **Miami, Florida, USA** to **New Orleans, Louisiana, USA**. It displays the selected fastest route:\n\n- **Via Florida’s Tpke and I-10 W**\n- **12 hr 55 min**\n- **864 miles**\n- Marked as the fastest route due to traffic conditions\n- Includes notices that the route has tolls and the destination is in a different time zone\n\nThe result response provides a detailed written route summary, including the main highways, total time and distance, toll/time-zone notes, alternative routes, and step-by-step driving directions. While the screenshot itself does not show the expanded turn-by-turn “Details” panel, the textual response supplies that detailed route information and does not materially conflict with the visible screenshot.\n\nTherefore, the requested route was found and detailed route information was provided.\n\n**Verdict: SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196727,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 708,
+    "prompt_tokens": 2360,
+    "total_tokens": 3068,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 501,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

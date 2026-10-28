@@ -1,0 +1,5 @@
+- [x] Search for a queen-sized, hypoallergenic mattress topper on Amazon. https://www.amazon.com/dp/B0H1LS7JN6 — selected Queen; subtitle “Breathable Hypoallergenic”; About section describes hypoallergenic construction.
+- [x] It should have a memory foam material. Same URL — title “Memory Foam”; About section “shredded memory foam inside”.
+- [x] Be priced between $50 to $100. Same URL — Queen selected, $65.00 item price.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side; item's name and constrained facts in view, no overlay. final.png, 1280 × 723, title, hypoallergenic subtitle, Queen option and $65.00 visible together. No search filters, sort or dates apply on this product page.
+- [x] Write result and evidence to ./ANSWER.txt. Saved with source URL, observation date and screenshot reference.

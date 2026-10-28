@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--17",
+    "ques": "Locate a C++ project on GitHub that has been recently updated in the last week and has at least 500 stars, then describe its main purpose.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: OpenCV (opencv/opencv) is a C++ project that provides an open source library for computer vision and image processing. On October 28, 2026, GitHub showed 91,354 stars (displayed as 91.4k) and “Updated 3 minutes ago,” meeting both the 500-star minimum and the requirement for an update within the last week (October 21–28, 2026).\n\nRepository: https://github.com/opencv/opencv\nEvidence: https://github.com/search?q=opencv+language%3AC%2B%2B+stars%3A%3E%3D500+pushed%3A2026-10-21..2026-10-28&type=repositories&s=updated&o=desc\nThe search applies C++, stars >=500, and pushed October 21–28, 2026, sorted by Recently updated. final.png shows the project, its purpose, language, stars, relative update time, and sort together. GitHub's results layout hides the applied query text, so the filter thresholds and absolute date range could not be shown in the screenshot.",
+    "result_text": "FINAL: OpenCV (opencv/opencv) is a C++ project that provides an open source library for computer vision and image processing. On October 28, 2026, GitHub showed 91,354 stars (displayed as 91.4k) and “Updated 3 minutes ago,” meeting both the 500-star minimum and the requirement for an update within the last week (October 21–28, 2026).\n\nRepository: https://github.com/opencv/opencv\nEvidence: https://github.com/search?q=opencv+language%3AC%2B%2B+stars%3A%3E%3D500+pushed%3A2026-10-21..2026-10-28&type=repositories&s=updated&o=desc\nThe search applies C++, stars >=500, and pushed October 21–28, 2026, sorted by Recently updated. final.png shows the project, its purpose, language, stars, relative update time, and sort together. GitHub's results layout hides the applied query text, so the filter thresholds and absolute date range could not be shown in the screenshot.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_384/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_384",
+  "elapsed_seconds": 308.07235407829285,
+  "execution_error": null,
+  "proxy_bytes": 17772374
+}

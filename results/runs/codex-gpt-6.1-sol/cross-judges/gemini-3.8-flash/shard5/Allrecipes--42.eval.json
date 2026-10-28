@@ -1,0 +1,41 @@
+{
+  "id": "Allrecipes--42",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a recipe for banana bread with more than 200 reviews and a rating of at least 4.0 stars on Allrecipes.",
+  "answer": "FINAL: Janet's Rich Banana Bread on Allrecipes has a 4.8/5 rating and 8,333 reviews, meeting both requirements (at least 4.0 stars and more than 200 reviews).\nSource: https://www.allrecipes.com/recipe/17066/janets-rich-banana-bread/\nVerified October 27, 2026. Evidence: final.png shows the recipe name, rating, and review count together.",
+  "response": "The user requested to find a recipe for banana bread on Allrecipes that has more than 200 reviews and a rating of at least 4.0 stars.\n\nThe provided screenshot and response show \"Janet's Rich Banana Bread\" on Allrecipes with a rating of 4.8 stars and 8,333 reviews, which clearly satisfies all the specified conditions.\n\nSUCCESS",
+  "reason_short": "The user requested to find a recipe for banana bread on Allrecipes that has more than 200 reviews and a rating of at least 4.0 stars. The provided screenshot and response show \"Janet's Rich Banana Bread\" on Allrecipes with a rating of 4.8 s",
+  "screenshots": [
+    "task_37/final.png"
+  ],
+  "raw_screenshot": "task_37/final.png",
+  "source_result": "task_37",
+  "usage": {
+    "completion_tokens": 318,
+    "prompt_tokens": 1696,
+    "total_tokens": 2014,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 238,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0024645,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0024645,
+      "upstream_inference_prompt_cost": 0.001272,
+      "upstream_inference_completions_cost": 0.0011925
+    }
+  },
+  "elapsed_seconds": 3.7
+}

@@ -1,0 +1,3 @@
+- [x] Retrieve a short biography of LeBron James. Source: https://www.britannica.com/summary/LeBron-James — birth, draft, Rookie of the Year, MVPs, championships, and scoring record appear in the summary; exact passages recorded in NOTES.md.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the name and supporting facts together without overlays. final.png is 1280×723 and shows the title and complete biography paragraph. No filters, sorts, or date restrictions were requested.
+- [x] Write the result and its evidence to ./ANSWER.txt. The file starts FINAL: and includes the short biography, source URL, access date, and evidence filename.

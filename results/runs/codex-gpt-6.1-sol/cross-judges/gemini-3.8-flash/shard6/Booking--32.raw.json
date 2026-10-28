@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210141-KtbDL1HvElmJ6MWwspnV",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to search for hotels in Sydney on Booking.com for the dates February 24 to February 27, 2027, apply the \"Swimming Pool\" and \"Airport Shuttle\" filters, and determine the total number of available properties.\n\nBased on the provided screenshot and URL details:\n- Destination: Sydney\n- Dates: Wed, Feb 24 – Sat, Feb 27, 2027\n- Filters applied: \"Swimming pool\" and \"Airport shuttle\" (both checked under Facilities)\n- The search result header clearly shows: \"Sydney: 10 properties found\"\n\nThe result response correctly provides the count of 10 properties.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching hotels in Sydney**\n\nI'm currently refining my search on Booking for hotels in Sydney between February 24th and 27th, 2027. My focus is now on applying the 'Swimming Pool' and 'Airport Shuttle' filters to narrow down the options effectively.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching hotels in Sydney**\n\nI'm currently refining my search on Booking for hotels in Sydney between February 24th and 27th, 2027. My focus is now on applying the 'Swimming Pool' and 'Airport Shuttle' filters to narrow down the options effectively.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18L+iwc9EdvCW4SgUDxNlMBl35Gj53SIfb1qxeWRNoM2VykgSkcLL8gSfKIoVDx5/vj5Wlx2/17sS0Xmdlyj8CoSUId7m0l3FNJMjl9F/tip9KNdRcwxGPxg337xCsdH1IA1pWq0KrtozQ+LOIVZJqbySHc79F+9c6nR/2RL3EM/vueyaWzaph4oQ0ZBWAt5h5Bn0tgMN1kDjhy3Lrh4CKorvywNyADWTAq4U8YZKOIuzBz+6Ro2mxSj+FQ2B6lydPhGVtAIN3E882ghbzxwUqWnthi77DcV4EuRPTrmGVHBh8kGxM+DVZmlWuC8T4EoYTe7EoNRXfaFqwMcFc2DCYYRpV0y5o3qZQuLJSebSYr/PZGfeStrui1nXYCV9Cw/7vB2ld60aN20ageoUAX5thXO7XbCqLg5LTiy1B7gtT6BruyJ+iUxxHbFBBqtrtPgnB0AzlzHPUNz5n/UuyF7NO4+zmR0SZNgKEX7qKYx170LuY4aWv5YC4xsBcJ6nQY7IBP/cPJ+3I7PVti7SqNAF+1pSRmLn8SkxUTvzZiJGCC90zknApTuRpljvimlar1t25fJI2qgsrQHna7nBoMZM4cK50vrk+EaLD+YajLZ6HbNlZyMzrhsY6EGI3ven/g0NRGA7ADmyPWf/TZFYXM+kdXE768wavWrs68PYYPz0ltX60aoP+T1Dacvpne9Xn5bqphSUG6q0HvGjMu0Eum4bOwfd8gVhBFr4vNyDy2VOXIF25RyNw1V08hM6bM8B+Sou/Ic9VAsPzHGXoTY5Drv4DwpjAlxPWCbbqdes2P8NASd+DF77QGcZOlNGZMsHVbPO9wQRIvtxdYoby26D2S/5ZKUe/R59bFATsSKve+IowPAWaVeXD0jM7K2drl9XDqcKM/uDg3kmW4XY6E8AGimPSYMlOc6qKGot17kzt0Cz5vRfHqpbplNgGsJLkTyzh9mfk4UO6JZgJ47kKeM1Su3POZVUMawG/Ana6cFnelMERD6HyFvE9bTRzx6WydejualCRZQXE7Us6HknDgcT6yji+HzcCcbpRpJ3Dri0KAe0im2v38NcZe8vuN4Gy16zw5ik2mxLVlo6w02kZS8K36hqY7oDpdoQkCd0/KCydKxDM91F0wV4FS5GQBNPrWQ/D0HUkGpl95Sj7paUVKGlAglUhm1bXiikmWUgfUM2RVWvWplMVlCbMs7hJR1Xd/Yb1ZLGqsd2n1rWeka+g=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210141,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 345,
+    "prompt_tokens": 1960,
+    "total_tokens": 2305,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 199,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00276375,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00276375,
+      "upstream_inference_prompt_cost": 0.00147,
+      "upstream_inference_completions_cost": 0.00129375
+    }
+  },
+  "provider": "Google"
+}

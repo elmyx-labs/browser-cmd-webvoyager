@@ -1,0 +1,3 @@
+[x] The first three Top Headlines in the current ESPN home page correspond to which sports leagues? — https://www.espn.com/: Edwards knee procedure (/nba/), Dream Finals venue (/wnba/), Colts Buckner trade (/nfl/), in that order.
+[x] Save one genuine screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side, viewport showing the Top Headlines evidence without overlays. — final.png is 1280 pixels wide; Top Headlines and the first three titles are visible together.
+[x] Write the final answer to ./ANSWER.txt with the result and its evidence. — ANSWER.txt states NBA, WNBA, NFL, observation date, ESPN source, title mappings, and final.png evidence.

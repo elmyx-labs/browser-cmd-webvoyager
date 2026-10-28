@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdydrOfdVIkBGdkkDGOSThZaokeFn",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to determine how much more GitHub Packages storage the Enterprise plan has compared with the Team plan on GitHub Pricing.\n\nThe screenshot shows the “GitHub Packages” row with:\n- Team: 2GB\n- Enterprise: 50GB\n\nThe difference is 50GB − 2GB = 48GB.\n\nThe result response correctly states that Enterprise has 48 GB more package storage than Team.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196607,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 161,
+    "prompt_tokens": 1671,
+    "total_tokens": 1832,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

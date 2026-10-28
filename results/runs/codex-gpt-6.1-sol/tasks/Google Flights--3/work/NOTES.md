@@ -1,0 +1,2 @@
+Google Flights search: one way, economy (include Basic), Calgary city to New York city (JFK/LGA/EWR), 2027-01-01. All flights sorted by emissions; 12 results returned. First flight WestJet, 10:50 AM–4:40 PM, 4 hr 50 min, YYC–JFK, nonstop, 255 kg CO2e, -20% emissions. Expanded flight details: WestJet Economy Boeing 737 WS 1680; Emissions estimate: 255 kg CO2e. Next flight United 290 kg CO2e.
+URL: https://www.google.com/travel/flights/search?tfs=CBwQAhopEgoyMDI3LTAxLTAxagwIAxIIL20vMDFyMzJyDQgDEgkvbS8wMl8yODZAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIBhAAGAA

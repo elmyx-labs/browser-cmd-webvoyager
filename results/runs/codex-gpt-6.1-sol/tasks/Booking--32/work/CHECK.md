@@ -1,0 +1,7 @@
+- [x] Look for hotels in Sydney on Booking — source URL in ANSWER.txt; “Sydney: 10 properties found”
+- [x] February 24 to February 27, 2027 — source URL checkin=2027-02-24&checkout=2027-02-27; “Wed, Feb 24 — Sat, Feb 27”
+- [x] Swimming Pool filter applied — source URL in ANSWER.txt; checked “Swimming pool: 10 properties”
+- [x] Airport Shuttle filter applied — source URL in ANSWER.txt; checked “Airport shuttle: 10 properties”
+- [x] Total number of hotels available — source URL in ANSWER.txt; “Sydney: 10 properties found”
+- [x] Genuine viewport screenshot ./final.png, shrunk to about 1280 px long side, dates and filters visible with result count — 890 × 1280 screenshot
+- [x] ./ANSWER.txt with result and evidence

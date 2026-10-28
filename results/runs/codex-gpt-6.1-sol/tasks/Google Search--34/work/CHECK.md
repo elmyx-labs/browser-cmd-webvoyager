@@ -1,0 +1,3 @@
+[x] Determine the Earth–Mars distance for October 28, 2026. https://theskylive.com/planetarium?obj=mars&date=2026-10-28&h=00&m=00 — “28-Oct-2026 00:00”, “Object: Mars”, “Earth Dist: 219.11 MKm”, timezone Europe/London.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with Mars, distance, and date visible together and no overlay. final.png is 1280×723 and shows these facts together; advertising overlay collapsed.
+[x] Write the result and its evidence to ./ANSWER.txt. Contains the date and time, distance, source URL, and final.png evidence reference.

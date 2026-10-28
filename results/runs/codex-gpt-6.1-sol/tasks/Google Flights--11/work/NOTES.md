@@ -1,0 +1,5 @@
+Google Flights: New York–Tokyo, round trip, 1 adult, Economy, July 10–24, 2027; Nonstop filter; Sorted by price.
+https://www.google.com/travel/flights/search?tfs=CBwQAhorEgoyMDI3LTA3LTEwKABqDQgDEgkvbS8wMl8yODZyDAgDEggvbS8wN2RmaxorEgoyMDI3LTA3LTI0KABqDAgDEggvbS8wN2Rma3INCAMSCS9tLzAyXzI4NkABSAFwAYIBCwj___________8BmAEB&tfu=EgYIAhAAGAA&curr=USD
+7 results. American/JAL JFK–HND 10:30 AM–1:55 PM +1, 14h25, nonstop, $1,593 round trip. United/ANA EWR–NRT 11:40 AM–2:30 PM +1 13h50 $1,594. JAL/American JFK–HND $1,663 (1:30 AM or 1:35 PM). United/ANA EWR–HND $1,694; ANA/United JFK–HND 1:30 PM $1,694 or 2 AM $1,794. All shown nonstop.
+Selected outbound American AA167 JFK–HND July 10 10:30AM–July11 1:55PM nonstop 14h25. Selected return American AA168 HND–JFK July24 5:45PM–5:55PM nonstop 13h10. Itinerary summary confirmed $1593 lowest total; American Basic Plus Bag $1593, Main Cabin $1853; JAL booking $1861.
+Selected summary kept in t1. Comparison kept in t2. final.png is the genuine viewport screenshot resized from 1440x813 to 1280x722; read only this evidence image.

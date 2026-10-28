@@ -1,0 +1,3 @@
+[x] Identify a course or Specialization on Coursera that helps business process management with with a rating 4.7. — https://www.coursera.org/learn/business-process-modelling; "Business Process Modelling", "4.7", "135 reviews"; description: "supports software development, business process management, and service design."
+[x] Save one genuine screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side; viewport with item's name and deciding facts together, no overlay. — final.png, 1280 px wide; course title, rating and learning outcomes together. No filters, sorts or date constraints apply.
+[x] Write final answer to ./ANSWER.txt with result and evidence. — ANSWER.txt, source course URL and final.png.

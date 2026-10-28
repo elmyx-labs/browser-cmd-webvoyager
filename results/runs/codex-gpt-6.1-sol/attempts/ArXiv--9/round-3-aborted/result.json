@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ArXiv",
+    "id": "ArXiv--9",
+    "ques": "Find the latest research paper about neural networks published on ArXiv which has been submitted within the last week.",
+    "web": "https://arxiv.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry — Wenqing Peng, Michael Boy, and Zhi-Song Liu (arXiv:2610.37655).\n\nOriginally submitted 27 October 2026 at 17:58:40 UTC, within the last-week window of October 21–28, 2026. It studies a neural-network correction of an atmospheric emission inventory, trained offline and fine-tuned through a differentiable chemical model.\n\nEvidence: arXiv’s search for “neural networks,” filtered by original submission date October 21–28 and sorted “Submission date (newest first),” lists it first among 325 results. The paper’s submission history confirms the original v1 timestamp.\nPaper: https://arxiv.org/abs/2610.37655\nSearch: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=neural+networks&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2026-10-21&date-to_date=2026-10-28&date-date_type=submitted_date_first&abstracts=show&size=50&order=-submitted_date\nScreenshot: final.png shows the search dates, newest-first sort, first result, neural-network abstract excerpt, and submission date.",
+    "result_text": "FINAL: KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry — Wenqing Peng, Michael Boy, and Zhi-Song Liu (arXiv:2610.37655).\n\nOriginally submitted 27 October 2026 at 17:58:40 UTC, within the last-week window of October 21–28, 2026. It studies a neural-network correction of an atmospheric emission inventory, trained offline and fine-tuned through a differentiable chemical model.\n\nEvidence: arXiv’s search for “neural networks,” filtered by original submission date October 21–28 and sorted “Submission date (newest first),” lists it first among 325 results. The paper’s submission history confirms the original v1 timestamp.\nPaper: https://arxiv.org/abs/2610.37655\nSearch: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=neural+networks&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2026-10-21&date-to_date=2026-10-28&date-date_type=submitted_date_first&abstracts=show&size=50&order=-submitted_date\nScreenshot: final.png shows the search dates, newest-first sort, first result, neural-network abstract excerpt, and submission date.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_1/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_1",
+  "elapsed_seconds": 128.2710781097412,
+  "execution_error": null,
+  "proxy_bytes": null
+}

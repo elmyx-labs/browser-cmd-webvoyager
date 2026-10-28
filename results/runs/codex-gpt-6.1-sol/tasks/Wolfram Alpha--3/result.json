@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Wolfram Alpha",
+    "id": "Wolfram Alpha--3",
+    "ques": "Let g(x) be the integral of x^2 cos(2x). Write the expression of g(x).",
+    "web": "https://www.wolframalpha.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: g(x) = ((2x² − 1)sin(2x) + 2x cos(2x))/4 + C, where C is an arbitrary constant.\n\nEvidence: WolframAlpha's “Indefinite integral” result for “integrate x^2 cos(2x) dx” shows this expression plus a constant. Source: https://www.wolframalpha.com/input?i=integrate+x%5E2+cos%282x%29+dx . Screenshot: final.png.",
+    "result_text": "FINAL: g(x) = ((2x² − 1)sin(2x) + 2x cos(2x))/4 + C, where C is an arbitrary constant.\n\nEvidence: WolframAlpha's “Indefinite integral” result for “integrate x^2 cos(2x) dx” shows this expression plus a constant. Source: https://www.wolframalpha.com/input?i=integrate+x%5E2+cos%282x%29+dx . Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_572/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_572",
+  "elapsed_seconds": 55.18837881088257,
+  "execution_error": null,
+  "proxy_bytes": null
+}

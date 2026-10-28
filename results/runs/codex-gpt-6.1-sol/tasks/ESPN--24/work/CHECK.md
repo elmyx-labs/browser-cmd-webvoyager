@@ -1,0 +1,4 @@
+- [x] Find the final score from the most recent NFL game broadcast on ESPN. https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles — “Final,” Dallas Cowboys 38, Philadelphia Eagles 21; “Where to Watch” includes “ESPN.” Week 7 schedule ends October 26; Week 8 begins October 29, after the current date October 28.
+- [x] Include the teams' names and the date of the match. Same game page — “Dallas Cowboys,” “Philadelphia Eagles,” “8:15 PM, October 26, 2026.”
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the evidence together without overlays. final.png is 1280×723 and shows the final score, both full team names, date, and ESPN broadcast listing together.
+- [x] Write the result and evidence to ./ANSWER.txt. ANSWER.txt includes the result, match date, source URLs, and screenshot filename.

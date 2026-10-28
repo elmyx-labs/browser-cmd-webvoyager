@@ -1,0 +1,4 @@
+FINAL: In LlamaTokenizer, spaces_between_special_tokens is an optional bool (Boolean), with a default value of False.
+Evidence: Hugging Face Transformers v4.56.2 LLaMA documentation states “spaces_between_special_tokens (bool, optional, defaults to False)”.
+Source: https://huggingface.co/docs/transformers/v4.56.2/en/model_doc/llama#transformers.LlamaTokenizer
+Screenshot: final.png

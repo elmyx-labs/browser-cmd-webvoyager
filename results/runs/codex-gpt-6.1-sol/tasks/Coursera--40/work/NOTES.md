@@ -1,0 +1,12 @@
+Coursera for Business — https://www.coursera.org/business — read 27 October 2026.
+Exact page words: "Our platform delivers expert-led courses, tailored learning paths, and AI tools to help organizations drive workforce growth globally." "Customize training programs with AI-powered tools". "Save on training costs with tailored content and industry-recognized credentials from over 350+ leading companies and universities." Skills Tracks cover data, IT and GenAI. Avoid catalog counts because different sections use different totals.
+Coursera for Teams — https://www.coursera.org/business/teams — read 27 October 2026.
+Exact page words: "Access our full library of enterprise content"; "Earn globally recognized Professional Certificates"; "Upskill 2 to 499 employees"; "$279 per user for 12 months." "Use AI-powered tools to create tailored, multilingual, role-specific learning paths." "Boost completion rates with certificates and badges that are recognized in the industry." "self-service platform". Bottom call to action states "14-day refund guarantee".
+Coursera for Teams FAQ — https://www.coursera.org/business/teams — expanded "What’s included in a Coursera for Teams subscription".
+Exact words: "You’ll also have tools for tracking engagement, measuring skill development, and customizing learning paths to match business goals."
+Plan comparison — https://www.coursera.org/business/compare-plans — read 27 October 2026.
+Team: "For up to 499 Users"; "$279"; "per user/year"; "14-day money-back guarantee"; "Detailed dashboards and reports to track skill progress"; "Mobile learning available (iOS & Android)".
+Enterprise: "For 500+ Users"; "AI-powered authoring tools to quickly customize learning"; "Single sign-on, API and partner integration"; "Ongoing support from a dedicated customer success manager". Page footnote: "Must meet annual contract threshold for services".
+Both cards: content from top universities and companies, recognized certificates, and on-demand personalized learning guidance.
+Verification on 27 October 2026: reread Business page, which explicitly states "Explore Skills Tracks for role-specific learning paths". Role-focused Skills Tracks claim is supported.
+Verification on 27 October 2026: opened Teams FAQ "What’s included in a Coursera for Teams subscription". Exact visible answer: "Your team gets full access to Coursera’s enterprise learning library — including courses, professional certificates, guided projects, and bite-sized video lessons." Guided projects and short video lessons claims are supported.

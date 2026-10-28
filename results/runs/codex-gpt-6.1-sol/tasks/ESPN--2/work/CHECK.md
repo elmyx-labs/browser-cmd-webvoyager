@@ -1,0 +1,4 @@
+[x] Show the scores of the Milwaukee Bucks game that took place within the last 2 days on ESPN. https://www.espn.com/nba/game/_/gameId/401909872/pacers-bucks — Indiana Pacers 102, Milwaukee Bucks 110, Final; Oct 26, 2026. Schedule 2026-27 confirms Mon, Oct 26 vs Indiana W110-102.
+[x] Show the main highlight of that game. Same ESPN game page — Herro has 23 points and 10 rebounds as the Bucks beat the Pacers 110-102 for first win of the season; summary adds seven assists.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name, facts, and date visible together and no overlay. final.png is 1280x723; shows final scoreboard, recap headline, Herro statistics, Oct 26, 2026 date, and Game Highlights caption. No popup or dialog.
+[x] Write the result, dates, and sources in ./ANSWER.txt with first line FINAL:. Result and ESPN source URL written.

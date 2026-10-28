@@ -1,0 +1,4 @@
+- [x] Search for a flight on December 19 and return on December 26 from Tel Aviv to Venice. Google Flights search URL in ANSWER.txt; controls show “Tel Aviv-Yafo”, “Venice”, “Sat, Dec 19”, “Sat, Dec 26”; track-prices control confirms 2026-12-19 and 2026-12-26.
+- [x] Select First Class. Search cabin shows “First”; displayed Air France itinerary says “First Class + Business Class”.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with route, dates and cabin visible and no dialog. final.png is the 1280x723 resized browser viewport, showing the search controls and Air France result together.
+- [x] Write result and evidence to ./ANSWER.txt. File starts with “FINAL:” and includes dates, result, source URL and final.png evidence.

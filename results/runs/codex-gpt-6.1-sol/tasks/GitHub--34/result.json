@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--34",
+    "ques": "Search for an open-source project on GitHub related to 'Protein prediction' and identify the project with the highest number of forks.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: kexinhuang12345/DeepPurpose — 307 forks.\nOn October 28, 2026, it ranked first in GitHub's repository search for “Protein prediction” sorted by “Most forks.” Its description includes Protein Function Prediction, and the repository lists a BSD-3-Clause license.\nSearch evidence: https://github.com/search?q=Protein+prediction&type=repositories&s=forks&o=desc\nFork count and license: https://github.com/kexinhuang12345/DeepPurpose\nScreenshot: final.png (repository name, description, and Fork 307). GitHub displays the search sort and repository fork count on separate pages, so both could not be included together in this single viewport screenshot.",
+    "result_text": "FINAL: kexinhuang12345/DeepPurpose — 307 forks.\nOn October 28, 2026, it ranked first in GitHub's repository search for “Protein prediction” sorted by “Most forks.” Its description includes Protein Function Prediction, and the repository lists a BSD-3-Clause license.\nSearch evidence: https://github.com/search?q=Protein+prediction&type=repositories&s=forks&o=desc\nFork count and license: https://github.com/kexinhuang12345/DeepPurpose\nScreenshot: final.png (repository name, description, and Fork 307). GitHub displays the search sort and repository fork count on separate pages, so both could not be included together in this single viewport screenshot.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_401/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_401",
+  "elapsed_seconds": 148.01800394058228,
+  "execution_error": null,
+  "proxy_bytes": 7517175
+}

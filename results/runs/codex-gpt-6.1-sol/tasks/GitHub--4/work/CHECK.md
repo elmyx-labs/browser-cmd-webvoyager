@@ -1,0 +1,5 @@
+[x] Find a popular JavaScript repository on GitHub. https://github.com/wheresryan22/anatomy — search result "wheresryan22/anatomy", "JavaScript", "21681 stars", "Sort by: Most stars".
+[x] Repository created in the last 30 days. https://github.com/search?q=anatomy+in%3Areadme+language%3AJavaScript+created%3A2026-09-28..2026-10-28+stars%3A%3E100&type=repositories&s=stars&o=desc — query "created:2026-09-28..2026-10-28" returns the repository.
+[x] Repository has a Readme file. https://github.com/wheresryan22/anatomy — "README.md, (File)" and rendered README heading "Anatomy".
+[blocked] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the name and deciding facts with applied filters, sorts, and dates visible. Saved final.png (1280 × 722) showing name, JavaScript, stars, Most stars; GitHub does not visibly render the applied query/date range. This limitation is stated in ANSWER.txt.
+[x] Write result and evidence to ./ANSWER.txt. Written with first line FINAL, sources, date range, and screenshot limitation.

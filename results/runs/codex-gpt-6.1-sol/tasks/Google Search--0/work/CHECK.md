@@ -1,0 +1,3 @@
+[x] Find the initial release date for Guardians of the Galaxy Vol. 3 the movie. IMDb https://www.imdb.com/title/tt6791350/releaseinfo/ lists South Korea — April 19, 2023 (Seoul, Korea, premiere) as its earliest release entry.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the movie name and deciding release-date facts visible and no overlay. final.png is the 1280 × 723 viewport of IMDb's Release info page with the title and release entries together.
+[x] Write the result and its evidence to ./ANSWER.txt. ANSWER.txt starts FINAL: and states the date, premiere context, IMDb source URL, and screenshot filename.

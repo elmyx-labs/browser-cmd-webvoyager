@@ -1,0 +1,31 @@
+{
+  "id": "Google Map--32",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for plumbers available now but not open 24 hours in Orlando, FL.",
+  "answer": "FINAL: These Orlando, FL plumbers are listed open now and are not open 24 hours on Google Maps, checked October 27, 2026 at about 6:37 PM EDT with the “Open now” filter applied.\n\n| Plumber | Listed hours (every day) | Orlando address | Phone |\n|---|---|---|---|\n| Pompa Plumbing Group | 8 AM–10 PM; open now | 750 S Orange Blossom Trl Ste 134, Orlando, FL 32805 | (407) 759-4079 |\n| We Fix Drains | 8 AM–8 PM; open now | 421 W Robinson St Ste C, Orlando, FL 32801 | (407) 805-1707 |\n| RooterMan Orlando Florida | 5 AM–11 PM; open now | 12001 Research Pkwy, Orlando, FL 32826 | (321) 328-9202 |\n\nEvidence: Each listing's expanded weekly hours shows the daily schedule above. final.png shows RooterMan's name, Orlando address, “Open now,” and its full weekly hours, alongside We Fix Drains marked “Open · Closes 8 PM” and the applied “Open now” filter.\n\nSources:\nPompa Plumbing Group: https://www.google.com/maps/place/Pompa+Plumbing+Group/@28.4582241,-82.0689595,9z/data=!4m12!1m4!2m3!1splumbers+in+Orlando+FL!5m1!2e1!3m6!1s0x88e77b72bb64586b:0xbca69563a08b48bf!8m2!3d28.5108941!4d-81.4016894!15sChZwbHVtYmVycyBpbiBPcmxhbmRvIEZMWhgiFnBsdW1iZXJzIGluIG9ybGFuZG8gZmySAQdwbHVtYmVymgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5UVVJSTldKeFkzUkJSUkFC4AEA-gEECCAQRQ!16s%2Fg%2F11vybvykm3?hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D\nWe Fix Drains: https://www.google.com/maps/place/We+Fix+Drains/@28.4582241,-82.0689595,9z/data=!4m12!1m4!2m3!1splumbers+in+Orlando+FL!5m1!2e1!3m6!1s0x88e77b01f3724f69:0x7a16014c9e451606!8m2!3d28.5459052!4d-81.3846013!15sChZwbHVtYmVycyBpbiBPcmxhbmRvIEZMWhgiFnBsdW1iZXJzIGluIG9ybGFuZG8gZmySAQdwbHVtYmVymgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5UVVJuY21NM05IZG5SUkFC4AEA-gEECAAQTA!16s%2Fg%2F11l5k73mp7?hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D\nRooterMan Orlando Florida: https://www.google.com/maps/place/RooterMan+Orlando+Florida/@28.4582241,-82.0689595,9z/data=!3m1!5s0x88e76862522afbb1:0x776880d688072715!4m12!1m4!2m3!1splumbers+in+Orlando+FL!5m1!2e1!3m6!1s0x8276176cfd792db5:0x8b7050dfdf774559!8m2!3d28.5891979!4d-81.2053976!15sChZwbHVtYmVycyBpbiBPcmxhbmRvIEZMWhgiFnBsdW1iZXJzIGluIG9ybGFuZG8gZmySAQdwbHVtYmVymgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDIxb1QyRkhWbWhaTVdNd1ZVaG9abVZzYUdGWFZVMTRWbFJPVUUxSFl4QULgAQD6AQQIABBM!16s%2Fg%2F11l6ys50kk?hl=en&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "response": "The task was to search for plumbers in Orlando, FL that are **available/open now** but **not open 24 hours**.\n\nThe screenshot shows Google Maps with the query “plumbers in Orlando FL” and the **“Open now”** filter applied. In the visible results:\n\n- **We Fix Drains** is marked **Open · Closes 8 PM**, so it is open now and not 24 hours.\n- **RooterMan Orlando Florida** is marked **Open · Closes 11 PM**, and its expanded hours show **5 AM–11 PM daily**, confirming it is not open 24 hours.\n- Other visible listings such as “On Site Orlando Plumbing” and “A1 Service Plumbing” are marked **Open 24 hours**, and they were correctly excluded from the final response.\n- The response also lists **Pompa Plumbing Group** as open now with hours **8 AM–10 PM**. Although it is not visible in the screenshot, this does not contradict the screenshot.\n\nThe result response provides names, hours, addresses, and phone numbers for plumbers that meet the requested criteria. The evidence shown supports at least two of the listed businesses, and the third is not contradicted.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to search for plumbers in Orlando, FL that are **available/open now** but **not open 24 hours**. The screenshot shows Google Maps with the query “plumbers in Orlando FL” and the **“Open now”** filter applied. In the visible res",
+  "screenshots": [
+    "task_479/final.png"
+  ],
+  "raw_screenshot": "task_479/final.png",
+  "source_result": "task_479",
+  "usage": {
+    "completion_tokens": 711,
+    "prompt_tokens": 2686,
+    "total_tokens": 3397,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 450,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 10.61
+}

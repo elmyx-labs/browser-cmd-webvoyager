@@ -1,0 +1,4 @@
+[x] Search for the one-way flight available from Calgary to New York on Jan. 1st with the lowest carbon dioxide emissions. Evidence: Google Flights URL in NOTES.md; “All flights”, “Sorted by emissions”, first flight “WestJet · Economy · Boeing 737 · WS 1680”, “255 kg CO2e”, “-20% emissions”.
+[x] Dates, one-way setting, route, emissions sort/filter and lowest-emissions flight facts visible together in evidence. final.png shows “One way”, “Calgary”, “New York”, “Fri, Jan 1”, “Sorted by emissions”, WS 1680 and 255 kg CO2e. Search URL specifies 2027-01-01.
+[x] Save one genuine viewport screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side; no pop-up, banner or open dialog. Captured browser-0001.png viewport, resized to 1280×723 in final.png and viewed only final.png.
+[x] Write ./ANSWER.txt with result, date and evidence, first line FINAL:.

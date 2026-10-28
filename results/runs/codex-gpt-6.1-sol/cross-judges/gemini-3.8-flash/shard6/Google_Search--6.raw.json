@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210456-Ea2mJ16Vh2ryFOGNhtg8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user's instruction was to browse the monthly trending searches in Columbus. \n\nThe provided screenshot shows the Eventbrite page titled \"Monthly trending searches in Columbus, OH\", with the \"Monthly\" tab properly selected and displaying the list of top searches (e.g., 1. halloween party, 2. trunk or treat, 3. job fairs, etc.). The result response accurately summarizes the findings.\n\nTherefore, the task was successfully completed.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Browsing Trends**\n\nI've located the monthly trending searches for Columbus, OH, on Eventbrite. The monthly view is currently active.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Browsing Trends**\n\nI've located the monthly trending searches for Columbus, OH, on Eventbrite. The monthly view is currently active.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19k1nOSX52YiDEk2d7BwMv8U5HgsIpFKIRDJADp58ybIMhicdGyiMFJmlSRkJ2tEI7sItlNiGt4gnjgp4vKmEgu9iYQASc/nrsbyVkpFW9FEFhqrPA1MsNb5sBH1LSBu1KHOSuvFokxcqcOjuJDn0O7Q7G3LjTY/KYj1NNUwGGsPuZna1349Pk3GL6fTxkYDfX4Jg0vEtvBwr4ZWVCGlr2DtQNdBqmMROXc0yKqsS24H3kDL4vYrZGTDwIljVt3Aatl7ydTNeOl8bQL7GEpKf+RLCuBzzx3aOT0vYJiU1d+of4E2i9FRVn3mXf5a/C3ATGsn1X68XmvwaCIUhCQ7zPYvoEMZ/ZtKQK0w3IE0E7TGA997PtLIBX8lQZH3d4fcZ1T4rcUjyC3322qxLl/a94DguMkZBrvjh/6aN5lRjiys6CZ0BkNwmXy24c6UDtkhsyeW3hN/EugMkyIPlWkwCpaSNXAqv5IIWfGu9QQ45Cm9IdQ17rBjgvNIvsLbRXCCh1sQDob+doNJVRQdpPn9ZZNJaM1m4ZJ6xC/RU+bS3qQ5d5FIrs4xXxzXlEreon0a0X7Sk5d9vQPSA2CTj2rDMlm1UKiw3QBK+L7a77Vd2dPTk8rEAfIIdiOYCH28xkJ+OQjUh645/l0lm0+HD/GeFob9ESFZ3aWJbeuYvZ2NbEJXDsd0fosz4VSD72wFL1RIjAqeDKM4AHz8G5pJ3Qr9YTFau14zzXp8CW/2xzt7og1nD90GlpBBbEjd9kgJgt9VzNniuw049lTrpJf7MIZPmr61vKwy/o1qVR9TF8zC8MZxzBfXU8Ud1JBXquPPZSoKJVP6XzgtVos1gwWwrDESyQqwIAfL5Xk9Tu3MelHO3cEjR1hHfQwh0JxhNfa+CTnwKNuk/Wv+YRyVUUIgL1PBAn7tW/BoEWRHXQdLVzyx3pFkczh07dR0ZOyWf7DujO1r/S9xStr3XSpUxnJHEPzUaExAPpw7R3Sbj5GhsgZXXZa1jl0PeJ8trZS6uU62awYWkgeBfUdOkMKYu141m005K5MOWMhdoSp5rdhl8vj6ocjjvLHMzVouL2xxq5hM5xu8xGJuiSIjMvKQKWYMJZaAJFjCqp0k2Gi7HV4wnRH+axLLuYOFY2UGr+UVjY+Qb1EooYa/aafcsgo1Ai6qhidgBzqj7ZMvYEOjRjOBM2UTOIJl9yZWgwdHjo77deMtsB1kErqeLQWgtkSQineA7vbJRsHEXJmrGJrg1AocLpLoZUw+c0pxA+oD0MGE4zLuHC+LYhAG8tFxnPZBQRemJzaYi9301hboRqhB1oSWOx2WKUTOOQO4zjUz+dp3NxPwbVk9SZvCbMbCuhcFED5/J0Z+qD+W539wUvv83msCsE30J3xq5GhZ7yuHIdbwexZsvFnLC+SCvUKzmHhFqmx9Y0vmvxGnsiJrB/sMD10Qw==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210456,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 309,
+    "prompt_tokens": 1680,
+    "total_tokens": 1989,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 214,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00241875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00241875,
+      "upstream_inference_prompt_cost": 0.00126,
+      "upstream_inference_completions_cost": 0.00115875
+    }
+  },
+  "provider": "Google"
+}

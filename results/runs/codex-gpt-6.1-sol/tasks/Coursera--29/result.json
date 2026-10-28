@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--29",
+    "ques": "Browse the Coursera website and find the price required for one year of Coursera Plus. How much is the discount? Then list 3 companies that work with Coursera.",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: One year of Coursera Plus costs $239, with an advertised 40% discount (“Save 40%”). Three companies that work with Coursera are Google, IBM, and Microsoft.\n\nEvidence: https://www.coursera.org/courseraplus — the Coursera Plus pricing card with “Billed Annually” selected shows “$239/year” and “Save 40%”; the page’s “Learn from 350+ leading universities and companies” section lists Google, IBM, and Microsoft. Checked October 27, 2026. Screenshot: final.png.",
+    "result_text": "FINAL: One year of Coursera Plus costs $239, with an advertised 40% discount (“Save 40%”). Three companies that work with Coursera are Google, IBM, and Microsoft.\n\nEvidence: https://www.coursera.org/courseraplus — the Coursera Plus pricing card with “Billed Annually” selected shows “$239/year” and “Save 40%”; the page’s “Learn from 350+ leading universities and companies” section lists Google, IBM, and Microsoft. Checked October 27, 2026. Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_310/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_310",
+  "elapsed_seconds": 65.65890884399414,
+  "execution_error": null,
+  "proxy_bytes": null
+}

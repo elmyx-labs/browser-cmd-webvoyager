@@ -1,0 +1,41 @@
+{
+  "id": "Huggingface--15",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify the most downloaded models on Hugging face that use the PaddlePaddle library.",
+  "answer": "FINAL: PaddlePaddle/PP-Chart2Table is the most downloaded PaddlePaddle model on Hugging Face, with 6,143 downloads last month.\n\nThe top five as checked on October 27, 2026:\n\n| Rank | Model | Downloads last month |\n| --- | --- | ---: |\n| 1 | [PaddlePaddle/PP-Chart2Table](https://huggingface.co/PaddlePaddle/PP-Chart2Table) | 6,143 |\n| 2 | [logasanjeev/indian-id-validator](https://huggingface.co/logasanjeev/indian-id-validator) | 1,118 |\n| 3 | [tieubaoca/pp-ocrv6-medium-rec-vietnamese](https://huggingface.co/tieubaoca/pp-ocrv6-medium-rec-vietnamese) | 233 |\n| 4 | [PaddlePaddle/PP-DocBee2-3B](https://huggingface.co/PaddlePaddle/PP-DocBee2-3B) | 175 |\n| 5 | [Kellenok/PP-OCRv6_manga](https://huggingface.co/Kellenok/PP-OCRv6_manga) | 139 |\n\nEvidence: [Hugging Face model directory](https://huggingface.co/models?library=paddlepaddle&sort=downloads), filtered to the PaddlePaddle library and sorted by “Most downloads.” The linked model pages label the exact counts “Downloads last month”; the directory rounds the first two to 6.14k and 1.12k. I chose the top five because no number was specified. The viewport screenshot is saved as final.png.",
+  "response": "The user requested identification of the most downloaded models on Hugging Face that use the PaddlePaddle library.\n\nThe screenshot confirms that on the Hugging Face models page, the library filter was set to `PaddlePaddle` and the sorting order was set to `Most downloads`. The resulting top models displayed are:\n1. `PaddlePaddle/PP-Chart2Table` (6.14k downloads)\n2. `logasanjeev/indian-id-validator` (1.12k downloads)\n3. `tieubaoca/pp-ocrv6-medium-rec-vietnamese` (233 downloads)\n4. `PaddlePaddle/PP-DocBee2-3B` (175 downloads)\n5. `Kellenok/PP-OCRv6_manga` (139 downloads)\n\nThe result response accurately reflects this information, identifying `PaddlePaddle/PP-Chart2Table` as the most downloaded model along with providing the top rankings.\n\nSUCCESS",
+  "reason_short": "The user requested identification of the most downloaded models on Hugging Face that use the PaddlePaddle library. The screenshot confirms that on the Hugging Face models page, the library filter was set to `PaddlePaddle` and the sorting or",
+  "screenshots": [
+    "task_542/final.png"
+  ],
+  "raw_screenshot": "task_542/final.png",
+  "source_result": "task_542",
+  "usage": {
+    "completion_tokens": 437,
+    "prompt_tokens": 1970,
+    "total_tokens": 2407,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 226,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00311625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00311625,
+      "upstream_inference_prompt_cost": 0.0014775,
+      "upstream_inference_completions_cost": 0.00163875
+    }
+  },
+  "elapsed_seconds": 11.25
+}

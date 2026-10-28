@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Booking",
+    "id": "Booking--20",
+    "ques": "Locate a hotel in Rome with a good rating (7 or above) that offers free cancellation and breakfast included, for a stay from October 28 to November 2, 2026, for two adults.",
+    "web": "https://www.booking.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Hilton Garden Inn Rome Claridge in Rome matches the requested stay: October 28–November 2, 2026 (5 nights), for 2 adults in 1 room.\n\nBooking.com lists a Queen Room with 1 queen bed, breakfast included, and free cancellation. Its guest rating is 8.5/10 (“Very Good”), based on 593 reviews.\n\nEvidence: final.png shows the hotel, rating, room, breakfast and cancellation terms together with the dates, occupancy, and applied Hotels, Good: 7+, Breakfast included, and Free cancellation filters. The search URL confirms the year 2026.\n\nSource: https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaMEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALPj4TXBsACAdICJDczNzlhMzhkLWIzY2ItNDEwYi1iMGFlLTU3OGVkM2VlNDUxY9gCAeACAQ&aid=304142&ss=Rome&efdco=1&lang=en-us&src=index&dest_id=-126693&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=53a48f27547b0439&checkin=2026-10-28&checkout=2026-11-02&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bfc%3D2%3Bmealplan%3D1%3Breview_score%3D70",
+    "result_text": "FINAL: Hilton Garden Inn Rome Claridge in Rome matches the requested stay: October 28–November 2, 2026 (5 nights), for 2 adults in 1 room.\n\nBooking.com lists a Queen Room with 1 queen bed, breakfast included, and free cancellation. Its guest rating is 8.5/10 (“Very Good”), based on 593 reviews.\n\nEvidence: final.png shows the hotel, rating, room, breakfast and cancellation terms together with the dates, occupancy, and applied Hotels, Good: 7+, Breakfast included, and Free cancellation filters. The search URL confirms the year 2026.\n\nSource: https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaMEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALPj4TXBsACAdICJDczNzlhMzhkLWIzY2ItNDEwYi1iMGFlLTU3OGVkM2VlNDUxY9gCAeACAQ&aid=304142&ss=Rome&efdco=1&lang=en-us&src=index&dest_id=-126693&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=53a48f27547b0439&checkin=2026-10-28&checkout=2026-11-02&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bfc%3D2%3Bmealplan%3D1%3Breview_score%3D70",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_218/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_218",
+  "elapsed_seconds": 103.061350107193,
+  "execution_error": null,
+  "proxy_bytes": null
+}

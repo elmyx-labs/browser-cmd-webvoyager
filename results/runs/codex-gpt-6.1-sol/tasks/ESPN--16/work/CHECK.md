@@ -1,0 +1,5 @@
+[x] Check the schedule for the NBA game on February 25, 2026. Evidence: https://www.espn.com/nba/schedule/_/date/20260225 — “Wednesday, February 25, 2026”; six rows.
+[x] Provide the teams that are playing. Evidence: same schedule — Oklahoma City @ Detroit; San Antonio @ Toronto; Golden State @ Memphis; Sacramento @ Houston; Cleveland @ Milwaukee; Boston @ Denver.
+[x] Provide their current standings in their respective conferences. Evidence: https://www.espn.com/nba/standings — “NBA Standings 2026-27”, “Conference”, “Regular Season”; conference table order and W/L columns recorded in NOTES.md and ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the deciding evidence visible and no overlay. Evidence: final.png — 1154×1280, both conference tables, all 12 requested teams and their records, Conference/2026-27/Regular Season filters visible. Only final.png was read as an evidence image.
+[x] Write the result and evidence to ./ANSWER.txt. Evidence: ANSWER.txt starts “FINAL:” and gives all six matchups, current ranks and records, check date and both source URLs.

@@ -1,0 +1,3 @@
+[x] How many meanings of "unblemished" are given in Cambridge Dictionary? Browse the page and give the number directly. Two definition blocks at https://dictionary.cambridge.org/dictionary/english/unblemished: reputation/character having no faults; skin without marks that spoil its appearance.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and decisive facts without overlays. final.png shows “unblemished” and both definitions together.
+[x] Write final answer with result and evidence to ./ANSWER.txt. Written with number, source URL, and final.png evidence reference.

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Allrecipes",
+    "id": "Allrecipes--14",
+    "ques": "Search for a recipe that includes \"chicken breast\" and \"quinoa\" with preparation time under 30 minutes on Allrecipes.",
+    "web": "https://www.allrecipes.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Air Fryer Pesto Chicken Quinoa Bowl on Allrecipes.\nPrep time: 10 minutes, under 30 minutes. Ingredients include 1 pound skinless, boneless chicken breasts and 2 cups cooked quinoa. The recipe lists 10 minutes cooking and 20 minutes total using cooked quinoa.\nRecipe: https://www.allrecipes.com/air-fryer-pesto-chicken-quinoa-bowl-recipe-11691482\nEvidence: final.png — a viewport screenshot of Allrecipes' print view showing the recipe name, preparation time and both ingredients together.\nScreenshot source: https://www.allrecipes.com/air-fryer-pesto-chicken-quinoa-bowl-recipe-11691482?print=",
+    "result_text": "FINAL: Air Fryer Pesto Chicken Quinoa Bowl on Allrecipes.\nPrep time: 10 minutes, under 30 minutes. Ingredients include 1 pound skinless, boneless chicken breasts and 2 cups cooked quinoa. The recipe lists 10 minutes cooking and 20 minutes total using cooked quinoa.\nRecipe: https://www.allrecipes.com/air-fryer-pesto-chicken-quinoa-bowl-recipe-11691482\nEvidence: final.png — a viewport screenshot of Allrecipes' print view showing the recipe name, preparation time and both ingredients together.\nScreenshot source: https://www.allrecipes.com/air-fryer-pesto-chicken-quinoa-bowl-recipe-11691482?print=",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_13/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_13",
+  "elapsed_seconds": 172.83235907554626,
+  "execution_error": null,
+  "proxy_bytes": 23455743
+}

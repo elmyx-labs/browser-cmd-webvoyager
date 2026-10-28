@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210494-JvjPzrR9i3BckttPsEYg",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task required computing the length of the curve defined by $y = 2x^3 - 3x^2 + 4x - 5$ from $x = 0$ to $x = 3$. \n\nThe provided screenshot from WolframAlpha confirms the calculation of the arc length integral:\n$$\\int_{0}^{3} \\sqrt{1 + (6x^2 - 6x + 4)^2} \\, dx \\approx 39.24992727...$$\n\nThe response accurately presents this computation and the resulting value.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Calculating Curve Length**\n\nI've initiated the calculation for the arc length of the given cubic curve. The system is processing the integral required to determine this length over the specified interval.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Calculating Curve Length**\n\nI've initiated the calculation for the arc length of the given cubic curve. The system is processing the integral required to determine this length over the specified interval.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19Jo1QsW2RLRVufx5YxU+X1YRWUggO+NXcku2HEbF+bbAyFu2oNZwaswzHwGHz/HA4V+pPY+PUYS+bfifHuX9oHbK4Da/JVdg0X++OiBoEznGtgpd4sp7lDwQuqvt63bTMhXJ37yFUdqScraO7ShaS6W5pwTdMi92ALoTj1m15zsXRMc15edA/wULT6vdmkzhMYp5fPIjHC9TPCCK9smD9syMprruI3X7lWCb8wVM8P+DrO+QC83cMCeqgGc5pW+bUG8iWzijuH3Kz3oP1W9uhhe0KPEqtdh3lUIpiAIeMFc8xZnRkIhW8V0y53cOdro1bRjKE+W3fmbqqPGeV63XJ2Fmfg0F/nlY/+yp1UOIn5AdryLvhWigoUpYLXWqyyLIdI/smlwrhul1K52A0rWt+SYr+KL+LCokxhMNQZX3s/mRfFBtkXztfuqxvSzNM8lLNDD3jpIBjrr7U1zN2fPDP4dBF3cnCiUTN+g/x3DvQ/I4Ds+lAyK7FHUN2tOyYEwbKXyknwwz9sunL++7eymYGlyhtEmITSO0qok91cjn20+x4uu9rj60T86Y2vQDJcLSqR5+5m6bwMo3+2Aa6fcvUsbczmT9tm5cpFj8if0pJR16Hh1lsmnZVcxtuUXjnX3Hks1WvoSd5dIksqKZH0HVQeoiZaEXLFofNlTUhC0xsz+uK5gsDQmjaU2k+anlh2pw2LpTCZeETteJAX7e2yF/5oD1ZmkLvxXyxjA8ohK3pSIz6rfLXMnOAxnKD2nLxN0Ce3VM7y+4/50QXQKoTi1mihccBEfCPz87hEbcyLuZg/HlBv0XCLtYJZPnV9ZPXWNk+3OYlOlnVtLdoJjWHCgHqKh1Nv+1+/vBHaWa/PZPvtu225DFgiE+7zVRoWnBqJqyNM744HKhkY3pKCBToaOtax+7Osig55w6eajuW1Pt4WUHJSOO9BaCJ9ZAbZDDMaO+SVwg6W2VfioZ5QV5YCfQrOrjiJyBQ60Nsial0gcM2cInk0gjCRVMpACFEAl+2SJYROzteuoaqM4vrQYx/WTi/NJpHHuxL0JxLnxfvX4VNdv5zPM9M3yC8gmIPtgwVVFtS3UzqWHBl4x+/ixhzxp4K0wn5pv6qzcO1lZos48muVaEkpJ/eox9b/MhTTiZC5a7Kf0cUYdOgt3HGuMjpMrvPVx4h/ShSF6ztS0LDONBQ4NqN92F6ZH8GNLmg3Y2xPMiLdJZ7StvDaOQtbWxMUL8n/6+cJCSX2DzIhC+qSo2H+D5yaJiTNto8ULwe67hvm9kCbY3xj8f1TNveGCafcSlbS+lPoiWnFC6eLQEM=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210494,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 428,
+    "prompt_tokens": 1826,
+    "total_tokens": 2254,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 304,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0029745,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0029745,
+      "upstream_inference_prompt_cost": 0.0013695,
+      "upstream_inference_completions_cost": 0.001605
+    }
+  },
+  "provider": "Google"
+}

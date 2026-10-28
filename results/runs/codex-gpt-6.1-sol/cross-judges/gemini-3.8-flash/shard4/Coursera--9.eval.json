@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--9",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify a Coursera course on artificial intelligence ethics that has a duration of less than 20 hours to complete and has been rated 4+ stars by participants.",
+  "answer": "FINAL: Artificial Intelligence: Ethics & Societal Challenges, offered by Lund University on Coursera, meets the requirements: its displayed schedule is 1 week at 10 hours a week (about 10 hours, under 20), and its participant rating is 4.7/5 from 433 reviews.\nSource: https://www.coursera.org/learn/ai-ethics\nVerified October 27, 2026. Evidence: final.png shows the course title, duration schedule, rating and review count together.",
+  "response": "Based on the screenshot and the result response:\n\n1. **Course Topic**: The course identified is \"Artificial Intelligence: Ethics & Societal Challenges\", which directly covers AI ethics.\n2. **Platform**: Coursera.\n3. **Duration**: The schedule specifies \"1 week at 10 hours a week\" (~10 hours total), which is less than 20 hours.\n4. **Rating**: The course has a participant rating of 4.7 stars (4+ stars).\n\nAll requirements specified in the task instruction have been accurately identified and verified by the provided screenshot.\n\nSUCCESS",
+  "reason_short": "Based on the screenshot and the result response: 1. **Course Topic**: The course identified is \"Artificial Intelligence: Ethics & Societal Challenges\", which directly covers AI ethics. 2. **Platform**: Coursera. 3. **Duration**: The schedul",
+  "screenshots": [
+    "task_292/final.png"
+  ],
+  "raw_screenshot": "task_292/final.png",
+  "source_result": "task_292",
+  "usage": {
+    "completion_tokens": 340,
+    "prompt_tokens": 1710,
+    "total_tokens": 2050,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 216,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0025575,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0025575,
+      "upstream_inference_prompt_cost": 0.0012825,
+      "upstream_inference_completions_cost": 0.001275
+    }
+  },
+  "elapsed_seconds": 16.18
+}

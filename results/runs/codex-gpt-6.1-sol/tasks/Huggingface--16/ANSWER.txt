@@ -1,0 +1,13 @@
+FINAL: As of October 28, 2026 at 00:30:50 CET (Europe/Belgrade; October 27 at 23:30:50 UTC), jonasaise/qwen3.5-2b-swedish-preference-gate is the newest qualifying pretrained language-model checkpoint in Hugging Face’s Text Classification catalog sorted by Recently created. The sole newer entry is a TF-IDF/logistic-regression classifier, rather than a language model.
+
+Intended use: Judge Swedish text quality—select the preferred or more natural of two responses, or assess a response’s quality, Swedish naturalness, and grammaticality.
+
+Architecture: Fine-tuned from Qwen/Qwen3.5-2B, a 1.88B-parameter causal language model with 24 layers combining GatedDeltaNet and full attention. A seven-option decision head (A, B, 1–5) reads the final hidden state in one forward pass. The model card explicitly confirms that all 24 backbone layers, final RMSNorm, and decision head were fine-tuned, totaling 1.37B trainable parameters.
+
+Evidence: final.png shows the active Text Classification filter, Recently created sort, selected model, and relative update dates. The model card establishes its use case and architecture; commit history dates the checkpoint upload to October 27. The browser clock converted to Europe/Belgrade establishes the October 28 check date.
+
+Sources:
+Catalog: https://huggingface.co/models?pipeline_tag=text-classification&sort=created
+Model card: https://huggingface.co/jonasaise/qwen3.5-2b-swedish-preference-gate
+Upload history: https://huggingface.co/jonasaise/qwen3.5-2b-swedish-preference-gate/commits/main
+Excluded newer classifier: https://huggingface.co/AL-mozahem/HRP-Stage04-Hotel-Review-Sentiment

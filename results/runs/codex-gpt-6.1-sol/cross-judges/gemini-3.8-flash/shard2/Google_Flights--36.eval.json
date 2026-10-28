@@ -1,0 +1,41 @@
+{
+  "id": "Google Flights--36",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for round-trip flights from Helsinki to New Delhi, departing on July 28, 2027, and returning on August 4, 2027, and filter the results to show only flights under $1000.",
+  "answer": "FINAL: Searched Google Flights for round-trip flights from Helsinki (HEL) to New Delhi (DEL), departing July 28, 2027 and returning August 4, 2027, for 1 adult in Economy. Applied a maximum price of $999 USD, strictly under $1,000. Visible results include Lufthansa City Airlines/Lufthansa from $723 round trip and nonstop Finnair from $988 round trip. Evidence: final.png shows the route, dates, applied “up to $999” filter and fares. Source: https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTA3LTI4agcIARIDSEVMcgcIARIDREVMGh4SCjIwMjctMDgtMDRqBwgBEgNERUxyBwgBEgNIRUxAAUgBYOcHcAGCAQsI____________AZgBAQ&tfu=EgoIABAAGAAgASgC&curr=USD",
+  "response": "The task requires searching for round-trip flights from Helsinki to New Delhi departing on July 28, 2027, and returning on August 4, 2027, with a filter applied to show only flights under $1,000.\n\nThe screenshot and result response show:\n- Route: Helsinki (HEL) to New Delhi (DEL), Round trip.\n- Dates: Wed, Jul 28 to Wed, Aug 4 (2027).\n- Price Filter: \"up to $999\" applied, showing flights under $1000 ($723, $725, $747, $988).\n\nAll requirements of the prompt have been met.\n\nSUCCESS",
+  "reason_short": "The task requires searching for round-trip flights from Helsinki to New Delhi departing on July 28, 2027, and returning on August 4, 2027, with a filter applied to show only flights under $1,000. The screenshot and result response show: - R",
+  "screenshots": [
+    "task_442/final.png"
+  ],
+  "raw_screenshot": "task_442/final.png",
+  "source_result": "task_442",
+  "usage": {
+    "completion_tokens": 405,
+    "prompt_tokens": 1840,
+    "total_tokens": 2245,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 247,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00289875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00289875,
+      "upstream_inference_prompt_cost": 0.00138,
+      "upstream_inference_completions_cost": 0.00151875
+    }
+  },
+  "elapsed_seconds": 9.45
+}

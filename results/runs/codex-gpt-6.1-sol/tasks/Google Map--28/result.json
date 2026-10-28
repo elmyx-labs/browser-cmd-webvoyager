@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--28",
+    "ques": "Find the search settings for Google Map, what options are shown on that page?",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: In Google Maps, open Menu → Search settings. This opens Google’s Search Settings page, with two sections:\n\n• Privacy & Safety: Search customisation (On), SafeSearch (Blurring on), and Parental controls on Family Link.\n• Other settings: Language and region; Dark theme (Device default); Results in a new window (Off); Spoken answers (On); Auto-complete with trending searches (On).\n\nSource: https://www.google.com/preferences?hl=en (opened from Google Maps). Evidence: final.png shows the Other settings section and its displayed values. Observed 27 October 2026; no settings changed.",
+    "result_text": "FINAL: In Google Maps, open Menu → Search settings. This opens Google’s Search Settings page, with two sections:\n\n• Privacy & Safety: Search customisation (On), SafeSearch (Blurring on), and Parental controls on Family Link.\n• Other settings: Language and region; Dark theme (Device default); Results in a new window (Off); Spoken answers (On); Auto-complete with trending searches (On).\n\nSource: https://www.google.com/preferences?hl=en (opened from Google Maps). Evidence: final.png shows the Other settings section and its displayed values. Observed 27 October 2026; no settings changed.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_475/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_475",
+  "elapsed_seconds": 61.61871099472046,
+  "execution_error": null,
+  "proxy_bytes": null
+}

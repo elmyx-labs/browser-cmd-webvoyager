@@ -1,0 +1,4 @@
+[x] Find a Beginner's Spanish Specialization on Coursera. — https://www.coursera.org/specializations/learn-spanish — “Learn Spanish: Basic Spanish Vocabulary Specialization”; “Beginner level”; “No prior experience required”.
+[x] Show all the courses in this Specialization. — https://www.coursera.org/specializations/learn-spanish#courses — “Specialization - 5 course series”; all five numbered course titles recorded in NOTES.md and ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the specialization and deciding facts together with no overlay. — final.png is a 1280×933 viewport image showing the title, beginner description, provider, and five courses.
+[x] Write the result and its evidence to ./ANSWER.txt. — Complete course list, source URL, verification date, and final.png evidence reference saved.

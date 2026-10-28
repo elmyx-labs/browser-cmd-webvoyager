@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edycfsec9ovO16rcdweGO752PqF1n",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The screenshot shows Booking.com’s Help Center / FAQ page with the cancellation-related question: “How do I know if my booking was canceled?” The visible answer says that after canceling a booking, the user should receive an email confirming the cancellation, should check inbox and spam/junk folders, and if no email arrives within 24 hours, should contact the property to confirm they received the cancellation.\n\nThe Result Response accurately reports this information and directly answers the user’s question. It also indicates the relevant Booking.com Help Center cancellation FAQ was accessed.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196533,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 223,
+    "prompt_tokens": 1729,
+    "total_tokens": 1952,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

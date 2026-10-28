@@ -1,0 +1,5 @@
+[x] Find the official GitHub repository for TensorFlow. https://www.tensorflow.org/ links to https://github.com/tensorflow; its pinned tensorflow repository is https://github.com/tensorflow/tensorflow.
+[x] List the names of files changed in the last commit. https://github.com/tensorflow/tensorflow/commit/22ed6b96eb85bdfe2fcd3e98c9b859fb721f3655 shows "4 files changed" and names BUILD, python_hlo_runner.cc, python_hlo_runner_ffi_test.py, python_hlo_runner_ffi_test_lib.cc under third_party/xla/xla/tools/multihost_hlo_runner.
+[x] Tell the total additions and total deletion. Same commit page: "Lines changed: 175 additions & 2 deletions".
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the commit and facts together. final.png is the 1440x1400 commit-page viewport, reduced to 1280x1244; diffs collapsed through page controls to show all four file headers.
+[x] Write the result and evidence to ./ANSWER.txt. ANSWER.txt contains repository, commit, date, full file paths, totals, source URLs and screenshot reference.

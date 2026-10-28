@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyeKfGg0DpNryc7lrdssUs2FJ7T7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find the one-way flight from Calgary to New York on Jan. 1 with the lowest carbon dioxide emissions.\n\nThe screenshot shows Google Flights set to:\n\n- One way\n- From Calgary to New York\n- Date: Fri, Jan 1\n- Results sorted by emissions\n\nThe top listed flight is:\n\n- WestJet WS 1680\n- Calgary International Airport (YYC) to JFK\n- 10:50 AM to 4:40 PM\n- 4 hr 50 min\n- 255 kg CO₂e\n- 20% below typical emissions\n\nSince the results are explicitly sorted by emissions and this flight appears first with the lowest visible emissions value, the response correctly identifies the lowest-emissions available flight shown.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196636,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 423,
+    "prompt_tokens": 1785,
+    "total_tokens": 2208,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

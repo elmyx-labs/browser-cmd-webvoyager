@@ -1,0 +1,31 @@
+{
+  "id": "Booking--39",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a pet-friendly hotel with parking available in downtown Toronto for the stay of July 24-26, 2027.",
+  "answer": "FINAL: Fairmont Royal York Hotel, 100 Front Street West, downtown Toronto, is a match for July 24–26, 2027 (2 nights). Booking.com shows an available Queen Room for 2 adults with the Hotels, Parking and Pet friendly filters applied. The hotel page confirms “Pets are allowed. Charges may apply” and “Private parking at the hotel,” including valet and garage parking.\nSource: https://www.booking.com/hotel/ca/fairmont-royal-york.html\nEvidence: final.png shows the hotel, downtown location, selected dates, and applied filters together.",
+  "response": "The task was to find a pet-friendly hotel with parking available in downtown Toronto for July 24–26, 2027.\n\nThe result shows a Booking.com search for Downtown Toronto with:\n- Dates: Sat, Jul 24 – Mon, Jul 26, matching the requested stay dates.\n- Filters applied: Parking, Hotels, Pet friendly.\n- A listed hotel: Fairmont Royal York Hotel, located in Downtown Toronto.\n- Availability shown for a Queen Room for 2 nights.\n\nThe response also states that the hotel page confirms pets are allowed and private parking is available at the hotel. There is no contradiction between the screenshot and the response.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find a pet-friendly hotel with parking available in downtown Toronto for July 24–26, 2027. The result shows a Booking.com search for Downtown Toronto with: - Dates: Sat, Jul 24 – Mon, Jul 26, matching the requested stay date",
+  "screenshots": [
+    "task_237/final.png"
+  ],
+  "raw_screenshot": "task_237/final.png",
+  "source_result": "task_237",
+  "usage": {
+    "completion_tokens": 389,
+    "prompt_tokens": 1712,
+    "total_tokens": 2101,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 246,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.15
+}

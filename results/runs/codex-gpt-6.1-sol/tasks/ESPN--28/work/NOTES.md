@@ -1,0 +1,3 @@
+ESPN MLB Teams — https://www.espn.com/mlb/teams — accessed October 28, 2026.
+The directory contains 30 h2.TeamLinks__Name headings, one per team. Exact names: Chicago White Sox; Cleveland Guardians; Detroit Tigers; Kansas City Royals; Minnesota Twins; Baltimore Orioles; Boston Red Sox; New York Yankees; Tampa Bay Rays; Toronto Blue Jays; Athletics; Houston Astros; Los Angeles Angels; Seattle Mariners; Texas Rangers; Chicago Cubs; Cincinnati Reds; Milwaukee Brewers; Pittsburgh Pirates; St. Louis Cardinals; Atlanta Braves; Miami Marlins; New York Mets; Philadelphia Phillies; Washington Nationals; Arizona Diamondbacks; Colorado Rockies; Los Angeles Dodgers; San Diego Padres; San Francisco Giants.
+Only one of these names contains the word City: Kansas City Royals.

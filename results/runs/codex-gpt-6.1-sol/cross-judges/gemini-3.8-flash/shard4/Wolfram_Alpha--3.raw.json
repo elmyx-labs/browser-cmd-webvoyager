@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210505-aiJvpkco8rLmavpP8egN",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested the expression for $g(x)$, defined as the integral of $x^2 \\cos(2x)$. \n\nThe screenshot shows the WolframAlpha result for the indefinite integral of $x^2 \\cos(2x) \\, dx$:\n$$\\int x^2 \\cos(2x) \\, dx = \\frac{1}{4} \\left( (2x^2 - 1)\\sin(2x) + 2x\\cos(2x) \\right) + \\text{constant}$$\n\nThe Result Response accurately provides this expression including the constant of integration.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Integrating x^2 cos(2x)**\n\nI'm continuing my work on the indefinite integral of x^2 cos(2x). My current focus is on simplifying the expression obtained from WolframAlpha, specifically the 1/4 factor and the terms within the parentheses: (2 x^2 - 1) sin(2x) plus the remaining part of the solution.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Integrating x^2 cos(2x)**\n\nI'm continuing my work on the indefinite integral of x^2 cos(2x). My current focus is on simplifying the expression obtained from WolframAlpha, specifically the 1/4 factor and the terms within the parentheses: (2 x^2 - 1) sin(2x) plus the remaining part of the solution.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19Sg91X4V/vOI44OzQ2d/uhykVK1/UbHgwUFub6knMefj/j8PcPLqviyE0IMkA5/700iWCyniOk3mPiQa2bTSpEdWgAQxV3uq2LU0TwApT8q2JEk8xwUPVTtmh8qTx9wUke0BORLRBuIHmKC3LQXvLe5RWUUwfpJEupDycJGzHxNRHtmmw2UxmHuWdfpIsFkdK0gKC2rHgW66zrCK+wo9NHri7OE4TxDMKt9fLADwdn0QfCysZ7pxg4E/l6WTDsgWvgq3qE87v++gQP69IHNggNnafpDnExDDvNz1L6qgIg0zHbuhRAeI1cMXGqMPQBvMdlpZ01hrG3BV/AOnG6me2Bk6Weq/xFc3sbFL51tZ6HnHBZ3aGmTvhJ1bEO7S5EfBXTJpiu7OY0Mpm2I0cTjU3gPVNVYg+JL2HkOVie+o9BV6ZhZ9TOG8hYN4m43kCn+Wp44MgooDo4BIAUbD0mdelJdIPxW/kejDvwmaKs/k5z9Pg6/r4R3w7se4VAt2oxI/MFGDKSlelO6IDdkRP/xnwz9TbZ9bPxXBu0xVXycEV4bx+5gaUkxLXZF8dluCafODdaBTyTjk/Ob1Q1FKETQ/xpVEcfM8wdBDQwVUs/GXjBKmaaFSkLj/yuTSEzWkGf8ZECs9u2ULsiBjIim6XPtyssgC2k0bDXtPEsMvH+v3cAFmekw+gwcQLWOwEvz+ye4eTqx+lyNOZBaqNiakFfJg7CJbi9W76ytFwkNuBlmPpezxdjy17yJJQLlDTsGB+ZMwRVlUAbhISPSr3y1E66u9/bhImW4z4ezWnhNC9k3JXvnpTdNTCVyD+jJrVSMCpSLsIbO82+hml90LnP9Aj0QwZobEDnvLKzIZtWbSztTSJycGniG0oYTwfSCIW6tpev38WIBBPMALkVZEh8MAI7z4jaN/Q=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210505,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 287,
+    "prompt_tokens": 1700,
+    "total_tokens": 1987,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 160,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00235125,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00235125,
+      "upstream_inference_prompt_cost": 0.001275,
+      "upstream_inference_completions_cost": 0.00107625
+    }
+  },
+  "provider": "Google"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Allrecipes--8",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a recipe for Beef Wellington on Allrecipes that has at least 200 reviews and an average rating of 4.5 stars or higher. List the main ingredients required for the dish.",
+  "answer": "FINAL: Beef Wellington by Marla on Allrecipes meets both requirements: 4.7 out of 5 stars and 250 reviews (365 ratings).\n\nMain ingredients (8 servings):\n- 2½ lb beef tenderloin\n- 6 tbsp butter total\n- 1 onion, chopped\n- ½ cup fresh mushrooms, sliced\n- 2 oz liver pâté\n- Salt and pepper\n- 17.5 oz frozen puff pastry, thawed\n- 1 large egg yolk, beaten\n- 10.5 oz beef broth and 2 tbsp red wine for the sauce\n\nSource: https://www.allrecipes.com/recipe/16899/beef-wellington/\nEvidence: final.png shows the recipe name, 4.7-star rating, and 250 reviews.",
+  "response": "The result satisfies the task requirements.\n\n- The screenshot shows an Allrecipes page for **“Beef Wellington.”**\n- The recipe has an average rating of **4.7**, which is higher than the required **4.5 stars**.\n- It shows **250 Reviews**, which meets the requirement of at least **200 reviews**.\n- The response lists the main ingredients required for the dish, including beef tenderloin, butter, onion, mushrooms, liver pâté, puff pastry, egg yolk, beef broth, and red wine.\n- The response is consistent with the visible screenshot regarding the recipe title, rating, and review count.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The result satisfies the task requirements. - The screenshot shows an Allrecipes page for **“Beef Wellington.”** - The recipe has an average rating of **4.7**, which is higher than the required **4.5 stars**. - It shows **250 Reviews**, whi",
+  "screenshots": [
+    "task_7/final.png"
+  ],
+  "raw_screenshot": "task_7/final.png",
+  "source_result": "task_7",
+  "usage": {
+    "completion_tokens": 306,
+    "prompt_tokens": 1765,
+    "total_tokens": 2071,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 162,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.34
+}

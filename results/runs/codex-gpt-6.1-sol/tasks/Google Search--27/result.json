@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Search",
+    "id": "Google Search--27",
+    "ques": "Check the current air quality index in Paris.",
+    "web": "https://www.google.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Paris, France: 46 US AQI⁺ — Good. IQAir's current reading is timestamped 23:00 Paris local time on October 27, 2026. Main pollutant: PM2.5, 8.2 µg/m³. Source: https://www.iqair.com/air-quality/france/ile-de-france/paris . Screenshot evidence: final.png.",
+    "result_text": "FINAL: Paris, France: 46 US AQI⁺ — Good. IQAir's current reading is timestamped 23:00 Paris local time on October 27, 2026. Main pollutant: PM2.5, 8.2 µg/m³. Source: https://www.iqair.com/air-quality/france/ile-de-france/paris . Screenshot evidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_514/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_514",
+  "elapsed_seconds": 102.74939918518066,
+  "execution_error": null,
+  "proxy_bytes": null
+}

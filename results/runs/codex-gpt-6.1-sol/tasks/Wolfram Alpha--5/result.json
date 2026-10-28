@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Wolfram Alpha",
+    "id": "Wolfram Alpha--5",
+    "ques": "Show the solution of y\"(z) + sin(y(z)) = 0 from wolframalpha.",
+    "web": "https://www.wolframalpha.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: WolframAlpha displays y(z) = ±2 am((1/2)√((c₁ + 2)(z + c₂)²) | 4/(c₁ + 2)), where am is the Jacobi amplitude function.\n\nSource: https://www.wolframalpha.com/input?i=y%27%27%28z%29+%2B+sin%28y%28z%29%29+%3D+0\nViewed October 27, 2026. Evidence: final.png shows the input equation and both solution branches under “Differential equation solutions”.",
+    "result_text": "FINAL: WolframAlpha displays y(z) = ±2 am((1/2)√((c₁ + 2)(z + c₂)²) | 4/(c₁ + 2)), where am is the Jacobi amplitude function.\n\nSource: https://www.wolframalpha.com/input?i=y%27%27%28z%29+%2B+sin%28y%28z%29%29+%3D+0\nViewed October 27, 2026. Evidence: final.png shows the input equation and both solution branches under “Differential equation solutions”.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_574/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_574",
+  "elapsed_seconds": 103.5691089630127,
+  "execution_error": null,
+  "proxy_bytes": null
+}

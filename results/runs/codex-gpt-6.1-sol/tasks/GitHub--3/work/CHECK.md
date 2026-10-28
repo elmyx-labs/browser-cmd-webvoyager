@@ -1,0 +1,3 @@
+[x] Find out how much more package storage the Enterprise version has over Team in GitHub Pricing. Evidence: https://github.com/pricing — “GitHub Packages”, Team “2GB”, Enterprise “50GB”; difference 48 GB.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and deciding values together without overlays. Evidence: final.png, 1280×723, https://github.com/pricing comparison table.
+[x] Write the result and evidence to ./ANSWER.txt. Evidence: ANSWER.txt states 48 GB more, 50 GB versus 2 GB, source URL, observation date, and final.png.

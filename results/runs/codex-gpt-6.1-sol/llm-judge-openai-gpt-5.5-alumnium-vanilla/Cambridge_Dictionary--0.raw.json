@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdycV5aAspsR4pFxQhWfRwN5h3G79",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to look up the pronunciation and definition of “sustainability” on the Cambridge Dictionary.\n\nThe screenshot shows the Cambridge Dictionary entry for “sustainability,” including:\n\n- The word “sustainability”\n- Part of speech: noun [U]\n- UK pronunciation: /səˌsteɪ.nəˈbɪl.ə.ti/\n- US pronunciation: /səˌsteɪ.nəˈbɪl.ə.t̬i/\n- Definition 1: “the quality of being able to continue over a period of time”\n- Definition 2, environmental context: “the quality of causing little or no damage to the environment and therefore able to continue for a long time”\n\nThe result response accurately reports the pronunciation and definitions shown in the screenshot. It fulfills the requested lookup.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196523,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 330,
+    "prompt_tokens": 1751,
+    "total_tokens": 2081,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 143,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

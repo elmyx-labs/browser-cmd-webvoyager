@@ -1,0 +1,4 @@
+[x] Search for a model on Hugging Face with an Apache-2.0 license that has received the highest number of likes. Directory https://huggingface.co/models?license=license:apache-2.0&sort=likes puts Qwen/Qwen3.8-27B first with 18.5k likes.
+[x] Verify Apache-2.0 license filter and highest likes sort with the site's own sort. Directory shows selected apache-2.0 and Sort: Most likes; model page https://huggingface.co/Qwen/Qwen3.8-27B shows License: apache-2.0 and Like 18.5k.
+[x] Save one genuine viewport screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side, showing item's name, deciding facts, applied filters and sort, with no overlay. final.png is 1280x723 and shows selected apache-2.0, Most likes and top result Qwen/Qwen3.8-27B with 18.5k likes. No date filter was requested or applied.
+[x] Write ./ANSWER.txt with result and evidence, first line FINAL:, and finish with one short line.

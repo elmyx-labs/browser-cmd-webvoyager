@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--22",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify a Specialization on Coursera that focuses on 'Human Resource', list the courses included in this Specialization, and the institution offering it.",
+  "answer": "FINAL: Human Resource Management: HR for People Managers Specialization — offered by the University of Minnesota on Coursera.\n\nThe specialization includes five courses:\n1. Preparing to Manage Human Resources\n2. Recruiting, Hiring, and Onboarding Employees\n3. Managing Employee Performance\n4. Managing Employee Compensation\n5. Human Resources Management Capstone: HR for People Managers\n\nEvidence: Coursera's specialization page lists these as Courses 1–5 and states “Offered by University of Minnesota.” The screenshot final.png shows the specialization title, all five courses, and the offering institution together.\nSource: https://www.coursera.org/specializations/human-resource-management\nAccessed: October 27, 2026.",
+  "response": "Based on the provided screenshot and response:\n\n1. **Specialization Identified**: The specialization identified is \"Human Resource Management: HR for People Managers Specialization\", which clearly focuses on Human Resources.\n2. **Courses Listed**: The response accurately lists all five courses shown in the screenshot:\n   - Preparing to Manage Human Resources\n   - Recruiting, Hiring, and Onboarding Employees\n   - Managing Employee Performance\n   - Managing Employee Compensation\n   - Human Resources Management Capstone: HR for People Managers\n3. **Offering Institution**: The offering institution, \"University of Minnesota\", is clearly identified and verified by the screenshot under the \"Offered by\" section.\n\nAll requirements of the instruction were met accurately.\n\nSUCCESS",
+  "reason_short": "Based on the provided screenshot and response: 1. **Specialization Identified**: The specialization identified is \"Human Resource Management: HR for People Managers Specialization\", which clearly focuses on Human Resources. 2. **Courses Lis",
+  "screenshots": [
+    "task_304/final.png"
+  ],
+  "raw_screenshot": "task_304/final.png",
+  "source_result": "task_304",
+  "usage": {
+    "completion_tokens": 394,
+    "prompt_tokens": 1745,
+    "total_tokens": 2139,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 247,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00278625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00278625,
+      "upstream_inference_prompt_cost": 0.00130875,
+      "upstream_inference_completions_cost": 0.0014775
+    }
+  },
+  "elapsed_seconds": 16.3
+}

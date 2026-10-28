@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210185-yOrPncHua0SGe5z7QsKu",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested the pronunciation and definition of the word \"sustainability\" on the Cambridge Dictionary. \n\nThe screenshot confirms that the Cambridge Dictionary entry for \"sustainability\" was accessed, showing both the UK (/səˌsteɪ.nəˈbɪl.ə.ti/) and US (/səˌsteɪ.nəˈbɪl.ə.t̬i/) pronunciations, as well as the definitions provided for general and environmental contexts. The Result Response accurately reports all of this information.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching Cambridge Dictionary**\n\nI am now focused on retrieving the pronunciation and definition for \"sustainability\" from the Cambridge Dictionary website, as per the user's request. I am currently examining the provided screenshot for these specific details.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching Cambridge Dictionary**\n\nI am now focused on retrieving the pronunciation and definition for \"sustainability\" from the Cambridge Dictionary website, as per the user's request. I am currently examining the provided screenshot for these specific details.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18juwmR08dgrVE8d8aDGUveGo5Lofs2arMhhulRv0jErDnhatbfoam7eUvpqFclBV5ZW7E27vuHz5QqMiQJww6gZmXAgsUVt6Vr973O943dggvjlNrDgjqcY/5JW0ctsyCJD59L3oMRnGGX7zIbozxYRNObpKGx9470q5npeUHFbRB5iEvAhzoI3HGdzAQXZyCFh/sMygwdLD2o/yjqQ48aPVpEGKdIK11KyLhT+XHaDGRjaSSL51tvAw1yMBibaWBHl0kvtEkkNCJj57a6xBF4Wd6hqqtC742SaH+o563V2tscX94dLyrm1iImGJuPvSlZZb8JxtCcnUR+msL0iz7gg6OqgwV2jJEuM8/mNTUiKTg1FhJOPN6vPI1qpZjMcLY0Xe88jGywLGus1u8cdgPnThUHp2NkXJ6R7/vnWEkJS6qEiWp8931K04lX4tBVNFQdiPfWmBnO5u1wBKp3tMRzzCkokGyfhjVBAo+32zUgwefkvdJ4w1AEJQJKusFwt7IBqogVKz9koVisNnICver0xZMGvnI1A41uEj95i8ISZHtabH7mM7ded3kIPbLbgn4BLyQ6HjLSiKGXBk6NSgo7Y42f+TH3l4fnyUFq4a2tLxkFwRPhFUxM/ZDB34POGRy1/qNvzlPKOc4Be9cnYoXAGFL/3f0SUweOp++fTMzM8YS0CFqSe4/WluHXIK4kK7hrVrQGL9WPwptgW2Ic+83xBeBnioWFitkpOxENA50Nsb+hWCqPQ1cILYIK9HNtr+DeDcrtu+O7CQXq7JhjuSt47AHN9CvmfHdZS7v4bSWuuryrakyw/gXGUnsHihvhWsFN28dCKdKDCkN1Uynzb6tMPNxwCFIBgTd+GqMqS9TRYk1yEAQttLr59voYn6pXAqjrRm723HjNpgaPh4PmYp9Xp7D/JSSD+DkDqu3e1XApWtCF1J+SI+Mjlrz60Dk8AHnFpx1BisK3E9ikSeQ46At8Z8NkhQzkZMA8xQPttIwkIKyLVCCQilHktKI+Uzfbo3j4RQawVdJMs2IeDCU36QmeOnOxj9+g4KYwW2Uhj5qqNC/id81AAvD7ctlb76T8W0Kg2nv/gFXKPsu+YsOZlGX6prkg++wg4FCc9flnZinepVPCyCHPOTmNJlzkBYOhMwEDoWHkPmopArEZShr+sSST1BTHkgAp/g5Zq1rYsDokB5c/zyaQUiI96Q==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210185,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 284,
+    "prompt_tokens": 1746,
+    "total_tokens": 2030,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 176,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0023745,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0023745,
+      "upstream_inference_prompt_cost": 0.0013095,
+      "upstream_inference_completions_cost": 0.001065
+    }
+  },
+  "provider": "Google"
+}

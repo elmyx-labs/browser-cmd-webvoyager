@@ -1,0 +1,4 @@
+- https://info.arxiv.org/brand/swag.html links to the “non-profit store” at https://www.bonfire.com/store/arxiv-official/.
+- Store button “Share this store” > “QR Code” opens “Your campaign QR code” with text “Share this code to let people easily get to your campaign page.”
+- Browser BarcodeDetector read the displayed QR canvas as https://www.bonfire.com/store/arxiv-official/?utm_source=qr_code&utm_medium=store_page_share&utm_campaign=arxiv-official&utm_content=default . Navigated to this decoded URL, which returned the official store.
+- https://www.bonfire.com/cart/ shows “Your cart”, “arXiv Forever”, Product “Premium Unisex Tee”, Size “XL”, Qty “1”, “Color: Solid White Blend”, “$28.49”. Short sleeve shirt is visible in the cart thumbnail. Screenshot final.png is the genuine cart viewport resized to 1280 × 723.

@@ -1,0 +1,9 @@
+{
+  "id": "Google Flights--2",
+  "task": "Find the lowest fare from all eligible one-way flights for 1 adult from JFK to Heathrow on Jun. 22.",
+  "answer": "FINAL: The lowest displayed fare is US$385 one way for 1 adult in Economy from JFK to London Heathrow (LHR) on June 22, 2027 (the next June 22). One option is Virgin Atlantic, departing 8:05 AM and arriving 8:00 PM the same day, nonstop, 6 hr 55 min. Other flights share the displayed $385 minimum.\n\nEvidence: Google Flights, Cheapest tab, All flights sorted by price, with no additional filters. The fare includes required taxes and fees; the Virgin Atlantic fare excludes overhead-bin access. Screenshot: ./final.png. Viewed October 27, 2026.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTA2LTIyagcIARIDSkZLcgcIARIDTEhSQAFIAXABggELCP___________wGYAQI&tfu=EgoIAhAAGAAgAigB&curr=USD",
+  "screenshots": [
+    "task_409/final.png"
+  ],
+  "raw_screenshot": "task_409/final.png"
+}

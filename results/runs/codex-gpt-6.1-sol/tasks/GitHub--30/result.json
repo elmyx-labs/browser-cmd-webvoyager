@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--30",
+    "ques": "Search for an open-source project related to 'blockchain technology' on GitHub updated in the past 15 days and list the top five contributors.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Selected ethereum/go-ethereum (Go Ethereum), an open-source blockchain project updated within the past 15 days. Its top five contributors are obscuren, karalabe, fjl, holiman, and rjl493456442.\n\nProject: https://github.com/ethereum/go-ethereum\nGitHub describes it as “Go implementation of the Ethereum protocol,” tags it “blockchain,” and lists LGPL-3.0 and GPL-3.0 licenses.\n\nRecency: Checked October 28, 2026. GitHub's filtered search showed “Updated 8 hours ago,” within the October 13–28, 2026 window. Applied query: blockchain pushed:>=2026-10-13 archived:false is:public; sort: Most stars.\nSearch evidence: https://github.com/search?q=blockchain+pushed%3A%3E%3D2026-10-13+archived%3Afalse+is%3Apublic&type=repositories&s=stars&o=desc\n\nTop five contributors, using GitHub's “Period: All” ranking by commits to master:\n1. obscuren — 3,900 commits\n2. karalabe — 2,772 commits\n3. fjl — 2,043 commits\n4. holiman — 1,094 commits\n5. rjl493456442 — 907 commits\nContributor evidence: https://github.com/ethereum/go-ethereum/graphs/contributors?all=1\n\nScreenshot: final.png shows the project, all-time period, chart date range through October 24, 2026, and the five ranked contributors with their commit counts.",
+    "result_text": "FINAL: Selected ethereum/go-ethereum (Go Ethereum), an open-source blockchain project updated within the past 15 days. Its top five contributors are obscuren, karalabe, fjl, holiman, and rjl493456442.\n\nProject: https://github.com/ethereum/go-ethereum\nGitHub describes it as “Go implementation of the Ethereum protocol,” tags it “blockchain,” and lists LGPL-3.0 and GPL-3.0 licenses.\n\nRecency: Checked October 28, 2026. GitHub's filtered search showed “Updated 8 hours ago,” within the October 13–28, 2026 window. Applied query: blockchain pushed:>=2026-10-13 archived:false is:public; sort: Most stars.\nSearch evidence: https://github.com/search?q=blockchain+pushed%3A%3E%3D2026-10-13+archived%3Afalse+is%3Apublic&type=repositories&s=stars&o=desc\n\nTop five contributors, using GitHub's “Period: All” ranking by commits to master:\n1. obscuren — 3,900 commits\n2. karalabe — 2,772 commits\n3. fjl — 2,043 commits\n4. holiman — 1,094 commits\n5. rjl493456442 — 907 commits\nContributor evidence: https://github.com/ethereum/go-ethereum/graphs/contributors?all=1\n\nScreenshot: final.png shows the project, all-time period, chart date range through October 24, 2026, and the five ranked contributors with their commit counts.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_397/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_397",
+  "elapsed_seconds": 229.83531022071838,
+  "execution_error": null,
+  "proxy_bytes": 16962117
+}

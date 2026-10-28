@@ -1,0 +1,3 @@
+Google Flights — New York to Tokyo, one way, 1 passenger, Economy; departure January 15, 2027 (date encoded in search URL, calendar confirmed).
+URL: https://www.google.com/travel/flights/search?tfs=CBwQAhopEgoyMDI3LTAxLTE1ag0IAxIJL20vMDJfMjg2cgwIAxIIL20vMDdkZmtAAUgBcAGCAQsI____________AZgBAg&tfu=EgoIAhAAGAAgAigB&curr=USD
+Exact words: "Cheapest from 407 US dollars"; "Sorted by price"; first result "From 407 US dollars. 1 stop flight with Air India. Leaves John F. Kennedy International Airport at 10:00 AM on Friday, January 15 and arrives at Haneda Airport at 5:55 AM on Sunday, January 17. Total duration 29 hr 55 min. Layover (1 of 1) is a 7 hr 35 min layover at Indira Gandhi International Airport in New Delhi."

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210172-4CFwwdSNoPuqb3Vle1Ck",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find the pronunciation, definition, and a sample sentence for the word \"resilience\" in the Cambridge Dictionary.\n\n1. **Pronunciation**: Provided as UK and US `/rɪˈzɪl.jəns/`, which matches the Cambridge Dictionary page in the screenshot.\n2. **Definition**: The page displays \"the ability to be happy, successful, etc. again after something difficult or bad has happened:\", which aligns with the meaning provided in the response.\n3. **Sample Sentence**: Provided as “Trauma researchers emphasize the resilience of the human psyche.”, which directly matches the first example sentence on the Cambridge Dictionary page shown in the screenshot.\n\nAll requirements have been met accurately.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Processing Cambridge Dictionary Entry**\n\nI'm currently focused on extracting the pronunciation, definition, and a sample sentence for \"resilience\" from the provided Cambridge Dictionary screenshot. My aim is to present this information clearly and concisely to you.\n\n**Refining Extracted Data**\n\nI'm currently scrutinizing the extracted definition for \"resilience,\" comparing the paraphrased version against the original Cambridge Dictionary text. My goal is to ensure accuracy and completeness of the recovered information.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Processing Cambridge Dictionary Entry**\n\nI'm currently focused on extracting the pronunciation, definition, and a sample sentence for \"resilience\" from the provided Cambridge Dictionary screenshot. My aim is to present this information clearly and concisely to you.\n\n**Refining Extracted Data**\n\nI'm currently scrutinizing the extracted definition for \"resilience,\" comparing the paraphrased version against the original Cambridge Dictionary text. My goal is to ensure accuracy and completeness of the recovered information.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210172,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 585,
+    "prompt_tokens": 1717,
+    "total_tokens": 2302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 436,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0034815,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0034815,
+      "upstream_inference_prompt_cost": 0.00128775,
+      "upstream_inference_completions_cost": 0.00219375
+    }
+  },
+  "provider": "Google"
+}

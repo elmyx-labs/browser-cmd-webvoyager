@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210694-W9uJJC0PFg0wGUXN4zdR",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user asked to print all prime numbers between 1000 and 1200 using Wolfram Alpha.\n\nThe screenshot shows the search query `prime numbers between 1000 and 1200` performed on Wolfram Alpha, displaying the full list of 28 prime numbers. The Result Response accurately enumerates all 28 prime numbers as retrieved from the Wolfram Alpha output.\n\nTherefore, the task was successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Primes Quickly**\n\nI've successfully identified the prime numbers within the specified range of 1000 to 1200. The solution provided the complete list, confirming my findings.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Primes Quickly**\n\nI've successfully identified the prime numbers within the specified range of 1000 to 1200. The solution provided the complete list, confirming my findings.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18CfU0xFwabD7Jsv5sF/PxpQLZ6Ln8I5Z/pMslDrVJqh7nLuNpCQRryDjTx5geCGsN0tL6XqKpXGiPDtXLvbODCk9yTDaZdx6AyaQPAvCMOkQlD6r8BIpxcDAoQFqAaRQDQ0L32/mHatR9dHid+6x8wNT3NoBC/B/LoBoGbYKMG7iZ1zpx5/qTA+z2EMxxoD8mY4TkF9DRNxh0lscy9BGYKw7meYPujUN4zaDGPRA1FUOBCNbmzbfU8SJxhKrsJplB7sf59fIGP2UpZohrKBOOco6pZtIdNjlQGFEUO8WtSOO65hAexVf+zZu0AHol8rxa42yvsA2ORi/3ybNVLEXclmksYz/+OVKEloQxbS+O062MX+JRodPTikauC0MG0JfpU/16h2GRog9Ud01sdMJ2+QoDn4wU+6x8AkWRPSnk8XBYMpxB0vsJucbujKP1iRk/jnbDc+Xg9tA/KwdEtVoYW99SHxo06NT1YAeRaJpcJ3osIzSDU89tERlGNnvHwP5N8m0h5nDy/Cd3wWlbqFX3bR4hY/J7lnWXZgWT/3OGaIo7MD1bLcB11RtxmIEKURP+JYjhPysdnsi5ax/Wa5d/1C1yXy/t0kbv++LJgh2pghD7BWHnpIjhQuVe0nSE30mG/9mNNsVHluO3t61bfmjPvEZTRH7SqRPqYS6HwKmErNnW+c4fY6doCslWnvizNsj65XoUiqoYC7fGXswZoQTvjR1YKsec/MjiMoRerXjWQzMzkB6d9w/t6L3larItiqAziVJiW2Fi6GHjQCMZv/OSnZlmNGYrgLHJfxF/LKWrtnUVU4yJGJdNe4amT+oNiA4x1bkvY0DOT+H+Zg6EQcWMQVIcXcIg8yIbAj7whdW0cAkjdileBeMNHEE/ojl19nmzqdb2NxSO4MZG7ie8HDWMC0OCeCXqxulSZleLqrylh21dOUeMVee3DzXINXpeP1hOuGBdSz2GhVg9EsQVur+ew3ofKCRLKogNNz2YW+HAVRy0b/+gcM7/bKxajZ1ymJsPtqw9RVQjLeUh42kYrd5wmSwil/EWr/3rvUVI3ZhxSMHii3WMa215D7t0T5qNAGC7Yet3YKLOc/tXEFdO8jnFiGyIosW7z0gky2vyyloraIpt6sI64ltXt79vaAWw0p2ylXlAqqHnHhuCqG5HQrkA8e4zRxwoD2ASo6xUTVqeIlupWJudF4Ey/BhBB7Md6tyb/2+dzACm6o7ZUE9xqp+XO3Qq48I3jwpxc5l+BXD8Jj01JtuUpGdwrKodi2Tg3CY1UDJWETvs0RRVi+mygz3dDQT+CZkSiWGSzAPB1EdeIkWaWWHHesu4G9lMHFLEhN17e0E2SAPBcOFP1eJVeXcAwmD5iSCFXIspVqUGEtOvUu7yk2i+I1rztqqg77/bdyKrhkPPB+MDGpLLYWl/FIC4w+8RxKrvyu7UT7Q==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210694,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 525,
+    "prompt_tokens": 1855,
+    "total_tokens": 2380,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 431,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00336,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00336,
+      "upstream_inference_prompt_cost": 0.00139125,
+      "upstream_inference_completions_cost": 0.00196875
+    }
+  },
+  "provider": "Google"
+}

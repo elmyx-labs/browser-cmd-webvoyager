@@ -1,0 +1,6 @@
+- [x] Choose a dessert recipe on Allrecipes. Chocolate Walnut Fudge; page breadcrumb “Desserts”. https://www.allrecipes.com/recipe/23268/chocolate-walnut-fudge/
+- [x] Prep time of less than 30 minutes. Page: “Prep Time: 10 mins”. Same source URL.
+- [x] Has chocolate as an ingredient. Page: “1 cup semisweet chocolate chips”. Same source URL.
+- [x] Has a user rating of 4 stars or higher. Page: “4.2 out of 5”, “115 Ratings”. Same source URL.
+- [x] Provide name, ingredients list, and step-by-step instructions in ANSWER.txt. All seven ingredients and all four directions recorded from the source page; directions paraphrased.
+- [x] Save one genuine viewport screenshot as final.png, about 1280 px on long side, showing recipe name and qualifying facts together, with no overlay. final.png is 512x1280, reduced from a genuine 1280x3200 viewport; name, rating, prep time, all seven ingredients including walnuts, and all four directions visible; popup closed. No filters, sorts, or date restrictions applied.

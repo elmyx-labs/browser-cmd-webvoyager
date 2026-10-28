@@ -1,0 +1,12 @@
+{
+  "verdict": "REVISE",
+  "issues": "- Check the Trending lists for projects about machine learning using their descriptions and repository pages, including projects without the `machine-learning` topic tag. If a relevant project appears, report the highest-ranked current result and its star count; otherwise, retain TensorFlow as the most-starred topic result and state the difference.",
+  "usage": {
+    "input_tokens": 12165,
+    "cached_input_tokens": 8320,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 172,
+    "reasoning_output_tokens": 100
+  },
+  "failure": null
+}

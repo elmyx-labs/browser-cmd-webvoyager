@@ -1,0 +1,9 @@
+{
+  "id": "Booking--5",
+  "task": "Search a hotel with free WiFi and air conditioning in Bali from October 1 to October 4, 2027.",
+  "answer": "FINAL: Adhi Jaya Hotel in Kuta, Bali matches: check-in October 1, 2027, check-out October 4, 2027 (3 nights), with free WiFi and air conditioning.\n\nBooking.com shows a Superior Double or Twin Room for the search's default 2 adults and 1 room. Its hotel listing explicitly includes “Free Wifi” and “Air conditioning.”\n\nSource: https://www.booking.com/hotel/id/adhi-jaya.html\nEvidence: final.png shows Adhi Jaya Hotel in the Bali results with the dates and the applied Hotels, Free Wifi, and Air conditioning filters visible; sort is Our top picks. The search URL confirms checkin=2027-10-01 and checkout=2027-10-04.",
+  "screenshots": [
+    "task_207/final.png"
+  ],
+  "raw_screenshot": "task_207/final.png"
+}

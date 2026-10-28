@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdybnqdqVBAqu7XvPkaWwZlbGEKf2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find the cheapest hotel near Kashi Vishwanath Temple offering breakfast for Dec 25–26, 2026.\n\nThe provided screenshot and response show that Booking.com was searched for Kashi Vishwanath Temple with dates Dec 25–26, filters applied for:\n\n- Hotels\n- Breakfast included\n- Less than 1 km from the landmark\n- Sorted by price lowest first\n\nThe first listed result is **Super Hotel O Benia Park Formerly Parv**, located **0.8 km from Kashi Vishwanath Temple**, with **breakfast included**, priced at **₹2,099 + ₹139 taxes and fees** for one night. Since the results are sorted by lowest price and the relevant filters are visible, this supports the claim that it is the cheapest matching hotel under the chosen definition of “near.”\n\nThe response also clearly states the hotel name, price, breakfast inclusion, distance, dates, and source URL.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196479,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 552,
+    "prompt_tokens": 2007,
+    "total_tokens": 2559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 344,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

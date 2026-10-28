@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--7",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a course on Coursera that teaches Reinforcement Learning for Intermediate with a rating of at least 4.5. Provide the name of the course, the institution offering it, and the number of reviews it has received.",
+  "answer": "FINAL: Fundamentals of Reinforcement Learning, offered by the University of Alberta and the Alberta Machine Intelligence Institute, is an Intermediate-level Coursera course rated 4.8/5 with 2,911 reviews. Verified October 27, 2026, on the course page: https://www.coursera.org/learn/fundamentals-of-reinforcement-learning . Evidence: final.png shows the course name, Intermediate level, rating, and review count together.",
+  "response": "The task was to find a Coursera course that:\n\n- Teaches Reinforcement Learning\n- Is Intermediate level\n- Has a rating of at least 4.5\n- Includes the course name, offering institution, and number of reviews\n\nThe screenshot shows the Coursera course **“Fundamentals of Reinforcement Learning”**. It is labeled **Intermediate level**, has a rating of **4.8**, and shows **2,911 reviews**. The page also displays the **University of Alberta** and **amii / Alberta Machine Intelligence Institute** logos as the offering institutions.\n\nThe result response accurately provides the course name, institution, rating, level, and review count, matching the screenshot.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find a Coursera course that: - Teaches Reinforcement Learning - Is Intermediate level - Has a rating of at least 4.5 - Includes the course name, offering institution, and number of reviews The screenshot shows the Coursera c",
+  "screenshots": [
+    "task_290/final.png"
+  ],
+  "raw_screenshot": "task_290/final.png",
+  "source_result": "task_290",
+  "usage": {
+    "completion_tokens": 312,
+    "prompt_tokens": 1703,
+    "total_tokens": 2015,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 155,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.41
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GitHub--32",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Discover the latest C# repository on GitHub related to 'game development' and having over 150 stars, and describe its main features.",
+  "answer": "FINAL: Revolutionary-Games/Thrive — https://github.com/Revolutionary-Games/Thrive\n\nInterpreting “latest” as GitHub’s “Recently updated” sort, Thrive is the first result for game development language:C# stars:>150. On October 28, 2026, GitHub showed C#, 3,796 stars and “Updated 2 hours ago.” It is the main development repository for the evolution game Thrive.\n\nMain features:\n- A C# game built with Godot, with configurable simulation parameters.\n- Microbe survival gameplay: gather nutrients, manage energy, compete with other cells and reproduce.\n- A cell editor for changing organelles, physical traits and species behavior.\n- An evolving ecosystem, with competing species, population changes and migration between environmental patches.\n- Cell colonies that share resources and enable progression to multicellular life.\n\nEvidence: GitHub’s filtered, sorted results: https://github.com/search?q=game+development+language%3AC%23+stars%3A%3E150&type=repositories&s=updated&o=desc ; repository README: https://github.com/Revolutionary-Games/Thrive#readme ; official gameplay documentation: https://wiki.revolutionarygamesstudio.com/wiki/Help_And_Tips . Screenshot: final.png.\n\nScreenshot limitation: GitHub’s header displays “Search” rather than the active query. The screenshot shows the repository, C#, star count, update age and sort; the exact filters are recorded in the search URL above.",
+  "response": "The task was to find the latest GitHub repository related to “game development,” written in C#, with more than 150 stars, and describe its main features.\n\nThe screenshot shows GitHub repository search results sorted by “Recently updated.” The first result is **Revolutionary-Games/Thrive**, marked as **C#**, with about **3.8k stars**, and **updated 2 hours ago**, satisfying the visible requirements of being C#, over 150 stars, and the most recently updated result shown. It is also clearly related to game development, described as the main repository for the evolution game Thrive.\n\nThe response identifies the repository, provides the GitHub URL, explains the interpretation of “latest” as “recently updated,” and gives a feature summary. Although the screenshot does not visibly show the full search query or filters, the response supplies the search URL and the visible results are consistent with the claimed outcome.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find the latest GitHub repository related to “game development,” written in C#, with more than 150 stars, and describe its main features. The screenshot shows GitHub repository search results sorted by “Recently updated.” Th",
+  "screenshots": [
+    "task_399/final.png"
+  ],
+  "raw_screenshot": "task_399/final.png",
+  "source_result": "task_399",
+  "usage": {
+    "completion_tokens": 437,
+    "prompt_tokens": 1903,
+    "total_tokens": 2340,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 235,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.2
+}

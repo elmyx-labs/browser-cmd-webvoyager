@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyekDTGGVCq1ZjWa10oXufa7c7Ub",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find round-trip First Class flights from Phoenix to Miami for July 7–July 10 that do not exceed $2,000.\n\nThe result satisfies the key requirements:\n\n- Route shown: Phoenix PHX to Miami MIA.\n- Trip type: Round trip.\n- Dates: July 7 to July 10.\n- Cabin: First.\n- Price filter: “up to $2,000” is applied.\n- Results shown are under budget, including United options from $1,357 round trip and a Delta option from $1,459 round trip.\n- The response provides a specific United First Class itinerary and fare options, all below $2,000.\n\nThe screenshot supports the main claims, and the response gives additional itinerary details and booking/fare information. The use of 2027 is reasonable given the current year is 2026 and July 7–10 would next occur in 2027.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196662,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 543,
+    "prompt_tokens": 2393,
+    "total_tokens": 2936,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 342,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

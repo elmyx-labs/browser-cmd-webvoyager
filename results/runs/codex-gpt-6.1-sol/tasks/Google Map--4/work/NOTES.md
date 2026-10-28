@@ -1,0 +1,6 @@
+Google Maps, checked October 27, 2026. Chosen public transit departure filter: 7:00 PM, Tue Oct 27.
+Route: Boston Logan International Airport to North Station, 135 Causeway St, Boston, MA 02114.
+Exact summary: "7:02 PM - 7:26 PM (24 min)"; "33 → Blue Line → Orange Line"; "$2.40"; walking "3 min".
+Details: Terminal E - Arrivals Level 7:02 PM; shuttle 33 toward Blue Line, 7 min nonstop to Blue Line - MBTA 7:09 PM; walk about 2 min to Airport; Blue Line toward Bowdoin 7:15 PM, 3 stops to State 7:20 PM; walk about 1 min; Orange Line toward Oak Grove 7:24 PM, 2 stops to North Station 7:26 PM.
+Expanded Blue Line alert: "Blue Line: Delays of about 10 minutes after earlier police activity at Wood Island." "Effective from 10/27/2026, 5:33 PM to 10/27/2026, 8:07 PM".
+Source: https://www.google.com/maps/dir/Boston+Logan+International+Airport,+East+Boston,+MA+02128,+United+States/North+Station,+135+Causeway+St,+Boston,+MA+02114,+United+States/@42.3606468,-71.0841451,13z/am=t/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x89e37014d5da4937:0xc9394c31f2d5144!2m2!1d-71.0096136!2d42.365602!1m5!1m1!1s0x89e3708e162d05cb:0x651087057818603a!2m2!1d-71.0611311!2d42.3662329!2m3!6e0!7e2!8j1793127600!3e3?hl=en&entry=ttu

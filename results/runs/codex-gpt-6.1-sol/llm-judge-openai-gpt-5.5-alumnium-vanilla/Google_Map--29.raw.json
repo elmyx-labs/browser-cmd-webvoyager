@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edyff1ooLMTtXbfXaojcyEcZZ4Rgc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to identify bus stops in Ypsilanti, MI and list three of them.\n\nThe result response lists three bus stops:\n\n1. Hamilton + Michigan  \n2. Michigan + Huron  \n3. Michigan + Hamilton  \n\nThe screenshot supports this: Google Maps search results show these three entries, each labeled as “Bus stop.” The selected listing, “Michigan + Hamilton,” also shows an address in Ypsilanti, MI 48197. The other listed stops appear in the same Ypsilanti-focused Google Maps results list, and the response provides supporting Google Maps links and stop IDs.\n\nThe instruction only required listing three bus stops in Ypsilanti, MI, and the response does so.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196719,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 335,
+    "prompt_tokens": 2343,
+    "total_tokens": 2678,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 178,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

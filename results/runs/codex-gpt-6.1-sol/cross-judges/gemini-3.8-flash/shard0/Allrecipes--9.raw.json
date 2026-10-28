@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209908-Tj1A8s4sG44Pn0psjUXj",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a high-rated recipe for vegetarian lasagna, a list of key ingredients required, and the total preparation and cook time stated on the recipe.\n\n1. **High-rated recipe**: The response identified Allrecipes' \"Vegetarian Four Cheese Lasagna\", with a 4.6/5 rating from 243 reviews (confirmed by screenshot).\n2. **Key ingredients**: The response lists the ingredients for the recipe.\n3. **Prep and cook time**: The response includes 15 mins prep time, 1 hr cook time, and 1 hr 15 mins total time (confirmed by screenshot).\n\nAll requirements of the task have been satisfied.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Recipe Success**\n\nI'm currently assessing the identified recipe against the task requirements. My focus is on verifying if it's a high-rated vegetarian lasagna and cross-referencing its ingredient list and time estimates to ensure accuracy.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Recipe Success**\n\nI'm currently assessing the identified recipe against the task requirements. My focus is on verifying if it's a high-rated vegetarian lasagna and cross-referencing its ingredient list and time estimates to ensure accuracy.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+6ZL+KsrcI6N9B8Lz7mZL8knjAP7FxCMGARLpPX+lOFLYJg+oKt6OHk8e82CiJM+LC+ZheS8jZw53TJJJVUncX/NJyQ3d0dTF2h3rbEIjBpOxPnEGwTDR2G8DPohsiWaT7M5yleg/rybgWugG3XnDnIYkVU/eNSzbH32SpCzuQI2YLOiTyLhxM/I+qoiJ5V7kr4VNCVytEbmuLXrz4FYVh+fMXM4EsCsXsrPo/TgsVtPz7+aB+0AVghDjrNWgT9BokNHz0svmjNLAZQwe1RkzoEn1kf5rw2QhhzE+NjMSVGlrtCQYEkgNsOwN/Pa3Q8gWhukHe1fy3fKNUuDNlnFcc5J/6M1l4C9EqfMXPYw9mzsO1TpXV3Lx4D1cwQiZNd4qTbw017iMaRq1Dqg4OjYGhV93V96tY+qnNc2UXbfCMAJNcdI/EzEH5T8VupKNQSlwT5EnkauskvZi731NgT/b7AFe4uBDqIS3rpxMK9rqjndMxq1DgDgdQxVMWLv8A2uwA54uhgWf8zJz0dGV0ktQQ/CRikk5htkdbk4FkSmfw4QlG4mEY/GFVfvUXAc2Vn3HZAG+UkmFnC7NEITrRiO7Clgx3f2V728AyKQbwb/8a7fuUonRWEv4h2PbS7R9F9W05bdRAvvG+hrHccCmA/516RyosM8cPzNgO73hlM6zEnvwXqzkXqs8SL0lhlhOJEI5RW7fCQ1F9TaYbeHp9eLSXM/eKJnIyMWTjxjZJjREL1xNBlecTmrmNQzs1sNpX8LMrYTYL758l8mT6RFQi67BfRao2/MGOMUXByU0ZVN9e/rRgDKZP5VdJERByrqhMRNmqygNlgbwCpz3u8whSMWgSB/Y+PxvESfHQn7RIWqEk7u2fbTe4gKEQPmjWL/IBM1Rhh6EULbILNMvkkPmJ/uH5dWuXKnKwuIXzednM6dWYtbzRVYM/VIXVFREXYqwb71KMY3hXd5Q2IDSolNIF13cMesMvYLCu//fEWnxoNA0EEKE5SZyz3Au7xQaKNgVqnKdYMyqeWcSW9+6wCUTzLhaSPhTC5HMnyhckOyoTP0o5ohCbS68m7dsF45IHYdDWiiOgWkrdRZMU9wR818VscvPgfapOu2dZXRU2gjQCc6VmBEKPPQnFmEZZKlIUG0eUzw8ZI3XQuhVQbsdzcyiHvmJrZYFchDjZIsBKWbQJxQHUiUU3nEVPDSswlE09dk6YOyEz2xBhP13NncWbhn803ZHRkbwfzNxYvR5CH9NysAG4RuBovuRq3qpBaye3DfsvHvbAylZYt2oFJddHpK2FpWkcFxOBhu1bjOr4jtqfHPlPVOI45k8HgNV4uOuKcTe7o15upijftMacNIKAZZ56Ebqvy2iybhxijoVqSll3BS5/80r5QzVQZClUkbyng0O77pmZf5Jr9G6a73l65KyHZ4BE/CHRH8n8nEynT6Wv9gc0QJfd9+UDOxYE7y5NBbqkN1qG1liWMgtEY9W8AgALP15VLMkS12DZveiIm01cfWUh4y8e1wkfJEq1ISDk7/CF/jLj0dm8H9W1LKDFh91T//2TfU6lotgPBDoJ63KAUR/q0VfOHskvvmkDzeNGkzsIzGmG",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209908,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 405,
+    "prompt_tokens": 1782,
+    "total_tokens": 2187,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 263,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00285525,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00285525,
+      "upstream_inference_prompt_cost": 0.0013365,
+      "upstream_inference_completions_cost": 0.00151875
+    }
+  },
+  "provider": "Google"
+}

@@ -1,0 +1,6 @@
+Nature Astronomy search: https://www.nature.com/search?q=black+hole&journal=natastron&article_type=research&order=date_desc
+Filters: Nature Astronomy (244); Research (244); [Selected: Date published (new to old)]. First result: “A self-shadowing black hole accretion disk at sub-Eddington luminosities”; Research; 22 Oct 2026; Nature Astronomy. Next result dated 08 Oct 2026.
+Article: https://www.nature.com/articles/s41550-026-03005-2
+Exact words: “Article”; “Published: 22 October 2026”; title as above; first author M. Armas Padilla. Abstract describes black hole X-ray binary spectroscopy and vertically extended inner disk at ~0.2 LEdd shielding outer regions.
+Journal research listing: https://www.nature.com/natastron/research-articles — five newer entries concern planetary atmospheres, white dwarf debris, solar flares, gamma-ray burst classification and interstellar methane. The 23 October GRB article abstract (https://www.nature.com/articles/s41550-026-03007-0) addresses classification and progenitor scenarios, with no black-hole finding stated. The latest explicit black-hole research is the 22 October paper.
+Final screenshot source: search URL above, scrollY 245, viewport 1440 × 813; resized proportionally to 1280 px long side as final.png. Only final.png was viewed.

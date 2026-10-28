@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Allrecipes",
+    "id": "Allrecipes--24",
+    "ques": "Locate a recipe for an eggplant Parmesan on Allrecipes with a rating of at least 4.5 stars and over 50 reviews. Include the preparation time and the number of servings provided by the recipe.",
+    "web": "https://www.allrecipes.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Allrecipes’ Eggplant Parmesan by Dolores Gentner-Ryan qualifies: 4.7/5 stars and 2,643 reviews. Preparation time: 25 minutes. Servings: 10.\nSource: https://www.allrecipes.com/recipe/25321/eggplant-parmesan-ii/ (accessed October 27, 2026).\nEvidence: final.png shows the recipe name, rating, and review count together.",
+    "result_text": "FINAL: Allrecipes’ Eggplant Parmesan by Dolores Gentner-Ryan qualifies: 4.7/5 stars and 2,643 reviews. Preparation time: 25 minutes. Servings: 10.\nSource: https://www.allrecipes.com/recipe/25321/eggplant-parmesan-ii/ (accessed October 27, 2026).\nEvidence: final.png shows the recipe name, rating, and review count together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_21/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_21",
+  "elapsed_seconds": 61.49489092826843,
+  "execution_error": null,
+  "proxy_bytes": 4932373
+}

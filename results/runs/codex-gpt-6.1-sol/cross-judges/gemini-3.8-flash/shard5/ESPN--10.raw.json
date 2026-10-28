@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210241-gLV0VEh8vXEnF057Iv5u",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to check ESPN for the score and a brief recap of the latest college football championship game.\n\nThe screenshot shows the ESPN recap page for the College Football Playoff National Championship game played on January 19, 2026, where the Indiana Hoosiers defeated the Miami Hurricanes 27–21. The result response accurately provides the final score, date, location, and a brief recap of the key events of the championship game sourced directly from ESPN.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Checking the Score**\n\nI've confirmed the website is ESPN's NCAAF section. The title confirms it's the College Football Playoff Championship, presented by AT&T. The matchup I'm seeing shows Miami lost to Indiana, with the scores being 21-27.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Checking the Score**\n\nI've confirmed the website is ESPN's NCAAF section. The title confirms it's the College Football Playoff Championship, presented by AT&T. The matchup I'm seeing shows Miami lost to Indiana, with the scores being 21-27.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EsoJCscJAWkUfRMLU2VUO4Bwsa8kjNYeyehyvAhGjzcNGnmymwj2oxcJfVtO5YeqdL5i94nKsx9zH7Ij2x0qKSFXzEm3dnbzZQYSXZ0yJKVEU1j1Z3aab3FhU0dNOgskwF07FdiqEz8fR4SBGME3BsyLJoehM7zPeQRzbl22nMarct1GDr1z+ckXt1foZOcTsqNqcEfrbGU65PVRxVdS6Kxx5a8NHCHXPpy3RTTszq2iXFWD8vs1cLZ55wFfx+j2lZKkkoajnT1mqN9e5t2kIYhJ2k75//4wPPRNNx3Wv7dphV/nPo6iUISxubBizEeKp89AHVVd11z+GuLzG5IBSr2e4sysfEmK8FlvkItZyn1gYyjinIu1evVwXn2E5dcFIPiepmmHHDEZX1xZ2hbJDoa1/ylQKzLpHWmrjVGf4XyI8ttRHQ26P1lspAv+PvxcsjVXchCf2Vs9iTMCwNp76INTsTJ0KGxT2AHVWz08PQ1zAa8atb/apJo67nf5N9G9r1cIZRQRWLBnPmhnC7Em6X9kmGQTL9VhXfbiTSMQPONp5A55ReIC6oo26+ZE66bTcK5GQcd2t5nwC+7R/uXK/qYqrncVJILckLnTAP6fmkj2DIFm/GEATHmHIegiexUJA7ZYVlegRMpLlHuSbq9/H0OAbIAg5nDgt1mlyuqsydERrCplEy+LZLLCwKAbRpUxMBGkYjkCVRgIRbhPYPt5idJRLXzXAuIRcEL4yFhPi7ks4Xt4fyvbcTRYcR5RmdS/GSB254muNiq09XumowwMsVf0HpES5Vsa1FnmjGdXDaqkm0SWfQuImjWecd3cEXQyIQdoZm0q+/qZ3miiNk7me+PmAolbFHgwYW1qdR5PydE6ivdZYqtNZaQOVzaZQl5fXPRD434dnxVoD9gcG5FR5HItg7J1+adjtrssXVlT9xJPOUOcPH4RXu395Yz7T2x2s6BDDqR1cfv+5ks+VQMKqV+xr1J34BUAHROjaZJKpAPU9betCjFHaJA3f5uGwXmig9z2DMd1PPuCBVjwX23JspcUNG8bi3EfiDTpkiH5GD7yImTuuxPaULcGJz+QqQW+HqPYj3ZoGVZeBIc3cyCjEmkAP3NbVbo4bgofLzVVKAKIR4TXt7eEmUmAnIWsmtDNXIxMjUXlvnKXXW5D2ZZC0QX6qz0ZuQhmnwpq5sqdfjRul8Imp77ziVTd1tTM67/uHh/qYaF9tyPdCXACHjvG674IJkbN7PmW8ZXNPfhqUzTzz+KzDqIhedwiHiCi9fO/hCXLjg58rLNi5N+K1Sp4aiLx4F3qCl+YP8yhfA1HjetVvFM6RegvKr3Rf9qcISvrTnwx+CltxVoB8mVII0BxCsLgaSHXB47v3A1q9P+5bCPzOpQCBA/HMefmLO+fwFnt64Fb66CmTsWPMWV7Wj+24foiU5CPNrNFxLkTz0L+Jobc0Jka629J34+dRicnDEqLYc4bDYe4g1E7Wx3/mA8tGxOWUY1MjQCIIpkmjM83H5FECpPv/tEXO2lvcoPTU8RGhiG3a1QIX2+ur7JdtuNSTAzK91KQ6x8WMRQtgYpNtkDnvguxfG/d9CttXHXlJ2I78MpwsZa/vWfhjNN1kmX3oUaJLScQsIbdTd4TagM=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210241,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 352,
+    "prompt_tokens": 1738,
+    "total_tokens": 2090,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 253,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0026235,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0026235,
+      "upstream_inference_prompt_cost": 0.0013035,
+      "upstream_inference_completions_cost": 0.00132
+    }
+  },
+  "provider": "Google AI Studio"
+}

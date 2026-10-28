@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyfTJ77Tgzr2MSGjGYgsNwSBpZ9m",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to plan a driving journey from San Francisco International Airport to Union Square.\n\nThe screenshot shows Google Maps directions with:\n- Origin: San Francisco International Airport\n- Destination: Union Square, San Francisco\n- Mode: Driving\n- Route: via US-101 N\n- Estimated time: 40 minutes\n- Distance: 14.7 miles\n- Step-by-step directions displayed\n\nThe result response accurately summarizes the route and timing shown in the screenshot. It includes the main route, distance, travel time, and key driving steps.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196707,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 219,
+    "prompt_tokens": 1795,
+    "total_tokens": 2014,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

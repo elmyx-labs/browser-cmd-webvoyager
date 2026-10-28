@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ESPN",
+    "id": "ESPN--26",
+    "ques": "Find information on ESPN NBA schedule. Tell me yesterday's matchups in which the loser high was higher than the winner high.",
+    "web": "https://www.espn.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Yesterday, October 27, 2026, only Portland Trail Blazers at Los Angeles Lakers qualified. Portland won 136–129; the Lakers’ Luka Dončić had the loser high of 41 points, exceeding Portland’s winner high of 23 points by Deni Avdija.\nSource: ESPN NBA Schedule — https://www.espn.com/nba/schedule (Tuesday, October 27, 2026; RESULT, WINNER HIGH and LOSER HIGH columns). Evidence: final.png.",
+    "result_text": "FINAL: Yesterday, October 27, 2026, only Portland Trail Blazers at Los Angeles Lakers qualified. Portland won 136–129; the Lakers’ Luka Dončić had the loser high of 41 points, exceeding Portland’s winner high of 23 points by Deni Avdija.\nSource: ESPN NBA Schedule — https://www.espn.com/nba/schedule (Tuesday, October 27, 2026; RESULT, WINNER HIGH and LOSER HIGH columns). Evidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_349/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_349",
+  "elapsed_seconds": 87.63033175468445,
+  "execution_error": null,
+  "proxy_bytes": 10929945
+}

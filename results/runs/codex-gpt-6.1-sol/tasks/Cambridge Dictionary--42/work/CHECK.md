@@ -1,0 +1,3 @@
+- [x] Convert the Cambridge Dictionary homepage from English (UK) to Deutsch. URL: https://dictionary.cambridge.org/de/ — “Deutsch”, “Erkunden Sie Cambridge Dictionary”, “Wörterbuch”, “Übersetzen”.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with no pop-up, banner or open dialog over it. final.png: 1280 × 722, homepage at top; privacy banner dismissed.
+- [x] Write the result and its evidence to ./ANSWER.txt. Saved with FINAL: first line and screenshot evidence.

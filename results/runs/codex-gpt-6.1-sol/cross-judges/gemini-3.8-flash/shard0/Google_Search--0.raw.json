@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210525-8j9G2ADV8d8vCQJxEpdU",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find the initial release date for the movie *Guardians of the Galaxy Vol. 3*. \n\nThe provided screenshot displays the IMDb \"Release info\" page for *Guardians of the Galaxy Vol. 3*, listing the earliest release date as April 19, 2023 (for the Seoul, Korea premiere). The result response correctly identifies and states this date.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Pinpointing the Premiere Date**\n\nI've got it! The earliest premiere of \"Guardians of the Galaxy Vol. 3\" was in Seoul, South Korea, on April 19, 2023. That's the date IMDb lists as its initial release, and it seems like the most accurate data point. Looks like we've got a definite answer.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Pinpointing the Premiere Date**\n\nI've got it! The earliest premiere of \"Guardians of the Galaxy Vol. 3\" was in Seoul, South Korea, on April 19, 2023. That's the date IMDb lists as its initial release, and it seems like the most accurate data point. Looks like we've got a definite answer.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EpYGCpMGAWkUfRNhpea+zgAcZbpDWLhV9LyYeG4f9siyYl4aYF3e15r/pto12JLh7u3wGNpryM28lBXhLjQgyPEKNvw1OlnE7ZfE4XaX4vTRI2P9pWHmip+jaOmqquyyz8wPmKNKi7kpGLioUQec/+VAzZK0lFKbAIPjN3btMQ5ZvSdwaFWT4MggimVB6OmxU/FGz/NBoUGwDBYRKeeS++aatrUoJABFv9v1cYQmOHuL9/F1DNGn2JYei9pyzi/9KEcyj84Kxk9Ki6zhvqcayquzFzoZNthjA0Lhc6V8fj6gZ3AITF58iVkoZrVDnDanXw7oaXsFQeMp9FbGxK5vWYYOOczXi6vcZDN+eXUyCbQbkwQnz4ze8k6riokTQ2K4tFnVmCV2Ck9uQ2Iwn9Gvik0NaFBnUouVqA+ZjrBe+XxH/4BiYAIUttb5/XzIWaX7VY2faxnhbMDB4cBxfGho22vDeKc5uHm+S69D/Xw+e6nTSx20+z7+hzD7sg/p3kNG85bSaaQF5zAGFZIKV9Zg3qjX1axk5CbY/Cl0XkVFA2HJ2I/X4RQ0heD17aXrgSVuZdUy7ZJWZnNnRk1zP9w0/7ZuyM2H+RqLCIkbo19oKLkF9QRrQCGVC61z7dpHtw+x6k3de/KyOvUIv2iLsxVRSyCi0f0zR5giBys47poNBP9qp/bxiduh7Fun+aYWs4Xneuf+lJELy6Adm6dT9CMxM9xo88gxQvtNh/Yrz1uqqREgUJi/0RgVFIM/Z3i5tEMMHXv1k32DUXLi+PEdCVZKF6lAJV+vj7G16r1dRxTs/IDT2q8uTgU73yeomrW9RGY/oJgV10vLE6297xMft3LRWL+jKYUqiri/zJ/j2IkZ5Apd39VEjfAZEB0V2oOEQKAI8257+Is28Mj3fAWGCrE5HbSkMPwQSAdi0I1P30lsyZ/WWtsQqZahhefzF68XHwmhywwW5x+9lkRhcPIZUi4G6L348VstATD8F0imfw8ATckx7JAKL4gU4+jFDlOioXa2Q3V24EXGyHo+G5sLh83mcDbOV7T++jF/og==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210525,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 247,
+    "prompt_tokens": 1696,
+    "total_tokens": 1943,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 163,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00219825,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00219825,
+      "upstream_inference_prompt_cost": 0.001272,
+      "upstream_inference_completions_cost": 0.00092625
+    }
+  },
+  "provider": "Google AI Studio"
+}

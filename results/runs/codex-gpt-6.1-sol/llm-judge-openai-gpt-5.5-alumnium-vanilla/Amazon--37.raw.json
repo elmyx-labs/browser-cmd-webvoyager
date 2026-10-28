@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyaBClZPFUOhfu0HZYqRCvmMYKzM",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to locate a queen-sized bedspread on Amazon with a floral pattern and check whether it is available in blue.\n\nThe screenshot shows an Amazon product page for “WONGS BEDDING Blue Quilt Set Queen Size, Botanical Floral Bedspread.” The visible details confirm:\n\n- It is a bedspread/quilt set with a botanical floral pattern.\n- The selected size is “Queen.”\n- The selected color is “Blue.”\n- The item is marked “In Stock.”\n\nThe result response accurately matches the screenshot evidence.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196379,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 185,
+    "prompt_tokens": 1672,
+    "total_tokens": 1857,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

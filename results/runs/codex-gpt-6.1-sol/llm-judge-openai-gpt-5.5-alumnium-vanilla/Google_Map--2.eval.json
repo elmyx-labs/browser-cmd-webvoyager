@@ -1,0 +1,31 @@
+{
+  "id": "Google Map--2",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find Apple Stores close to zip code 90028",
+  "answer": "FINAL: Google Maps lists these Apple Stores near ZIP code 90028:\n- Apple The Grove — 189 The Grove Dr, Los Angeles, CA 90036.\n- Apple Beverly Center — 8500 Beverly Blvd, Los Angeles, CA 90048.\n- Apple Tower Theatre — 802 S Broadway, Los Angeles, CA 90014.\n\nSource: Google Maps search for “Apple Stores near 90028” and each store’s place details, checked October 27, 2026: https://www.google.com/maps/search/Apple+Stores+near+90028/?hl=en\nEvidence: final.png shows the search and nearby store names and street addresses.",
+  "response": "The task was to find Apple Stores close to ZIP code 90028. The screenshot shows a Google Maps search for “Apple Stores near 90028” with nearby Apple Store results listed, including:\n\n- Apple The Grove — 189 The Grove Dr\n- Apple Beverly Center — 8500 Beverly Blvd\n- Apple Tower Theatre — 802 S Broadway\n- Apple Century City is also partially visible further down the list\n\nThe Result Response accurately reports several nearby Apple Stores that are visible in the screenshot, with names and addresses. This satisfies the instruction to find Apple Stores close to ZIP code 90028.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find Apple Stores close to ZIP code 90028. The screenshot shows a Google Maps search for “Apple Stores near 90028” with nearby Apple Store results listed, including: - Apple The Grove — 189 The Grove Dr - Apple Beverly Cente",
+  "screenshots": [
+    "task_450/final.png"
+  ],
+  "raw_screenshot": "task_450/final.png",
+  "source_result": "task_450",
+  "usage": {
+    "completion_tokens": 363,
+    "prompt_tokens": 1711,
+    "total_tokens": 2074,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 228,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.07
+}

@@ -1,0 +1,5 @@
+[x] Look up the definition of "altruism" in the Cambridge Dictionary. https://dictionary.cambridge.org/dictionary/english/altruism — “willingness to do things that bring advantages to others, even if it results in disadvantage for yourself”.
+[x] Look up the pronunciation (both UK and US) of "altruism" in the Cambridge Dictionary. Same URL — UK /ˈæl.tru.ɪ.zəm/; US /ˈæl.tru.ɪ.zəm/.
+[x] Find one example sentence for "altruism" in the Cambridge Dictionary. Same URL — “She's not known for her altruism.”
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the word and deciding facts with no overlay. final.png is 1280 × 723; visually read and confirmed the word, UK/US IPA, definition, and example appear together without a pop-up, banner, or dialog covering them.
+[x] Write the result and its evidence to ./ANSWER.txt, first line beginning FINAL:. ANSWER.txt contains the definition, both pronunciations, example, source URL, access date, and final.png evidence reference.

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209918-Bwg03va56hwxNGBV9ddd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task instructed to find a high-rated beef stew recipe on Allrecipes requiring a slow cooker and having at least 30 reviews, and to detail both the cooking time and the first five ingredients listed.\n\n- The screenshot confirms the selected recipe \"Slow Cooker Beef Stew\" on Allrecipes has a 4.5 rating with 4,045 reviews (exceeding the 30-review requirement) and uses a slow cooker.\n- The response details the cooking time (4–6 hours on High or 8–12 hours on Low, 4 hours listed cooking time).\n- The response details the first five ingredients in order.\n\nAll requirements have been met.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Assessing Task Completion**\n\nI'm currently evaluating the task's success. I need to determine if I successfully found a high-rated beef stew recipe on Allrecipes that fits the slow cooker and review criteria. I'll need to confirm that I detailed the cooking time. The next step is a clear \"yes\" or \"no\" for completion, with an analysis.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Assessing Task Completion**\n\nI'm currently evaluating the task's success. I need to determine if I successfully found a high-rated beef stew recipe on Allrecipes that fits the slow cooker and review criteria. I'll need to confirm that I detailed the cooking time. The next step is a clear \"yes\" or \"no\" for completion, with an analysis.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209918,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 559,
+    "prompt_tokens": 1839,
+    "total_tokens": 2398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 413,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0034755,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0034755,
+      "upstream_inference_prompt_cost": 0.00137925,
+      "upstream_inference_completions_cost": 0.00209625
+    }
+  },
+  "provider": "Google AI Studio"
+}

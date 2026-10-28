@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Search",
+    "id": "Google Search--3",
+    "ques": "Show me a list of comedy movies, sorted by user ratings. Show me the Top 5 movies.",
+    "web": "https://www.google.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Top 5 comedy movies on IMDb, sorted by user rating (highest first), as viewed October 27, 2026:\n\n1. La Herencia de los Ramírez (2026) — 10/10 (6 ratings)\n2. Dark plague birds. Funny filming (2026) — 10/10 (9 ratings)\n3. Fantasy Football (2026) — 9.9/10 (10 ratings)\n4. Om Ka Hari (2026) — 9.8/10 (5K ratings)\n5. Tails California (2026) — 9.8/10 (14 ratings)\n\nSource: IMDb Advanced title search, Movie and Comedy filters, User rating descending. No minimum vote count applied; ties follow IMDb's displayed order.\nhttps://www.imdb.com/search/title/?title_type=feature&count=100&interests=in0000034&sort=user_rating,desc\nEvidence: final.png.",
+    "result_text": "FINAL: Top 5 comedy movies on IMDb, sorted by user rating (highest first), as viewed October 27, 2026:\n\n1. La Herencia de los Ramírez (2026) — 10/10 (6 ratings)\n2. Dark plague birds. Funny filming (2026) — 10/10 (9 ratings)\n3. Fantasy Football (2026) — 9.9/10 (10 ratings)\n4. Om Ka Hari (2026) — 9.8/10 (5K ratings)\n5. Tails California (2026) — 9.8/10 (14 ratings)\n\nSource: IMDb Advanced title search, Movie and Comedy filters, User rating descending. No minimum vote count applied; ties follow IMDb's displayed order.\nhttps://www.imdb.com/search/title/?title_type=feature&count=100&interests=in0000034&sort=user_rating,desc\nEvidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_491/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_491",
+  "elapsed_seconds": 139.57223391532898,
+  "execution_error": null,
+  "proxy_bytes": null
+}

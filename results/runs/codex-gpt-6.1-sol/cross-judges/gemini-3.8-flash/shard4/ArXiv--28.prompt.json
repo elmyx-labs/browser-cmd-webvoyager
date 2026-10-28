@@ -1,0 +1,9 @@
+{
+  "id": "ArXiv--28",
+  "task": "Search 'Poly encoder' by title on ArXiv and check whether the articles in the search results provide HTML access.",
+  "answer": "FINAL: All four articles returned by arXiv’s title search for “Poly encoder” provide HTML access. Each abstract page has an “HTML (experimental)” link, and all four links successfully opened the article text.\n\nChecked 27 October 2026. Search field: Title; sort: Announcement date (newest first); no date restriction. The search showed “Showing 1–4 of 4 results for title: Poly encoder”.\nSearch: https://arxiv.org/search/?query=Poly+encoder&searchtype=title&abstracts=show&order=-announced_date_first&size=50\n\n• Using Poly-Encoders for Computationally Efficient Automated Creativity Assessment (2608.26165) — HTML: https://arxiv.org/html/2608.26165v1\n• PolyBERT: Fine-Tuned Poly Encoder BERT-Based Model for Word Sense Disambiguation (2506.00968) — HTML: https://arxiv.org/html/2506.00968v1\n• Persona-Coded Poly-Encoder: Persona-Guided Multi-Stream Conversational Sentence Scoring (2309.16770) — HTML: https://arxiv.org/html/2309.16770v2\n• Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring (1905.01969) — HTML: https://arxiv.org/html/1905.01969v4\n\nScreenshot evidence: final.png shows the last paper’s title, submission dates, and “HTML (experimental)” access link on https://arxiv.org/abs/1905.01969. Search controls are on the separate search page linked above.",
+  "screenshots": [
+    "task_148/final.png"
+  ],
+  "raw_screenshot": "task_148/final.png"
+}

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Booking",
+    "id": "Booking--27",
+    "ques": "Locate a hotel in Melbourne offering free parking and free WiFi, for a stay from June 28 to July 4, 2027.",
+    "web": "https://www.booking.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Toorak Manor Hotel Free Parking, 220 Williams Road, Melbourne, offers free private parking and free WiFi for a June 28–July 4, 2027 stay (6 nights). A Standard Queen Room is available for 2 adults in 1 room and includes one parking spot plus high-speed internet.\n\nEvidence: final.png shows the hotel in Melbourne search results with the requested dates, checked Hotels, Free parking and Free WiFi filters, and Price (lowest first) sorting. The hotel page explicitly lists free private parking and free WiFi.\n\nHotel: https://www.booking.com/hotel/au/toorak-manor.html?checkin=2027-06-28&checkout=2027-07-04&group_adults=2&no_rooms=1&group_children=0\nSearch: https://www.booking.com/searchresults.html?ss=Melbourne&dest_id=-1586844&dest_type=city&checkin=2027-06-28&checkout=2027-07-04&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bhotelfacility%3D107%3Bhotelfacility%3D2%3Bhotelfacility%3D46&order=price",
+    "result_text": "FINAL: Toorak Manor Hotel Free Parking, 220 Williams Road, Melbourne, offers free private parking and free WiFi for a June 28–July 4, 2027 stay (6 nights). A Standard Queen Room is available for 2 adults in 1 room and includes one parking spot plus high-speed internet.\n\nEvidence: final.png shows the hotel in Melbourne search results with the requested dates, checked Hotels, Free parking and Free WiFi filters, and Price (lowest first) sorting. The hotel page explicitly lists free private parking and free WiFi.\n\nHotel: https://www.booking.com/hotel/au/toorak-manor.html?checkin=2027-06-28&checkout=2027-07-04&group_adults=2&no_rooms=1&group_children=0\nSearch: https://www.booking.com/searchresults.html?ss=Melbourne&dest_id=-1586844&dest_type=city&checkin=2027-06-28&checkout=2027-07-04&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bhotelfacility%3D107%3Bhotelfacility%3D2%3Bhotelfacility%3D46&order=price",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_225/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_225",
+  "elapsed_seconds": 335.28481936454773,
+  "execution_error": null,
+  "proxy_bytes": null
+}

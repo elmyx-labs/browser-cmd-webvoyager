@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210099-uqHgJO4wJAWjDGrkKSBJ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**Reasoning:**\n\nThe user requested to find the highest-rated luxury hotel in Rome available for booking from January 10, 2027, to January 20, 2027, for 2 adults, and to include the cost, amenities offered, and customer rating.\n\nThe screenshot verifies the search parameters:\n- **Location:** Rome\n- **Dates:** Sun, Jan 10, 2027 – Wed, Jan 20, 2027\n- **Occupancy:** 2 adults, 1 room\n- **Filters:** 5 stars (luxury) & Hotels\n- **Highest-rated property:** ROMEO Roma with a score of 9.8/10 (\"Exceptional\")\n- **Cost:** €11,930 (+ €200 taxes and fees) for 10 nights\n\nThe response provides the name of the highest-rated hotel, its customer rating (9.8/10), the total cost breakdown, and detailed amenities offered. All requirements of the instruction have been completely and accurately fulfilled.\n\n**SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Defining the Query Scope**\n\nI'm now zeroing in on defining the precise search parameters for this task. It involves pinpointing the highest-rated five-star hotel in Rome for the specified dates. I need to ensure the query captures the essential information: availability for two adults, cost, amenities, and the all-important customer rating.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Defining the Query Scope**\n\nI'm now zeroing in on defining the precise search parameters for this task. It involves pinpointing the highest-rated five-star hotel in Rome for the specified dates. I need to ensure the query captures the essential information: availability for two adults, cost, amenities, and the all-important customer rating.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210099,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 660,
+    "prompt_tokens": 2690,
+    "total_tokens": 3350,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 425,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0044925,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0044925,
+      "upstream_inference_prompt_cost": 0.0020175,
+      "upstream_inference_completions_cost": 0.002475
+    }
+  },
+  "provider": "Google AI Studio"
+}

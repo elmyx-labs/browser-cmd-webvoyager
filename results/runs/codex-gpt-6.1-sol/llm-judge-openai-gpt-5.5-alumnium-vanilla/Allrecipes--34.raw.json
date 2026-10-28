@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyYWpKHQe2ROjxPVNe2vdesswpFf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find an Allrecipes baked salmon recipe with:\n\n- At least 50 reviews\n- Rating of 4.5 stars or higher\n- The primary seasoning or herb\n- Estimated cooking time\n\nThe screenshot shows the Allrecipes page for **“Lemon-Rosemary Salmon”** under **Baked Salmon Recipes**, with a rating of **4.7** and **285 Reviews**, satisfying both the rating and review-count requirements. The result response also provides the requested additional details: the primary herb is **fresh rosemary**, paired with lemon, and the estimated cooking time is **15 minutes**.\n\nSince the recipe meets the stated criteria and the response includes the required seasoning/herb and cooking time, the task was completed successfully.\n\n**Verdict: SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196276,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 323,
+    "prompt_tokens": 1729,
+    "total_tokens": 2052,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 158,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

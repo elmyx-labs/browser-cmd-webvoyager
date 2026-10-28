@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--16",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the GitHub Skill section and how many courses are under the 'First day on GitHub' heading.",
+  "answer": "FINAL: GitHub Skills has 3 courses under “First day on GitHub”: Introduction to GitHub, Communicate using Markdown, and GitHub Pages.\nSource: https://learn.github.com/skills (accessed October 28, 2026), reached through GitHub → Resources → GitHub Skills.\nEvidence: final.png shows the heading and all three course cards, followed by the next section, “First week on GitHub.”",
+  "response": "The user requested to find the GitHub Skills section and determine how many courses are listed under the \"First day on GitHub\" heading.\n\nThe screenshot shows the GitHub Learn / Skills page featuring the heading \"First day on GitHub\" with three course cards:\n1. Introduction to GitHub\n2. Communicate using Markdown\n3. GitHub Pages\n\nThe response correctly identifies that there are 3 courses under this heading and names them accurately.\n\nSUCCESS",
+  "reason_short": "The user requested to find the GitHub Skills section and determine how many courses are listed under the \"First day on GitHub\" heading. The screenshot shows the GitHub Learn / Skills page featuring the heading \"First day on GitHub\" with thr",
+  "screenshots": [
+    "task_383/final.png"
+  ],
+  "raw_screenshot": "task_383/final.png",
+  "source_result": "task_383",
+  "usage": {
+    "completion_tokens": 238,
+    "prompt_tokens": 1667,
+    "total_tokens": 1905,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 150,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00214275,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00214275,
+      "upstream_inference_prompt_cost": 0.00125025,
+      "upstream_inference_completions_cost": 0.0008925
+    }
+  },
+  "elapsed_seconds": 11.27
+}

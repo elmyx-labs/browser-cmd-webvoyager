@@ -1,0 +1,41 @@
+{
+  "id": "Google Search--3",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Show me a list of comedy movies, sorted by user ratings. Show me the Top 5 movies.",
+  "answer": "FINAL: Top 5 comedy movies on IMDb, sorted by user rating (highest first), as viewed October 27, 2026:\n\n1. La Herencia de los Ramírez (2026) — 10/10 (6 ratings)\n2. Dark plague birds. Funny filming (2026) — 10/10 (9 ratings)\n3. Fantasy Football (2026) — 9.9/10 (10 ratings)\n4. Om Ka Hari (2026) — 9.8/10 (5K ratings)\n5. Tails California (2026) — 9.8/10 (14 ratings)\n\nSource: IMDb Advanced title search, Movie and Comedy filters, User rating descending. No minimum vote count applied; ties follow IMDb's displayed order.\nhttps://www.imdb.com/search/title/?title_type=feature&count=100&interests=in0000034&sort=user_rating,desc\nEvidence: final.png.",
+  "response": "The user requested a list of comedy movies sorted by user rating, specifically asking for the top 5 movies.\n\nThe screenshot shows an IMDb Advanced Title Search filtered by \"Movie\" and \"Comedy\", sorted by \"User rating\" in descending order. The top 5 displayed movies are:\n1. La Herencia de los Ramírez (10/10)\n2. Dark plague birds. Funny filming (10/10)\n3. Fantasy Football (9.9/10)\n4. Om Ka Hari (9.8/10)\n5. Tails California (9.8/10)\n\nThe result response correctly provides this exact list along with ratings and vote counts corresponding to the search results.\n\nSUCCESS",
+  "reason_short": "The user requested a list of comedy movies sorted by user rating, specifically asking for the top 5 movies. The screenshot shows an IMDb Advanced Title Search filtered by \"Movie\" and \"Comedy\", sorted by \"User rating\" in descending order. Th",
+  "screenshots": [
+    "task_491/final.png"
+  ],
+  "raw_screenshot": "task_491/final.png",
+  "source_result": "task_491",
+  "usage": {
+    "completion_tokens": 337,
+    "prompt_tokens": 1821,
+    "total_tokens": 2158,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 184,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0026295,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0026295,
+      "upstream_inference_prompt_cost": 0.00136575,
+      "upstream_inference_completions_cost": 0.00126375
+    }
+  },
+  "elapsed_seconds": 15.77
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210067-VEs7FaECi3yKHwuQtFdu",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to look up the most recent papers in 'cs.CL', choose one, and present its abstract. \n\nThe provided response and screenshot show that a recent paper from arXiv's `cs.CL` category was located, selected, and its full abstract accurately provided.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Recent Papers**\n\nI'm reviewing the latest 'cs.CL' publications, focusing on a single, recently identified paper. My current effort involves extracting and presenting its abstract for your expert consideration.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Recent Papers**\n\nI'm reviewing the latest 'cs.CL' publications, focusing on a single, recently identified paper. My current effort involves extracting and presenting its abstract for your expert consideration.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/2gHaHXKZ30eta3+VA13F7B+py7RaElnN1M2hhdOlwocMCILdclhO5GBJDh8w7PIusrKXnl4msHuuvkaegDsNJiCex2N3z4qI59NgVivLjk1vEZPT+RrOiqcnXG4XEtiIwGVw9XSgidvZ1MyDVbnzU15Caz2gR7LmhpmE47Viglj2EMpWHJr2qaW+2hvKfUUI0A/u2Wv/ZXA+gI4wcXcSHWb2MJUUCJcKZj3Y2GLm+rJpSB7zMKVIwv3ekhe5MmRakvfR+ubaE8HEOH+42n2oWR9R0CcDzDp2CluZnpW8i+RQQGN0kfekCRO94UbYsbn1/2yeQ5Bq60SA1EsMRflg2f1FVs1z6CIolo3sCHjCN6eWSVDwTynFoWWlAU05MiJICiNB533Zqp8RRUUYuLwJFnPYiJH5nM91qlPCIJzcZcnRmw/emnEiS/fzBxrjvAR9O5NYmFEMCWCMqYc9o/vEWXmnsX80dVRIesajZwFgJ/YSV7TMhesVc+bRcMYMu7IOvfywzE3J/iwgjqBIGD915i6wgjm2jVVRRr2LmAhUiSiPzTLdnhMfj0g1An0SsnSWWutoWhkGtWFukI5iqA0KwgIHPG5Q98aSebhdUEsCUoPTK9B+yD6Jc0cGpsfE//vxC7MyXzljVKWNkcWXpnlU0cKVUL1ZQOTZhFMnTcYAdGt7mfNzvglEU/lh0m8iB1gi8+dnmQvenWtZMn2PjnfPyR79LCeC1CCuDohMf2AnOn/y/yshm/3At+Pyegz9cERBZ10aqU8vGfW/osf+N235v98MztemWApAFLs4kpUtSwI4iH5hdpGvfEqhBIL773w7S9tK+ubHa4dfE0WBdlEpTUhUDFAya4lSt3Br/nZjQJu394PyNSU/OuYMo5CLXzaAHtT4yh1RHwmGBqzzzKK8D78k/2AkbPjOwDoEdpSp0iIdpVDv3bij+8/fcM/HtdBGeMyB8/wYPQWTaZnQwEgFLnTx+ZHg9QmymyiExBYLJP9ciaLe4FoqIL5hbMLT+UE31BmxSsY3hQcZL68eBE4kbZFINiB6iDvj8y2JS71zyzvuyXM5NiiZfRQ5mmw8iyp0wncyMh7T2CCyyVpxq0g2K5l7ZEFUg7U50snT6HsQmagsZFfnpDMlfBcTcKrQ31Q3EtQzkmjUxpVFzYbBv8Ny8oNl7f+KC0lM4vg3pMUV/vfA=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210067,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 226,
+    "prompt_tokens": 1926,
+    "total_tokens": 2152,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 166,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002292,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002292,
+      "upstream_inference_prompt_cost": 0.0014445,
+      "upstream_inference_completions_cost": 0.0008475
+    }
+  },
+  "provider": "Google"
+}

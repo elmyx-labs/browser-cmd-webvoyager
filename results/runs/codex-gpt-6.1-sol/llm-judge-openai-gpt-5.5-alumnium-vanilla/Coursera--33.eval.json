@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--33",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a beginner level Coursera course related to \"Internet of Things (IoT)\" with a high rating. Provide the course name, instructor's name, and a brief summary of the skills that will be taught.",
+  "answer": "FINAL: IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies\n\nInstructor: Jong-Moon Chung, Yonsei University.\nLevel and rating: Beginner level, with no prior experience required; rated 4.7/5 from 1,510 reviews.\n\nSkills taught: Learn IoT architecture layers and networks, Wi-Fi and Bluetooth, and cloud computing concepts and services. Practical projects teach you to analyze Bluetooth and Wi-Fi networks and set up and use an Amazon EC2 virtual computer in AWS.\n\nEvidence: Module 2, “IoT Architecture & Technologies,” explicitly covers the functionality and characteristics of IoT architecture layers. The course description confirms the wireless-network analysis and AWS EC2 projects. The course header shows the instructor, beginner level and rating together in final.png.\nSource: https://www.coursera.org/learn/iot-wireless-cloud-computing\nVerified on October 27, 2026.",
+  "response": "The task was to find a beginner-level Coursera course related to “Internet of Things (IoT)” with a high rating, and provide the course name, instructor’s name, and a brief summary of skills taught.\n\nThe screenshot shows a Coursera course titled **“IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies”**, which is clearly related to IoT. It lists the instructor as **Jong-Moon Chung**, shows the course is **Beginner level**, and displays a **4.7 rating from 1,510 reviews**, which reasonably qualifies as a high rating.\n\nThe result response provides:\n- Course name\n- Instructor name\n- Beginner level and rating\n- A brief skills summary, including IoT architecture, Wi-Fi, Bluetooth, cloud computing, and AWS EC2\n\nThis satisfies all parts of the task.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find a beginner-level Coursera course related to “Internet of Things (IoT)” with a high rating, and provide the course name, instructor’s name, and a brief summary of skills taught. The screenshot shows a Coursera course tit",
+  "screenshots": [
+    "task_314/final.png"
+  ],
+  "raw_screenshot": "task_314/final.png",
+  "source_result": "task_314",
+  "usage": {
+    "completion_tokens": 298,
+    "prompt_tokens": 1794,
+    "total_tokens": 2092,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.79
+}

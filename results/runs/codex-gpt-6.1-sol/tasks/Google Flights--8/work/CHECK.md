@@ -1,0 +1,6 @@
+[x] Search a one-way flight from Dublin To Athens Greece. Google Flights URL below; visible words: “One way”, “Dublin”, “Athens”, “DUB–ATH”.
+[x] For 1 Adult that leaves on December 30 (upcoming: 2026). Search shows “1”, “Prices include required taxes + fees for 1 adult”, “Wed, Dec 30”; date picker verified “Wednesday, December 30, 2026”.
+[x] Analyse the price graph for the next 2 months (December 30, 2026–February 28, 2027). Same URL, Price graph: “One-way trip”, “Wed, Dec 30”, “From €111”, “January 2027”, “February 2027”. Browser chart responses cover every requested departure date. Exact prices and ranges recorded in NOTES.md and ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with route and decisive facts visible and no overlay. Captured the 1440×813 viewport, resized to 1280×723; final.png is the only screenshot read. Shows search, date, one adult, Best sort, €111 Ryanair nonstop, Cheapest from €86, no dialog or tooltip.
+[x] Write the result and evidence to ./ANSWER.txt. Written with FINAL: first line, explicit dates, graph analysis, fare details, source links and final.png evidence.
+Source URL: https://www.google.com/travel/flights/search?tfs=CBwQAhonEgoyMDI2LTEyLTMwagwIAxIIL20vMDJjZnRyCwgDEgcvbS8wbjJ6QAFIAXABggELCP___________wGYAQI&curr=EUR

@@ -1,0 +1,3 @@
+[x] Search for a parking facility near the Fox Theater in Detroit that closes at night. Google Maps: 421 Bagley Parking, 421 Bagley St; every day “6 AM–1 AM.” Walking route from Fox Theatre: “12 мин”, “0,5 миља”, via Bagley St. Sources are recorded in ANSWER.txt and NOTES.md.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with item's name and deciding facts together and no overlay. final.png is the 1280×722 resized viewport of the listing with name, address, full weekly hours, and Fox Theatre map label visible.
+[x] Write the result and its evidence to ./ANSWER.txt. Written with result, address, daily closing time, walking distance, source URLs, and evidence image.

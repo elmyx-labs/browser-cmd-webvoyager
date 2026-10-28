@@ -1,0 +1,5 @@
+Search: arXiv advanced search, all fields = "neural network" OR "neural networks"; original submission date range 2026-10-20 through 2026-10-27; Submission date (newest first). 246 results. First result: arXiv:2610.35856, On the stability of learning, John J. Vastola, Submitted 26 October, 2026.
+Search URL: https://arxiv.org/search/advanced?advanced=1&terms-0-term=%22neural+network%22+OR+%22neural+networks%22&terms-0-operator=AND&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=date_range&date-year=&date-from_date=2026-10-20&date-to_date=2026-10-27&date-date_type=submitted_date_first&abstracts=show&size=50&order=-submitted_date
+Paper: https://arxiv.org/abs/2610.35856
+Exact words: [Submitted on 26 Oct 2026]; On the stability of learning; John J. Vastola; [v1] Mon, 26 Oct 2026 17:58:14 UTC (2,188 KB).
+Topic: abstract discusses learning signals in biological neural networks and stable learning in single-layer and multi-layer linear networks.

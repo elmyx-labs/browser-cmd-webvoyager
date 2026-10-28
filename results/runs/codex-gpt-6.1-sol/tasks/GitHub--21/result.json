@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--21",
+    "ques": "Find the Security topic in GitHub Resources and answer the role of GitHub Advanced Security.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: GitHub Advanced Security helps keep code and secrets safe by identifying and fixing vulnerabilities through static code analysis, dependency scanning, and secret scanning.\n\nEvidence: GitHub → Resources → Explore by Topic → Security (https://github.com/resources/articles?topic=security). The Security article “What is application security and how does it work?” (August 31, 2026), under “Next steps to keep your code and secrets secure,” describes this role: https://github.com/resources/articles/what-is-application-security#next-steps-to-keep-your-code-and-secrets-secure\n\nScreenshot: final.png shows the GitHub Advanced Security passage and the article’s Security tag.",
+    "result_text": "FINAL: GitHub Advanced Security helps keep code and secrets safe by identifying and fixing vulnerabilities through static code analysis, dependency scanning, and secret scanning.\n\nEvidence: GitHub → Resources → Explore by Topic → Security (https://github.com/resources/articles?topic=security). The Security article “What is application security and how does it work?” (August 31, 2026), under “Next steps to keep your code and secrets secure,” describes this role: https://github.com/resources/articles/what-is-application-security#next-steps-to-keep-your-code-and-secrets-secure\n\nScreenshot: final.png shows the GitHub Advanced Security passage and the article’s Security tag.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_388/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_388",
+  "elapsed_seconds": 117.15036392211914,
+  "execution_error": null,
+  "proxy_bytes": 11856111
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209888-cEuQSafEEMDOc1nqRw50",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a recipe for Beef Wellington on Allrecipes with at least 200 reviews and an average rating of 4.5 stars or higher, along with a list of the main ingredients required for the dish.\n\nThe screenshot confirms the recipe titled \"Beef Wellington\" submitted by Marla on Allrecipes has a rating of 4.7 stars (exceeding 4.5) and 250 reviews (exceeding 200). The result response correctly identifies this recipe and lists the main ingredients required for the dish.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Wellington Recipe**\n\nI'm currently focused on sifting through Allrecipes for Beef Wellington, specifically targeting entries with a minimum of 200 reviews. The next step involves filtering for those with an average rating of 4.5 stars or higher before I can list the core ingredients.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Wellington Recipe**\n\nI'm currently focused on sifting through Allrecipes for Beef Wellington, specifically targeting entries with a minimum of 200 reviews. The next step involves filtering for those with an average rating of 4.5 stars or higher before I can list the core ingredients.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209888,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 442,
+    "prompt_tokens": 1778,
+    "total_tokens": 2220,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 327,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002991,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002991,
+      "upstream_inference_prompt_cost": 0.0013335,
+      "upstream_inference_completions_cost": 0.0016575
+    }
+  },
+  "provider": "Google"
+}

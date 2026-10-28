@@ -1,0 +1,8 @@
+## session of the actor
+1 kept tab: all ok.
+<browser trusted="no">
+*t1 kept "Melbourne hotel evidence" ok https://www.booking.com/searchresults.html?ss=Melbourne&dest_id=-1586844&dest_type=city&checkin=2027-06-28&checkout=2027-07-04&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bhotelfacility%3D107%3Bhotelfacility%3D2%3Bhotelfacility%3D46&order=price — Booking.com: Hotels in Melbourne. Book your hotel now! [screenshot media/browser/browser-0002.png]
+ t2 ok https://www.booking.com/hotel/au/toorak-manor.html — Toorak Manor Hotel Free Parking, Melbourne (updated prices 2027)
+Not any session's; `tab use N` borrows one:
+ 1 D5323448 chrome://settings/help — Settings - About Chrome
+</browser>

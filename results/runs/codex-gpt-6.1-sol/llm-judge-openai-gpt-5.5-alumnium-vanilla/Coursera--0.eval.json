@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--0",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a beginner-level online course about '3d printing' which lasts 1-3 months, and is provided by a renowned university.",
+  "answer": "FINAL: Introduction to 3D Printing with Metals — University of Michigan, on Coursera.\n\nCoursera identifies this as an individual Course at Beginner level, with a catalog duration of 1–3 Months. It appears with the Courses, Beginner, and 1–3 Months filters applied. The University of Michigan is a renowned university.\n\nCourse: https://www.coursera.org/learn/introduction-to-3d-printing-with-metals\nEvidence: https://www.coursera.org/search?query=3d%20printing&productDifficultyLevel=Beginner&productDuration=1-3%20Months&productTypeDescription=Courses&sortBy=BEST_MATCH\n\nVerified October 27, 2026. Screenshot: final.png; the third result shows the course name, university, level, product type, and duration together.",
+  "response": "The task was to find an online course about “3d printing” that meets all of these criteria:\n\n- Beginner level\n- Duration of 1–3 months\n- Provided by a renowned university\n\nThe screenshot shows Coursera search results for “3d printing” with filters applied for:\n\n- “1–3 Months”\n- “Courses”\n- “Beginner”\n\nThe result response identifies **“Introduction to 3D Printing with Metals”** from the **University of Michigan**. In the screenshot, this course is visible as the third result, and it shows:\n\n- Provider: University of Michigan\n- Title: Introduction to 3D Printing with Metals\n- Level/type/duration line: Beginner · Course · 1–3 Months\n\nThe University of Michigan is a well-known, reputable university, satisfying the “renowned university” requirement.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find an online course about “3d printing” that meets all of these criteria: - Beginner level - Duration of 1–3 months - Provided by a renowned university The screenshot shows Coursera search results for “3d printing” with fi",
+  "screenshots": [
+    "task_283/final.png"
+  ],
+  "raw_screenshot": "task_283/final.png",
+  "source_result": "task_283",
+  "usage": {
+    "completion_tokens": 309,
+    "prompt_tokens": 1764,
+    "total_tokens": 2073,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 121,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.66
+}

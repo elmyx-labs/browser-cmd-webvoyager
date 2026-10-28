@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210414-gDRGt8nGqGirlIOKcXfs",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and result response:\n\n1. The search was conducted on GitHub for JavaScript repositories created after `2023-12-29`, sorted by most stars.\n2. The screenshot shows the top qualifying repositories:\n   - `affaan-m/ECC` (291k stars)\n   - `DietrichGebert/ponytail` (179k stars)\n   - `addyosmani/agent-skills` (111k stars)\n   - `Leonxlnx/taste-skill` (104k stars)\n   - `tt-a1i/archify` (90.9k stars)\n3. The response clearly identifies the top repositories and accurately lists `affaan-m/ECC` as the most starred JavaScript repository meeting the criteria, backed by the screenshot and API verification.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Top Repo**\n\nI've successfully identified the highest-starred JavaScript repository created after the specified date. The top result, 'affaan-m/ECC', stands out with nearly 291,000 stars.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Top Repo**\n\nI've successfully identified the highest-starred JavaScript repository created after the specified date. The top result, 'affaan-m/ECC', stands out with nearly 291,000 stars.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+22c3g4zPdFZZW//bfyLoxFiUzkn/ndMGcA2AWztJ02rtJ8vL6AllMB29Xt8r0BmjHtFZ0aiOF8cSQyd5Ffw6ty2iWtkMjeCo4gRsJ81H7In6hbnv4+BXD/DQD860pecFf7YG8ZrI219f6tv6k1pFFak8sKY1cyQ5CuuNSWVoUHjS+7K8MuVoitzBkAmzms7jLeHgjTXySoGHUDes7EMMM2IBlkohPXJHqSWGJwEUW6hkHfTkbCiJv3buYJFwtGAbZDMCDx+P/S+7rK5kgSFpxi/rEjSshcMHBfu8CuKgx3WDd49dzMg3wnganJQU1ZE1e3mDI7H6n6bYRbqvActiPJdK6d7NUmu1izNMuhlsrfU1HXl8kOGLtfXmjVY9yF+LzudX8iXrV6hilcIdlgquxQctmqnpKtnAfP/STPFAMndCz2BQcqIgEbXOAZbkfJU3/Kql+it7kZuCNmZhbAL9Rq8ujMUK6mcCQxlsR1fb9+KUTiCR6QP+QFyiKuTfs11co05+YmmcQYa/sLlyo/8yplmSHRq8AmqoMtDKULw+GlL6eKYu0KaKBsm8OUZLzCSD8BJcI4rV9QvIto6vwal+HcID62O8ky2eI1zuBFSi+6xp1Qg1W3vvS+/lAhkWFb2Qr0CUF6VNXH/deRg20itHvKDjUY5mGiXSgqYvFBgTclhwetkjpRvX+viWvXuoUQU/b6+mHp0eb4XXN8XvTz4EtUp/rPw25vX/vxCZLkzjQ37Ro5NjO3QCnprCNWKRA8nlAsk4RnVTIYAhq68aMJ9sbjjwEf8Yp9b6RvxoyR9HxH7ppjy3AToL4D6SbzcqoJ/sZl1cgdgx4xaw+YvhqCsf81Pr+F5tCR7Ljnm+yoqA2dBzbEKb3OCReofI4i4zTnn57UUCC5ZC3Zg9U+xfYyFf4rBonlrJok9tzJFomNES2XnrnyHWYZag74DJa5/eHkeLWS9z8zxS4noMTLfsberj06AYcMqLcelBgC/3yLYSBAjJaqDvEgDWZ8gP3HZnEJ6LCDQvrzEtVVPrdzwprtannMTdId/aYXmZY3EuZFXeEm7DSXp5oHr3SseuTAX+FRNU8TRE/mERC6hwZqndgqLDhB0Ve2o+KtiLlF4HmN9C8EMtc5uiCJehZ4rvA0W3X2rp6VZrQB4Qa+5Rmf+sgl4c4vVgwLbaTNMTBFwd19OJBblNIsUBm3Wn5H4qcJIHpg62m7OKaABdFskCUkBxMSBOZj9xfMtamT5u+7pei+I4JS7AOUXNfAAPEjmACN8VCqh74pQ3/0iHy8YmkW1iliND0wEG/23/m24SweaoJS9ncg0xD6wcZ8tvOWGNxfYIW6HUmKsYxuRUDyKILLCuI+AETBLPRBQk1jUuTVB+ZKEEpFo+TT0RnrICQMEmZ6b5BlSllGIjerD+4qBZJ1py+5+F2h9hI4RHNhZj8CtuBa6e8xx9RDcmUjcTjB73uJx3umYRs6SS8sxUZ01kNXNacO8coc3FyrzFHG3szllXs9QUvuhjKsGgNppeNvhDKhVyHk+yk9ygreYFb5KD6RYuMk4YcrAX7NYHOp8LgAEMJI/wiyKZYmPmrGi0Qzu4RAbq/ohwrJTww5kva4vWD95Nnyc+CLk503DkYFcqbqpYNvb8PQ1Yx8hyvXv5kJT9nE2L/TpryR0TeIqrkIje91v8lr9CbhGnd5OI=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210414,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 2120,
+    "total_tokens": 2620,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 311,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.003465,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.003465,
+      "upstream_inference_prompt_cost": 0.00159,
+      "upstream_inference_completions_cost": 0.001875
+    }
+  },
+  "provider": "Google"
+}

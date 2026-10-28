@@ -1,0 +1,5 @@
+FINAL: T5 Small (google-t5/t5-small) is an example of a pre-trained NLP language model. Its text-to-text framework supports machine translation, document summarization, question answering, and classification, including sentiment analysis. It can also be trained for regression by outputting numbers as text.
+
+Evidence: The Hugging Face model card identifies it as a language model, states that it was pre-trained on the Colossal Clean Crawled Corpus (C4), and lists these tasks under “Uses → Direct Use and Downstream Use.”
+Source: https://huggingface.co/google-t5/t5-small
+Screenshot: final.png

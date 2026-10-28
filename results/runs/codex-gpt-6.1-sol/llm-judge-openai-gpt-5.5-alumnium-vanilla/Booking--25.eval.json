@@ -1,0 +1,31 @@
+{
+  "id": "Booking--25",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a hotel in Lisbon with airport shuttle, rated 8.5 or above, available for a six-night stay from August 1 to August 7, 2027, for two adults, breakfast included.",
+  "answer": "FINAL: Tempo FLH Hotels Lisboa matches: a hotel in Lisbon rated 9.0/10 (1,484 reviews), with a paid airport shuttle. A Twin Room for two adults is available August 1–7, 2027 (6 nights), with breakfast included, for RSD 112,933 plus RSD 5,640 taxes and fees.\n\nBooking.com source: https://www.booking.com/hotel/pt/tempo-flh-hotels-lisboa.html?checkin=2027-08-01&checkout=2027-08-07&group_adults=2&no_rooms=1&group_children=0\n\nEvidence: final.png shows the August 1–7 search for two adults, applied Hotels / Breakfast included / Airport shuttle / Wonderful: 9+ filters, and the hotel's 9.0 rating and available Twin Room for six nights. The property page confirms “a paid airport shuttle service” and “Excellent breakfast included” for the room.",
+  "response": "The task was to find a Lisbon hotel that satisfies all of the following:\n\n- Hotel in Lisbon\n- Airport shuttle available\n- Rated 8.5 or above\n- Available for 6 nights from August 1 to August 7, 2027\n- For 2 adults\n- Breakfast included\n\nThe screenshot shows Booking.com search results for Lisbon with:\n\n- Dates set to Aug 1–Aug 7\n- Occupancy set to 2 adults\n- Filters applied: Hotels, Breakfast included, Airport shuttle, and Wonderful: 9+\n- A listed hotel, Tempo FLH Hotels Lisboa, rated 9.0, with breakfast included\n- Room availability shown for 6 nights, 2 adults\n\nThe result response also states that the Booking.com URL uses check-in 2027-08-01 and checkout 2027-08-07, and that the property has a paid airport shuttle. Since this information is not contradicted by the screenshot, it can be accepted.\n\nThe selected hotel meets the required rating threshold, breakfast requirement, shuttle requirement, location, dates, and occupancy.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find a Lisbon hotel that satisfies all of the following: - Hotel in Lisbon - Airport shuttle available - Rated 8.5 or above - Available for 6 nights from August 1 to August 7, 2027 - For 2 adults - Breakfast included The scr",
+  "screenshots": [
+    "task_223/final.png"
+  ],
+  "raw_screenshot": "task_223/final.png",
+  "source_result": "task_223",
+  "usage": {
+    "completion_tokens": 505,
+    "prompt_tokens": 1811,
+    "total_tokens": 2316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 267,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 8.73
+}

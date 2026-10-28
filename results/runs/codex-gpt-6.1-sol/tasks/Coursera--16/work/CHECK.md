@@ -1,0 +1,5 @@
+[x] Identify a course on Coursera named 'Introduction to Finance: The Basics'. https://www.coursera.org/learn/introduction-to-finance-the-basics — heading "Introduction to Finance: The Basics".
+[x] Identify who is the course instructor. Same course URL — "Instructor" and "Jason Satchell".
+[x] Identify what other courses he/she teaches. https://www.coursera.org/instructor/jason-satchell — complete "Courses - English" section lists only "Introduction to Finance: The Basics", then ends before "Other topics to explore". No other Coursera courses are listed.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the name and deciding facts with no overlay. final.png is 1280x723, showing Jason Satchell, his title and affiliation, and his one course listing. No filters, sorts, or dates apply to this profile.
+[x] Write the result and evidence to ./ANSWER.txt. Includes instructor, other-course listing result, source URLs, access date, and screenshot filename.

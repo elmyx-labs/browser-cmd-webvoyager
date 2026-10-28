@@ -1,0 +1,11 @@
+FINAL: Three new, popular open-source translation models on Hugging Face, released within September 27–October 27, 2026:
+
+| Model | Release date | Translation capability | Popularity on October 27 | License |
+|---|---|---|---|---|
+| [tencent/Hy-SimulMT-30B-A3B-FP8](https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-FP8) | October 26, 2026 | Real-time Chinese ↔ English simultaneous translation; 30B model in FP8 | #1 in Hugging Face’s Translation trending list; 114 likes; 93 downloads last month | Apache 2.0 |
+| [IndexTeam/Index-Translate-2B](https://huggingface.co/IndexTeam/Index-Translate-2B) | September 30, 2026 | Compact 2B multilingual text translator covering 150 languages | 74 likes; 2,506 downloads last month | Apache 2.0 |
+| [IndexTeam/Index-Translate-9B](https://huggingface.co/IndexTeam/Index-Translate-9B) | September 30, 2026 | Larger multilingual text translator covering 150 languages | 41 likes; 2,567 downloads last month | Apache 2.0 |
+
+Evidence: Each linked Hugging Face model card displays its translation task, Apache 2.0 license, likes and monthly downloads. Release dates come from the publishers’ announcements: [Tencent release news](https://github.com/Tencent-Hunyuan/Hy-SimulMT#news) and [Index-Translate release news](https://github.com/bilibili/Index-Translate#news). Popularity uses visible Hub likes/downloads and the [Translation trending sort](https://huggingface.co/models?pipeline_tag=translation&sort=trending), checked October 27, 2026. The two Index models are separate size variants in the same family. Hy-SimulMT translates speech as it arrives; speech output requires a configured TTS service.
+
+Screenshot: final.png shows the Hy-SimulMT-FP8 model card with its name, Apache 2.0 license, 114 likes, 93 monthly downloads, and October 26 release notice visible together.

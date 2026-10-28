@@ -1,0 +1,3 @@
+[x] How many colors does the latest MacBook Air come in? https://www.apple.com/macbook-air/ — “MacBook Air 13” and 15” M5 chip”; “Four beautiful colors will have you on cloud nine.” Tabs: Sky Blue, Silver, Starlight, Midnight.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and colors visible together and no overlay. final.png is 1280×723 and shows “MacBook Air”, four swatches, and “Four beautiful colors”. No filters, sorts or dates apply.
+[x] Write ./ANSWER.txt with the result and its evidence. Saved with the count, color names, Apple source URL, observation date, and screenshot filename.

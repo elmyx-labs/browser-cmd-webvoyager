@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Booking",
+    "id": "Booking--28",
+    "ques": "Find a hotel in Dubai with a swimming pool, for a week-long stay from June 22 to June 29, 2027.",
+    "web": "https://www.booking.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The First Collection Waterfront, Dubai, a Tribute Portfolio Hotel — a hotel in Dubai with a year-round outdoor swimming pool — is available for June 22–29, 2027 (7 nights).\n\nBooking.com showed RSD 31,802 plus RSD 10,160 in taxes and fees for 2 adults in 1 room for the week. The property is on Marasi Drive, Dubai.\n\nEvidence: https://www.booking.com/hotel/ae/the-first-collection-waterfront.html lists the outdoor swimming pool. The Booking.com search results had Hotels and Swimming pool filters applied, check-in 2027-06-22 and check-out 2027-06-29, and the hotel card showed “1 week, 2 adults.” The saved viewport screenshot, final.png, shows the hotel name, dates, filters, and price together.",
+    "result_text": "FINAL: The First Collection Waterfront, Dubai, a Tribute Portfolio Hotel — a hotel in Dubai with a year-round outdoor swimming pool — is available for June 22–29, 2027 (7 nights).\n\nBooking.com showed RSD 31,802 plus RSD 10,160 in taxes and fees for 2 adults in 1 room for the week. The property is on Marasi Drive, Dubai.\n\nEvidence: https://www.booking.com/hotel/ae/the-first-collection-waterfront.html lists the outdoor swimming pool. The Booking.com search results had Hotels and Swimming pool filters applied, check-in 2027-06-22 and check-out 2027-06-29, and the hotel card showed “1 week, 2 adults.” The saved viewport screenshot, final.png, shows the hotel name, dates, filters, and price together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_226/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_226",
+  "elapsed_seconds": 133.39009428024292,
+  "execution_error": null,
+  "proxy_bytes": null
+}

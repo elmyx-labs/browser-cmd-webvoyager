@@ -1,0 +1,9 @@
+{
+  "id": "Huggingface--8",
+  "task": "Retrieve an example of a pre-trained language model in natural language processing and identify the tasks it is specifically designed for, like translation or text summarization.",
+  "answer": "FINAL: T5 Small (google-t5/t5-small) is an example of a pre-trained NLP language model. Its text-to-text framework supports machine translation, document summarization, question answering, and classification, including sentiment analysis. It can also be trained for regression by outputting numbers as text.\n\nEvidence: The Hugging Face model card identifies it as a language model, states that it was pre-trained on the Colossal Clean Crawled Corpus (C4), and lists these tasks under “Uses → Direct Use and Downstream Use.”\nSource: https://huggingface.co/google-t5/t5-small\nScreenshot: final.png",
+  "screenshots": [
+    "task_536/final.png"
+  ],
+  "raw_screenshot": "task_536/final.png"
+}

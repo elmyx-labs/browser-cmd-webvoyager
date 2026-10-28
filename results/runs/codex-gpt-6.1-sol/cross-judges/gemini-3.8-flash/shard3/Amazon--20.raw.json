@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209950-4fwonKJpKUG8y7h0ddfN",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to search for a wireless ergonomic keyboard with backlighting, a rating of at least 4 stars, priced between $40 and $60, and to add a product with 500+ customer reviews to the cart.\n\nFrom the provided screenshot:\n- The product selected is the \"SABLUTE Wireless Keyboard and Mouse Combo\" (Purple).\n- It is wireless (\"2.4GHz USB Wireless\").\n- It is ergonomic (\"Ergonomic Wrist Rest\").\n- It features backlighting (\"9 Backlit Effects, RGB\").\n- It has a 4.2-star rating (meets the at least 4 stars requirement).\n- Its price is $42.99 (between $40 and $60).\n- It has 3.3K reviews (satisfies 500+ reviews).\n- The item has been successfully added to the cart, as seen in the right-side cart panel showing 1 item at $42.99.\n\nAll requirements have been met.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Filtering for Wireless Keyboards**\n\nI'm currently focusing on products that meet the wireless requirement. My internal search parameters are set to filter out anything that isn't a wireless ergonomic keyboard with at least 4 stars.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Filtering for Wireless Keyboards**\n\nI'm currently focusing on products that meet the wireless requirement. My internal search parameters are set to filter out anything that isn't a wireless ergonomic keyboard with at least 4 stars.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/TU74x/p8NAfqugs6d+voxM2NacRbOmvYhUrRl4QEJUjMUzsgL788dDVz+p5Zw3O42b2mRVlYP1riB2Zfl/x8kImXpnTYr3fXnaSqIrtywtdmqKETB6UQL7sh2FugfN6onAwdwS97Ae5RoCfMiLXQUYi4Ca0LQIOaCOszXmqI3+HAjT+WW16T+KxZWDy3WGjplmH1QlyOEetSrnJTL8Zce+KrH//7aOEX8rWwOv7CLDDz8g/M87CEM3ioaGPrjvm+J35qG+WRJbO1ZzFbx8eBvg7nVTmJUdSUIA/AbLhxJMuFWQ/vQCwglr3c8HShLZRMS76lKJF0Zj3qbCAGnXIXzBkfC5yVo0ZTlIQc973lFugpEhsMsvc0tSmbp2PPyXXkqyYcy/2sfEsl6ass26cshAQdDqtJgrrmoAk+5I+gvyrDSt71tMteuAq+Efbu00STnKJVefZwxzHv6+NyCuU4OJbMP/4Fq3YZqnmH4/Ck+fU5widJtzibN84AVeN4RHDHSQ7KzwkP8eBQH1HUCKqv3jr01J3TnlXELFL0zyq7LUPDBHYaqkLVlf5CrHayjVHrY4gFes+0AIORxckOZck7iTqczsGaiK1WgPZDfAjoot6Vi7L7hDHYbXPlkJsHobasz2XSU6gp5hd2h7FODR58rjoiMKriOJG1vfE00JcUAeuZfu0L+w90RN22MA63LSritoodzhqA9cLvnXTZ4S/p3FTUgdWd1JEOOeSpYVIqhaNfQvzqfOXsqLJMr11CjVFazuUiEsqT4cu09/MThgcBfxYDGKOYvIIaXl+qrKgIPEC/vmZLEwd+cKjrLFkHc1FrgkN4x7re5TDM9+TYxeHFkfYP8LPQEvfk+0RgXhzkR62OECiL52/cAtFqGCrIb6WiCfx8No+DDL3WwIafVoEHj/1zMPW8ofsdHqxNjSPxn4kvhoMP6bXbMESdkQqPI47OHL0TLO3jipAcALLvDvApZUFFPFNsAQh4v7Y2W+KgoB/5573UUtJwzjOCjM32EXFbWTHonLXd26sLLAYrWTa1Omym2c14rmm5M7pc2yadFGOeAwx6e1Cr6Kkl1TSSpCeLIGF9SBsJ5rMymNRHJqoSbNd9hUN7UWuFtGctEwW4vZ/6PK8cUru+SgM4vbJnsC8OqwrlJWvIsbIJE+RjMrBndmYXdmSR2AwS2S+NFLCZYbCBYgJNJL8lvZrFhTKQdBGIYozkXPWQuqXixg8Pf2uuvy18P13TN9BQn11ogVk9nHdBrSXCIbVdDY4sOCL8OXog=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209950,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 443,
+    "prompt_tokens": 1795,
+    "total_tokens": 2238,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 223,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0030075,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0030075,
+      "upstream_inference_prompt_cost": 0.00134625,
+      "upstream_inference_completions_cost": 0.00166125
+    }
+  },
+  "provider": "Google"
+}

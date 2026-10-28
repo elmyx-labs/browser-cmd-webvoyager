@@ -1,0 +1,41 @@
+{
+  "id": "Booking--27",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Locate a hotel in Melbourne offering free parking and free WiFi, for a stay from June 28 to July 4, 2027.",
+  "answer": "FINAL: Toorak Manor Hotel Free Parking, 220 Williams Road, Melbourne, offers free private parking and free WiFi for a June 28–July 4, 2027 stay (6 nights). A Standard Queen Room is available for 2 adults in 1 room and includes one parking spot plus high-speed internet.\n\nEvidence: final.png shows the hotel in Melbourne search results with the requested dates, checked Hotels, Free parking and Free WiFi filters, and Price (lowest first) sorting. The hotel page explicitly lists free private parking and free WiFi.\n\nHotel: https://www.booking.com/hotel/au/toorak-manor.html?checkin=2027-06-28&checkout=2027-07-04&group_adults=2&no_rooms=1&group_children=0\nSearch: https://www.booking.com/searchresults.html?ss=Melbourne&dest_id=-1586844&dest_type=city&checkin=2027-06-28&checkout=2027-07-04&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bhotelfacility%3D107%3Bhotelfacility%3D2%3Bhotelfacility%3D46&order=price",
+  "response": "**Evaluation:**\n\nThe user requested to locate a hotel in Melbourne offering free parking and free WiFi for the dates June 28 to July 4, 2027.\n\n1. **Location & Dates:** The search was performed for Melbourne with dates Mon, Jun 28 – Sun, Jul 4 (which correspond to the requested 2027 dates).\n2. **Filters & Hotel Category:** Filters for \"Hotels\", \"Free parking\", and \"Free Wifi\" were applied.\n3. **Result:** The search results show qualifying hotels, specifically \"Toorak Manor Hotel Free Parking\", which meets all criteria, and this was clearly detailed in the final response.\n\nSUCCESS",
+  "reason_short": "**Evaluation:** The user requested to locate a hotel in Melbourne offering free parking and free WiFi for the dates June 28 to July 4, 2027. 1. **Location & Dates:** The search was performed for Melbourne with dates Mon, Jun 28 – Sun, Jul 4",
+  "screenshots": [
+    "task_225/final.png"
+  ],
+  "raw_screenshot": "task_225/final.png",
+  "source_result": "task_225",
+  "usage": {
+    "completion_tokens": 400,
+    "prompt_tokens": 1923,
+    "total_tokens": 2323,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00294225,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00294225,
+      "upstream_inference_prompt_cost": 0.00144225,
+      "upstream_inference_completions_cost": 0.0015
+    }
+  },
+  "elapsed_seconds": 16.92
+}

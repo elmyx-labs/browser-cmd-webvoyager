@@ -1,0 +1,2 @@
+Apple iMac overview, https://www.apple.com/imac/: “New iMac M6 chip”; color controls: “iMac in Blue”, “iMac in Purple”, “iMac in Pink”, “iMac in Orange”, “iMac in Yellow”, “iMac in Green”, “iMac in Silver”.
+Apple technical specifications, https://www.apple.com/imac/specs/: “iMac Technical Specifications”; “Apple M6 chip”; Colors: “Blue, Purple, Pink, Orange, Yellow, Green, Silver”. Read October 27, 2026.

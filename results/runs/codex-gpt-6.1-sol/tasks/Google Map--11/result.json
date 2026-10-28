@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--11",
+    "ques": "Locate a large store in Washington that has kids' and maternity products, also check if it has a parking lot.",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Childish Things, 9776 Holman Rd NW, #102, Seattle, WA 98117, is a suitable store in Washington state. ParentMap describes it as spacious, and its official website confirms children's clothing, toys, gear and shoes, plus maternity and nursing essentials. Yes—it has a large free parking lot.\nEvidence checked October 28, 2026: https://childishresale.com/ confirms the products and address. https://www.parentmap.com/home-life/9-consignment-stores-seattle-area-families/ (section 6) confirms the spacious shop and large free lot; these details and its name are shown in final.png.\nGoogle Maps listing: https://www.google.com/maps/place/Childish+Things/data=!4m2!3m1!1s0x549016a31856cbe1:0x3b57962a82a414e0",
+    "result_text": "FINAL: Childish Things, 9776 Holman Rd NW, #102, Seattle, WA 98117, is a suitable store in Washington state. ParentMap describes it as spacious, and its official website confirms children's clothing, toys, gear and shoes, plus maternity and nursing essentials. Yes—it has a large free parking lot.\nEvidence checked October 28, 2026: https://childishresale.com/ confirms the products and address. https://www.parentmap.com/home-life/9-consignment-stores-seattle-area-families/ (section 6) confirms the spacious shop and large free lot; these details and its name are shown in final.png.\nGoogle Maps listing: https://www.google.com/maps/place/Childish+Things/data=!4m2!3m1!1s0x549016a31856cbe1:0x3b57962a82a414e0",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_459/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_459",
+  "elapsed_seconds": 324.2562258243561,
+  "execution_error": null,
+  "proxy_bytes": 51705473
+}

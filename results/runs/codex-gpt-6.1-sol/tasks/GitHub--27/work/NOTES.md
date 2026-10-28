@@ -1,0 +1,4 @@
+2026-10-28 — https://github.com/search?q=language%3ARuby+stars%3A%3E%3D1000+pushed%3A%3E%3D2026-10-25&type=repositories&s=updated&o=desc
+First result: “typhoeus/typhoeus”; description “Typhoeus wraps libcurl in order to make fast and reliable requests.” Result metadata: “Ruby”, “4.1k”, “Updated 14 seconds ago”. Accessible star link: “4137 stars”. Sort button: “Sort by: Recently updated”. Heading: “repositories Search Results · language:Ruby stars:>=1000 pushed:>=2026-10-25”. Heading is class sr-only; header button displays “Search”, not applied query. Tried search submission and sidebar Number of stars controls; neither produced persistent visible filter values.
+Repository opened: https://github.com/typhoeus/typhoeus — title confirms Typhoeus repository and description.
+Evidence image: final.png, genuine 1440x813 viewport screenshot resized proportionally to 1280x723. This was the only evidence image read.

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--30",
+    "ques": "Locate the course 'Modern Art & Ideas' on Coursera offered by The Museum of Modern Art. Find out the percentage (rounded) of 3-star ratings in the reviews and note which star level has the lowest percentage.",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: For Modern Art & Ideas by The Museum of Modern Art, 3-star ratings account for 2% (rounded from 2.42%). The lowest percentage is 2-star ratings at 0.63% (1-star: 0.65%).\nSource: https://www.coursera.org/learn/modern-art-ideas/reviews — Overall rating breakdown, viewed October 27, 2026. All Learners, All Stars; default sort: Most Helpful; no date filter applied.\nEvidence: final.png.",
+    "result_text": "FINAL: For Modern Art & Ideas by The Museum of Modern Art, 3-star ratings account for 2% (rounded from 2.42%). The lowest percentage is 2-star ratings at 0.63% (1-star: 0.65%).\nSource: https://www.coursera.org/learn/modern-art-ideas/reviews — Overall rating breakdown, viewed October 27, 2026. All Learners, All Stars; default sort: Most Helpful; no date filter applied.\nEvidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_311/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_311",
+  "elapsed_seconds": 59.84120178222656,
+  "execution_error": null,
+  "proxy_bytes": null
+}

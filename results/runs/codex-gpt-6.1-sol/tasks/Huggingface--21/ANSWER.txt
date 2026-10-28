@@ -1,0 +1,5 @@
+FINAL: The default sentiment-analysis model is distilbert-base-uncased-finetuned-sst-2-english (DistilBERT, fine-tuned on SST-2).
+
+Hugging Face’s Transformers v4.10.1 “Quick tour,” under “Getting started on a task with a pipeline,” shows pipeline('sentiment-analysis') and explicitly names this as the model downloaded by default.
+Source: https://huggingface.co/transformers/v4.10.1/quicktour.html#getting-started-on-a-task-with-a-pipeline
+Evidence screenshot: final.png

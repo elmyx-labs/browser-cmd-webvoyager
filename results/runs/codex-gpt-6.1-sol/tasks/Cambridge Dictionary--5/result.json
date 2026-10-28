@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Cambridge Dictionary",
+    "id": "Cambridge Dictionary--5",
+    "ques": "Learn the UK and US pronunciation of the word \"procrastination\", and find one example sentence that reflects its use in context.",
+    "web": "https://dictionary.cambridge.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Procrastination — UK /prəˌkræs.tɪˈneɪ.ʃən/; US /proʊˌkræs.tɪˈneɪ.ʃən/. Both stress “NAY” (the syllable /neɪ/).\nExample: “This is no time for procrastination - we need decisive action.”\nHere, procrastination means delaying something that needs to be done.\nEvidence: Cambridge Dictionary, https://dictionary.cambridge.org/dictionary/english/procrastination (accessed 27 October 2026). Screenshot: ./final.png shows the word, both pronunciations, definition and example sentence.",
+    "result_text": "FINAL: Procrastination — UK /prəˌkræs.tɪˈneɪ.ʃən/; US /proʊˌkræs.tɪˈneɪ.ʃən/. Both stress “NAY” (the syllable /neɪ/).\nExample: “This is no time for procrastination - we need decisive action.”\nHere, procrastination means delaying something that needs to be done.\nEvidence: Cambridge Dictionary, https://dictionary.cambridge.org/dictionary/english/procrastination (accessed 27 October 2026). Screenshot: ./final.png shows the word, both pronunciations, definition and example sentence.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_247/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_247",
+  "elapsed_seconds": 75.76223611831665,
+  "execution_error": null,
+  "proxy_bytes": 6153166
+}

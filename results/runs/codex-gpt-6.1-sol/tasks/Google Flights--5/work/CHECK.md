@@ -1,0 +1,5 @@
+[x] Find flights from Chicago to London on 20 December and return on 23 December (choose upcoming 2026, round trip, 1 adult economy). Google Flights itinerary URL in ANSWER.txt: “Chicago London”, “Round trip Economy”, “1 passenger”, “Sun, Dec 20”, “Wed, Dec 23”; flight details verified December 20/23, 2026.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on long side, with route, dates and flight evidence visible and no dialog. final.png: 1280 px on its long side, selected itinerary summary shows dates, airports, times, stops and fares. No additional filters or sorting applied on selected-itinerary page.
+[x] Write result and evidence to ./ANSWER.txt. Itinerary, fare options, dates, source URL and screenshot stated.
+
+[x] Verify Gotogate fare and included taxes/fees in browser. Google Flights booking page: “Book with Gotogate” “$1,555” “RSD 164,107”; “Prices include required taxes + fees for 1 adult. Optional charges and bag fees may apply.” Both visible in updated final.png.

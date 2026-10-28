@@ -1,0 +1,41 @@
+{
+  "id": "Wolfram Alpha--8",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Give 12 lbs of 4-cyanoindole, converted to molar and indicate the percentage of C, H, N.",
+  "answer": "FINAL: 12 lb of 4-cyanoindole (C₉H₆N₂) corresponds to 38.288 mol. Its elemental composition by mass is C: 76.0%, H: 4.3%, N: 19.7%.\nEvidence: Wolfram|Alpha, “12 lbs 4-cyanoindole,” https://www.wolframalpha.com/input?i=12+lbs+4-cyanoindole (accessed October 27, 2026). The page gives the molar amount and mass percentages directly; molar mass: 142.16 g/mol. Screenshot: final.png.",
+  "response": "The task requires converting 12 lbs of 4-cyanoindole into moles and indicating the percentage of C, H, and N.\n\nBased on the screenshot from Wolfram|Alpha:\n- Molar amount: 38.288 mol\n- Elemental mass percentages:\n  - C: 76.0%\n  - H: 4.3%\n  - N: 19.7%\n\nThe result response correctly provides all the requested information accurately matching the screenshot.\n\nSUCCESS",
+  "reason_short": "The task requires converting 12 lbs of 4-cyanoindole into moles and indicating the percentage of C, H, and N. Based on the screenshot from Wolfram|Alpha: - Molar amount: 38.288 mol - Elemental mass percentages: - C: 76.0% - H: 4.3% - N: 19.",
+  "screenshots": [
+    "task_577/final.png"
+  ],
+  "raw_screenshot": "task_577/final.png",
+  "source_result": "task_577",
+  "usage": {
+    "completion_tokens": 363,
+    "prompt_tokens": 1730,
+    "total_tokens": 2093,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00265875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00265875,
+      "upstream_inference_prompt_cost": 0.0012975,
+      "upstream_inference_completions_cost": 0.00136125
+    }
+  },
+  "elapsed_seconds": 9.74
+}

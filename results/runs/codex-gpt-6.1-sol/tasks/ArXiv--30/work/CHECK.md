@@ -1,0 +1,3 @@
+[x] Look up the submission guidelines on ArXiv for submitting a paper and tell me the formats for figures. https://info.arxiv.org/help/submit/index.html#formats-for-figures — “PostScript (PS, EPS) — requires LaTeX processing”; “JPEG, GIF, PNG or PDF figures — requires PDFLaTeX processing.”
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and deciding facts together without an overlay. final.png (1280 × 723), browser viewport of the “Formats for figures” section and both accepted-format bullets; no filters, sorts, or dates apply.
+[x] Write the result and evidence to ./ANSWER.txt. ANSWER.txt cites the arXiv source, access date, and final.png.

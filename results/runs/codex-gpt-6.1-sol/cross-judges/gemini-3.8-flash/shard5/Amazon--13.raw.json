@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209929-GMIQHLUGMreGL9ErL9fY",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to browse best-selling black hoodies in men's Big and Tall sizing priced between $25 and $50 on Amazon.\n\nThe screenshot confirms that:\n- The search query and filters cover men's Big & Tall sizing (specifically selecting a Big & Tall size filter).\n- The color filter for Black is active.\n- The price range filter is set to $25–$50.\n- The results are sorted by \"Best Sellers\".\n- Relevant items fitting the criteria are shown and summarized accurately in the response.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Filtering for Options**\n\nI'm currently refining the search to pinpoint black hoodies specifically for men in Big and Tall sizes on Amazon. My focus is on ensuring the results fall within the $25 to $50 price range, with \"Best Sellers\" as the primary sorting criterion.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Filtering for Options**\n\nI'm currently refining the search to pinpoint black hoodies specifically for men in Big and Tall sizes on Amazon. My focus is on ensuring the results fall within the $25 to $50 price range, with \"Best Sellers\" as the primary sorting criterion.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18/yX+ZzN4oHNaFmyckPPiEzxGtLfNz+d49R7O21UIVIxMG9OX2Hb+YXYL0QTMeG/ieHYaNxwyZ9Op3BPd/lhbQI644lmjQMq3gi91/f+BaFdGTtKRltaxWtWN15m1TEwSxKBMikPI/0fbdWT4oYeDvkwBtAUDEsQ1C5VGwU2TitLgt8Q4tgy1gX12LWpXa5An8wq75gBus4O16wyILpZ/wNUHlSxHhoq1k7XXIumtsICcG1w2C/SpBb0HmK8tQ77MaOqj/liFet+BhxhgbmFCqZUNBkIaKQN8bZtlPxO/SihZSOQDe47uuQRm/qkUvBWN1Njjosw6wa/QIYL/3lwR4k2WyMRjzRvDsSTgxirAhVcZkMOcsdDC7L6nNQGj2Ul68l2btPFwc2XDrYA3t2rWpXoOB5tFqHBBxSrjXtMUn9OXcBVzPS+RciUVm0VrNCMHPFW6SKMKKzFLWZvOzSk7dZWhvtAMkDF29v2T8ZLXMjmbHBleAOCuzCpZj/C4F2wIadmzrd5CTwIq30Dpq+a5C4+neuufgYeWTamOVei7/SMlUVADb3bvoelWva+6A73FSW8pvX1BGIXT+l1vWTDOolGuxN8P85dDcBw4/jjhYw8zfK9kLMegPmPcE2zlI096YupKSU26VZ+0GY9UkgZNXbEKLNPvnVZUIwpvRthdCxoeBJ1TdeXR33cbSbrfihq6B6ZNMX/Y1Af0qSzyM8b5bNdSVtVYqHqIjo/ijQpEv3OdgvMiRJQ4CLRla23diIc5Nu9OZ3cN3YdddF0iBqNO7pAM/Z5UC2ABLITwLuo65PEZhqF8pJQSYZH/SGJOiI8KHdzPQCeg05b6LH3ka1znKBbNSHJGBfTuEwOs77Y00MlVs6usq/fO/6hMjNVNTO7n6Zro3i9XBy+4XuBTe2hkdz5CQGgq7qVH320xt20XkmBQkkMiQDWcJizL5IPBJShXqIaBrTb0U3+7TuuMxutNCzQV8gycYgSJaJ2nVoPuUqgb4nRVBJtrGi0yUyYSSO/KCfU/BgWuntGJLEyBcyQMMufBP4vE92oxXS2HyLiSmMpfPozF5fDU7bOGhtLg3PPqY0JzKRWofKuhVAJtAjkDDCqqgB+lh07bRK3z4qMrTm8qeflt+rNhOG6UdJvQthkC+xQ0G3garTZzhfA8i8RcTHncqTdFth+xLO3mp7wEZaE0x6U3T7mYu3kwX9GCuXVVU6+8c1B9UdNMogTx84skHO4HBP/h5szD4NXW5MiMvUczPzNUoDDHnyJv5Pkk7ESw1SEF1mmfC9rnx9ydDfaytKoZmJfABNZO5zhXBJ1QtzVx1zOtOQw/H1RBhP+H2HaNXZUt//1HW69VJHTgB4ZES1EYVjhllzOX+HUGiyFa+mMBMhs6zqlmuBcIvlIr8vTRXjj+MnaMN5SKonqYWikEZu5/5Va5QBP5ki0SQnoy7FvqKlNCp5k7Ep9djVMFfjHFOB8IoLL8cEIFif52b8S+3HP3cPwehScK/X4Bt07vTdQ0G8xsSgeiTIFffVcXG8xiEH6rzsAsvTNPrjpKQsq0rRCLFHXidZveNg8vMQX+6C041jpgvooQXrzIcx7T6hxm9tt+vFOlx5OJhzSulVbhUjrideSOQS4QCbUCDZ5DY5jD/rR1oXiY5vZPTllYP5loG8BSI6AbKl4xNq7Y2a8Yv/LSZIHSJbIssoWP5lquGcfB9NqfSFxJsJaItCr92p4psWbjLlj8s8tHqngMX2i1K7a3sSy07BIpOw/dEVHM+GD61eaMWiNnv2KZqmqnaPYMZG541cKGv6Qw02Iv/fOIRAZWboOLnPLJQKH9yBH8Se3mdIW5/qkDlfH1CkqRYBH4L36KL",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209929,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 422,
+    "prompt_tokens": 1985,
+    "total_tokens": 2407,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 305,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00307125,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00307125,
+      "upstream_inference_prompt_cost": 0.00148875,
+      "upstream_inference_completions_cost": 0.0015825
+    }
+  },
+  "provider": "Google"
+}

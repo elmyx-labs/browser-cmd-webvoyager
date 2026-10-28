@@ -1,0 +1,2 @@
+Hugging Face Dataset Viewer: https://huggingface.co/datasets/ai2lumos/lumos_complex_qa_plan_onetime/viewer/default/train?row=0
+Train split, first row complex_qa_0. Expanded messages field displays role user and content: "Please provide a reasonable subgoal-based plan to solve the given task.\nTask: What was the opening date of the museum dedicated to the war that, after it occurred, Boston became one of the wealthiest international ports?; Initial Environment Description: None."

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--36",
+    "ques": "Identify a new open-source project on GitHub related to 'AI agriculture' that created in 2022, and note its main programming language and description.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: FarmVibes.AI (microsoft/farmvibes-ai) is an open-source AI agriculture project created on September 6, 2022. Its main language on GitHub is Jupyter Notebook (91.6%). Description: “FarmVibes.AI: Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.” License: MIT.\n\nRepository: https://github.com/microsoft/farmvibes-ai\nEvidence: https://api.github.com/repos/microsoft/farmvibes-ai shows created_at = 2022-09-06T18:24:31Z, language = Jupyter Notebook, the description, and MIT License. The repository page shows the language percentage.\nScreenshot: final.png.",
+    "result_text": "FINAL: FarmVibes.AI (microsoft/farmvibes-ai) is an open-source AI agriculture project created on September 6, 2022. Its main language on GitHub is Jupyter Notebook (91.6%). Description: “FarmVibes.AI: Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.” License: MIT.\n\nRepository: https://github.com/microsoft/farmvibes-ai\nEvidence: https://api.github.com/repos/microsoft/farmvibes-ai shows created_at = 2022-09-06T18:24:31Z, language = Jupyter Notebook, the description, and MIT License. The repository page shows the language percentage.\nScreenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_403/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_403",
+  "elapsed_seconds": 322.0563271045685,
+  "execution_error": null,
+  "proxy_bytes": 8119751
+}

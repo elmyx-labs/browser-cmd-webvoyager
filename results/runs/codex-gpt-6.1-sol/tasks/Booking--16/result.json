@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Booking",
+    "id": "Booking--16",
+    "ques": "Look for a hotel in Paris with a user rating of 9 or higher and available for a 5-night stay starting January 15, 2027. The hotel should also offer free Wi-Fi and breakfast included in the price. Provide the name, location, and price per night.",
+    "web": "https://www.booking.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Hôtel Saint-Louis - Jardin du Luxembourg — 63 Rue Madame, 6th arrondissement, 75006 Paris, France. Available January 15–20, 2027 (5 nights), for 2 adults in a Standard Double Room. Guest rating: 9.0/10. Free Wi-Fi and breakfast included. Average price: €216 per night (€1,080 displayed total for 5 nights), plus €55 total taxes and fees.\n\nEvidence: final.png shows the dates, applied Hotels / Wonderful: 9+ / Free Wifi / Breakfast included filters, hotel name, 9.0 rating, breakfast-inclusive room, availability, and five-night price. The hotel's Booking.com page confirms the address: https://www.booking.com/hotel/fr/hotel-saint-louis-jardin-du-luxembourg.html\n\nBooking.com search source: https://www.booking.com/searchresults.html?label=mkt123sc-fbe76a17-5ce5-4452-940a-1911a0e10123&aid=304142&ss=Paris%2C+Ile+de+France%2C+France&efdco=1&lang=en-us&src=index&dest_id=-1456928&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=14e12a256d2807bc459f42c3f14bafb3&checkin=2027-01-15&checkout=2027-01-20&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bmealplan%3D1%3Breview_score%3D90%3Bhotelfacility%3D107",
+    "result_text": "FINAL: Hôtel Saint-Louis - Jardin du Luxembourg — 63 Rue Madame, 6th arrondissement, 75006 Paris, France. Available January 15–20, 2027 (5 nights), for 2 adults in a Standard Double Room. Guest rating: 9.0/10. Free Wi-Fi and breakfast included. Average price: €216 per night (€1,080 displayed total for 5 nights), plus €55 total taxes and fees.\n\nEvidence: final.png shows the dates, applied Hotels / Wonderful: 9+ / Free Wifi / Breakfast included filters, hotel name, 9.0 rating, breakfast-inclusive room, availability, and five-night price. The hotel's Booking.com page confirms the address: https://www.booking.com/hotel/fr/hotel-saint-louis-jardin-du-luxembourg.html\n\nBooking.com search source: https://www.booking.com/searchresults.html?label=mkt123sc-fbe76a17-5ce5-4452-940a-1911a0e10123&aid=304142&ss=Paris%2C+Ile+de+France%2C+France&efdco=1&lang=en-us&src=index&dest_id=-1456928&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=14e12a256d2807bc459f42c3f14bafb3&checkin=2027-01-15&checkout=2027-01-20&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bmealplan%3D1%3Breview_score%3D90%3Bhotelfacility%3D107",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_214/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_214",
+  "elapsed_seconds": 168.31909918785095,
+  "execution_error": null,
+  "proxy_bytes": null
+}

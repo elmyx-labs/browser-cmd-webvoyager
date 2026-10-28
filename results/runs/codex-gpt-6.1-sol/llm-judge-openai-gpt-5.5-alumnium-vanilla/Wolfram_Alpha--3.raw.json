@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdygF7Dqt4gAMzLJdSnGZVTXPoUEw",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to provide an expression for \\(g(x)\\), the integral of \\(x^2\\cos(2x)\\).\n\nThe result response gives:\n\n\\[\ng(x)=\\frac{(2x^2-1)\\sin(2x)+2x\\cos(2x)}{4}+C\n\\]\n\nThe screenshot from WolframAlpha shows the same indefinite integral result:\n\n\\[\n\\int x^2\\cos(2x)\\,dx=\\frac{1}{4}\\left((2x^2-1)\\sin(2x)+2x\\cos(2x)\\right)+\\text{constant}\n\\]\n\nThis matches the requested expression, including the arbitrary constant for an indefinite integral.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196755,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 309,
+    "prompt_tokens": 1696,
+    "total_tokens": 2005,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 145,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

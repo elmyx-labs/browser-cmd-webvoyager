@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--24",
+    "ques": "Plan a journey from San Francisco International Airport to Union Square via driving.",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Drive from San Francisco International Airport to Union Square, San Francisco, via US-101 N: Google Maps estimates 40 minutes for 14.7 miles, its fastest route for leaving now on October 27, 2026.\n\n1. Take Airport Access Road to US-101 N in South San Francisco.\n2. Follow US-101 N toward San Francisco; take exit 433C from US-101 N/Central Freeway to 9th Street.\n3. Continue on 9th Street, then follow Folsom Street, 5th Street and O'Farrell Street to Stockton Street at Union Square.\n\nEvidence: final.png shows both endpoints, the selected route, its 40-minute/14.7-mile estimate and the directions above. Travel time reflects the traffic estimate shown when checked.\nSource: Google Maps driving directions, https://www.google.com/maps/dir/?api=1&origin=San+Francisco+International+Airport&destination=Union+Square,+San+Francisco&travelmode=driving&hl=en",
+    "result_text": "FINAL: Drive from San Francisco International Airport to Union Square, San Francisco, via US-101 N: Google Maps estimates 40 minutes for 14.7 miles, its fastest route for leaving now on October 27, 2026.\n\n1. Take Airport Access Road to US-101 N in South San Francisco.\n2. Follow US-101 N toward San Francisco; take exit 433C from US-101 N/Central Freeway to 9th Street.\n3. Continue on 9th Street, then follow Folsom Street, 5th Street and O'Farrell Street to Stockton Street at Union Square.\n\nEvidence: final.png shows both endpoints, the selected route, its 40-minute/14.7-mile estimate and the directions above. Travel time reflects the traffic estimate shown when checked.\nSource: Google Maps driving directions, https://www.google.com/maps/dir/?api=1&origin=San+Francisco+International+Airport&destination=Union+Square,+San+Francisco&travelmode=driving&hl=en",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_471/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_471",
+  "elapsed_seconds": 78.29003500938416,
+  "execution_error": null,
+  "proxy_bytes": null
+}

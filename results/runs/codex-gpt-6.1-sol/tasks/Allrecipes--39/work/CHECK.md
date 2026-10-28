@@ -1,0 +1,6 @@
+[x] Locate a recipe for sushi rolls on Allrecipes with a minimum of 20 reviews. https://www.allrecipes.com/recipe/24228/sushi-roll/ — “Homemade Sushi”; “147 Reviews”.
+[x] Show the Nutrition Facts. Same Allrecipes URL — expanded label, “Servings Per Recipe 8”, “Calories 152”; full nutrient amounts recorded in ANSWER.txt.
+[x] Show the main ingredients. Same Allrecipes URL — “Ingredients”; short-grain white rice, nori, imitation crabmeat, avocado, cucumber, pickled ginger and seasonings with amounts recorded in ANSWER.txt.
+[x] Tell me how to store these rolls. https://www.ohmyfoodrecipes.com/homemade-california-roll/ — “wrap the rolls tightly with plastic wrap and place them in an airtight container in the refrigerator”; overnight storage and maximum 1–2 hours at room temperature read in browser.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and the facts that decide the task in view together and no pop-up, banner or open dialog. final.png: 1280px long side; recipe title and 147 Reviews; floating video closed before final capture.
+[x] Write the final answer to ./ANSWER.txt, first line FINAL:, with result and evidence. ANSWER.txt contains result, ingredients, full nutrition amounts, storage guidance, sources and screenshot reference.

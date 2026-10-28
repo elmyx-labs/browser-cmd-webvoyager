@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Wolfram Alpha",
+    "id": "Wolfram Alpha--37",
+    "ques": "How many days are there between February 12, 2024 and August 9, 2050?",
+    "web": "https://www.wolframalpha.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: There are 9,675 days between February 12, 2024 and August 9, 2050. WolframAlpha interprets the input as those dates and shows “9675 days” under Result. Source: https://www.wolframalpha.com/input?i=days+between+February+12%2C+2024+and+August+9%2C+2050 . Screenshot: final.png.",
+    "result_text": "FINAL: There are 9,675 days between February 12, 2024 and August 9, 2050. WolframAlpha interprets the input as those dates and shows “9675 days” under Result. Source: https://www.wolframalpha.com/input?i=days+between+February+12%2C+2024+and+August+9%2C+2050 . Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_606/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_606",
+  "elapsed_seconds": 49.181668758392334,
+  "execution_error": null,
+  "proxy_bytes": null
+}

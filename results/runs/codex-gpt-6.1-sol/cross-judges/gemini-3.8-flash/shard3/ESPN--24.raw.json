@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210351-2ZUlMLx7zaB7pG9IRSaS",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response:\n\n1. **Game & Teams**: The game was between the Dallas Cowboys and the Philadelphia Eagles.\n2. **Final Score**: The final score was Dallas Cowboys 38, Philadelphia Eagles 21.\n3. **Date**: The date of the match shown under Game Information is October 26, 2026.\n4. **Broadcast**: Under \"Where to Watch,\" ESPN is listed.\n\nAll required details (final score, teams' names, and date of the match) were accurately retrieved and match the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Game Data**\n\nI've identified the teams and confirmed the game is concluded. My focus is now on extracting the final score and the specific broadcast date from the information available.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Game Data**\n\nI've identified the teams and confirmed the game is concluded. My focus is now on extracting the final score and the specific broadcast date from the information available.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18EeekCpcOK1fiC/rtYeA68u/dQYSJJeVrTVAPlOI7qupR5i9RW4K6Cm0o7bLPG5N4Lt8g3oOOqI/TK4IjoUkAoGuGynetS9Y7ikZUok+ctN1qIteWF/493u+irUQvRMrdsPDDho4awz2vHkWz+cZ9jFLdw+2CMntx19UfGCvsZV3r1L5fxd+UdJN4qizsJWz27dYzl0UNwqJIW87/Xe7tEmi7mA1oNgSRo6EHNAJYxXCwfD2+FDJjvCuooIttSeCngIHf7+mW7omfWLNqvHWAlzjnGtx43IooJsjQsboNSOA6oYhzvIptzaX8gWU0h3Pa6yzQj/SVlJiXkUwOi8q6A/FuwHFw3QM3o0DPmytmzriipeCwgCsKCm5Oe7x6YFZ+ZZ97EsfzgQzfzry+YvgXrcHPLxbnLvBktvwyGJ0/JC6I5/3TyehfTjfjoKE/QmwSfk0A291Av88lO1W5RciC4SaMDhU65uU2jX9uqKmsSdwysvUxGlKCc6UgKx0DXELRkfJBMfh2tGh36PzNVFaNeWmoPgsQJ0ppNjt/PKUSg3Fcr0AX3FQTN9qECsweZngT+FiLERAP+GKaAxsxABJWMT1n1KFPe0zOzDBnoMgKZqOhIFrBkgUCmH8CE6yt1PuSmGUWqB3vlUwjDtjH1uV7cYHPuwJpU7qA9QDbJWZLMhYKW7kpZ8ipvOJGVa8sB70jSrDcBOkV+mUaOUVKJL4Z6TItBMyG9yVvCnjYiz5+Sn++XFEfQrOwtNm536upoTnC3qRQW6PFP5WSs+SjX//VYkhypqPx0fKKY1RG8bzxA1EfdhTseMbhcQfcUfh6sPfyZsjVS410kQTrp/2kMMJPtVwurTCIYdRr71vcQva2PAU43vTul0rPQtjOT/h+MkVdJ1kpdwucs2bJ1QiaWm0pB25qYlxjotqn12Y8h+VFO+1ZSdkiW1ooFZRwxquqaR3a53CbgLVoQmgjJxxlbJZzd0Pq8VhOex9yI28Hdc5MZcTmc0D7053c51Mu7CXdl7EH2S/BJ09Gs/hcUIkSZNrC7RpamDQYvlfuyaXD+O9+dxphFWfq08JoBkVA+71+1B6nbBVLZgkcG+e8nOgvzSD5QbWzk60w0nRkMoaRnCsTlsj4JuDE6+KY7CFvtiDJKGeb/zdNAbURU8h7d9PVR0JRJU4NTVVUFmcTycaez8mVSjsznr0AFEDMPNUWLXmFvLtEPvzvHHrn+zAuEOv2M1lvJihJFJVYp4M0/tMLTrhBo7UC2rP+iL+ISVy/dJXJNPLBPci1Z2jEu5TwDeVBK74B7hASvhgBCL+tbPNK0u27FBTNsXALNh5+lArs50fruI64FZfGhJfZ+1WtLCSuGtdOX4O/mIa+JWdwCWrRN3AkX50uS8LftnySnH1B9cGFQh2kANTrHvotWAqXLKWr2k/NDsRL6baaJgbb+JQgG9Hh2CPbgYN2YhxO+5e73ouQK+Ibs4ooGya+6vrEcX5ZhTQuWpE5G5ILCeg==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210351,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 363,
+    "prompt_tokens": 1774,
+    "total_tokens": 2137,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 241,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00269175,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00269175,
+      "upstream_inference_prompt_cost": 0.0013305,
+      "upstream_inference_completions_cost": 0.00136125
+    }
+  },
+  "provider": "Google"
+}

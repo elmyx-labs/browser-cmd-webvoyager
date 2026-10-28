@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210503-gxlkloKJXbmb0uJHMoSR",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested the lowest-priced one-way flight from Cairo to Montreal on July 21, 2027, along with the total travel time and number of stops.\n\nThe screenshot confirms the search criteria: one-way flight from Cairo to Montreal on July 21, sorted by price. The lowest-priced result is a Qatar Airways flight for CA$704, with a travel duration of 25 hr 55 min and 1 stop in Doha. The textual response accurately reflects these details.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Flight Data**\n\nI'm currently processing the flight information to pinpoint the most economical one-way journey from Cairo to Montreal on July 21, 2027. My focus is on extracting the exact price, total duration, and number of stops for the optimal option.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Flight Data**\n\nI'm currently processing the flight information to pinpoint the most economical one-way journey from Cairo to Montreal on July 21, 2027. My focus is on extracting the exact price, total duration, and number of stops for the optimal option.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/w57dFKhDSI1qViAvI7vxLNNWk8pSPM12FcoUQI9ktk6OxR5b4CPI0syl2mtdFOQoozqIB5V4Ihr1NgQIivt0UUqrKqozQ0iWDOpALiZ9MbOOVOQSh2f2ADRE4mjsSzEdt3ZGbCgdy1cp04ptJ5tU5uDAKQao/2VTc8TilmijRWwJmBlIMKOhFEsrYmTwHe2rZ3D8lDqQ3YcWOty0Is/enQ5KjF4B9UVFi7dZdV6MWDXGZUhfFNKgjCCbMzMitJD8QGMzmXceqvhaFohxusru98JUpnVcmwuFL9ERmo4kYlrF9840VBgi4ImgqtYxf/A0D3ykfduxj3HRbj0n+55rgC4RMHOyuvxF49IKLm1cPzr+C2TTQ9A0CjK+ny216YMhLXm+tYGc7oNEfdBY3uOFalgxV2NI3p+VUPjZxr6FgYL4pborEvuNzaR50fWfDXjjEwJS883hS/iBhf/XYgrp5/YzYT5sdV6rqdF/N7GtcXDGAzYu+u9utqi8Y52vV0Rk+R5j/FMdaymJvKxh8OV9qu71DJOoKJJCsmSoovQMwYqz7one3Hapd7Uj9m/z0yJOKdcn8E6AniBqVIxcE+5Uti8/io2Rem9nAFGqKOuETzED6QjBje3FRScfdGNmBJKQ/IYim5GtKOUvrCPV5ZlKdaPHV9b8Gciw5QXCG2fhJvW2WmghfXCvR8gIuOjNQ8pnD5yPgH2UZ0/eJFSNMvdehGNhqiMCHqXZRIqOLRGn7kUWuLYQqZPW/DixBhYGx70YdKx6F9X5tGl1GnBIBsVai1AnyJ4IolKgPEQXdZth17Ici0sDIHcQ+MiMCns13sOPWRZaFEPK/WLIlJbVXQYRQLYOrFJovgl54X9ltwKSMhV+VZF5K2ebvMaiRuKfLOHQ877I9X3AOCaogkP+uDBXivueyAxEfPK3R9DE+PBqoWen5cmuih+8AeUkDxt8vGD8PWkfs2Thv9TZC6Jr81mAp1tKQZZTRDridaw2En7sa1K3UcNnulaj5/zqzApK1erIvD4yOvApsP4xaynVPAq/kOrYI4KTOB5OqEhnfFeUhBh0ziz6vT/jWnxAPfi8eW+FsPEp7MtCf8f3uPkt6XlHLynbsf1IlMxmSux93cBdE6qlK6NbVLW0P3LxO+dcyFyorltPtvcOgeZvkyaTubjjo613rZAPWtHzTUdbmPsMkz+JHOGrL1iuwPf0F06PtRpGkD+TVMXBXfysjLfGbUskQv+ddphMsZyWsUkhjyFFCu7yDv4T6u9/thM5TK9mojYxTf0akHo5uSb/cNQp0vkpir/a5SUcTmTY6qwVmIQ2DsMkaDcomaGNd2NCQBYcYafcpyNO0LtllTRSxLOZtmSLQVowX0iK7dzPGZZyWMjx4f0zobrWakaEqTGxIJw51DKsvFLuKVFqgdi0Xl2Ihrvqr9KWQefnO6U6q1kFIC1r/GfSxakf/5EEAxW5sDng6r22qgZiQFQOfhWTKO0qUth4IKmpWfhgre0EXx4mouUkAAVcnqTw2FCeSBcoWmUed+zwPKcqved9kQ20JB+GO8r3ekxoqM0cpZ0wjD/+CCKOd50oNtl34xL0G2ypkKWaBjg5sSyP3AdLgZSQLeOj6XLpy46LMIqHHMw/K0oWsXns6XRC6uIrSfLVO5gupyN/zi4o4/pQ2hC4M5vA51QMKOSr+73RP27BWIIqWesUqPdxiAX+vzuD92S9rug6LsVbt991AXuTTo6QMSjk1sRtK/BVaGORzUsC0RqdPkP9ca9NTerRVZcnRqeomJkN9yRCFo7WtivS/XUbtpnokeoEI1/3cRbF6a8EU8sQiT77+eToSEozZYe0tpu3rRLBMD4S32s/B6GIXiKOe7CvhoeKEFMYIBqB8uasFQMMPgalQGH6w9eM6v1MhZn3F",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210503,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 463,
+    "prompt_tokens": 1840,
+    "total_tokens": 2303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 352,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00311625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00311625,
+      "upstream_inference_prompt_cost": 0.00138,
+      "upstream_inference_completions_cost": 0.00173625
+    }
+  },
+  "provider": "Google"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210670-SrxDPLHHenhcRWd1V0Fq",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task requires converting 12 lbs of 4-cyanoindole into moles and indicating the percentage of C, H, and N.\n\nBased on the screenshot from Wolfram|Alpha:\n- Molar amount: 38.288 mol\n- Elemental mass percentages:\n  - C: 76.0%\n  - H: 4.3%\n  - N: 19.7%\n\nThe result response correctly provides all the requested information accurately matching the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Calculating Molar and Elemental Composition**\n\nI'm working on converting the 12 lbs of 4-cyanoindole to its molar equivalent, which WolframAlpha indicates is approximately 38.288 moles. My next step is to determine the precise percentage composition for carbon, hydrogen, and nitrogen within this compound.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Calculating Molar and Elemental Composition**\n\nI'm working on converting the 12 lbs of 4-cyanoindole to its molar equivalent, which WolframAlpha indicates is approximately 38.288 moles. My next step is to determine the precise percentage composition for carbon, hydrogen, and nitrogen within this compound.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/a/Lvspt8g1NOqFl9UMbRGI+R0kK2JA2l9e65sNvc4jkbKdZNt93TDGVDbO0qzRNa9Kq8WCcMd1F5rx6XYz23Mir1xaOCq4B0jqMl3MytMMIS1Y1NwX8fJF+jIY5N8BECJcdLUt3FHN1xCjOoV9/reiqV5Tf/3cLjLjKYPZcNO/rSVvc3F2DaKa8y6cul21I6CnEoWgZOzPNJNkaoJVM11PngXAnpEjpGBjiHeRePjongG4QnJcZn5MyR1N3NMfEdKQOKPIPyrn03X/Lv6GUt9ZIH0dz+fWIjETIYcBUFneKgOCzfTdzo66s4f4TULQV5UcV7f/u7jtifLGQjqE7h2Lvu1fUNHfiH7lik/aR1y+0orQZwE+CvIrJiVEVqNKf+uLf/ilLwMtLPnQHIYNPuzqFgueWrpdWHax7B8audkwHqrskZjuY7PQOplKdEqjacraT6w8QZib3xMGvf3eP5GLczJbFcA0ZyjGb4RtUDE2CO2JEh8AA7K8f1e+2ea4pOjezl3djchfZgAPjqC+/svifkkRKalQODpTM/4U/9a84Slze+OUXhEQ73scsEg2eDfuvMcsVI1ZetM0Cpb9e5knDRHZXgF2iijwzYUnT0TEAJ2LrxE9dSmrV/UadH/kNnDrJuEcVRMEr4TVWq9g7Cfvln9qf0ThLKYc8fhw4DALTyjQpWkeAxvfYhAmjAY9J7dcme1N54CuDudBPYigsPYB10PNRekic36D8q82CeTBroQMbXa52kjrP5CCMfRtLj+98xyvhFyDuwkMrZwpQGP9kQYjcLL7D6oe+2ciXCoZFPMYetJSQMB+zkXXlTMd4jiCfI7nGXDpbo0GUg+MN+Sjcr6O3RBKV0++8CcYOlD4q3ALu9v4au3tckaceC9vtM3vJj1EUmQJedgniZZ0SmsxUlx0nNDt6jaAUmY9mJcJ3uyaXdiBtdF93VDskf6AoVxbtUtWEqYfGw4uv6YlKNZgSS1RyN5kMxekXNOOgMSRbHf42vZ457ZpDLsFRiGYChqalKc4lPlKxIOk1zKeeCxEKfslw/ig2rjUe2wZKnklAzwucowScx2rofKkywNfB0JdrJO/QL2HqLqi1VKtazljC5747bOuoyY5wEfS+KE+hlsV0qN8HhaIGBqW+IqrpK381YjZWr0ktfkUywJli2MnW1ON5mSDfA60hfvlpglUbKBxwDJjoWAVgZ5a28Kho5J51FDCgbJ8fOotMdrZE5GXOxXg8mj9/FiBI8lKJIrRw==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210670,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 363,
+    "prompt_tokens": 1730,
+    "total_tokens": 2093,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 256,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00265875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00265875,
+      "upstream_inference_prompt_cost": 0.0012975,
+      "upstream_inference_completions_cost": 0.00136125
+    }
+  },
+  "provider": "Google"
+}

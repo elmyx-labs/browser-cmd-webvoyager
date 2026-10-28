@@ -1,0 +1,8 @@
+## session of the actor
+No tab is kept.
+<browser trusted="no">
+*t1 ok https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaMEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKvl4TXBsACAdICJDBlYWQ3NzFjLTZjY2MtNGZiZC1hMDM2LTAxNGYwNWIxNTQzM9gCAeACAQ&aid=304142&ss=Downtown+Toronto%2C+Toronto%2C+Ontario+%28Greater+Toronto+Area%29%2C+Canada&map=1&efdco=1&lang=en-us&src=index&dest_id=2623&dest_type=district&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=d6099117e2cc021d&checkin=2027-07-24&checkout=2027-07-26&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bhotelfacility%3D2%3Bstay_type%3D1 — Booking.com: Search results: Downtown+Toronto%2C+Toronto%2C+Ontario+%28Greater+Toronto+Area%29%2C+Canada. Book your hotel now!
+ t2 ok https://www.booking.com/hotel/ca/fairmont-royal-york.html — Fairmont Royal York Hotel, Toronto (updated prices 2027)
+Not any session's; `tab use N` borrows one:
+ 1 44477745 chrome://settings/help — Settings - About Chrome
+</browser>

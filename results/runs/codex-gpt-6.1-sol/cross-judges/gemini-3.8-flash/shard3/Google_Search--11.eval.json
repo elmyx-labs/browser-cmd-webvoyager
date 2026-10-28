@@ -1,0 +1,41 @@
+{
+  "id": "Google Search--11",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "According to FlightAware, tell me the busiest airport last week and its total arrivals and departures last week.",
+  "answer": "FINAL: Chicago O’Hare International Airport (KORD/ORD) was FlightAware’s busiest airport last week, with 16,783 total arrivals and departures combined.\nEvidence: FlightAware’s “Trends from the Last Week” panel names KORD as “Busiest Airport” and shows “16783 total arrivals and departures” (last updated 12:51 AM EDT; viewed October 27, 2026). Source: https://uk.flightaware.com/ . Airport identity: https://uk.flightaware.com/live/airport/KORD . Screenshot: final.png.",
+  "response": "The user requested the busiest airport last week and its total arrivals and departures according to FlightAware.\n\nThe provided screenshot displays FlightAware's \"TRENDS FROM THE LAST WEEK\" section, which clearly states:\n- **Busiest Airport:** KORD (Chicago O'Hare International Airport)\n- **Total arrivals and departures:** 16,783\n\nThe Result Response accurately provides this information matching the screenshot.\n\nSUCCESS",
+  "reason_short": "The user requested the busiest airport last week and its total arrivals and departures according to FlightAware. The provided screenshot displays FlightAware's \"TRENDS FROM THE LAST WEEK\" section, which clearly states: - **Busiest Airport:*",
+  "screenshots": [
+    "task_499/final.png"
+  ],
+  "raw_screenshot": "task_499/final.png",
+  "source_result": "task_499",
+  "usage": {
+    "completion_tokens": 277,
+    "prompt_tokens": 1719,
+    "total_tokens": 1996,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 188,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002328,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002328,
+      "upstream_inference_prompt_cost": 0.00128925,
+      "upstream_inference_completions_cost": 0.00103875
+    }
+  },
+  "elapsed_seconds": 15.68
+}

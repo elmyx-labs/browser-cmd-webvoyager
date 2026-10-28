@@ -1,0 +1,6 @@
+[x] Find Golf in BBC News. BBC News > Sport > Golf: https://www.bbc.com/sport/golf — "Golf", "Leaderboards".
+[x] Check the Leaderboard at this point in Women's Majors. https://www.bbc.com/sport/golf/ladies-major-championships/leaderboard — "Women's Majors", "Women's Open", "30 July - 2 August 2026".
+[x] Count which country has the most players in the top 20. Same URL, displayed ranks and country flag labels: Japan, United States and South Korea each 4 including all tied rank20. Full names recorded in NOTES.md and ANSWER.txt.
+[x] Which player has the best score amongst the Australian players and in what place. Same URL — Australia flag, "Hannah Green", "29", "+4", "288"; Australia's other displayed player Robyn Choi rank47 +8 292.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the relevant name, facts, filters and dates visible. Captured 1440x2400 viewport, resized to 768x1280. Women's Majors, Women's Open, event dates, every rank through20, and Hannah Green row all visible. No overlay. final.png was the only evidence image read.
+[x] Write final answer and evidence to ./ANSWER.txt. FINAL: line states country counts, tie convention, leading Australian score and rank, followed by names, source URL and date.

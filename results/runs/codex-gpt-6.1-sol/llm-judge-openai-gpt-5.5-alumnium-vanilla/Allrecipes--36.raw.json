@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyYiYSgQLOkNYUeWSQVnI1UWFwlY",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find an American apple pie recipe on Allrecipes with:\n\n- Rating of at least 4 stars\n- More than 50 reviews\n- Note the maximum temperature mentioned in the Directions\n\nThe screenshot shows the Allrecipes page titled **“American Apple Pie”** with a rating of **4.4** and **52 Reviews**, satisfying the rating and review-count requirements. The result response states that the maximum temperature in the Directions is **425°F (220°C)**. Although the screenshot does not show the Directions section, there is no contradiction, so the response can be accepted for that detail.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196288,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 263,
+    "prompt_tokens": 1685,
+    "total_tokens": 1948,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 125,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

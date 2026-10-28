@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210474-ELHyxhdQZP09WUkNkera",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to identify the No. 1 weekly chart-ranked artist according to Billboard and provide the 10 most-played songs by this artist to date.\n\nThe response correctly identified Morgan Wallen as the No. 1 artist on Billboard's weekly Artist 100 chart and accurately listed his 10 most played songs (verified by the Spotify stream statistics shown in the provided Kworb screenshot).\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Identifying Top Artist**\n\nI've pinpointed Morgan Wallen as the current number one artist on the Billboard Artist 100 chart. Now, I am compiling a list of his top ten most played songs to present to the user.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Identifying Top Artist**\n\nI've pinpointed Morgan Wallen as the current number one artist on the Billboard Artist 100 chart. Now, I am compiling a list of his top ten most played songs to present to the user.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210474,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 529,
+    "prompt_tokens": 2041,
+    "total_tokens": 2570,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 442,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0035145,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0035145,
+      "upstream_inference_prompt_cost": 0.00153075,
+      "upstream_inference_completions_cost": 0.00198375
+    }
+  },
+  "provider": "Google AI Studio"
+}

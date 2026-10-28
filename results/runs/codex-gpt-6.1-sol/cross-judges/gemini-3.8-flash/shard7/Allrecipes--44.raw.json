@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209923-Ub1JblrlZ8PyeBlFfhcO",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a list of at least 6 holiday recipe sections mentioned in the Occasions section of Allrecipes.\n\nThe provided screenshot displays the \"Holidays and Events\" section under Allrecipes, showing sections such as \"EASTER RECIPES\", \"HALLOWEEN RECIPES\", \"THANKSGIVING RECIPES\", \"CHRISTMAS RECIPES\", \"HANUKKAH RECIPES\", \"ROSH HASHANAH RECIPES\", and more.\n\nThe Result Response lists 6 accurate holiday recipe sections directly visible on this page.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding More Recipes**\n\nI've identified four holiday recipe sections so far: Easter, Halloween, Thanksgiving, and Christmas. I need to continue exploring the \"Occasions\" section to uncover at least two more distinct holiday recipe categories.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding More Recipes**\n\nI've identified four holiday recipe sections so far: Easter, Halloween, Thanksgiving, and Christmas. I need to continue exploring the \"Occasions\" section to uncover at least two more distinct holiday recipe categories.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/xQuz1TXoTolrFnpLLAjm0N0AFhf4o2+2+fli8S9TLlKchXXU0jAnlBiBdTCiuHv6kerzArqxJnG9578AmrWlRAkjDqomBu7a1Z0XUEgRW/KbxCpeBRVmdLmAd9lO/g1RMiDesMjXkHepNeXQhxUCdMJifbyr7e5vgiBlDrfuVJBp6fQ56R6seoW3IwjYnrn8anRDObjZ0JXxvB+hc3a2zgoz5mkRZf2hNNVDUS881wYLur2cA6NH0IGlu/rxS/nVsgFFaGWRfJzFyTFg8hLzI3ZqAgs7BBqlElO7Wea/9PF0PlwmTtYDwj1p5h1wVBmhgXRojKvri/UbvzB9wC7Fbfo3KIGeFkZ6paOGE7TQRdRQBYTJFE2nPHeHPXV87ANI27bb8fFJfEWYn1F4o99l21pZvaTk+WykK5nlJ0OC/VlfVA8GRaHYzhviPMnbsN74h49jU+sRGA52+PuQ9gcZBf9zN+xNkW6OWeRDbLNciDoNmDNvLFQ5EGtIbR8FWu4WByH7P9TCCrAYiity1LnMg70yB9+/zN0H8gfDTbO+MVe7SHWgTgmCAPV6yLE3NkP6Yvf0wwZEyvv7emkzny4De2a8UrvBAbRalTmmDCL9iFtNKq6+b0GjxhqXbdZ/D9PhiDMUnIcl8VaThCsZkO7J3/YTzcfIuldafQ3iw4hXrxHpyy4oBZhFHrhO++k/L4h5UxhdEnIy5SOo6RINGuzKRYb/MEuleG/TxYInucm36DWOhUoJhFupmD1onGci5E6ZLzDVWwjeTfBgVEcYf6pJLBCqx4+ETsYZP6mWvDI0irlWz+bbFuSWapRDZY22sSVyqxkJk4uolZ1TBOFA+wJkk4O1vxF8LiqeW2BRZzYb6caEWxQvfwRQSMa/Cmqcmsu1cn1ggYgpBCYT5Gml6FvNCj+IuDGOlo7JdSxRBi063xdKO6raFgmPuFXOEZYDlrXdnSxsrU0hY0zRmuFfUVV/5eVOdanBmQPTwamcFatVYRYQBFABZ7HbTSpEGGiFOMrsenlK3IxfyiZlTrOirDbJo9ZANEctYnDkD7czuTJdEd02OW4va2dCY8XBRgRahhPB4ABQnybnvcUVOza+/t8AyW+/YYslOqnJEQvoEiwDGRVG0oYojihTOfVe1XUxy/6clk0sJUwc3cmT2MphEdUU/CocYgk2mE+bx+6v5oMMWmX5HZ2hPaP+GmBdZhqw9MnCDBHXu335UM2rPWhsmPvrFcX2WD6wqzourHG2B389C805E+NUvXuJMUlgcOe06SC5Jtbt+UwEGFa8mMJsheZaoFAwY7urYVRS4pw4YYw==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209923,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 339,
+    "prompt_tokens": 1689,
+    "total_tokens": 2028,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 220,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002538,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002538,
+      "upstream_inference_prompt_cost": 0.00126675,
+      "upstream_inference_completions_cost": 0.00127125
+    }
+  },
+  "provider": "Google"
+}

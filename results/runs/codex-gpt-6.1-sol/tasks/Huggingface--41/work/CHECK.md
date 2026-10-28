@@ -1,0 +1,4 @@
+[x] Identify the current Text-to-3D model with the highest number of downloads using the site's own sort. https://huggingface.co/models?pipeline_tag=text-to-3d&sort=downloads — “Sort: Most downloads”; first result “microsoft/TRELLIS-text-xlarge”, “12.7k”.
+[x] Tell whether there are Spaces that use the model. https://huggingface.co/microsoft/TRELLIS-text-xlarge — “Spaces using microsoft/TRELLIS-text-xlarge 11”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts visible together. The model detail page shows “Text-to-3D”, “Downloads last month 12,715” and “Spaces using microsoft/TRELLIS-text-xlarge 11”; it has no sort control. The applied “Most downloads” sort is documented at the ranking URL above.
+[x] Write ./ANSWER.txt with the result, evidence, dates and sources, beginning FINAL: .

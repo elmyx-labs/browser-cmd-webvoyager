@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edybz6LAL46oH3PwYFfdjpXghuezv",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was successfully accomplished.\n\nThe screenshot shows a Booking.com search for **Paris, France** with the dates **August 18–20** selected, occupancy set to **2 adults, 1 room**, and filters applied for **Hotels** and **Very Good: 8+**. The results are sorted by **“Top reviewed”**, which aligns with the instruction to list suggestions based on user reviews.\n\nThe three hotels listed in the response match the top three visible results in the screenshot:\n\n1. **Villa-des-Prés** — rated **9.6**, with **699 reviews**\n2. **Hôtel Confidentiel - Louvre** — rated **9.6**, with **293 reviews**\n3. **Hôtel Mansart - Esprit de France** — rated **9.5**, with **1,284 reviews**\n\nAll three clearly have customer ratings above **8.0**, and the response provides relevant review-based details. The response also correctly notes that the specified dates are actually Wednesday–Friday rather than a weekend, but it still used the exact dates requested, which is reasonable given the instruction.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196491,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 678,
+    "prompt_tokens": 2656,
+    "total_tokens": 3334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 437,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

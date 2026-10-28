@@ -1,0 +1,31 @@
+{
+  "id": "Allrecipes--36",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Locate a recipe for an American apple pie on Allrecipes with a rating of at least 4 stars and more than 50 reviews. Note the maximum temperature mentioned in the Directions.",
+  "answer": "FINAL: American Apple Pie on Allrecipes qualifies: 4.4/5 stars and 52 reviews (77 ratings). The maximum temperature mentioned in the Directions is 425°F (220°C), in the instruction to preheat the oven. Source: https://www.allrecipes.com/recipe/12092/american-apple-pie/ (accessed October 27, 2026). Screenshot: final.png.",
+  "response": "The task was to find an American apple pie recipe on Allrecipes with:\n\n- Rating of at least 4 stars\n- More than 50 reviews\n- Note the maximum temperature mentioned in the Directions\n\nThe screenshot shows the Allrecipes page titled **“American Apple Pie”** with a rating of **4.4** and **52 Reviews**, satisfying the rating and review-count requirements. The result response states that the maximum temperature in the Directions is **425°F (220°C)**. Although the screenshot does not show the Directions section, there is no contradiction, so the response can be accepted for that detail.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find an American apple pie recipe on Allrecipes with: - Rating of at least 4 stars - More than 50 reviews - Note the maximum temperature mentioned in the Directions The screenshot shows the Allrecipes page titled **“American",
+  "screenshots": [
+    "task_31/final.png"
+  ],
+  "raw_screenshot": "task_31/final.png",
+  "source_result": "task_31",
+  "usage": {
+    "completion_tokens": 263,
+    "prompt_tokens": 1685,
+    "total_tokens": 1948,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 125,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 4.82
+}

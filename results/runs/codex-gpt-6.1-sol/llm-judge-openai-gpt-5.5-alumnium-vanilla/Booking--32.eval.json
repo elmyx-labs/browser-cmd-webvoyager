@@ -1,0 +1,31 @@
+{
+  "id": "Booking--32",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Look for hotels in Sydney from February 24 to February 27, 2027, on Booking. Once the Swimming Pool and Airport Shuttle filters are applied, what is the total number of hotels available?",
+  "answer": "FINAL: 10 properties are available in Sydney on Booking for February 24–27, 2027 with Swimming pool and Airport shuttle applied (2 adults, 1 room).\nEvidence: final.png shows “Sydney: 10 properties found,” the selected dates, and both checked filters.\nSource: https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaMEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKrlITXBsACAdICJDgxZWIzZTlmLWMzOTctNDBmNS1iYzhlLWQ4NGU2ZmZiZGIzYtgCAeACAQ&aid=304142&ss=Sydney%2C+New+South+Wales+%28Sydney+Region%29%2C+Australia&efdco=1&lang=en-us&src=index&dest_id=-1603135&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=8064905506e41105&checkin=2027-02-24&checkout=2027-02-27&group_adults=2&no_rooms=1&group_children=0&nflt=hotelfacility%3D433%3Bhotelfacility%3D17",
+  "response": "The screenshot shows a Booking.com search for **Sydney** with dates **Wed, Feb 24 – Sat, Feb 27** selected. The facilities filters show both **Swimming pool** and **Airport shuttle** checked, and the results header states **“Sydney: 10 properties found.”**\n\nThe result response reports **10 properties**, which matches the screenshot. Although the response says “hotels” and Booking displays “properties,” the applied filters and destination/date criteria match the task.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The screenshot shows a Booking.com search for **Sydney** with dates **Wed, Feb 24 – Sat, Feb 27** selected. The facilities filters show both **Swimming pool** and **Airport shuttle** checked, and the results header states **“Sydney: 10 prop",
+  "screenshots": [
+    "task_230/final.png"
+  ],
+  "raw_screenshot": "task_230/final.png",
+  "source_result": "task_230",
+  "usage": {
+    "completion_tokens": 496,
+    "prompt_tokens": 2155,
+    "total_tokens": 2651,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 8.53
+}

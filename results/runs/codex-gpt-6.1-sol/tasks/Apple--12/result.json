@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Apple",
+    "id": "Apple--12",
+    "ques": "What Apple Repair ways are mentioned on apple website, answer 2 of them.",
+    "web": "https://www.apple.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Two Apple repair options are (1) In Person — visit a Genius Bar or Apple Authorized Service Provider; and (2) By Mail — use Apple's prepaid shipping box to mail your iPhone for repair without an appointment.\nEvidence: Apple's “Apple Service and Repair for iPhone” page, “Where can I get service?” section: https://support.apple.com/iphone/repair?services=service . Screenshot: final.png.",
+    "result_text": "FINAL: Two Apple repair options are (1) In Person — visit a Genius Bar or Apple Authorized Service Provider; and (2) By Mail — use Apple's prepaid shipping box to mail your iPhone for repair without an appointment.\nEvidence: Apple's “Apple Service and Repair for iPhone” page, “Where can I get service?” section: https://support.apple.com/iphone/repair?services=service . Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_90/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_90",
+  "elapsed_seconds": 83.83845567703247,
+  "execution_error": null,
+  "proxy_bytes": null
+}

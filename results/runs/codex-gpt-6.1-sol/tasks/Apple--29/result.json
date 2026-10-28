@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Apple",
+    "id": "Apple--29",
+    "ques": "On Apple's website, check the estimated battery life of the latest MacBook Air during web browsing in Tech Specs.",
+    "web": "https://www.apple.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The latest MacBook Air with M5 (13-inch and 15-inch) is rated for up to 15 hours of wireless web browsing. Apple’s Tech Specs → Battery and Power states “Up to 15 hours wireless web” for both sizes. Source: https://www.apple.com/macbook-air/specs/ (checked October 27, 2026). Evidence: final.png.",
+    "result_text": "FINAL: The latest MacBook Air with M5 (13-inch and 15-inch) is rated for up to 15 hours of wireless web browsing. Apple’s Tech Specs → Battery and Power states “Up to 15 hours wireless web” for both sizes. Source: https://www.apple.com/macbook-air/specs/ (checked October 27, 2026). Evidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_107/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_107",
+  "elapsed_seconds": 89.0520350933075,
+  "execution_error": null,
+  "proxy_bytes": null
+}

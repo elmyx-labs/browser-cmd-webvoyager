@@ -1,0 +1,5 @@
+[x] Find a one-way flight from Shanghai to Vancouver on July 27, 2027. Google Flights source below: One way / Shanghai / Vancouver / Tue Jul 27; URL date 2027-07-27. AC 26 details: 3:55 PM PVG–11:40 AM YVR, 10 hr 45 min.
+[x] Compare the options based on carbon dioxide emissions. Source sorted by emissions: Air Canada 487 kg CO2e (-10%), Asiana/Korean 515, Juneyao/Air Canada 523, Korean 528, China Eastern/Air Canada 532, Korean/Alaska 595, ANA 630, EVA 769, Air Macau/EVA 912. Expanded list checked; Air Canada remains first.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with route, date, sort/filter and deciding values visible, without an overlay. Screenshot 1440x1400 resized to 1280x1244; date suggestion closed, no open dialog. Final screenshot from the source below.
+[x] Write the result and its evidence to ./ANSWER.txt, first line FINAL:.
+Source: https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI3LTA3LTI3agwIAxIIL20vMDZ3amZyDAgDEggvbS8wODBoMkABSAFwAYIBCwj___________8BmAEC&tfu=EgYIBhAAGAA

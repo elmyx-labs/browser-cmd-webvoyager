@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--20",
+    "ques": "Open GitHub Copilot's FAQs to find the official answer to when Copilot chat can be used on mobile.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Copilot chat can be used now in GitHub Mobile; all Copilot plans are supported. Pro and Business include Bing and public repository code search, while Enterprise adds access to your organization’s knowledge.\n\nEvidence: GitHub Copilot’s official FAQs, General → “What languages, IDEs, and platforms does GitHub Copilot support?” https://github.com/features/copilot (accessed October 28, 2026). The expanded answer states that all plans are supported in GitHub Mobile and describes the plan-specific features. Screenshot: final.png.",
+    "result_text": "FINAL: Copilot chat can be used now in GitHub Mobile; all Copilot plans are supported. Pro and Business include Bing and public repository code search, while Enterprise adds access to your organization’s knowledge.\n\nEvidence: GitHub Copilot’s official FAQs, General → “What languages, IDEs, and platforms does GitHub Copilot support?” https://github.com/features/copilot (accessed October 28, 2026). The expanded answer states that all plans are supported in GitHub Mobile and describes the plan-specific features. Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_387/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_387",
+  "elapsed_seconds": 117.27848315238953,
+  "execution_error": null,
+  "proxy_bytes": 8695637
+}

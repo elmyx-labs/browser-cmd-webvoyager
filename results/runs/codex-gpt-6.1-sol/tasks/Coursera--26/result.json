@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--26",
+    "ques": "Identify a Specialization on Coursera that offers an overview of 'Renewable Energy'. The Specialization should be beginner-level and include a course on Renewable Energy Futures. Note the instructor's name and the number of weeks required to complete the course if I spend 5 hours a week.",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Renewable Energy Specialization, offered by the University of Colorado Boulder — beginner level, with Renewable Energy Futures as Course 4. The featured instructor is Stephen R. Lawrence; the specialization also lists Paul Komor.\n\nAt 5 hours per week, allow 16 weeks for the specialization. Coursera's completion FAQ explicitly gives sixteen weeks at three to five hours per week. It also says each course includes a final week for study, review and a final exam.\n\nIf “the course” means Renewable Energy Futures alone: its instructor is Paul Komor. The specialization's course listing estimates 13 hours, so 13 ÷ 5 = 2.6 weeks, or about 3 weeks at 5 hours per week.\n\nEvidence: https://www.coursera.org/specializations/renewable-energy (beginner level, course list, instructors and completion FAQ); https://www.coursera.org/learn/renewable-energy-futures?specialization=renewable-energy (Paul Komor). Screenshot: final.png shows the specialization name and the completion FAQ.",
+    "result_text": "FINAL: Renewable Energy Specialization, offered by the University of Colorado Boulder — beginner level, with Renewable Energy Futures as Course 4. The featured instructor is Stephen R. Lawrence; the specialization also lists Paul Komor.\n\nAt 5 hours per week, allow 16 weeks for the specialization. Coursera's completion FAQ explicitly gives sixteen weeks at three to five hours per week. It also says each course includes a final week for study, review and a final exam.\n\nIf “the course” means Renewable Energy Futures alone: its instructor is Paul Komor. The specialization's course listing estimates 13 hours, so 13 ÷ 5 = 2.6 weeks, or about 3 weeks at 5 hours per week.\n\nEvidence: https://www.coursera.org/specializations/renewable-energy (beginner level, course list, instructors and completion FAQ); https://www.coursera.org/learn/renewable-energy-futures?specialization=renewable-energy (Paul Komor). Screenshot: final.png shows the specialization name and the completion FAQ.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_7/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_7",
+  "elapsed_seconds": 447.2395100593567,
+  "execution_error": null,
+  "proxy_bytes": null
+}

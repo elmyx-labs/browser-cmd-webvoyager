@@ -1,0 +1,3 @@
+- https://info.arxiv.org/help/faq/multilang.html — Current Non-English submissions guidance: “We accept submissions in languages other than English but require that all submissions have an English version of the paper.” It says the English language version must appear first. The page does not prescribe a multilingual abstract or an abstract separator.
+- https://info.arxiv.org/help/prep.html#abstract-required — “Abstract: required”; the abstract formatting rules specify no multilingual abstract or separator.
+- https://blog.arxiv.org/2026/01/13/non-english-paper-submission-guidelines/ — The full English-version requirement took effect February 11, 2026 at 2PM ET; previously only an English-language abstract was required.

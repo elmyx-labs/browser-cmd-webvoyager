@@ -1,0 +1,3 @@
+[x] Find a report on the BBC News website about recent developments in renewable energy technologies in the UK. BBC Scotland, 18 October 2026: https://www.bbc.com/news/articles/c8y56y6xg9n9o — new small-scale tidal energy generator, trials on Islay, and plans to generate electricity for the island.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the report title, date, and relevant facts without overlays. final.png is 1024×1280, with headline, date, Scottish setting and tidal technology description visible.
+[x] Write the result and evidence to ./ANSWER.txt. Includes the report title, author, publication date, URL, relevant developments, and screenshot evidence.

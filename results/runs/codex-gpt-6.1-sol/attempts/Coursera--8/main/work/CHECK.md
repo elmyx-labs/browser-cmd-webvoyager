@@ -1,0 +1,5 @@
+[blocked] Find a free course related to 'R for Data Science' available on Coursera. The SageMaker analytics course is listed in these results, but its description and module details do not establish explicit R coverage. No Free tag found across the results filtered by R Programming or R (Software).
+[x] Scroll to find a course with the Free tag. SageMaker Unified Studio Foundations for Data Analytics by Amazon Web Services; exact text “Category: Free” / “Free”. https://www.coursera.org/courses?query=R%20for%20Data%20Science&page=20
+[x] What language the course is taught in? Exact course page text “Taught in English”. https://www.coursera.org/learn/amazon-sagemaker-unified-studio-foundation-for-data-analytics-digital
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts visible together, no pop-up, banner or dialog. Shows original query and title with Free tag. Language remains independently verified on course page.
+[x] Write the result and evidence to ./ANSWER.txt.

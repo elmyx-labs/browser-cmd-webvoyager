@@ -1,0 +1,4 @@
+[x] Which university maintains and manages ArXiv — followed https://arxiv.org/ > General information > Read more > Cornell Chronicle > CORNELL.EDU. https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/ identifies Cornell University as its home for 25 years and confirms independence on July 1, 2026.
+[x] Accessing the university's website from ArXiv, how many underegraduate students are currently at the university — https://irp.dpb.cornell.edu/university-factbook: “Student enrollment, Fall 2026”, “Undergraduate”, “16,073”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing university name and enrollment facts together without overlays — final.png, 1280×723 viewport showing Cornell University, Fall 2026 and Undergraduate 16,073.
+[x] Write result and evidence to ./ANSWER.txt — completed with enrollment, dated status correction and source URLs.

@@ -1,0 +1,9 @@
+{
+  "id": "Wolfram Alpha--43",
+  "task": "A polyominoes of order 6 means you have 6 identical squares to combine different shapes (2-sided). How many combinations are there? Looking at all the shapes in the result, how many of them have only 2 rows in total?",
+  "answer": "FINAL: There are 35 two-sided polyominoes of order 6, and 12 of the displayed shapes occupy exactly two rows.\n\nEvidence: WolframAlpha's “polyomino | order 6” result lists “including orientation (2-sided) | 35.” In its fully expanded Images diagram, the two-row shapes are positions 2–9 and 18–21, counting left to right, top to bottom. The one-row straight shape is excluded.\nSource: https://www.wolframalpha.com/input?i=polyominoes+of+order+6\nScreenshot: final.png (viewport, 1280 × 1111 pixels).",
+  "screenshots": [
+    "task_612/final.png"
+  ],
+  "raw_screenshot": "task_612/final.png"
+}

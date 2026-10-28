@@ -1,0 +1,3 @@
+[x] Find out which musician made the headlines in Music News. Start URL: https://www.bbc.com/news/ — Sir Tom Jones, first individual musician in https://www.bbc.com/news/topics/cz4pr2gd872t; “Sir Tom Jones 'truly sorry' as he cancels two shows due to illness”. Article https://www.bbc.com/news/articles/c699zj38k9ero confirms flu and rescheduled US concerts.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and deciding facts with no overlay. — final.png, 1280×723, shows the headline, 11 hrs ago, and flu summary.
+[x] Write the result and its evidence to ./ANSWER.txt. — ANSWER.txt begins FINAL: and includes the name, headline, explanation and BBC URLs.

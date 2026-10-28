@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ArXiv",
+    "id": "ArXiv--35",
+    "ques": "Retrieve the latest research paper in Quantum Physics from ArXiv and provide the title, author(s), and date of submission.",
+    "web": "https://arxiv.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The latest Quantum Physics paper on arXiv is “Complete entropy contraction from conditional hyperboundedness” by Li Gao and Lijun Wang, submitted on 26 October 2026.\n\nEvidence: arXiv’s Quantum Physics search, sorted by “Submission date (newest first),” lists this paper first. The screenshot final.png shows the category, sorting, title, authors, and submission date together.\nSearch source: https://arxiv.org/search/advanced?advanced=1&terms-0-term=&terms-0-operator=AND&terms-0-field=title&classification-physics=y&classification-physics_archives=quant-ph&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date_first&abstracts=hide&size=50&order=-submitted_date\nPaper source: https://arxiv.org/abs/2610.35863 — submission history records version 1 on 26 October 2026 at 17:59:27 UTC.",
+    "result_text": "FINAL: The latest Quantum Physics paper on arXiv is “Complete entropy contraction from conditional hyperboundedness” by Li Gao and Lijun Wang, submitted on 26 October 2026.\n\nEvidence: arXiv’s Quantum Physics search, sorted by “Submission date (newest first),” lists this paper first. The screenshot final.png shows the category, sorting, title, authors, and submission date together.\nSearch source: https://arxiv.org/search/advanced?advanced=1&terms-0-term=&terms-0-operator=AND&terms-0-field=title&classification-physics=y&classification-physics_archives=quant-ph&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date_first&abstracts=hide&size=50&order=-submitted_date\nPaper source: https://arxiv.org/abs/2610.35863 — submission history records version 1 on 26 October 2026 at 17:59:27 UTC.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_155/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_155",
+  "elapsed_seconds": 91.40307784080505,
+  "execution_error": null,
+  "proxy_bytes": null
+}

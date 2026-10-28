@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210576-Gyng8PL358rXYrfP7Pdu",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user asked for a constraint on the set of inequalities for the inner region of the pentagram.\n\nBased on the Wolfram|Alpha search shown in the screenshot:\n- The input interpretation is \"pentagram | variable constraints\".\n- The resulting constraint is $a > 0$, where $a$ represents the distance between vertices with offset two.\n\nThe result response accurately reports this finding.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Exploring Pentagram Constraints**\n\nI'm currently investigating variable constraints for the inner pentagram region. My recent exploration involved querying Wolfram|Alpha with \"pentagram variable constraints\" to gather initial insights and refine the scope of our analysis.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Exploring Pentagram Constraints**\n\nI'm currently investigating variable constraints for the inner pentagram region. My recent exploration involved querying Wolfram|Alpha with \"pentagram variable constraints\" to gather initial insights and refine the scope of our analysis.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+gXhKHY2TdvQPTuNI+o3frySKep/MmfnYzmKPQmYClbQfWpqVxZc5utyBnRvXWh3asbqS5o1s2p4XHxyFvAjWBEacGWZ5EdhfzCFlRIbJoKfrwlViQz77YtbW5vh1VY/LuSILJqNW/8RtfJyFpsECxqPMJb6k/JXrw8hiPGjEhIJwt3jm/LeFSTDGv98Za5D8z60LtikwbxCzIhoH/1UgxukIGT++ziN9BcWNsLo3OfLIhiCe9/I/Bl0/CDttKfJ48x+hNuaK4r17/ziaIuD6QhXlchHJRg8s8sN1VkbzhVKdLnWykiSNnHJba4cic1v9m1N1E9h7wsBaifJk1b2w0fpqXPAVGmyK6HjA9BhAPK8PY2nzTlbZdK+Tv50M+KYq8/RP3EgQbg7Z8RSEOJzSVZLae61z9lmVxx8hzhVuI1U6qiF7TXk8ZjyBCpDh898ylyb/0GMuv7kImgunzb3IeZQgHYesMwLRmzSrdETk+CAtv8PY+ZwODcSYEEN+3nS1/JVehec21O7ET0NYnr9dYztMpCo695GjbF0/1Q8E2s3oU4XVzOCdlS+kV/SG+VsijzUnsnHsbAUOoCZWKhDExZmdYCmkFMdaCC0NEMEpZ3lbM13HplfeuXe5LmBydQi4zfB4cvRdTNziWKxSJMBGtJwZUidzBOws4ggBtIYulYO7GxAO8AZpJQthlsGS33Ndw8vzk/wVsP4CVnyneIIBMXM7hpOFg51TICVpUEgJsGAnl5Srq86ZbXtPGZXDcgzsJS3a4CSi33KiKscdpqeqYpictizFDO78lMpst8D4XA3WhnZNGNIQaf7C/joRxkCiGo1Uh4m0D0Tk5MLKvcHlLHNoPqQoILfEBj8FZMsN13ZYc7eNsjQK34tsyNusK0N4ZAzrLrn0Wg8WqpK1JboJsc5hUVCA/h07i89dkYG5VhPbxU7wsv5pWjKOp/5O87H3xu/kW5dDTQvBD14HooHjU5HxmyJLhqSMfGdYcmeKvttUk19mD/VyrRSamTS/b0jVtRMX4WN64BXHruRjIvQah1XUXlzkhKwKcegxEW9o+FeLURdENjN2pqszkEItEE52UthYnxLHg1PXAX5FChJeNHecIjAwwciFBSbZy5QXNky3p/a3C62ktqmNWJgoIUVtB+67TE91mSg+rBQF2kB+721a5h+wG7WVt7RE/EjXqPs/+RlWRtf84OEpXH5F6dTc4bRyBCPvIIq8WcyPKNJS67IPIeJcmxs28UEPXxBapTV8+hkKrGxkSqCpYYXdRdYyBFzuVar8Jw2ok3Y0STOEwk3bHF8TXFNiWtfrToJu6y8Yfad5/z+YpcaXWvq2iuRHDuPSyvWObL0N/jZhfChGzCMaM9d3rU99PX8W3CB0uH4dTlIi9eO+WGMVBHWlwQtMzSV49l9jNmq0WLwnsUNG7Yz/v+tQrB/zs+Gf1qifXSEVABUlhLBgqpz+1X3ZOkrBbVakRN2gd0fnBpEzObwGzLhRpvTp0GiK+ir7WNzIey8fXR1n9iIW0OcD98jSmOGjeFlH/PjIQPKr0eWEKkCmqrI7X3uIFsAUEnx1dGDYoytjEu8ohMGvWe7A8Ut/PFoe9DuS7LAlcZ47ng8wQHh7PtGnbT2FivKCmYtbuVpMxuJK+xZQHqCmeid5RONWy0AgL9A+U77rTOewSklmJuGM5x7iXE6cx0ZYKF9RVrIHVDBXuN8370WHFiAkA9L0+i+QCgQ==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210576,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 304,
+    "prompt_tokens": 1676,
+    "total_tokens": 1980,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 222,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002397,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002397,
+      "upstream_inference_prompt_cost": 0.001257,
+      "upstream_inference_completions_cost": 0.00114
+    }
+  },
+  "provider": "Google"
+}

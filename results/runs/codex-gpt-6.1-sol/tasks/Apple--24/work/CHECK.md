@@ -1,0 +1,3 @@
+[x] Find out the starting price for the most recent model of the iMac on the Apple website. https://www.apple.com/imac/ says “Now with M6”; https://www.apple.com/shop/buy-mac/imac says “New”, “iMac”, and “Buy from $1499”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts in view together and no overlay. final.png is the 1280×723 viewport of https://www.apple.com/shop/buy-mac/imac showing “New”, “iMac”, “Buy from $1499”, and the pre-order and availability dates; no dialog or banner covers the evidence.
+[x] Write the result and its evidence to ./ANSWER.txt. ANSWER.txt gives US$1,499, the M6 model, observation date, availability dates, Apple source URLs, and final.png.

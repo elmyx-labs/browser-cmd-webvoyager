@@ -1,0 +1,4 @@
+[x] Identify the latest machine learning model on Huggingface that specializes in detecting fake news. https://huggingface.co/models?sort=modified&search=fake-news — first result abir71/bangla-fake-news-bert, “Sort: Recently updated”; model card https://huggingface.co/abir71/bangla-fake-news-bert — “Bangla fake news classifier (fine-tuned Bangla BERT).”
+[x] Include the date of its last update, verified in the browser. The result's rendered time element: title="Tue, 27 Oct 2026 18:25:54 GMT" at https://huggingface.co/models?sort=modified&search=fake-news.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and decisive facts together with relevant filters, sorts and dates visible. Viewport screenshot from the sorted fake-news results, resized from 1440 to 1280 pixels wide.
+[x] Write the result and evidence to ./ANSWER.txt, starting with FINAL: . Done.

@@ -1,0 +1,5 @@
+[x] Look up the definition of the word "zeitgeist." — https://dictionary.cambridge.org/dictionary/english/zeitgeist: "the general set of ideas, beliefs, feelings, etc. that is typical of a particular period in history"; paraphrased in ANSWER.txt.
+[x] Look up the pronunciation of the word "zeitgeist." — same URL: UK and US each show /ˈtsaɪt.ɡaɪst/ and /ˈzaɪt.ɡaɪst/.
+[x] Look up examples of the word "zeitgeist." — same URL, "EXAMPLES of zeitgeist"; examples and source labels transcribed in NOTES.md and ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the word and deciding facts together, with no overlays. — Captured browser viewport, resized proportionally to 1280 × 723; inspected final.png only. The headword, both pronunciations, definition, and three corpus examples appear together.
+[x] Write the result and evidence to ./ANSWER.txt, first line starting FINAL:. — Complete, including source URL, access date, and final.png.

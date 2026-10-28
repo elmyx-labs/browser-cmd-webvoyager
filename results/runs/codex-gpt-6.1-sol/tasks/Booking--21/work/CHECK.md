@@ -1,0 +1,6 @@
+[x] Find a hotel in Sydney. https://www.booking.com/hotel/au/hyde-park-inn.html — "Hyde Park Inn", "271 Elizabeth Street, Sydney Central Business District, 2000 Sydney, Australia".
+[x] Rating of 8 or higher. Same source — "Rated: Very Good 8.2 – based on 5,828 reviews".
+[x] Providing free Wi-Fi and parking. Same source — "Wonderful free Wifi", "Free private parking", "Free parking is available on site."
+[x] Available for a four-night stay starting on July 10, 2027 (July 10–14, 2027). Property opened with checkin=2027-07-10&checkout=2027-07-14; "Price for 4 nights", "Standard Studio", "RSD 80,326", "We have 2 left".
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with hotel name, deciding facts, applied filters, sort and dates visible and no overlay. final.png is the genuine Booking.com results viewport at scroll y=100, resized proportionally to 874×1280; hotel, rating, four-night room availability, dates, checked Hotels/Parking/8+/Free Wifi filters and Our top picks sort visible. Source is Booking.com searchresults.html with July 10–14, 2027, Sydney, and nflt=ht_id%3D204%3Bhotelfacility%3D2%3Breview_score%3D80%3Bhotelfacility%3D107.
+[x] Write the result and evidence to ./ANSWER.txt. Completed; source URL and screenshot named.

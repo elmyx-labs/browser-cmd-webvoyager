@@ -1,0 +1,31 @@
+{
+  "id": "Huggingface--30",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify the most downloaded English-Chinese (en-zh) machine translation model on Huggingface and report its latest performance metrics and usage guidelines.",
+  "answer": "FINAL: Helsinki-NLP/opus-mt-en-zh is Hugging Face’s most downloaded dedicated English→Chinese (en-zh) translation model, with 73,986 downloads last month as observed on 27 October 2026. If multilingual models supporting this direction are included, the download leader is facebook/nllb-200-distilled-600M, with 968,642 downloads last month.\n\nDownload evidence\nHugging Face’s Translation listing, sorted by “Most downloads” with English and Chinese selected, shows NLLB first (969k rounded), and the dedicated Helsinki en-zh model at 74k. The higher-ranked Helsinki opus-mt-zh-en translates in the reverse direction. These are monthly repository download counts, not lifetime totals or counts of English→Chinese translations.\n[Filtered download ranking](https://huggingface.co/models?pipeline_tag=translation&language=en,zh&sort=downloads)\n[Dedicated-pair search, sorted by downloads](https://huggingface.co/models?pipeline_tag=translation&sort=downloads&search=en-zh)\n\nHelsinki-NLP/opus-mt-en-zh: performance and usage\n• The current model card reports BLEU 31.4 and chr-F 0.268 on Tatoeba-test.eng.zho. These are historical results for the checkpoint trained on 17 July 2020, still published on the current card; the repository’s displayed update date is 16 August 2023.\n• Use its pretrained tokenizer and sequence-to-sequence model through Transformers (AutoTokenizer and AutoModelForSeq2SeqLM), tokenize input, call model.generate, and decode with skip_special_tokens=True. Preprocessing is normalization plus SentencePiece (spm32k for source and target).\n• The card requires a sentence-initial target-language token, >>id<<. The repository vocabulary confirms >>cmn_Hans<< and >>cmn_Hant<<, allowing inputs such as “>>cmn_Hans<< Hello.” for Simplified Mandarin Chinese.\n• License: Apache-2.0. The current Hugging Face usage panel says the translation pipeline is unsupported in Transformers v5: load the model directly, or use Transformers v4.x for the older pipeline API.\n[Model card, exact downloads, benchmark and usage panel](https://huggingface.co/Helsinki-NLP/opus-mt-en-zh)\n[Verified target tokens](https://huggingface.co/Helsinki-NLP/opus-mt-en-zh/resolve/main/vocab.json)\n\nMultilingual download leader: facebook/nllb-200-distilled-600M\n• Its current card links the publisher’s checkpoint-specific FLORES-200 evaluation CSV: English→Simplified Chinese (eng_Latn-zho_Hans) chrF++ 19.6; English→Traditional Chinese (eng_Latn-zho_Hant) chrF++ 13.3. The repository displays an update date of 14 February 2024; that is not a new evaluation date. These scores are not directly comparable with Helsinki’s Tatoeba results.\n• Load AutoTokenizer with src_lang=\"eng_Latn\" and AutoModelForSeq2SeqLM. In generate(), set forced_bos_token_id=tokenizer.convert_tokens_to_ids(\"zho_Hans\") or \"zho_Hant\", then decode while skipping special tokens. Use direct loading with Transformers v5.\n• Follow the CC-BY-NC-4.0 noncommercial license. The card intends research and single-sentence translation, and says it is not released for production deployment. It excludes document, specialist medical/legal and certified translation. Training inputs did not exceed 512 tokens; longer inputs may degrade quality. Assess quality for your domain and language variety.\n[Model card and exact downloads](https://huggingface.co/facebook/nllb-200-distilled-600M)\n[Publisher-linked evaluation CSV](https://tinyurl.com/nllb200densedst600mmetrics)\n[Official inference instructions](https://huggingface.co/docs/transformers/model_doc/nllb)\n\nEvidence image: final.png shows the live filtered download ranking, both model names, rounded download counts, repository update dates and “Most downloads” sort together.",
+  "response": "The task was to identify the most downloaded English-Chinese / en-zh machine translation model on Hugging Face and report its latest performance metrics and usage guidelines.\n\nThe provided screenshot shows Hugging Face’s translation model listing filtered for English and Chinese and sorted by “Most downloads.” In that view, `facebook/nllb-200-distilled-600M` appears first with about 969k downloads, while `Helsinki-NLP/opus-mt-en-zh` appears lower with about 74k downloads. The response correctly acknowledges this distinction: it names NLLB as the overall multilingual download leader supporting English/Chinese, while identifying `Helsinki-NLP/opus-mt-en-zh` as the most downloaded dedicated English→Chinese model.\n\nThe response also provides performance metrics and usage guidance for the dedicated Helsinki model, including BLEU/chr-F, tokenizer/model usage, target-language token guidance, license, and Transformers usage notes. It additionally includes metrics and usage guidance for the NLLB multilingual model. Although most of these details are not visible in the screenshot, the evaluation instructions state that information in the result response may be accepted if not contradicted by the screenshot.\n\nOverall, the response addresses the ambiguity in the task and provides the requested model identification, metrics, and usage guidelines.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to identify the most downloaded English-Chinese / en-zh machine translation model on Hugging Face and report its latest performance metrics and usage guidelines. The provided screenshot shows Hugging Face’s translation model li",
+  "screenshots": [
+    "task_557/final.png"
+  ],
+  "raw_screenshot": "task_557/final.png",
+  "source_result": "task_557",
+  "usage": {
+    "completion_tokens": 788,
+    "prompt_tokens": 2463,
+    "total_tokens": 3251,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 11.94
+}

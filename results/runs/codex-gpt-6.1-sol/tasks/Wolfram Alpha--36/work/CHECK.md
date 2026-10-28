@@ -1,0 +1,3 @@
+[x] Determine the convergence or divergence of the series Σ (n=1 to ∞) of 1/(n^3 + 1). Evidence: WolframAlpha says “converges” and “integral | series converges” at https://www.wolframalpha.com/input?i=SumConvergence%5B1%2F%28n%5E3%2B1%29%2C+n%5D
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the series and deciding facts together without overlays. final.png is 1280 × 722; no filters, sorts, or dates apply.
+[x] Write the result and its evidence to ./ANSWER.txt with first line FINAL:. Completed with convergence result, comparison proof, source URL, and screenshot reference.

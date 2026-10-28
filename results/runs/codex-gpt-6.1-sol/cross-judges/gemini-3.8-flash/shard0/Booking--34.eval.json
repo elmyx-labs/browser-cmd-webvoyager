@@ -1,0 +1,41 @@
+{
+  "id": "Booking--34",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a hotel in Berlin available for a three-night stay from July 15 to July 18, 2027, for one adult. Tell me the price in USD and CNY for the three-night stay.",
+  "answer": "FINAL: Hotel Berlin, Berlin, a member of Radisson Individuals is available in Berlin for July 15–18, 2027, for 1 adult (3 nights, 1 room). The Cozy Small Room with 1 queen bed costs USD 359 or CNY 2,395 for the entire three-night stay, including taxes and fees, as displayed by Booking.com.\n\nEvidence: Booking.com showed “3 nights, 1 adult” for the same hotel and room in both currency settings. Screenshot: ./final.png (CNY view, with dates, occupancy and Hotels filter visible).\nUSD source: https://www.booking.com/searchresults.html?ss=Berlin&checkin=2027-07-15&checkout=2027-07-18&group_adults=1&group_children=0&no_rooms=1&selected_currency=USD&nflt=ht_id%3D204\nCNY source: https://www.booking.com/searchresults.html?ss=Berlin&checkin=2027-07-15&checkout=2027-07-18&group_adults=1&group_children=0&no_rooms=1&selected_currency=CNY&nflt=ht_id%3D204",
+  "response": "### Evaluation\n\nThe user requested a hotel search in Berlin for a three-night stay from July 15 to July 18, 2027, for one adult, requiring the total price in both USD and CNY. \n\nThe screenshot verifies the search parameters on Booking.com for Berlin across the specified dates and single-adult occupancy. The selected property, \"Hotel Berlin, Berlin, a member of Radisson Individuals,\" shows a total of CNY 2,395 for the three-night stay. The response supplies this exact figure along with the corresponding USD rate ($359) gathered from the USD query. All criteria specified in the instruction were met.\n\nSUCCESS",
+  "reason_short": "### Evaluation The user requested a hotel search in Berlin for a three-night stay from July 15 to July 18, 2027, for one adult, requiring the total price in both USD and CNY. The screenshot verifies the search parameters on Booking.com for ",
+  "screenshots": [
+    "task_232/final.png"
+  ],
+  "raw_screenshot": "task_232/final.png",
+  "source_result": "task_232",
+  "usage": {
+    "completion_tokens": 485,
+    "prompt_tokens": 1917,
+    "total_tokens": 2402,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 344,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0032565,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0032565,
+      "upstream_inference_prompt_cost": 0.00143775,
+      "upstream_inference_completions_cost": 0.00181875
+    }
+  },
+  "elapsed_seconds": 6.6
+}

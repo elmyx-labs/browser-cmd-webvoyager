@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--36",
+    "ques": "Identify 5 restaurants serving pizza near the 30309 zip code and rank them by their ratings.",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Five restaurants serving pizza near Atlanta ZIP code 30309, ranked by Google Maps rating (out of 5), checked October 27, 2026:\n\nRank | Restaurant | Rating | Google reviews | Address\n1 | Varasano's Pizzeria - Buckhead | 4.9 | 3,200 | 2171 Peachtree Rd NE, Unit 100\n2 (tie) | Antico Pizza Napoletana | 4.6 | 6,592 | 1093 Hemphill Ave NW\n2 (tie) | Varuni Napoli | 4.6 | 1,531 | 1540 Monroe Dr NE\n4 (tie) | Atwoods Pizza Cafe | 4.5 | 1,114 | 817 W Peachtree St NW, Ste A105\n4 (tie) | Night Owl Pizza- Midtown | 4.5 | 1,344 | 708 Spring St NW\n\nSelected from Google Maps results for “pizza near 30309,” then ranked by star rating; equal ratings share a rank. Maps labels four as pizza restaurants and describes Varuni Napoli as a “Busy spot for Neapolitan pizza.”\n\nSource: https://www.google.com/maps/search/pizza+near+30309/?hl=en\nEvidence: final.png shows all five restaurant names, ratings, review counts and addresses alongside the search query.",
+    "result_text": "FINAL: Five restaurants serving pizza near Atlanta ZIP code 30309, ranked by Google Maps rating (out of 5), checked October 27, 2026:\n\nRank | Restaurant | Rating | Google reviews | Address\n1 | Varasano's Pizzeria - Buckhead | 4.9 | 3,200 | 2171 Peachtree Rd NE, Unit 100\n2 (tie) | Antico Pizza Napoletana | 4.6 | 6,592 | 1093 Hemphill Ave NW\n2 (tie) | Varuni Napoli | 4.6 | 1,531 | 1540 Monroe Dr NE\n4 (tie) | Atwoods Pizza Cafe | 4.5 | 1,114 | 817 W Peachtree St NW, Ste A105\n4 (tie) | Night Owl Pizza- Midtown | 4.5 | 1,344 | 708 Spring St NW\n\nSelected from Google Maps results for “pizza near 30309,” then ranked by star rating; equal ratings share a rank. Maps labels four as pizza restaurants and describes Varuni Napoli as a “Busy spot for Neapolitan pizza.”\n\nSource: https://www.google.com/maps/search/pizza+near+30309/?hl=en\nEvidence: final.png shows all five restaurant names, ratings, review counts and addresses alongside the search query.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_483/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_483",
+  "elapsed_seconds": 138.59127402305603,
+  "execution_error": null,
+  "proxy_bytes": null
+}

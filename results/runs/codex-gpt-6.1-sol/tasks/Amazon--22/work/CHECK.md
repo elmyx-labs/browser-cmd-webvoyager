@@ -1,0 +1,5 @@
+[x] Search for a set of non-stick, oven-safe cookware on Amazon. https://www.amazon.com/dp/B07CZH2GY9 — “Blue Diamond 10 Piece Ceramic Nonstick Cookware Pots & Pans Set, Blue”; subtitle “Dishwasher & Oven Safe to 600F.” Product Description confirms cookware safe to 600°F and glass lids to 425°F.
+[x] The set should include at least 10 pieces. Same URL — selected “10 Piece Cookware Set”; five pots/pans, three lids, and two utensils.
+[x] The set should be priced under $150. Same URL — displayed item price “$109.99”, before shipping/import charges/tax.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and deciding facts together, without overlays. final.png is the 1280x723 resized browser viewport, showing name, ceramic nonstick, oven safety to 600F, price and selected size together. No filters, sorts or dates were requested or applied.
+[x] Write the result and its evidence to ./ANSWER.txt. File saved with FINAL: first line, result, date, qualifying facts, source URL and evidence filename.

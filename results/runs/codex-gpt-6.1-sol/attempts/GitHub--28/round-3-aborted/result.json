@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--28",
+    "ques": "Identify the most starred JavaScript repositories on GitHub that were created after 2023-12-29.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: polyfillpolyfill/fetch leads with 684 stars. The ten most-starred JavaScript repositories created after 2023-12-29 shown by GitHub are:\n\n1. polyfillpolyfill/fetch — 684 stars\n2. polyfillpolyfill/polyfill-library — 674 stars\n3. addyosmani/firew0rks — 574 stars\n4. Hextoca/HCalendar — 455 stars\n5. iamzifei/bookmark-is-learned — 366 stars\n6. Explosion-Scratch/firebuilder — 339 stars\n7. popovicu/ultimate-linux — 327 stars\n8. irony/aspipes — 325 stars\n9. Onezyh/Worker-Vless-2-SUB — 314 stars\n10. invisal/sqlite-internal — 309 stars\n\nEvidence: GitHub repository search, language:JavaScript created:>2023-12-29, sorted by “Most stars” in descending order, checked on 2026-10-28. The equivalent date filter created:>=2023-12-30 returned the same ranking.\nSource: https://github.com/search?q=language%3AJavaScript+created%3A%3E2023-12-29&type=repositories&s=stars&o=desc\nScreenshot: final.png shows the applied search, Most stars sort, and leading results.",
+    "result_text": "FINAL: polyfillpolyfill/fetch leads with 684 stars. The ten most-starred JavaScript repositories created after 2023-12-29 shown by GitHub are:\n\n1. polyfillpolyfill/fetch — 684 stars\n2. polyfillpolyfill/polyfill-library — 674 stars\n3. addyosmani/firew0rks — 574 stars\n4. Hextoca/HCalendar — 455 stars\n5. iamzifei/bookmark-is-learned — 366 stars\n6. Explosion-Scratch/firebuilder — 339 stars\n7. popovicu/ultimate-linux — 327 stars\n8. irony/aspipes — 325 stars\n9. Onezyh/Worker-Vless-2-SUB — 314 stars\n10. invisal/sqlite-internal — 309 stars\n\nEvidence: GitHub repository search, language:JavaScript created:>2023-12-29, sorted by “Most stars” in descending order, checked on 2026-10-28. The equivalent date filter created:>=2023-12-30 returned the same ranking.\nSource: https://github.com/search?q=language%3AJavaScript+created%3A%3E2023-12-29&type=repositories&s=stars&o=desc\nScreenshot: final.png shows the applied search, Most stars sort, and leading results.",
+    "is_error": true,
+    "timed_out": true
+  },
+  "browser_artifacts": {
+    "screenshot": "task_10/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_10",
+  "elapsed_seconds": 900.9389951229095,
+  "execution_error": "planner_timeout",
+  "proxy_bytes": 2663423
+}

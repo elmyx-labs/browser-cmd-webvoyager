@@ -1,0 +1,31 @@
+{
+  "id": "GitHub--34",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for an open-source project on GitHub related to 'Protein prediction' and identify the project with the highest number of forks.",
+  "answer": "FINAL: kexinhuang12345/DeepPurpose — 307 forks.\nOn October 28, 2026, it ranked first in GitHub's repository search for “Protein prediction” sorted by “Most forks.” Its description includes Protein Function Prediction, and the repository lists a BSD-3-Clause license.\nSearch evidence: https://github.com/search?q=Protein+prediction&type=repositories&s=forks&o=desc\nFork count and license: https://github.com/kexinhuang12345/DeepPurpose\nScreenshot: final.png (repository name, description, and Fork 307). GitHub displays the search sort and repository fork count on separate pages, so both could not be included together in this single viewport screenshot.",
+  "response": "The task was to search GitHub for an open-source project related to “Protein prediction” and identify the project with the highest number of forks.\n\nThe result identifies **kexinhuang12345/DeepPurpose** with **307 forks**. The screenshot supports several key parts of this:\n\n- The repository shown is **kexinhuang12345/DeepPurpose**.\n- It is a public GitHub repository.\n- The “About” section describes it as related to **Protein Function Prediction**, among other bioinformatics tasks.\n- The screenshot shows the repository has **307 forks**.\n- A license file is visible, and the response states it has a **BSD-3-Clause license**, supporting that it is open-source.\n\nThe screenshot does not show the GitHub search results sorted by “Most forks,” but the result response explicitly states that this repository ranked first for the search query “Protein prediction” sorted by forks, and provides the search URL. There is no contradiction between the screenshot and the response.\n\nTherefore, the task appears to have been completed as requested.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The task was to search GitHub for an open-source project related to “Protein prediction” and identify the project with the highest number of forks. The result identifies **kexinhuang12345/DeepPurpose** with **307 forks**. The screenshot sup",
+  "screenshots": [
+    "task_401/final.png"
+  ],
+  "raw_screenshot": "task_401/final.png",
+  "source_result": "task_401",
+  "usage": {
+    "completion_tokens": 471,
+    "prompt_tokens": 1737,
+    "total_tokens": 2208,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 242,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.68
+}

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--22",
+    "ques": "Identify a Specialization on Coursera that focuses on 'Human Resource', list the courses included in this Specialization, and the institution offering it.",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Human Resource Management: HR for People Managers Specialization — offered by the University of Minnesota on Coursera.\n\nThe specialization includes five courses:\n1. Preparing to Manage Human Resources\n2. Recruiting, Hiring, and Onboarding Employees\n3. Managing Employee Performance\n4. Managing Employee Compensation\n5. Human Resources Management Capstone: HR for People Managers\n\nEvidence: Coursera's specialization page lists these as Courses 1–5 and states “Offered by University of Minnesota.” The screenshot final.png shows the specialization title, all five courses, and the offering institution together.\nSource: https://www.coursera.org/specializations/human-resource-management\nAccessed: October 27, 2026.",
+    "result_text": "FINAL: Human Resource Management: HR for People Managers Specialization — offered by the University of Minnesota on Coursera.\n\nThe specialization includes five courses:\n1. Preparing to Manage Human Resources\n2. Recruiting, Hiring, and Onboarding Employees\n3. Managing Employee Performance\n4. Managing Employee Compensation\n5. Human Resources Management Capstone: HR for People Managers\n\nEvidence: Coursera's specialization page lists these as Courses 1–5 and states “Offered by University of Minnesota.” The screenshot final.png shows the specialization title, all five courses, and the offering institution together.\nSource: https://www.coursera.org/specializations/human-resource-management\nAccessed: October 27, 2026.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_304/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_304",
+  "elapsed_seconds": 73.05876803398132,
+  "execution_error": null,
+  "proxy_bytes": null
+}

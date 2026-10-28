@@ -1,0 +1,5 @@
+[x] Find a popular quinoa salad recipe on Allrecipes with more than 500 reviews and a rating above 4 stars. Evidence: https://www.allrecipes.com/recipe/229156/zesty-quinoa-salad/ — “Easy Quinoa Salad”, “4.8”, “1,136 Reviews”, “(1,544)”.
+[x] Create a shopping list of ingredients for this recipe. Evidence: same URL, “Original recipe (1X) yields 6 servings” and Ingredients list transcribed in NOTES.md and ANSWER.txt.
+[x] Include the total cooking and preparation time. Evidence: same URL — “Prep Time: 15 mins”, “Cook Time: 15 mins”, “Total Time: 30 mins”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the recipe name, rating and review count visible together and no overlay. Evidence: final.png, 1280 × 723; Allrecipes recipe heading and rating/review row are visible. No filters, sort or date restriction applied.
+[x] Write the final answer to ./ANSWER.txt with result and evidence. Evidence: ANSWER.txt contains the qualifying recipe, complete ingredients and quantities, preparation/cooking/total time, source URL, dates, and screenshot reference.

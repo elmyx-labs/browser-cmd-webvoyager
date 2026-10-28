@@ -1,0 +1,3 @@
+[x] Show the blood relationship fraction between you and your father's mother's sister's son. URL: https://www.wolframalpha.com/input?i=father%27s+mother%27s+sister%27s+son — “first cousin once removed”; “blood relationship fraction | 1/32=3.125%”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts together and no overlay. final.png: 1280 x 723; interpreted family chain, relationship, and blood relationship fraction visible together.
+[x] Write the result and its evidence to ./ANSWER.txt. FINAL: 1/32 (3.125%), with source URL and final.png.

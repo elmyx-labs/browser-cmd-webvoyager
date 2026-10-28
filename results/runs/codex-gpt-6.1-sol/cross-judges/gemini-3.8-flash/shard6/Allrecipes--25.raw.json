@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209909-u3nLIOi30f5JfNWnqI49",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user instructed to find a popular quinoa salad recipe on Allrecipes that has more than 500 reviews and a rating above 4 stars, create a shopping list of ingredients for it, and include the total cooking and preparation time.\n\n1. **Recipe & Criteria**: The screenshot shows \"Easy Quinoa Salad\" on Allrecipes with a 4.8-star rating (above 4 stars) and 1,136 reviews (above 500 reviews).\n2. **Shopping List**: A detailed ingredient list is provided in the final response.\n3. **Cooking and Prep Time**: The response specifies 15 minutes preparation time, 15 minutes cooking time, and 30 minutes total time.\n\nAll elements of the task have been successfully fulfilled.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching Recipe Parameters**\n\nI am currently sifting through Allrecipes, aiming to pinpoint a quinoa salad that meets the criteria: over 500 reviews and a 4-star rating. Once I locate a suitable candidate, I'll proceed to compile the ingredient list and note the estimated prep and cook times.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching Recipe Parameters**\n\nI am currently sifting through Allrecipes, aiming to pinpoint a quinoa salad that meets the criteria: over 500 reviews and a 4-star rating. Once I locate a suitable candidate, I'll proceed to compile the ingredient list and note the estimated prep and cook times.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209909,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 533,
+    "prompt_tokens": 1884,
+    "total_tokens": 2417,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 369,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00341175,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00341175,
+      "upstream_inference_prompt_cost": 0.001413,
+      "upstream_inference_completions_cost": 0.00199875
+    }
+  },
+  "provider": "Google"
+}

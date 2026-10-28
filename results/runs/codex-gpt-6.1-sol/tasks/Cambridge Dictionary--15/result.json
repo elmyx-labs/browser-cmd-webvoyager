@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Cambridge Dictionary",
+    "id": "Cambridge Dictionary--15",
+    "ques": "Find the pronunciation and a sample sentence for the word \"pandemic.\"",
+    "web": "https://dictionary.cambridge.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: pandemic — UK and US pronunciation: /pænˈdem.ɪk/ (pan-DEM-ik). Sample sentence: “In some parts of the world malaria is still pandemic.” Source: Cambridge Dictionary, https://dictionary.cambridge.org/dictionary/english/pandemic. Evidence: final.png.",
+    "result_text": "FINAL: pandemic — UK and US pronunciation: /pænˈdem.ɪk/ (pan-DEM-ik). Sample sentence: “In some parts of the world malaria is still pandemic.” Source: Cambridge Dictionary, https://dictionary.cambridge.org/dictionary/english/pandemic. Evidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_257/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_257",
+  "elapsed_seconds": 67.43878293037415,
+  "execution_error": null,
+  "proxy_bytes": 14162026
+}

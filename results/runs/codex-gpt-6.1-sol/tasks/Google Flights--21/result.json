@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Flights",
+    "id": "Google Flights--21",
+    "ques": "Locate the lowest-priced one-way flight from Tokyo to Sydney for an adult, departing o6 July 25, 2027, and include the flight duration and number of layovers.",
+    "web": "https://www.google.com/travel/flights/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Vietjet is the lowest-priced Google Flights result for 1 adult, one-way Economy, Tokyo to Sydney on July 25, 2027: RSD 30,423 listed. Selecting the flight updates the total to RSD 35,006 (¥52,369, including the ¥570 convenience fee). Total duration: 21 hr 25 min. Layovers: 1, lasting 7 hr in Ho Chi Minh City (SGN).\n\nDeparts Tokyo Narita (NRT) at 8:55 AM on July 25; arrives Sydney (SYD) at 7:20 AM on July 26. Flights: VJ 823 and VJ 85. Times are local.\n\nEvidence: final.png shows the Cheapest tab, price sorting, one-way/1-passenger/Economy settings, July 25 departure, and the lowest result with its fare, duration and stop count. The passenger selector confirmed 1 adult and no children or infants. Google Flights' itinerary page supplied the updated total.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI3LTA3LTI1agwIAxIIL20vMDdkZmtyDAgDEggvbS8wNnk1N0ABSAFwAYIBCwj___________8BmAEC&tfu=EgYIAiACKAMiAA",
+    "result_text": "FINAL: Vietjet is the lowest-priced Google Flights result for 1 adult, one-way Economy, Tokyo to Sydney on July 25, 2027: RSD 30,423 listed. Selecting the flight updates the total to RSD 35,006 (¥52,369, including the ¥570 convenience fee). Total duration: 21 hr 25 min. Layovers: 1, lasting 7 hr in Ho Chi Minh City (SGN).\n\nDeparts Tokyo Narita (NRT) at 8:55 AM on July 25; arrives Sydney (SYD) at 7:20 AM on July 26. Flights: VJ 823 and VJ 85. Times are local.\n\nEvidence: final.png shows the Cheapest tab, price sorting, one-way/1-passenger/Economy settings, July 25 departure, and the lowest result with its fare, duration and stop count. The passenger selector confirmed 1 adult and no children or infants. Google Flights' itinerary page supplied the updated total.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI3LTA3LTI1agwIAxIIL20vMDdkZmtyDAgDEggvbS8wNnk1N0ABSAFwAYIBCwj___________8BmAEC&tfu=EgYIAiACKAMiAA",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_427/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_427",
+  "elapsed_seconds": 204.53824830055237,
+  "execution_error": null,
+  "proxy_bytes": null
+}

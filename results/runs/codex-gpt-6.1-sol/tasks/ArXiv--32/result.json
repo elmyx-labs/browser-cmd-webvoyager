@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ArXiv",
+    "id": "ArXiv--32",
+    "ques": "Locate the latest paper on ArXiv within the 'Nonlinear Sciences - Chaotic Dynamics' category, summarize the abstract and note the submission date.",
+    "web": "https://arxiv.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The latest new paper listed with Nonlinear Sciences > Chaotic Dynamics (nlin.CD) as its primary category is “Revisiting entropy and entropy-related magnitudes of a symbolic sequence and their estimation” by Efren Aragon-Perez and colleagues (arXiv:2610.35121).\n\nSubmission date: 26 October 2026, at 09:58:46 UTC (version 1). It is the first primary-category entry in ArXiv’s Chaotic Dynamics listing dated 27 October 2026.\n\nAbstract summary: The paper reviews entropy and related measures for sequential data, connecting Shannon entropy, algorithmic complexity and ergodic theory. It explains how Lempel–Ziv factorisation estimates entropy density and presents finite-sequence methods for complexity and transfer entropy. An open-source parallel implementation is illustrated through applications to brain connectivity, coupled nonlinear oscillators and atrial-fibrillation classification from ECG data.\n\nSources: https://arxiv.org/list/nlin.CD/recent and https://arxiv.org/abs/2610.35121\nEvidence: final.png shows the paper’s title, category, abstract and submission history.",
+    "result_text": "FINAL: The latest new paper listed with Nonlinear Sciences > Chaotic Dynamics (nlin.CD) as its primary category is “Revisiting entropy and entropy-related magnitudes of a symbolic sequence and their estimation” by Efren Aragon-Perez and colleagues (arXiv:2610.35121).\n\nSubmission date: 26 October 2026, at 09:58:46 UTC (version 1). It is the first primary-category entry in ArXiv’s Chaotic Dynamics listing dated 27 October 2026.\n\nAbstract summary: The paper reviews entropy and related measures for sequential data, connecting Shannon entropy, algorithmic complexity and ergodic theory. It explains how Lempel–Ziv factorisation estimates entropy density and presents finite-sequence methods for complexity and transfer entropy. An open-source parallel implementation is illustrated through applications to brain connectivity, coupled nonlinear oscillators and atrial-fibrillation classification from ECG data.\n\nSources: https://arxiv.org/list/nlin.CD/recent and https://arxiv.org/abs/2610.35121\nEvidence: final.png shows the paper’s title, category, abstract and submission history.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_152/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_152",
+  "elapsed_seconds": 132.9046561717987,
+  "execution_error": null,
+  "proxy_bytes": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210427-LSS9qrcg5qC7bdkzdsgo",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task requires searching for round-trip flights from Helsinki to New Delhi departing on July 28, 2027, and returning on August 4, 2027, with a filter applied to show only flights under $1,000.\n\nThe screenshot and result response show:\n- Route: Helsinki (HEL) to New Delhi (DEL), Round trip.\n- Dates: Wed, Jul 28 to Wed, Aug 4 (2027).\n- Price Filter: \"up to $999\" applied, showing flights under $1000 ($723, $725, $747, $988).\n\nAll requirements of the prompt have been met.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Flight Search Parameters**\n\nI'm currently processing the initial flight search criteria. The origin and destination are confirmed as Helsinki and New Delhi respectively, and I'm preparing to input the specific travel dates and the price ceiling.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Flight Search Parameters**\n\nI'm currently processing the initial flight search criteria. The origin and destination are confirmed as Helsinki and New Delhi respectively, and I'm preparing to input the specific travel dates and the price ceiling.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+2Qy0ZVq4nHqud8PRbPIp1AIWB7yIfEsSZ44E8QymbbDRNaGCEH+XHwMbDLpq+L/D8Bzn6jd8V6uGEzuoTQjkkUGz6cic9r7BhHaNYoui6Eo1FMzfSyAbVWRkA5sl100zbH/ng8bCPmu7eG7Fm47IdPIJA2M8j+5qBHHsE2QZI+etq4ZiZk88lNscLqAJoGHpVRuiVEYaq5AG4LpsyaepXJVCp0vMILnUglIbE8Zh0McpCFF43uxyPTvSY8EO5ZcHJI0REKJi7hAh+unt42Wl8BTFtYcoY6lVtOvF/OS40c3igrXWpz38yiGQjmgtebEjvjIvYHENgED+HlErCkTqxr6Y9f5C9fwHmG33HsUhDlbjA6ErKDmh9ILNgmbYe9a2eTh0F6HUWX9rdN750dlu9fyHTOoqanDYPQ31l+gycHrwST7eTepT+x1arzBQA9Be4cn9PW/20UYCD6un+X3qFivRT6SnjyvSBuJ5Ulu3c/XZsfG/nrqwcIxW3JQBpKeYxQiTvYM7VF/9WhL5SkChX2vCsjHsIVxPw3YyZUPNilvWTmcan/vdkkgJQ2VJXPDsv3JqQfbuJY2TMOoTOIqwPZ5mo5SokmAvawCj19grXj8aX6ms721N32WqTIipB1g4ZFdKJiCrTKc5/J6VOFRos3szxVGrGSOozVfnSVrggIdGZ4PP8H4xoLY0RzIFNvj1vLSTZujsdgO5AvAYdMUeJiWCjypX57MWG4GD4A5cqkEbkrRRTs1IlqDUvTfaUiw64zsEPDcs48bBg3nHtHAgS5NE7Nq5AZrQshtjbscJj816GgsgCgnpzaJi+8qjwdNHz8jdrqKIvuPqU+8OR0chVwCrIiJWPo2QQPJUySygXl29Fdy0LFchj9jCl7eoWzdZJHsBPuBJwGKyMmeYxpqvPx7PXHK0cVE6I4GRIhaj0vGYKhFa0w/aPgPSvUvxZuknc2FvUd6uURKI3aUlyZunS3C/f34exoidcVYsP6dAey7NPD17lth83HPrCJEFy2IPLppeKOMHwgiodVYAdP+oSErE0GaYMh2tXJMHfdSjGSUVqYd7P1/YkaHihZ9yfY8foi6EiZuUjtMY161d+RpBhzCa37+SMwE+j+Lc0+pqGk/08HSe6Qs21cZyB29hFIs952yQMZN1tHtEDtlYNQfY5dcXcA0/7BUwQuTnB8PtCh1fMFWI5FD4P8+T++diTOBp5F2N1OGWthrfzuf0ODstGktiHMPMqNgN3mpT7O1Dc+Nof77X1XeOFTVQebShPfogoKd3yunbbgz4zNiE+Nc51CWb1WRCio+aheXjO+A==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210427,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 405,
+    "prompt_tokens": 1840,
+    "total_tokens": 2245,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 247,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00289875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00289875,
+      "upstream_inference_prompt_cost": 0.00138,
+      "upstream_inference_completions_cost": 0.00151875
+    }
+  },
+  "provider": "Google"
+}

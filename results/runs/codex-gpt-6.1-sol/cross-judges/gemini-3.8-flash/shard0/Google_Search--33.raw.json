@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210571-y1ksiqfPwh7D1ypORydx",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find and copy the SHA of the latest commit in the TensorFlow repository on GitHub, paste it into a textbox, and state what the SHA is.\n\n- The screenshot shows the latest commit page for `tensorflow/tensorflow` on the `master` branch.\n- The full commit SHA (`87a97a3655fdf006ac1e9b7a6a41fec45022fe3c`) is visible pasted into the filter files textbox.\n- The result response accurately reports the full SHA and explains the actions taken.\n\nTherefore, all requirements of the task have been successfully fulfilled.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Latest Commit**\n\nI am currently focused on locating the SHA of the most recent commit within the TensorFlow GitHub repository. My progress involves navigating to the main repository page and identifying the commit history section.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Latest Commit**\n\nI am currently focused on locating the SHA of the most recent commit within the TensorFlow GitHub repository. My progress involves navigating to the main repository page and identifying the commit history section.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a193SRkFh0npHKltzQqR0xq3/B26F+p6jvM3Sd6KwsDEujP1JaL7Z9UWg8/rC7yOB0Z1ViM0OFrf6KgLk5hQBcQqEVMzCnyUWY/Nnd8xDpGC+dze8XLljgQBQ1Btzul/VLruBibec5KzJzhFKYsOGs6MXZHqhwUxEGRxUsMWMlDnW74wIzyfEdYNYz5J0/fLdGxDtSSmSVJcLEc3XQv/kjLZ+cKLf3H5fxZaZkPc7+10G3UuDCSNB57BeNsK34vtGvQwHGOh+ODCtdFEcm3MyL//R+SEFn+Ck1+RcMN6zmWNv226Ur3BmdNAmeHENwqW1T0cvxixoCy/gh4AMXpaK7siYXhu4inrdpwV7SrkbDe/htbrnuYi7CpLh1dk35+b304NUXHpvsGzQfoI9pYip0FnzwNSYvvQ8BKQbQm564d+8jGQNFiyTBqZv+U0DwQgtjJHv2sk9vXnOB3kNnZzVauqGYDbt8nf4Fysh4/8t/f4YVgns0ppoTIA7yj+jUIpMkRVZNWQkTjJELod4Dg8acX4tGGGZqPBTds1f52LFR/qj4FU6a0Qj6T+LWmvzAKb3d0Aoj5jQm2egQoI9vEXJpQ8ga8ONcsQeAdBV+/a1KYScBIlBD26nw4By78suiR5OZUKkABPZKjtsLOKccPoIcEaF0Khl58Bl8jt8cTZanbhszuDVuT5sN6cjpVU0sGs9njX5p2LyLB5wsWezhdJOXrVFbtx6UE33fh0ZWeydBsMfkZYyc2FmSEaZaTWDIc4FYZS+xI8BYwPukYdVfeEUtcHPUDPzbdod7MWkq4Ze/O65Z3fAY5BR1wal1ZWKeO1xuqNlIAmSvfkcwnGncnVbCRNl+yiuLNHovpN4ASuvK41oXS/7/4aEjHPkKSVCVXNiXsgmt2F6S5y5UVqjlIRGFT8cy7Du6ImK2LTo7CJ4vyjbLnT+LXfFsSgkkWLhYPyOT0Tmgd1Rwyo71fjO9Yp605eHIySRqINwh8c3gP24ApW7EVUqiXsciAxvu2hCwchTriz9jDf5gTeIGMzv/eqyiIJmYrh29Ku8QVRM2aVG3ooK289kZcGHhoC1mTVRbrBxj2/S5MtCCj5eQKMrjLOQgF6ocdobQ/VfWg0oKQJtCgxwxqUutzMsrnSj8kuIV4vuHOmPfDPyJTM4shVdk9GN0N0U23sG9Ho2XCM4ViF5/hP4sO/I+CVneUMTFtJ57KDAf9eauDHBV4Wunh/KQRetg4ZIYAub32J1Uebn+xQbRJljDzk95m/Eod6t1k3uLdlxz4i72baWHid1rbLslIQafE/V+14hCo2PRFLpVFpj03RnvMcbDjv4N7Nl0eKbxP08yCWNMoqFBe5/siLTve8HxuCrRjXX7/IkSxdAWINVbZ1y/+Hs62PtZTB38jBvNEZyjKY/5hz+3WtEqjAeB5INn6L9IusVUbUstuaUvEdJnwmmjzLZTvM23i1KOzxT1N0ZlIGREBAd51edM2WlwzP5Qi7S0JaR8V1OAzO1AHoLi7YDXlDDb8J2e2paOGEiJZmhOIRW7u9Nyxox99L0lJWQ7eMBefbvnSx1/7qQpV++2+je2FmJjRkHIh1HLNIphgG0iLjx3smbdTbemJIjjxcbgfhsqM/R8LLKZDNwKD50eFuEen/8aeD4KCjPvvSBMXSqzp6nqNO6A==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210571,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 448,
+    "prompt_tokens": 1783,
+    "total_tokens": 2231,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 309,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00301725,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00301725,
+      "upstream_inference_prompt_cost": 0.00133725,
+      "upstream_inference_completions_cost": 0.00168
+    }
+  },
+  "provider": "Google"
+}

@@ -1,0 +1,8 @@
+Google Flights search: PHX–MIA, July 7–10, 2027, Round trip, 1 passenger, First, price up to $2,000, USD.
+URL: https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTA3LTA3agcIARIDUEhYcgcIARIDTUlBGh4SCjIwMjctMDctMTBqBwgBEgNNSUFyBwgBEgNQSFhAAUgEYNAPcAGCAQsI____________AZgBAQ&tfu=EgYIABAAGAA&curr=USD
+Words: 'First', 'up to $2,000', '15 results returned.', 'From 1357 US dollars round trip total' United 6 AM–3:29 PM via DEN (50 min), 6 hr 29 min. United 8:30 AM–6:05 PM via IAH (1 hr 38 min), 6 hr 35 min, also $1,357 round trip. Delta 7:25 PM–6:08 AM +1 via SLC 1 hr 25 min, $1,428 round trip. American 12:18 PM–9:58 PM via IAH 1 hr 15 min, $1,987 round trip.
+Year chosen as next occurrence because browser date is October 27, 2026.
+Verified booking summary: 'Round tripFirst Class', '$1,357 Lowest total price'. Outbound UA1395 PHX–DEN 6:00–8:45 AM, UA1418 DEN–MIA 9:35 AM–3:29 PM. Return UA2106 MIA–ORD 4:06–6:31 PM, UA602 ORD–PHX 7:45–9:44 PM. Each expanded segment says UnitedFirst Class.
+Booking fare cards: Base First $1,357 ('Cheapest option matching your search'), First $1,517, First Fully Refundable $1,857. Economy Plus $1,217 says 'Not included: First' and is excluded from final answer.
+Correction to preliminary airline-minimum note: another American departure at 8:54 AM was shown at $1,706; the $1,987 option was not its minimum. Final answer focuses on the verified United round trip and the Delta option visible in final.png.
+Final screenshot refreshed after returning from booking: final.png shows all applied filters and dates without a tooltip; resized with sips to 1280 pixels long side.

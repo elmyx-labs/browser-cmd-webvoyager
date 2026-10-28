@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210362-gQROgBe5JHI6NJvWMEaG",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task required finding a Ruby repository on GitHub that has been updated in the past 3 days and has at least 1,000 stars.\n\nBased on the provided screenshot and response:\n- The repository `typhoeus/typhoeus` is identified.\n- It uses the language **Ruby**.\n- It has **4.1k stars** (>= 1,000 stars).\n- It was updated **14 seconds ago** (well within the past 3 days).\n\nAll criteria of the instruction have been successfully met.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching Repositories Swiftly**\n\nI've narrowed down the GitHub search to Ruby repositories updated within the last three days. The results are now being filtered to identify those with at least 1000 stars, progressing towards the target repository.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching Repositories Swiftly**\n\nI've narrowed down the GitHub search to Ruby repositories updated within the last three days. The results are now being filtered to identify those with at least 1000 stars, progressing towards the target repository.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210362,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 498,
+    "prompt_tokens": 1855,
+    "total_tokens": 2353,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 377,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00325875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00325875,
+      "upstream_inference_prompt_cost": 0.00139125,
+      "upstream_inference_completions_cost": 0.0018675
+    }
+  },
+  "provider": "Google"
+}

@@ -1,0 +1,6 @@
+Search: https://www.coursera.org/search?query=3d%20printing&productDuration=1-3%20Months&productDifficultyLevel=Beginner&sortBy=BEST_MATCH
+Filters: 1-3 Months; Beginner. Several courses from UIUC and Michigan appear.
+3D Printing Software: https://www.coursera.org/learn/3d-printing-software ; course page says Beginner level, No prior experience required, 2 weeks at 10 hours a week. Search category says 1-3 Months. Checking other candidates to find a clear 1+ month weekly estimate.
+Rapid Prototyping Using 3D Printing: https://www.coursera.org/specializations/rapid-prototyping-using-3d-printing ; 'Beginner level'; '4 weeks to complete at 10 hours a week'; '3 course series'; Offered by 'Arizona State University'. Filtered search card says 'Beginner · Specialization · 1 - 3 Months'.
+University reputation: https://www.asu.edu/about/rankings ; university reports '#1 in the U.S. for innovation', U.S. News & World Report, 2016–27.
+Updated selection: Introduction to 3D Printing with Metals, University of Michigan. Filtered Coursera search explicitly shows '4.8 stars, 21 reviews, Beginner, Course, 1 - 3 Months'. Courses, Beginner, 1-3 Months filters applied. https://www.coursera.org/search?query=3d%20printing&productDifficultyLevel=Beginner&productDuration=1-3%20Months&productTypeDescription=Courses&sortBy=BEST_MATCH

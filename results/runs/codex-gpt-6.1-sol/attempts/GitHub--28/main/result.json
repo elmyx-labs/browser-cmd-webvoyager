@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--28",
+    "ques": "Identify the most starred JavaScript repositories on GitHub that were created after 2023-12-29.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The top three JavaScript repositories created after 2023-12-29, ranked by GitHub's “Most stars” sort, are:\n\n1. polyfillpolyfill/fetch — 684 stars\n   https://github.com/polyfillpolyfill/fetch\n2. polyfillpolyfill/polyfill-library — 674 stars\n   https://github.com/polyfillpolyfill/polyfill-library\n3. texel-org/color — 535 stars\n   https://github.com/texel-org/color\n\nChecked on 2026-10-28. Scope chosen: the first three results.\nEvidence: GitHub repository search for language:JavaScript created:>2023-12-29, sorted by Most stars (descending).\nSource: https://github.com/search?q=language%3AJavaScript+created%3A%3E2023-12-29&type=repositories&s=stars&o=desc\nScreenshot: final.png, a genuine viewport resized to 1280 × 723 pixels, shows the names, JavaScript language labels, star counts and Most stars sort. The applied creation-date query could not be made visible alongside the results without opening the search dialog; it is recorded in the source URL.",
+    "result_text": "FINAL: The top three JavaScript repositories created after 2023-12-29, ranked by GitHub's “Most stars” sort, are:\n\n1. polyfillpolyfill/fetch — 684 stars\n   https://github.com/polyfillpolyfill/fetch\n2. polyfillpolyfill/polyfill-library — 674 stars\n   https://github.com/polyfillpolyfill/polyfill-library\n3. texel-org/color — 535 stars\n   https://github.com/texel-org/color\n\nChecked on 2026-10-28. Scope chosen: the first three results.\nEvidence: GitHub repository search for language:JavaScript created:>2023-12-29, sorted by Most stars (descending).\nSource: https://github.com/search?q=language%3AJavaScript+created%3A%3E2023-12-29&type=repositories&s=stars&o=desc\nScreenshot: final.png, a genuine viewport resized to 1280 × 723 pixels, shows the names, JavaScript language labels, star counts and Most stars sort. The applied creation-date query could not be made visible alongside the results without opening the search dialog; it is recorded in the source URL.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_395/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_395",
+  "elapsed_seconds": 257.6826241016388,
+  "execution_error": null,
+  "proxy_bytes": 15694832
+}

@@ -1,0 +1,4 @@
+- [x] Find the paper 'GPT-4 Technical Report'. https://arxiv.org/abs/2303.08774v3 — heading “GPT-4 Technical Report”.
+- [x] When was v3 submitted? Same source — “[v3] Mon, 27 Mar 2023 17:46:54 UTC (4,016 KB)”.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts visible together. final.png is 1280 × 723; title and Submission history are visible, with no overlay.
+- [x] Write the result and its evidence to ./ANSWER.txt. Written with result, exact evidence, source URL and screenshot filename.

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Huggingface",
+    "id": "Huggingface--19",
+    "ques": "Explore and summarize the features of the most recent open-source NLP model released by Hugging Face for English text summarization.",
+    "web": "https://huggingface.co/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Mouserat/titlerat (titlerat v1) is the newest model in Hugging Face’s English + Summarization listing sorted by Recently created, checked October 28, 2026. Its weights were first uploaded October 23, 2026 UTC (October 22 in the browser’s New York timezone).\n\nScope: this is a community release by Mouserat hosted on Hugging Face, specialized in short chat titles; it is not a Hugging Face-authored general article summarizer.\n\nFeatures:\n- Generates short noun-phrase titles describing an English or Japanese request’s topic and type, intended for chat-history lists.\n- Fine-tuned from google/mt5-small; about 0.3 billion parameters, distributed as FP32 Safetensors.\n- Apache 2.0 license for model weights and code.\n- Works with Transformers and includes a Colab notebook. Use its own tokenizer and the supplied <user> and <assistant> delimiters.\n- Trained on 37,319 examples drawn from Japanese/multilingual chat datasets and synthetic/self-authored data; some titles were generated with Qwen3.5-4B.\n- Includes tokenizer files and a manifest with a weights SHA-256 hash.\n\nPractical limits: long requests produce more topic errors, especially long English requests. Titles are not factual guarantees, and the model is not intended to answer requests or make safety decisions. The complete training dataset is not yet public, and no Hugging Face Inference Provider currently serves the model.\n\nEvidence:\nSelection and newest-first ordering: https://huggingface.co/models?pipeline_tag=summarization&language=en&sort=created\nApache-2.0-filtered confirmation: https://huggingface.co/models?pipeline_tag=summarization&language=en&license=license:apache-2.0&sort=created\nModel features, license and limitations: https://huggingface.co/Mouserat/titlerat\nInitial upload and subsequent updates: https://huggingface.co/Mouserat/titlerat/commits/main\nScreenshot: final.png",
+    "result_text": "FINAL: Mouserat/titlerat (titlerat v1) is the newest model in Hugging Face’s English + Summarization listing sorted by Recently created, checked October 28, 2026. Its weights were first uploaded October 23, 2026 UTC (October 22 in the browser’s New York timezone).\n\nScope: this is a community release by Mouserat hosted on Hugging Face, specialized in short chat titles; it is not a Hugging Face-authored general article summarizer.\n\nFeatures:\n- Generates short noun-phrase titles describing an English or Japanese request’s topic and type, intended for chat-history lists.\n- Fine-tuned from google/mt5-small; about 0.3 billion parameters, distributed as FP32 Safetensors.\n- Apache 2.0 license for model weights and code.\n- Works with Transformers and includes a Colab notebook. Use its own tokenizer and the supplied <user> and <assistant> delimiters.\n- Trained on 37,319 examples drawn from Japanese/multilingual chat datasets and synthetic/self-authored data; some titles were generated with Qwen3.5-4B.\n- Includes tokenizer files and a manifest with a weights SHA-256 hash.\n\nPractical limits: long requests produce more topic errors, especially long English requests. Titles are not factual guarantees, and the model is not intended to answer requests or make safety decisions. The complete training dataset is not yet public, and no Hugging Face Inference Provider currently serves the model.\n\nEvidence:\nSelection and newest-first ordering: https://huggingface.co/models?pipeline_tag=summarization&language=en&sort=created\nApache-2.0-filtered confirmation: https://huggingface.co/models?pipeline_tag=summarization&language=en&license=license:apache-2.0&sort=created\nModel features, license and limitations: https://huggingface.co/Mouserat/titlerat\nInitial upload and subsequent updates: https://huggingface.co/Mouserat/titlerat/commits/main\nScreenshot: final.png",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_6/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_6",
+  "elapsed_seconds": 304.2753391265869,
+  "execution_error": null,
+  "proxy_bytes": null
+}

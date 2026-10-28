@@ -1,0 +1,31 @@
+{
+  "id": "Huggingface--25",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "In the Hugging Face documentation, find the tutorial on loading adapters with PEFT, tell me how to load in 8bit or 4bit.",
+  "answer": "FINAL: In Hugging Face’s “Load adapters with 🤗 PEFT” tutorial (Transformers v4.49.0), see “Load in 8bit or 4bit.” Use bitsandbytes quantization to save memory:\n\n```python\nfrom transformers import AutoModelForCausalLM, BitsAndBytesConfig\n\nmodel = AutoModelForCausalLM.from_pretrained(\n    \"ybelkada/opt-350m-lora\",\n    quantization_config=BitsAndBytesConfig(load_in_8bit=True),\n    device_map=\"auto\",\n)\n```\n\nFor 4-bit loading, replace load_in_8bit=True with load_in_4bit=True. device_map=\"auto\" distributes the model across available hardware.\n\nEvidence: The tutorial’s “Load in 8bit or 4bit” section states both options and recommends device_map=\"auto\"; its example passes BitsAndBytesConfig(load_in_8bit=True) through quantization_config.\nSource: https://huggingface.co/docs/transformers/v4.49.0/en/peft#load-in-8bit-or-4bit\nScreenshot: final.png",
+  "response": "The task was to find the Hugging Face documentation tutorial on loading adapters with PEFT and explain how to load in 8bit or 4bit.\n\nThe screenshot shows the Hugging Face Transformers documentation page for “Load adapters with 🤗 PEFT,” specifically the “Load in 8bit or 4bit” section. The visible text states that the `bitsandbytes` integration supports 8-bit and 4-bit precision, and instructs users to add `load_in_8bit` or `load_in_4bit` parameters to `from_pretrained()` and set `device_map=\"auto\"`.\n\nThe result response accurately summarizes this and provides a relevant code example using `BitsAndBytesConfig(load_in_8bit=True)` with `quantization_config` and `device_map=\"auto\"`, plus the instruction to use `load_in_4bit=True` for 4-bit loading. This aligns with the screenshot and the task request.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find the Hugging Face documentation tutorial on loading adapters with PEFT and explain how to load in 8bit or 4bit. The screenshot shows the Hugging Face Transformers documentation page for “Load adapters with 🤗 PEFT,” speci",
+  "screenshots": [
+    "task_552/final.png"
+  ],
+  "raw_screenshot": "task_552/final.png",
+  "source_result": "task_552",
+  "usage": {
+    "completion_tokens": 454,
+    "prompt_tokens": 1830,
+    "total_tokens": 2284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 248,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.76
+}

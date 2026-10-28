@@ -1,0 +1,5 @@
+Booking.com search for Paris, check-in 2027-07-20, check-out 2027-07-23; 2 adults, 1 room. Applied filters: Hotels, Very Good: 8+, Parking, 3 stars, 4 stars, 5 stars. Sort: Our top picks.
+Search result: Best Western Plus La Demeure; “Property rating: 4 out of 5 stars”; “Scored 8.7, Excellent, 641 reviews”; “13th arr., Paris”; Classic Double Room with Access to Relaxation Area, “3 nights, 2 adults”, RSD 51,296 plus RSD 5,957 taxes and fees, “See availability”.
+https://www.booking.com/searchresults.html?ss=Paris&dest_id=-1456928&dest_type=city&checkin=2027-07-20&checkout=2027-07-23&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Breview_score%3D80%3Bhotelfacility%3D2%3Bclass%3D3%3Bclass%3D4%3Bclass%3D5
+Property page: “Public parking is available at a location nearby (reservation is needed) and charges may apply.” “Parking garage.” Fine print: “Parking is subject to availability due to limited spaces.” Availability table offers Classic Double Room with Access to Relaxation Area for selected dates.
+https://www.booking.com/hotel/fr/lademeure_paris.html?checkin=2027-07-20&checkout=2027-07-23&group_adults=2&no_rooms=1&group_children=0

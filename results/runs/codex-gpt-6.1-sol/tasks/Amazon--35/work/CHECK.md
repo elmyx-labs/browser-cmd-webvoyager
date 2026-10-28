@@ -1,0 +1,7 @@
+- [x] Find a men's leather wallet on Amazon. https://www.amazon.com/dp/B0GZZR1V6G — “RUNBOX Men's Full Grain Leather Bifold Wallet”; material “Leather”.
+- [x] With RFID blocking. Same URL — title “RFID Blocking”; feature “RFID Protected”.
+- [x] At least 6 card slots. Same URL — “12 Card Slots”.
+- [x] Priced below $50. Same URL — selected A. Texas Brown price “$34.99” before shipping.
+- [x] Check if it's available for FREE delivery. Same URL — no, “$32.80 Shipping to Serbia”; “$32.80 delivery Wednesday, November 4”.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with item name and deciding facts visible together and no overlay. final.png is 1280x723; name, RFID, 12 card slots, leather, color, price, stock, destination and delivery visible together. No filters, sorts or date filters applied or required.
+- [x] Write final answer to ./ANSWER.txt with result and evidence. ANSWER.txt written, starts FINAL:, states source, date and screenshot.

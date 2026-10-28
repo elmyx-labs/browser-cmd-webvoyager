@@ -1,0 +1,5 @@
+- [x] Find the price required for one year of Coursera Plus. https://www.coursera.org/courseraplus — “Billed Annually”, “$239/year”.
+- [x] How much is the discount? https://www.coursera.org/courseraplus — “Save 40%” on annual pricing card.
+- [x] List 3 companies that work with Coursera. https://www.coursera.org/courseraplus — “Learn from 350+ leading universities and companies”: Google, IBM, Microsoft.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts visible and no overlay. final.png is 1280×723 and shows Coursera Plus, Billed Annually selected, $239/year, Save 40%.
+- [x] Write the result and evidence to ./ANSWER.txt. Completed, with source and access date.

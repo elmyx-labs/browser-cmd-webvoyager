@@ -1,0 +1,3 @@
+[x] Find a Mexico hotel with deals for December 25-26, 2026. Evidence: https://www.booking.com/searchresults.html?ss=Hotel+San+Clemente&dest_id=2975270&dest_type=hotel&checkin=2026-12-25&checkout=2026-12-26&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&nflt=ht_id%3D204 — "Hotel San Clemente", Mexico breadcrumb, "Late Escape Deal", "Fri, Dec 25 — Sat, Dec 26", US$52 → US$41 +US$8 taxes and fees. Property availability explicitly says "20% off."
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the hotel name, deal, Mexico location, dates, and applied filters/sort with no overlay. final.png is 1280×723; shows Hotels and Our top picks.
+[x] Write ./ANSWER.txt with the result and evidence.

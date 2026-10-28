@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--10",
+    "ques": "Search for a park in the state of California called Castle Mountains National Monument and find out it's Basic Information.",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Castle Mountains National Monument is in California. Its official National Park Service Basic Information page lists:\n\n• Hours: Open 24 hours every day, year-round.\n• Admission: Free year-round; no entrance fee or pass required.\n• Address listed: 2701 Barstow Road, Barstow, CA 92311.\n• Access: Walking Box Ranch Road from Nevada State Route 164 (Nipton Road), or unnamed dirt roads from Lanfair Road in Mojave National Preserve.\n• Facilities: None within the monument. Visitor centers in neighboring Mojave National Preserve provide information and orientation.\n• Weather: Freezing winter temperatures with occasional snow; mild spring; summer temperatures near 100°F; late-summer storms can cause flash floods and hazardous roads; cooler fall.\n• Connectivity: No public Wi-Fi; cellular reception can be spotty.\n• Phone: (760) 252-6100.\n\nEvidence: Official NPS “Basic Information,” https://www.nps.gov/camo/planyourvisit/basicinfo.htm (accessed October 27, 2026; page displays “Last updated: March 3, 2016”). The monument was located through Google Maps at https://www.google.com/maps/place/Castle+Mountains+National+Monument/@35.3017648,-115.1292349,17z/data=!3m1!4b1!4m6!3m5!1s0x80cf0626a3802351:0x7b5a007ac656513b!8m2!3d35.3017604!4d-115.12666!16s%2Fg%2F11c5_zm9jq?hl=en . Screenshot: final.png.",
+    "result_text": "FINAL: Castle Mountains National Monument is in California. Its official National Park Service Basic Information page lists:\n\n• Hours: Open 24 hours every day, year-round.\n• Admission: Free year-round; no entrance fee or pass required.\n• Address listed: 2701 Barstow Road, Barstow, CA 92311.\n• Access: Walking Box Ranch Road from Nevada State Route 164 (Nipton Road), or unnamed dirt roads from Lanfair Road in Mojave National Preserve.\n• Facilities: None within the monument. Visitor centers in neighboring Mojave National Preserve provide information and orientation.\n• Weather: Freezing winter temperatures with occasional snow; mild spring; summer temperatures near 100°F; late-summer storms can cause flash floods and hazardous roads; cooler fall.\n• Connectivity: No public Wi-Fi; cellular reception can be spotty.\n• Phone: (760) 252-6100.\n\nEvidence: Official NPS “Basic Information,” https://www.nps.gov/camo/planyourvisit/basicinfo.htm (accessed October 27, 2026; page displays “Last updated: March 3, 2016”). The monument was located through Google Maps at https://www.google.com/maps/place/Castle+Mountains+National+Monument/@35.3017648,-115.1292349,17z/data=!3m1!4b1!4m6!3m5!1s0x80cf0626a3802351:0x7b5a007ac656513b!8m2!3d35.3017604!4d-115.12666!16s%2Fg%2F11c5_zm9jq?hl=en . Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_458/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_458",
+  "elapsed_seconds": 123.90837907791138,
+  "execution_error": null,
+  "proxy_bytes": null
+}

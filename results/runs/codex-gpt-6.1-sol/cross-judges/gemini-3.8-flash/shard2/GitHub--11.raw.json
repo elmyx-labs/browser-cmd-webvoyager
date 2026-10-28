@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210349-13zXspTYqrORejHZvQT3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find a newly created open-source GitHub project related to 'climate change' initiated in January 2023, along with checking its main programming language and description.\n\nThe response identifies the repository `kemolumi/open-meteo-dart`, confirmed via the provided GitHub API metadata screenshot to have been created on January 29, 2023 (`created_at: 2023-01-29T04:56:04Z`), under an open-source MIT license, with the main programming language being Dart and the description being \"A free, all-in-one API SDK to forecast weather, air quality, climate change, and many more by OpenMeteo with full typed support for Dart!\".\n\nAll requirements of the prompt have been met accurately.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching for Climate Projects**\n\nI'm currently sifting through GitHub, specifically targeting projects launched in January 2023 that are tagged with 'climate change.' My aim is to pinpoint a new, open-source initiative and then analyze its primary language and core description.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching for Climate Projects**\n\nI'm currently sifting through GitHub, specifically targeting projects launched in January 2023 that are tagged with 'climate change.' My aim is to pinpoint a new, open-source initiative and then analyze its primary language and core description.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210349,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 528,
+    "prompt_tokens": 1895,
+    "total_tokens": 2423,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 354,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00340125,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00340125,
+      "upstream_inference_prompt_cost": 0.00142125,
+      "upstream_inference_completions_cost": 0.00198
+    }
+  },
+  "provider": "Google"
+}

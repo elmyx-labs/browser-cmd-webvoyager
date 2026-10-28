@@ -1,0 +1,3 @@
+[x] The least amount of walking from Central Park Zoo to the Broadway Theater in New York — Google Maps “Less walking” selected; M3/M1 then E shows “Walking 6 min”, compared with N/R/W “Walking 9 min”. Source URL in ANSWER.txt and NOTES.md.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with locations and deciding facts visible and no overlay — 1280 px viewport capture, app banner dismissed, inline “Less walking” selected and “24 min”/walking “6 min” visible.
+[x] Write the result and evidence in ./ANSWER.txt, with first line FINAL: and sources — complete.

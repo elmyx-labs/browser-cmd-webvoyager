@@ -1,0 +1,4 @@
+[x] Look up the tour about how to use the 'pipeline' feature in the Hugging Face Transformers library for sentiment analysis. https://huggingface.co/transformers/v4.10.1/quicktour.html — Quick tour; Getting started on a task with a pipeline; classifier = pipeline('sentiment-analysis').
+[x] Identify the default model it uses, with URL and evidence words. Same URL: By default, the model downloaded for this pipeline is called “distilbert-base-uncased-finetuned-sst-2-english”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the model and deciding facts together. final.png is 1280×723 and displays sentiment-analysis code and the default-model paragraph together, with no overlay. No filters, sorts or dates apply.
+[x] Write final result and evidence to ./ANSWER.txt. ANSWER.txt states the default model, source tour/version, URL and screenshot.

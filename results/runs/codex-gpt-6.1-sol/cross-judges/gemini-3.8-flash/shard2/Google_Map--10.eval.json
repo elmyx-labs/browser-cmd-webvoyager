@@ -1,0 +1,41 @@
+{
+  "id": "Google Map--10",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a park in the state of California called Castle Mountains National Monument and find out it's Basic Information.",
+  "answer": "FINAL: Castle Mountains National Monument is in California. Its official National Park Service Basic Information page lists:\n\n• Hours: Open 24 hours every day, year-round.\n• Admission: Free year-round; no entrance fee or pass required.\n• Address listed: 2701 Barstow Road, Barstow, CA 92311.\n• Access: Walking Box Ranch Road from Nevada State Route 164 (Nipton Road), or unnamed dirt roads from Lanfair Road in Mojave National Preserve.\n• Facilities: None within the monument. Visitor centers in neighboring Mojave National Preserve provide information and orientation.\n• Weather: Freezing winter temperatures with occasional snow; mild spring; summer temperatures near 100°F; late-summer storms can cause flash floods and hazardous roads; cooler fall.\n• Connectivity: No public Wi-Fi; cellular reception can be spotty.\n• Phone: (760) 252-6100.\n\nEvidence: Official NPS “Basic Information,” https://www.nps.gov/camo/planyourvisit/basicinfo.htm (accessed October 27, 2026; page displays “Last updated: March 3, 2016”). The monument was located through Google Maps at https://www.google.com/maps/place/Castle+Mountains+National+Monument/@35.3017648,-115.1292349,17z/data=!3m1!4b1!4m6!3m5!1s0x80cf0626a3802351:0x7b5a007ac656513b!8m2!3d35.3017604!4d-115.12666!16s%2Fg%2F11c5_zm9jq?hl=en . Screenshot: final.png.",
+  "response": "The user asked to search for a park in California called \"Castle Mountains National Monument\" and find out its \"Basic Information\".\n\nThe screenshot confirms the agent navigated to the official National Park Service page for Castle Mountains National Monument under the \"Basic Information\" section. The response details the information found on that page, including operating hours, facilities, admission, address, directions, weather, and contact info.\n\nTherefore, the task was successfully completed.\n\nSUCCESS",
+  "reason_short": "The user asked to search for a park in California called \"Castle Mountains National Monument\" and find out its \"Basic Information\". The screenshot confirms the agent navigated to the official National Park Service page for Castle Mountains ",
+  "screenshots": [
+    "task_458/final.png"
+  ],
+  "raw_screenshot": "task_458/final.png",
+  "source_result": "task_458",
+  "usage": {
+    "completion_tokens": 291,
+    "prompt_tokens": 2020,
+    "total_tokens": 2311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 200,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00260625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00260625,
+      "upstream_inference_prompt_cost": 0.001515,
+      "upstream_inference_completions_cost": 0.00109125
+    }
+  },
+  "elapsed_seconds": 5.14
+}

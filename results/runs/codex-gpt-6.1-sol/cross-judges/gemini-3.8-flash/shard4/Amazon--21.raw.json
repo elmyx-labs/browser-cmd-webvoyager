@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209947-1UTTypYFSBJxZsEgm9fD",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**Reasoning:**\n\nThe user requested finding a stainless steel, 12-cup programmable coffee maker on Amazon priced between $100 and $200, with a customer rating of 4+ stars. \n\nThe screenshot shows search results filtered specifically for 4+ stars, stainless steel, and a price range of $100–$200. The first result displayed is the Cuisinart PerfecTemp 12-Cup Programmable Thermal Carafe Coffee Machine priced at $149.95 with a 4.0 out of 5-star rating (11.1K ratings). The model reported in the response matches all specified criteria.\n\n**Verdict:**\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching Stainless Steel Makers**\n\nI'm focusing on filtering the Amazon results for a 12-cup, programmable, stainless steel coffee maker within the $100-$200 range and a 4-star rating or higher. Initial checks of the screenshot confirm the search parameters.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching Stainless Steel Makers**\n\nI'm focusing on filtering the Amazon results for a 12-cup, programmable, stainless steel coffee maker within the $100-$200 range and a 4-star rating or higher. Initial checks of the screenshot confirm the search parameters.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/e10GYnbnaGbdJmguAmTtnw15UYJzsqc5baVhvIOAbFPXdKgJsAG4gK85CgjJtBVdaKhfClCPefCP7N76ofU/FfvRXqg96GbvMPmeuHq6eFTQYJA1+ZYetWbIWJHC15iQne8GvNl8+LD5XdYKEZB0hazz4qFaT21h5wxYwz9JkhObCW5sDbBhBAzeAch/uy6M7psI2K9DXKV949JevmCYtVqpniDq5ycbcWUDB7+l8x3OLiCMCvpDuJaeW1IryMhjbTIaxUOK7mDZ4fsHLLM0wkFtOVbIXHTgnkqP615VZDG4hUAu6reb9jjhUiX7SZgHlVRAnx9Emxuoe19iFoqpOY6G5l9JFsALhUGHrArtErVE9KoqGIXiB0Lzw9wl4eKrwjgU9M8SI8v3GYKTqIQWnmyDYzKy/DjeC3v1BqgGnqeckof/+XZS4WYofG3nEs1ApGLfPR3wu327TFYfAUSYdhAmV6249FohTnFQ14jhNhv6+wHrLbCyhRuIeCgk9S3R9J0LFnSup/+c4imU1krFaPt0foN4MEvCYb0S3De3tlI6XfWO2owTfuBvvGd1tCAenHgcxywuAyco4leUNVjgw4gw0Gxn+Ydz/k3WUeBGOrOScJeERqbC7Pj9Ry9wISDhAV8gN6DTxfhECzw1+WntXY6qaTakEzfITrgv5aKLJh/M2ytJvONr9n+lroO5aFwykMFyrVOT7XUJN9Z5kFSAAoV5JVwRIqqGkCAIxpSgGoyMnAYgiJJz+xsx2gJT4OPQ4QkkSC5fbjS1vQf7VzhTLXMJhC0ndosFd7Fv+llnQ++5qxFqrySjHq4jdZCwNoMFvIsITYBDW4U/f8Nu2L2P7EQgmm2UTBPKlX27HgyYdImj+Fo70i7YTH6JcwAhEXEYX4DcI+ljvQ/UUq1/qOJDHCKf72/W3blKy7K0yaemQBjMkkk2lr+Oo5EgYWBVzhE+KAoEFczQ+MCQQy5deQUJF1drc0iDqZQwa/cl+Fm9gJMC2xXO3p3wbVeTlujraoOWG7cJeqtaWcYM+FX0SHJejJuGv7gty4hjp82D3PHmT6P+PAEQz456bsrma6VfbK0NMk1wCxU9/JjPXdu9xYU56KHmPv5x8Uc8TcGPTnQ2n/cRXw57gOtgQJ9an9lm1InXIGDCmH0FV6/PXNgDuS6sEXIog94gUt8OJ00MSYnzCx3CJLPAfxCnbl43t8nmEnudoBzi4sluVDbz/84QripDo3WgsHi/fyl9Gc++zU9ErgJdXQKmL8J+xlpREXd0pNMqLjUKh21DZy6+XbwadtYVGfDmpNIPvi+JClpa4QH4vCiC6L+bhQUaZp6yxSleScNkqBQsaia6EXYGsooEhH1coytjMuoNvW4QCszBa+O8wURoERb5kF7OLL1gLyJ3FiCFOwR7/U0U7HE1ySDBYawaikpPssUEIzGGW85V969NqUie+G9POv+EQ6a5SgaR+LpLJIkGkb8zWSQumOBVGJnj0gvCT+2ikx9ICeu85VDBt/GsvjEzovUjgIFjes751HNC0wfaC3lM40bqVJK558Sw+itZmK0e2hgyatuDnoSg1ejgcA2AsajpOmdsgMYha9yz/Q/YRmfCJXDNgqg==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209947,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 433,
+    "prompt_tokens": 1792,
+    "total_tokens": 2225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 283,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00296775,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00296775,
+      "upstream_inference_prompt_cost": 0.001344,
+      "upstream_inference_completions_cost": 0.00162375
+    }
+  },
+  "provider": "Google"
+}

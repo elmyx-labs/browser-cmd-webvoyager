@@ -1,0 +1,3 @@
+[x] Search for plumbers available now but not open 24 hours in Orlando, FL. Google Maps URLs in ANSWER.txt; three listings show “Open now,” Orlando addresses, and daily hours ending at 8 PM, 10 PM, or 11 PM.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with name and deciding facts visible together and no overlay. final.png: 1280 px wide; RooterMan Orlando Florida, Orlando address, Open now, Tuesday–Monday 5 AM–11 PM, Open now filter; We Fix Drains also visible with Open · Closes 8 PM.
+[x] Write the result and evidence to ./ANSWER.txt. Includes three matching plumbers, hours, addresses, phone numbers, observation date/time, exact Google Maps source URLs, and screenshot evidence.

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210263-rw3V8d8Zlf9txMcOtTex",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and result response:\n\n1. **Teams' Names**: Denver Nuggets and Oklahoma City Thunder.\n2. **Final Score**: Oklahoma City Thunder 96, Denver Nuggets 84.\n3. **Date of Match**: October 22, 2026.\n4. **Broadcast Information**: Confirmed as broadcast on ESPN (\"Where to Watch: ESPN\").\n\nAll requested components of the task have been accurately retrieved and verified against the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Game Data**\n\nI'm currently focused on extracting the final score, team names, and match date from the specified NBA broadcast. The data retrieved so far points to the Oklahoma City Thunder defeating the Denver Nuggets 96-84.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Game Data**\n\nI'm currently focused on extracting the final score, team names, and match date from the specified NBA broadcast. The data retrieved so far points to the Oklahoma City Thunder defeating the Denver Nuggets 96-84.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+TvJyrUPMd/a1ENN+vzBggRB87KNtohevF+lHTWyTatHxHtpbI2ghgYvPtfHU8TnWf5CEOK2kyMpyU/S0QOCPSeyppFG52sayt4paoM5JrP50bCicPP5pW5+fIM1bJTbZvjr3D3Q5XyDs/+7Qo2P+s3wsJMs6ZG0/zvTtoIAX2+8IutC/dcwgrrmuat62Y54ydB9JG6JkA+DGdz/Ut9fAHItB10KaP33oGX77NWFnwc4Vvmp33B1g/JaEqhPzftZxfkOLJ/txT/YDomgTNOTKvL5gWId4qlluYJLdC59Xmbv1hx8sj6dkf1iQaAOp7a+LjHCfPZHBkoZlQF9vqbIKqEYnoJ8dE6KevNdIauomPwzfDZL5LdaGxhsvYXXxb8r1MhTYPuL3ZRNRctP5lTrZGl7BZVJfwwEwm6leX/jQuGjuA2C8DgjouRE8Tb58DEs4ZQMObQMiZp/CsQEoQmaZGzhiAOH8xotS8UtGrUzFLTxyKAgJcFQaHmMSEKtGUGeRkCAnET5iAmp7czN/7T4vzlhFAUGDlf0YXb/2cS8YrqyAZPazBVmesho2A/czuBF75J8CK1jO6wl3Foge5OfbzOhQG3Mdm7VdDz6GCbDROZIqFEMZekp0AdgsD92H38LfpV0Op3y/NpLnR6kXd2G9nyzaCu4obXUbFdo2Dac1AHKl0ui+iKrikZUzO/0AKEg8UNSYljqJOCALhulNE82JjQEZnuPL8bwfe1yR2Wpl5DW8maKoy4ErLMg77VSUy3966586z332dupzjLk03UvOtGguOWw7gaiQLNgKDdOU5FtEEaBp+6l3wr++TUlMQI0PDufJ9IfYHzJD1MvdqOjpIWbeZ5jFLcsLPVZRl1jPglDEf+DnOcb+LfDzdCEfQKSJiQ8Vo2wQus3KlN49as5m1Eeag2VfmrUmideLAGQXti66OuLXkHGzNsrLvpDCQ+kLct6wliICGG8r/q2eKfj+qr8f7YQioJCa1a75iIULZh3cnKXoISrURp+wQO9ZLpv0ptOh+G8VTtai+8nN457dBp74dFGtei4/OLtDlAdTgSUXvJcMeVA==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210263,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 281,
+    "prompt_tokens": 1767,
+    "total_tokens": 2048,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 179,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002379,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002379,
+      "upstream_inference_prompt_cost": 0.00132525,
+      "upstream_inference_completions_cost": 0.00105375
+    }
+  },
+  "provider": "Google"
+}

@@ -1,0 +1,4 @@
+[x] Find a popular recipe for a chocolate chip cookie. https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/ — "Best Chocolate Chip Cookies", "4.6", "(19,332)", "14,911 Reviews".
+[x] List the ingredients and preparation steps. Same URL — "Ingredients", "Original recipe (1X) yields 48 servings", and "Directions"; full list and directions saved to ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and popularity facts visible together and no pop-up, banner or dialog. final.png is 1280 × 723; recipe title, rating, ratings count, reviews count, and update date appear together without an overlay.
+[x] Write the result and evidence to ./ANSWER.txt. Contains chosen recipe, popularity evidence, ingredients, preparation, source URL, update date, and access date.

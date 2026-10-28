@@ -1,0 +1,4 @@
+[x] In the Culture section, identify the latest film release reviewed. Evidence: https://www.bbc.com/culture/tags/film-reviews first item "7 Oct 2026 ... The Social Reckoning lacks power or thrills", followed by "29 Sept 2026" Digger.
+[x] Provide a brief summary of the review. Evidence: https://www.bbc.com/culture/article/20261006-the-social-reckoning-review, Nicholas Barber, 7 October 2026, "★★☆☆☆", "doesn't have the tension or the urgency" and "neither ... has any real conflict".
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts visible together and no overlay. Evidence: final.png, 1280 x 722 viewport of Film Reviews archive, showing The Social Reckoning, 7 Oct 2026, summary, and next review dated 29 Sept 2026.
+[x] Write the result and its evidence to ./ANSWER.txt. Evidence: ANSWER.txt contains result, brief summary, review date, rating, source URLs and screenshot reference.

@@ -1,0 +1,6 @@
+- [x] Search for a popular cookie recipe on Allrecipes. Used homepage search for chocolate chip cookies; selected Best Chocolate Chip Cookies: https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/
+- [x] More than 1000 reviews. Recipe page: "14,911 Reviews".
+- [x] A rating of 4.5 stars or better. Recipe page: "4.6 out of 5".
+- [x] Provide the list of ingredients needed. Recipe page Ingredients: "Original recipe (1X) yields 48 servings"; all 11 ingredients copied to ANSWER.txt.
+- [x] Save one genuine viewport screenshot as ./final.png, about 1280 px on its long side, showing the recipe name, rating, and review count together with no overlay. Recipe page at top; screenshot resized to 1280 px wide. No filters, sorts, or date restrictions were requested or applied.
+- [x] Write the result and its evidence to ./ANSWER.txt. Includes source URL, rating, actual review count, quantities, optional walnut note, and screenshot reference.

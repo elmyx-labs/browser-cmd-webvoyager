@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210491-yAvTEC6bnxYI9OymObGH",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested information on when and where the most recent World Cup was held, as well as which team was the winner.\n\nBased on the provided screenshot from the web page (with the current year being 2026):\n- **When:** June 11 – July 19, 2026\n- **Where:** Canada, Mexico, and the United States\n- **Winner:** Spain\n\nThe Result Response provides all required details accurately according to the web content.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding World Cup Information**\n\nI'm focusing on extracting the details for the most recent World Cup. My current progress indicates the 2026 FIFA World Cup is the subject of the provided information.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding World Cup Information**\n\nI'm focusing on extracting the details for the most recent World Cup. My current progress indicates the 2026 FIFA World Cup is the subject of the provided information.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+YFSgdFiQvPCgKCFCvg6NPQ1Aj/VABYTQ1GEBTFoKao4wkrsL2rKcwTjWna+e9tOSaXCTRVmWsehsTagCxrda9UwSd2R/lNSgbLM86rZA0BoiDe+Q/Ynws2tCCNTMqRyRDSnC+cj14qidaCFFncOPk1YFRq7L0ji/V73KbXvF1N6bsup5rfYogX5H1wabhg96JdmfoizMl4nly2PaUGtNXoKz/jU5m+MGjFhM9/HKMJj7AVYfjFxjn47GddSjB+W2dFaNmFLHySijavTL0sCmOjZVqf0bCS2+SIRdUqNhJIrDMj9ETiYCan2RU8VvHuAAilxxLtWHsluIQKuxx6ks6COj7mV2ZNEWt4H33wBX1ggaayvLKxxCJ8rnQZKT1T8roq2SJleeeHJb+fkrYnKCGKQ19/f1FD0TlnjLjPoyYNbHds+VIdMwgLH+X7Q2+9hmdbQDCfUflejoC/FmYqfflzwZKmeeSBC/Aqzor7G0iAuVfWE//idLLGZ9Mvwau4qYNPB9y/CbyLqJ98RdboXFad6QsLwFLWTzjLNQnBymduKmRkHXTzHRpMGsiidSGSyWJZFJ1m0qTEvEthp7Z+9Q+F2P6f3yxRwi4faICh4nniQhIntxA3Ly2qeE3ZNcujV0J6qGutu2g9aQkdW6DEOV10irvZg36GQ3BUCPNBiE0PvEmCeEPswIFJ8UiKpcJwNmdtaT28rRlO42LoAFzEUzcYnf54JHy5IFwZcAEi1h48MNXirvMkIzxzbSD6qTVV08szOMGlq21CQJbroj2z5ZJRG/ns2iu+2Gd5vQ+6wAXpUwvLAtgbVeHk+jbmthYqCX7/UAPryOVu8e6yrZuamFSZKqUctRPufSjjAXfiJwbXRcSZIJAp1rP/MuvxYienDti99G4P4a/rYxWUtx+n87IqgoNXSsXP2W/kALcAnZAytJ8M8ViyUVdqM/oIz0rB5MIQWhx1HL0RffucgvP90FTvTzg3gxIkBbY9smu4Dr4E4uctMQrjqFFW/r8AqSZZFj2CjgGS1plaJcrTyH+tCY3p5iiyrxW/0w93FUesMT/rF6zle8giEcdqjnpBRmC+yzAqDwm1dmyhi+nE2us4kENLZ6VHPTT34sGzbBaNEsEqHd55KpQv2Z71k2hoMuEA1ucP/u8YqCllSSfa+G+O682E8ifuoMAWI9Ajlq1OP6hM3VLmpALu1jcX5I5h1fmCG44crx3S4nWPDe8k/72srKr+Pda97LcnSmkLrsIVBn/wE9Y39lqB/EYIHu7gtuCdPF5ZZpnwk3HHFqplSKb75P//48ie8V3dUtGCRy8764QaNTDjcgmggRr/VuhUZBtBsyewq9oHQesSf6xl1VtTnMpLjJsuay76qTsmDKAgpgQoueoBLgsGupDFr6GpgWXLNpzGbWOlTZwl0VX/H2abw+JYjK1fCD49KL/dH2WQuny84urY1520LDO8Q/cEKxcQ5qdWWnLEW1+R7hTglp7yipmg7YsPQNCZLfR9Zli",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210491,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 350,
+    "prompt_tokens": 1761,
+    "total_tokens": 2111,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 247,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00263325,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00263325,
+      "upstream_inference_prompt_cost": 0.00132075,
+      "upstream_inference_completions_cost": 0.0013125
+    }
+  },
+  "provider": "Google"
+}

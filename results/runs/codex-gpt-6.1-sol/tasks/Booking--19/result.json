@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Booking",
+    "id": "Booking--19",
+    "ques": "Look for a hotel with customer ratings above an 8.0 in Paris, France for a weekend stay from August 18, 2027, to August 20, 2027, and list top three suggestions based on user reviews.",
+    "web": "https://www.booking.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Top three Paris hotel suggestions for August 18–20, 2027 (2 nights), ranked by Booking.com's “Top reviewed” sort:\n\n1. Villa-des-Prés — 9.6/10, Exceptional, from 699 guest reviews. In the 6th arrondissement; 5-star hotel. Superior Double Room listed for the selected dates.\n2. Hôtel Confidentiel - Louvre — 9.6/10, Exceptional, from 293 guest reviews. In the 1st arrondissement; 4-star hotel. Double Room with breakfast included listed for the selected dates.\n3. Hôtel Mansart - Esprit de France — 9.5/10, Exceptional, from 1,284 guest reviews. In the 1st arrondissement; 4-star hotel. Cozy Room with free cancellation and no prepayment listed for the selected dates.\n\nAll three exceed the requested 8.0 guest rating. Search: Paris, France; Hotels and Very Good: 8+ filters; Top reviewed sort; 2 adults, 1 room. Booking.com states this sort considers both review scores and review counts, with at least five reviews required.\n\nThe requested dates fall Wednesday–Friday, rather than a weekend; the exact dates were used.\n\nSources:\nBooking.com filtered search: https://www.booking.com/searchresults.html?ss=Paris%2C+Ile+de+France%2C+France&dest_id=-1456928&dest_type=city&checkin=2027-08-18&checkout=2027-08-20&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Breview_score%3D80&order=bayesian_review_score\nVilla-des-Prés: https://www.booking.com/hotel/fr/villa-des-pres.html\nHôtel Confidentiel - Louvre: https://www.booking.com/hotel/fr/confidential-room-3-a-stones-throw-from-the-louvre.html\nHôtel Mansart - Esprit de France: https://www.booking.com/hotel/fr/mansart.html\nEvidence: final.png — genuine viewport screenshot of the filtered, sorted Booking.com results, showing dates and the three hotels with guest scores and review counts.",
+    "result_text": "FINAL: Top three Paris hotel suggestions for August 18–20, 2027 (2 nights), ranked by Booking.com's “Top reviewed” sort:\n\n1. Villa-des-Prés — 9.6/10, Exceptional, from 699 guest reviews. In the 6th arrondissement; 5-star hotel. Superior Double Room listed for the selected dates.\n2. Hôtel Confidentiel - Louvre — 9.6/10, Exceptional, from 293 guest reviews. In the 1st arrondissement; 4-star hotel. Double Room with breakfast included listed for the selected dates.\n3. Hôtel Mansart - Esprit de France — 9.5/10, Exceptional, from 1,284 guest reviews. In the 1st arrondissement; 4-star hotel. Cozy Room with free cancellation and no prepayment listed for the selected dates.\n\nAll three exceed the requested 8.0 guest rating. Search: Paris, France; Hotels and Very Good: 8+ filters; Top reviewed sort; 2 adults, 1 room. Booking.com states this sort considers both review scores and review counts, with at least five reviews required.\n\nThe requested dates fall Wednesday–Friday, rather than a weekend; the exact dates were used.\n\nSources:\nBooking.com filtered search: https://www.booking.com/searchresults.html?ss=Paris%2C+Ile+de+France%2C+France&dest_id=-1456928&dest_type=city&checkin=2027-08-18&checkout=2027-08-20&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Breview_score%3D80&order=bayesian_review_score\nVilla-des-Prés: https://www.booking.com/hotel/fr/villa-des-pres.html\nHôtel Confidentiel - Louvre: https://www.booking.com/hotel/fr/confidential-room-3-a-stones-throw-from-the-louvre.html\nHôtel Mansart - Esprit de France: https://www.booking.com/hotel/fr/mansart.html\nEvidence: final.png — genuine viewport screenshot of the filtered, sorted Booking.com results, showing dates and the three hotels with guest scores and review counts.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_217/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_217",
+  "elapsed_seconds": 135.40361618995667,
+  "execution_error": null,
+  "proxy_bytes": null
+}

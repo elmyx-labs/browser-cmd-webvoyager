@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ESPN",
+    "id": "ESPN--40",
+    "ques": "Browse the ESPN+ page from ESPN for a brief summary of what ESPN+ Tools is used for.",
+    "web": "https://www.espn.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "",
+    "result_text": "",
+    "is_error": true,
+    "timed_out": true
+  },
+  "browser_artifacts": {
+    "screenshot": null,
+    "screenshot_error": "missing",
+    "selection": "latest_real_capture_fallback"
+  },
+  "out_dir": "task_8",
+  "elapsed_seconds": 902.2606210708618,
+  "execution_error": "planner_timeout",
+  "proxy_bytes": null
+}

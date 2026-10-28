@@ -1,0 +1,6 @@
+- [x] On Allrecipes, find a vegan brownie recipe that has at least 40 reviews and a rating of 4.5 or higher. https://www.allrecipes.com/recipe/68436/vegan-brownies/ — “Vegan Brownies”, “4.6”, “835 Reviews” (978 ratings).
+- [x] Include the list of ingredients. Same recipe URL — “Ingredients”, “Original recipe (1X) yields 15 servings”; eight ingredients recorded in ANSWER.txt.
+- [x] Include total prep and cook time. Same recipe URL — “Prep Time: 15 mins”, “Cook Time: 30 mins”, “Additional Time: 10 mins”, “Total Time: 55 mins”.
+- [x] Include a brief overview of the preparation steps. Same recipe URL — “Directions”; preheat 350°F, grease and line 9x13 dish, combine dry and wet ingredients, bake about 30 min, cool at least 10 min.
+- [x] Save one genuine viewport screenshot as ./final.png, about 1280 px on its long side, showing the recipe name, rating, and review count together with no overlay. final.png is 1280×723 and shows “Vegan Brownies”, “4.6”, “835 Reviews”; no filters, sorts, or date restrictions were requested or applied.
+- [x] Write final answer to ./ANSWER.txt, first line FINAL:. Includes qualifying result, time, all ingredients, preparation, source, date, and screenshot evidence.

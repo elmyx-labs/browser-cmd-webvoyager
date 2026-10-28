@@ -1,0 +1,3 @@
+[x] Give the final angle and final length after 6s of a Spring pendulum with spring equilibrium length=0.12m, initial length=0.24m, initial angle=80deg, mass=1kg, spring constant=120 N/m . Wolfram|Alpha Results: final angle from vertical −73.26°; final length 25.21 cm. URL recorded in ANSWER.txt and NOTES.md.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and input values and result together without pop-ups. final.png is 1280×723, shows spring pendulum, all six inputs, and Results.
+[x] Write ./ANSWER.txt with result and evidence, first line FINAL: . Includes rest assumption, source URL, capture date, and evidence filename.

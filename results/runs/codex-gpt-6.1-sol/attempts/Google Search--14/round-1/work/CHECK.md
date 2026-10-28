@@ -1,0 +1,4 @@
+[blocked] Find the retired players the year before last named James Smith. The matching player is James Dean “Jimmy” Smith, but he retired professionally in 2021 rather than 2024 (the year before last relative to 2026). https://www.transfermarkt.com/jimmy-smith/profil/spieler/39929 — "Name in home country: James Dean Smith", "Retired since: 01/07/2021". No fitting 2024 retiree found.
+[x] Tell which club he has been a member of from 2020–2021. https://en.wikipedia.org/wiki/Jimmy_Smith_(footballer,_born_1987) — career table: "2020–2021 | Yeovil Town | 26 | (2)".
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with name and deciding facts visible. final.png is the 1280×723 viewport image showing James Dean Smith and the 2020–2021 Yeovil Town entry; no banner or dialog.
+[x] Write the result and evidence to ./ANSWER.txt. Written with club, dates, source URLs and the retirement-date difference.

@@ -1,0 +1,5 @@
+[x] Find an article published between 1 January 2000 and 1 January 2005. Near match https://arxiv.org/abs/cs/0112003 confirms "Submitted on 5 Dec 2001" and journal-reference year 2001.
+[blocked] Requires Support Vector Machines in the title. The sole combined-search result has "Support-Vector Machine". Its article page confirms that wording. No literal-title match found among all 79 ACL Workshop journal-reference results.
+[x] Its Journey ref is ACL Workshop. Article page https://arxiv.org/abs/cs/0112003 confirms "ACL Workshop, the Data-Driven Machine Translation, 2001".
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the name and deciding facts together, with applied filters, sorts and dates visible and no obstruction. final.png is the visually checked 1280×723 screenshot of the quoted-title search and sole near match.
+[x] Write the result and its evidence to ./ANSWER.txt. Rewritten with literal-title outcome and verified near-match facts.

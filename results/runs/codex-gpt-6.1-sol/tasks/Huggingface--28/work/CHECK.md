@@ -1,0 +1,4 @@
+[x] Retrieve an example of a pre-trained model on Hugging Face that is optimized for question answering tasks. https://huggingface.co/deepset/roberta-base-squad2 — "roberta-base model, fine-tuned using the SQuAD2.0 dataset" and "for the task of Extractive Question Answering."
+[x] Detail the languages it supports. Same source — "Language: English" in Overview and the English language tag.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts visible together. final.png is the 1280x723 browser viewport capture; model name, QA training description and Language: English visible together, with no overlay. No date or sorting constraint was requested.
+[x] Write the final answer and evidence to ./ANSWER.txt, first line beginning FINAL: . ANSWER.txt contains the selected model, supported language, source URL and screenshot evidence.

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210459-uCpfQtTAoliclJYl0WXv",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**Evaluation:**\nThe search correctly configures all requested parameters: one-way travel for 1 adult from JFK to London Heathrow (LHR) on June 22. The results are sorted by price, identifying the lowest available fare of $385 across multiple airlines. The response accurately details these findings matching the screenshot.\n\n**Verdict:** SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Flight Search**\n\nMy focus is on pinpointing the cheapest one-way fare from JFK to Heathrow for one adult on June 22, 2027. I'm considering the intricacies of date calculations and flight eligibility to ensure accuracy in my findings.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Flight Search**\n\nMy focus is on pinpointing the cheapest one-way fare from JFK to Heathrow for one adult on June 22, 2027. I'm considering the intricacies of date calculations and flight eligibility to ensure accuracy in my findings.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/+JLS8Ac2g2g1QVGtbX+IJbGh+vXAppwUlKO/2nQRonxlcfy7YO92K2M1rIXkc6GtoWcrkyyFmVVqShvc3MG4Yx3Lah0ODVlpLUmMrNkleKUKRnnjUPTz/fXZMDLTMTRChXeQMZyKYMi+HR6RC1DwJpaUIGT6yRKfW3+HHube8qfGBihKZzchcThglqsO0klqAgZ70vdAX6uU/Re9e+TgxkYd3Y30TYk0cjOj+MESbktNmsXVvU2XddNfIuzLUJzU3d4rrnceV/Awl/QzLrll47G3gtRwvYVzekCN6hl4B6+6cL3ng/zKICqlVWlrjh/bgqflMscyFgGrbgMDOyQir8vkFmD7o/RJclaeS25Xt4ARy2ILOWyLTANgR/zHlumH6jiaIlvJJbrklnpfkVTh0XSlonZFSlyg7+fkWPaJwO6KntrzIBCY/gra+b9xKsDIIk+coMiUYV9ROnaqseZxBkJXRzm2ywVnjSZYOg3SMEYFC/4rkngakITJl4jz61o70PfydY7EEOq0TrhENlBwPQnE4XzDYOh8D+yJ3lu/5t+MN6B5YAirs0oHOr7cFmZpAUBtH/EwJWGhj1SHFm2lr/w656iR2j5w/SVowE6/11vYi4PPE04NFr8rZ0MHcVlazYkgAoUmFN/hxfrAKmUnf6SCCmaCzOMUl6utF0U6m//39OEPZH89Du0SWTRUHNXFpPKhpKXR5pdBkUsYXZQKx4b0AEtXDvXV1yLlkGjv030kk6CeCYfIXL9sZb2ClG6+EIKx9gwoibwYfkc6HItWgvSyz4FWdycd9rT6kDc6pa6LgnCQftPSjj7UKttrdzK8Z42wPDSjH/xMl7zvSLfguZPu0eunzt7ni9SCf3if/DCym+wpJvopmzX4yPID+BaJtN5GncPsIEfOi5Zm6EhLl0WIZUyCVsx7c/N18LEWbe+5kIobtBojPDK5E4u2Q5U3D70/fZvC9hhM7BOAGHGVyML0NMzNLyb3UXR74MoIIHz7cNhsskoXXv/4G+JWQm9ZmH+Sm8d6+/8fs/A0YRb5pQPSoi1CSNi08b4QSj7GMUCi2JeCU4Z5v2wSW+y6Q2xwAIfRxMjFIv+NdnFLG+gnf57cuse5k8Io7hbyncnZvzN3J6u7QZRXgubvWi8E8oOx/Ur8QmnwB6p+gU1zPC2ttTPLnjLniaPHBWvjSLGKUoB37vfvvU/of6fT2N+kSkPIZZpX6cmkTAr1gMgbHwWMoQjnbtJQTsAHmhCOMju47GBdgxgl6uXEdQ+0BThLxYwFcI0u6WvZUPW9+43QgqbakP8UKcOHC6qrRONgoyg5CD7TDPbFbcfUPAkCauCB/uQr9yfmOpa4qzcUJG8Jy1X8zdHkgl2IYMDsqBVBYmBzd9/dv0luJBMsnsdJjZHsxDRFFBNBAikESnpHSSurtUrEse57xXZzG/yMcd2Ivio7j73+NuuU8rYS4KIY6XNed8trUC4DLdkj9088no2BU9+KevZPCYPvLE/VNQ9Xe8gM9xf/t6Cb4KexJ1QRfukGUmuIpjuMnKkzHib3byGfWVB1BVdfm6eyv7Xl9YMkhVNXeuD+kJkcbrYlsgf8SlheB/rpgvGz2EP9nY8TPf9SXU84Gk7ug68tuoZu+QO5LPTfDJxuDD9hVjbMmHLdbpBrx",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210459,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 339,
+    "prompt_tokens": 1816,
+    "total_tokens": 2155,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 267,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00263325,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00263325,
+      "upstream_inference_prompt_cost": 0.001362,
+      "upstream_inference_completions_cost": 0.00127125
+    }
+  },
+  "provider": "Google"
+}

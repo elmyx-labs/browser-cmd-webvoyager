@@ -1,0 +1,9 @@
+{
+  "id": "Huggingface--28",
+  "task": "Retrieve an example of a pre-trained model on Hugging Face that is optimized for question answering tasks and detail the languages it supports.",
+  "answer": "FINAL: deepset/roberta-base-squad2 is an example of a pre-trained model optimized for question answering. Based on RoBERTa-base, it was fine-tuned on SQuAD 2.0 for extractive question answering, including unanswerable questions.\n\nSupported language: English, explicitly listed in the model card's Overview and language tag.\n\nSource: https://huggingface.co/deepset/roberta-base-squad2 (accessed October 27, 2026).\nEvidence: final.png shows the model name, question-answering specialization, and English language support together.",
+  "screenshots": [
+    "task_555/final.png"
+  ],
+  "raw_screenshot": "task_555/final.png"
+}

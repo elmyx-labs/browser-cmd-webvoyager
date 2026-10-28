@@ -1,0 +1,4 @@
+- [blocked] Verify login with supplied email and password. Verified email field value webagenttest@testmail.com, selected Continue, and reached security-code requirement directly. No usable password field was offered; password submission and login completion were blocked by the required code.
+- [x] Document what happens. ANSWER.txt and NOTES.md record the observed sequence and final screen.
+- [x] Rewrite ./final.png. Genuine viewport of X's security-code screen, resized proportionally to 1280 px.
+- [x] Rewrite ./ANSWER.txt. Result and browser evidence, without discussion of review.

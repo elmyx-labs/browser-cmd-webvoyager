@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210616-MN3MiMc44Hq997914l6u",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested the computation of the definite integral of \\(3e^{2x}\\) from \\(x=0\\) to \\(x=5\\). \n\nThe screenshot shows WolframAlpha computing:\n\\[\\int_0^5 3e^{2x} \\, dx = \\frac{3}{2}(e^{10} - 1) \\approx 33038.1986922101\\]\n\nThe result response accurately reflects this computation in both exact and approximate decimal forms.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Calculating the Integral**\n\nI'm currently focused on evaluating the definite integral of 3e^(2x) from 0 to 5. I've initiated a query on WolframAlpha, and the system is processing the request for the exact computation of this specific integral expression.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Calculating the Integral**\n\nI'm currently focused on evaluating the definite integral of 3e^(2x) from 0 to 5. I've initiated a query on WolframAlpha, and the system is processing the request for the exact computation of this specific integral expression.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/HsziFrTcib2uDvECV9ObORYECEMf6gLu5KW5qnMtXapIRJP1Wo8YffZXqD5o5iv/ffz0TANmFIpN1PD2bq9OJyIGrD+RnfgpxWZmr8KJy2ShsxaWakQ9QkLBwghLSIgRvnzjMsiS9yWpLZkzucBZbtFgWjpoVu5I3wtceAgwXF8j9vwhNWHaafd1oH/gXiJ18kQlM/abZsQQipKf3t3U3QxhjUFaaNF/SRVbykkJhMWPtB9aMViaBas1rdcDHAz4YJJuSJJcE9PBcmsMjcfJP0a2t/hreAOVORnNLbgWPUU9xrkZw82FWTQ6PJv47V1Xjt0E0vvfHzaoqVEfpO9s8piiAsy0n7L6xyFbTfAkwu6TFWfiVh6KMWvipOQyVtIov0QKP1EpdEA5DAVAngIzsuHqncbQCl1zlpzy230wVm9q9xasDaNAWOQURnHSz0L+izG2NyOLTe3Iq0brf1C/blf4Ktj/mB7HPvNy+NuzXjFHwAL/ftjjLQx2TkjPC5l+TeY7WaYn8Qzjcda76dpBYJUlu2bXnWgmShr7rBpu1I+//cjidCaulZZGIERRxk1qFuQdFVnKgDsrxnJD4jOVWx/GI7gfuLuI4Z6yVZoAWL2fcKa/dl6AHiOfqV4tABvnExstLSojXxzcUxN5uxPJSJqzLCp66bvNWS2IlqFQaEkc5o9QVaWxdalJL37u1HLSYdtunBdFyqlsMLeie2zIQKdv7Bxt4lFnGWJg6sN1B6IXhz0SrgJ5VzLsEGrTFc2ig1dW3a8trg3SJrK9IGssirPVETdTXP1WgjN+l2OHxLx6aVwJKiF5SgHdFZgvd5DM8lBRVlHadr0lI7mGJrJ88NdmM4VnsKU5FVUavp+mEl5QROy5gGxY=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210616,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 288,
+    "prompt_tokens": 1716,
+    "total_tokens": 2004,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 176,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002367,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002367,
+      "upstream_inference_prompt_cost": 0.001287,
+      "upstream_inference_completions_cost": 0.00108
+    }
+  },
+  "provider": "Google"
+}

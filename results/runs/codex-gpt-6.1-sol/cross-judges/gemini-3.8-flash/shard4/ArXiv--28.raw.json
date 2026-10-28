@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210045-Y6bGbmbRseB7gI1O0RQh",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to search for \"Poly encoder\" by title on arXiv and determine whether the articles returned in the search results offer HTML access.\n\nThe result response confirms that a title search was conducted on arXiv for \"Poly encoder,\" finding 4 articles. It lists each article, their respective HTML URLs, and concludes that all four articles provide HTML access (\"HTML (experimental)\"). The accompanying screenshot confirms the presence of the \"HTML (experimental)\" access link on one of the search result's abstract pages.\n\nTherefore, the task has been fully and accurately completed.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding HTML Access**\n\nI’m currently verifying HTML access for all four articles that matched the \"Poly encoder\" title search on ArXiv.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding HTML Access**\n\nI’m currently verifying HTML access for all four articles that matched the \"Poly encoder\" title search on ArXiv.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18jnmhGyHq2KQBXppikBWPgk/bLtjL29AqJo0FwX17Xv135fr+zWMzOzTMgj/Nykq4ZOBOX2QddkR+hsq5c42+0/vBrWJUu6nLCd7L0mOrZxLuuBG44h7XiIAWQbkundiVD5JdCBTYo3vqmT8kt8l85pJWCOy3t/k4icXlvScxUvRpuj8U+OabcrMWxcvQMyjfcHWnlZaQsCNrUeo5d7K9jBWCnPpMOvv+2egZid/TetdTD8aNXJNUHq3sIdJCxWZDbowJ9zMPpWHlxxzvg8LwD1/Ut3ymCsyLAnRcNcP0dIkgD1HIEbE6xtmeClGWoHllwIiTd8lS7W8W+DC1AXon7ORTzulIoDzlBNFi+vJkrS5U5ETw0pkoZ5kdkkciY8fqZ7+gdwZo7G+L4YMT0nBpeJrIXvmMCMLuo3ZlmFVvU5uqdpMCNk9EqOhJkfspQI0d0/iUgjVEeQFxRVrAUSrYimW5v2GVsocEjew2s93QGP+1LbpCMWvva+9jgLjWPa8Uk2uGJ5bxDUySl2RH6k/ThmPcTIOwzTDo45JFQBe6IHzMjkfSV4Runcw1FzTp14XaQSn3Z3mKZ5PzdCiESfWtTq8bgbJSFxBo6WguwfAKnhoQ4dgr4ZerI8yPnbIQujA4Mywn5FjxIoK3AFQHRSic0tDOf5APkE74Ts0mZbnZ3YdwvVD5Q3davbXeMWMjXn/b9FbSc78G6M85mHQReDj60XCRcVQcEGBnzC75ZEEdQYD1YWcn/IxhYanW+qMQCYhRfoVoDPIjy+ncK5BR/fgHGz2jfpKA0JluCaoUN96O1HSB382RywffcFGqJFig97hYRjWvteoLscD8ayK+CB+426tf9MzA6JCoCHl6gD/Ejoa00mu3IGBGXa7EAWD+DcE4YBHQO0mIRdo9QYDTD7Q//DI7TgvoXO/vNnQwm3D9Xzj3u8VNkZTyeG787GtGBkuzQzEMUtKIWvqbdkuxeVt0EGWu1v5DXj4Fy0Ytj2JarksDWtlAce1qrMpAbbIYIoxWdltidfhdNT3wZjMBhHWG3Z9zdGtq3HoUyYD94IBaG6LpPxGAq35FqLlk7NdvpYu4CC0i5v0ZHH5ePhWpIGia2zQWV8fayAp4THiiEcC1VmuLGYl6i197wP0zID9kM8d70hS7F4hIPj0uc6GAdCcT2+v3cCzwJD8tl38U3yG0Kv7lH24juDHEJpnGmG6rJMphdwmfVV15PhwcGvvuBeZB4q3Yv9bmUlbA8L3flS+JaKTUGfhNZ47vpB81F5T+9TDvDWIwY5D2XratD4U4DVKkRdUhQ96/HozsU/8mtE8x+iUezTZRzZr+7qC1IFdPB8AYkxmyR0NBOQoJdJSj0qfPEz55/suem3guRpo5BnlMjnLy0g5CKdB8TVHBn7MNRDnhO54IGaVsXZptgSpAh//a08hoN2ZgKf2ui5hcFY7wsAHMTPxqMOKlNDfEQW+HTSRHByAFy0onZ2X9khzJHPIQjQQ2xbq0WPDk4z+VCDtuhIS17IRyC8Q==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210045,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 312,
+    "prompt_tokens": 1987,
+    "total_tokens": 2299,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 197,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00266025,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00266025,
+      "upstream_inference_prompt_cost": 0.00149025,
+      "upstream_inference_completions_cost": 0.00117
+    }
+  },
+  "provider": "Google"
+}

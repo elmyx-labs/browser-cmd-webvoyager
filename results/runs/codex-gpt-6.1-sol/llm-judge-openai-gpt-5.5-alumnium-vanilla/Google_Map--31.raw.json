@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edyfn7fc9WJexylzXfhR6TZDP64QY",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to search for New York’s Central Park Zoo on Google Maps, use the map’s share function, and report the generated sharing link.\n\nThe screenshot shows Google Maps opened to the “Central Park Zoo” listing in New York, with the place selected on the map and the Share button (“Дели”) visible in the listing panel. The result response provides a Google Maps short sharing URL and states it was obtained through the Share → Copy Link flow. There is no contradiction between the screenshot and the response.\n\nGenerated sharing link provided:  \nhttps://maps.app.goo.gl/Gq8R7Kb5EwSoTRYv5\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196727,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 359,
+    "prompt_tokens": 1691,
+    "total_tokens": 2050,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 216,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

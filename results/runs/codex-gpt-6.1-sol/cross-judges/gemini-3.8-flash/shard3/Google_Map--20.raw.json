@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210498-b2hxhHmM9QI0Q6CivTwb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response:\n\n1. The task was to find the Tesla Destination Charger closest to the National Air and Space Museum.\n2. The screenshot shows Google Maps navigation from the Smithsonian's National Air and Space Museum (650 Jefferson Dr SW) to the closest Tesla Destination Charger located at 1330 Maryland Ave SW, Washington, DC 20024, showing a distance of 0.8 miles (19 minutes walk).\n3. The result response accurately identifies this location along with relevant details and alternatives.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Locating Tesla Charger**\n\nI'm currently pinpointing the nearest Tesla Destination Charger to the National Air and Space Museum, using the provided Google Maps directions as my guide. My focus is on establishing the precise route from the museum's location.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Locating Tesla Charger**\n\nI'm currently pinpointing the nearest Tesla Destination Charger to the National Air and Space Museum, using the provided Google Maps directions as my guide. My focus is on establishing the precise route from the museum's location.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+Us6lGe2jBByQu6FELIs+ucvvneWyQqB5ysIE51V+Ls2j0R1Va0WhxZHX9zEFHZBp8hidhMgsFAzht5CZiZRTssxPkErNaD7sGGLa7RKd+hrUP9hXJXXkhvtNnvJ+xrm6UqOZWGOmM+AlgTDkaAjxvoX3+Oc8Gav30XSjv7nDTXJZ52NS+gBVf/syRQtpKKYg2085lONA5w5ltPHfr6Yfyr/CwL5k41cvEK7/+fjbxrSETFetzw0biHRmC+mtny6uf8e3IBieaDkIRv3Pha0L7rX0J3D9WgjnXShI0Pw1fHvfdiV3e71b52l0AC7sv05VuHTDKvsyUJoE8q4TE+q6bcC8Qo5fjrL0fPmSGjq/XoeHXHQ8trUct24m3YJRiELkN6fzrvjcME3zN9BAVLrb0k+EpOhAL2EnpYP6dth6myJY3Q/nU42/sUX/t3vY1UGQwFV8rKFfm6i/nrAz1gEAj6AqtjZ86BzaY1OLLfanVjzdv/2rRpwkm3YROHW+VsoZtjOZqxk0KWHwptY3i2zodcxe/PKuPTokbAvgFG/82rSXExOhyIO48UXuffnqxqQpWGJ4mtU7minjJinCNt/RFOqTGLuvPv6op0eILCBtbDryjTgfDZKc1S5SK7ZPLcfSam2l+UExtqOJbDkkhho9oP8nThUlh96XCM5sY667nZs/chwtwcR4om2au44mhLf87/ZwEvmZzZTvLF0jDw5h/LeoF13llaRMmWoreLj8/OKzOI1Y+5RzU2rTR8/Bb1YIpRcgnpcTNMg2HaLUZmPqMTmblKs4K66QxHz8G+tvjbBkD8H5bEf9Bb9d8ZKdHxlZlmM4a7G6T8EldCa68Mg0s7uRMWFiHK32GXZ1f7VDIYYRNM5Q+3Rf3DEKX/c81ftfmy0DIY4fH0hYMj2kc/oBPXRL0eJAuDMKX1r/Gb03Ceu6m9EMa3fdCZ6iA7v3hYqAHtEMWW6xfMHH5OzY1rFmp+y/YHpSOkMr1G/7Joc/wcVW1nICRCrijK84g9mM8jCGP1GMaJG+9TqQV6TVX+t7lYEuJ9TbTKe+UKK5S7amzR7O88L8oGzhMOYV2683/6YGUYPqX0ZdHgH9tHPiinZPbiqIbfKV9c1GlkD7Z7k3DLebAHl7Ioi9avfwaEIRUYQusuRreAXzLJ/GjO38BMPcJajmUuuty7QdVgffzYGrQBFbPmCeVmZ68GAfuxkPKoMikVebAoCcV0w9Szx24ZMvBNAQ+7BCQLl6/8PBSpq5NMOksdAliCQLzYOf4cwnI0kyodykU1qdlx9txQXYm1w==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210498,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 325,
+    "prompt_tokens": 1992,
+    "total_tokens": 2317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 198,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00271275,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00271275,
+      "upstream_inference_prompt_cost": 0.001494,
+      "upstream_inference_completions_cost": 0.00121875
+    }
+  },
+  "provider": "Google"
+}

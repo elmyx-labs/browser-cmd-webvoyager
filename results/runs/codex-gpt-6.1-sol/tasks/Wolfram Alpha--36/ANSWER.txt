@@ -1,0 +1,7 @@
+FINAL: The series Σ(n=1 to ∞) 1/(n³ + 1) converges (absolutely).
+
+For every n ≥ 1, 0 < 1/(n³ + 1) ≤ 1/n³. Since Σ 1/n³ is a convergent p-series with p = 3 > 1, the comparison test proves convergence.
+
+Browser evidence: WolframAlpha states that the series “converges” and lists “integral | series converges” under its convergence tests. Screenshot: final.png.
+Source: https://www.wolframalpha.com/input?i=SumConvergence%5B1%2F%28n%5E3%2B1%29%2C+n%5D
+Checked October 27, 2026.

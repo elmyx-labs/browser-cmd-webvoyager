@@ -1,0 +1,9 @@
+{
+  "id": "Wolfram Alpha--44",
+  "task": "Solve the ODE, g' + cos(g) = 0, if there is a constant in the result, determine the value of the constant by the condition that g(0) = 1.",
+  "answer": "FINAL: g(x) = 2 arctan(tanh(artanh(tan(1/2)) − x/2)), valid for all real x, with angles in radians.\n\nIn the general solution g(x) = 2 arctan(tanh((C − x)/2)), the condition g(0) = 1 gives tanh(C/2) = tan(1/2). Therefore C = 2 artanh(tan(1/2)).\n\nEvidence: WolframAlpha gives this general solution at https://www.wolframalpha.com/input?i=g%27%28x%29%2Bcos%28g%28x%29%29%3D0 and confirms the real constant at https://www.wolframalpha.com/input?i=solve+2+arctan%28tanh%28c%2F2%29%29%3D1+for+c .\n\nThe screenshot final.png shows the original initial-value problem and WolframAlpha's equivalent solution at https://www.wolframalpha.com/input?i=g%27%28x%29+%2B+cos%28g%28x%29%29+%3D+0%2C+g%280%29+%3D+1 . Accessed October 27, 2026.",
+  "screenshots": [
+    "task_613/final.png"
+  ],
+  "raw_screenshot": "task_613/final.png"
+}

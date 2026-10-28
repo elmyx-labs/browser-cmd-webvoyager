@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210408-YnXkMuAEnPDC1egzSI51",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task instructed to look up the elevation of Mount Kilimanjaro on Google Search. \n\nThe provided screenshot shows a Google Search query for \"Mount Kilimanjaro elevation\", clearly displaying the elevation as 5,895 meters (19,341 feet) at Uhuru Peak. The text response accurately reflects this information.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Search Success**\n\nI am currently assessing the completeness and accuracy of the search results for Mount Kilimanjaro's elevation. My focus is on confirming that Google Search provided a definitive answer to this specific query.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Search Success**\n\nI am currently assessing the completeness and accuracy of the search results for Mount Kilimanjaro's elevation. My focus is on confirming that Google Search provided a definitive answer to this specific query.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1//r9tRnO6caeCToFU78NHUtignvMCi+npLODOHbF2W4sIxnv+PJqXrv/Dt81U27/zLXtBqqzhKvnaNeVY2GV+/uCXIdngRKfJsVHbAo/UWy+Wbp50akf8FExyjtmEjxTljAkqiDdQa66oUlqC4HfXdkUVyLOoSQYbxAiR+j8DgaIB3yGuKUq4py6Su++kMIuGKsUVlFIWVmrZM37uUekCmmdvSIk1USM9IrurtpPowspV4HB9Z0Y32GKdC9OYAvr5VhclVlk5qlo3bAiVnL1q6EkvUyohCtIgLZSyDJRVuW2OpHm0fEpUrUj0mpSr/6T9cLkvwYoxN8r6E3c5bajmF527unRS1MMQFPl7ojX3YBQGVpAxhkbw0uFg8/gmxTGdfRf1ws1jH6YGHsV6hFDpWjqKFNotBXCTv1bc51tSlDoMxQXub4BLv1Dxh/EvaWDNNWUSUht7WKnpNn9tUqmhEIy9uZEGUPWWy8WkKJGRGo3gG/q00U5EWA7zlimn5NyLVVTaOtm80NGvQaofNf0qTogwR/ci4D00xZSTo4Ij+A4Fe8sl1Mf9WCeYDzAYbKtGZXpY1ulql84vrf8G0CpqXC9FXoyTG/F3Y4o995oAfjKO3uk0rdCXbQZPEun7tf7ay/ZgduPEHXrR4+/brFwa0v5rsNBj0IzIHOENcAjsDxvkNQvDeNhu+4yWKhm0PpKbP5Q10wUD5UVM6HviSO3qSxXvNGQ1H7xfyR91Yrp41yRrCe9ExS7KAUszmpFERm+DL6Xmrnao0lBcQhNuhtNFjGQTAlnTT6KLLi8nQkNdpmpspfGBmaTD/pTMBkRFjUkJQbfRiK7V0zvSxTPySIIj0lI1e4x8XCkSKFUOUVEo3uusXW89ap3kIoqSYlhgKe/yOmSEWSNiATrqv/p9NTaPuQqNPaVXZrpZY1hVQXqB3St51trvWW0muyQNp3qeOHLmozDljz71zmhNrbhWmtL6tjKYvXri0qYQKnR8fsW6VeoBlr/RbSFczLJSIqkbIvQPhbYishtCDcDWkR9MVxIW1sHOiqqxbg9D1Na+jG9igEo1r7CA54gGbfUzY9BZFp7KsjOqh9BbPAPzwlA==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210408,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 232,
+    "prompt_tokens": 1696,
+    "total_tokens": 1928,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 162,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002142,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002142,
+      "upstream_inference_prompt_cost": 0.001272,
+      "upstream_inference_completions_cost": 0.00087
+    }
+  },
+  "provider": "Google"
+}

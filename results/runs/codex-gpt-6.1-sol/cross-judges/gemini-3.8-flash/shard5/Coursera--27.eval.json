@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--27",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a Specialization on Coursera about 'Data Visualization' that includes a project. Provide the name of the Specialization, the institution offering it, and the skills that will be developed by completing it.",
+  "answer": "FINAL: Data Visualization Specialization — Johns Hopkins University.\n\nThis Coursera Specialization includes an Applied Learning Project with hands-on labs covering interactive visualization, graphic design, and analysis of complex data.\n\nSkills developed: Color Theory; Data Mapping; Design Elements and Principles; Computer Displays; Geospatial Mapping; Scientific Visualization; Visualization (Computer Graphics); Scatter Plots; Plot (Graphics); Medical Imaging; Interactive Data Visualization; Scalability; Data Visualization; Unstructured Data; Data Presentation; Data Storytelling; Computer Graphic Techniques.\n\nTools taught: Data Visualization Software and Tableau Software.\n\nSource: https://www.coursera.org/specializations/data-visualization-dv (verified October 27, 2026). Evidence: the page's “Skills you'll gain,” “Offered by,” and “Applied Learning Project” sections. Screenshot: final.png.",
+  "response": "Based on the provided screenshot and response:\n\n1. **Search for a Specialization on Coursera about 'Data Visualization' that includes a project**: The user identified the \"Data Visualization Specialization\" which includes an \"Applied Learning Project\" section, visible on the screenshot.\n2. **Name of the Specialization**: Provided as \"Data Visualization Specialization\".\n3. **Institution offering it**: Provided as \"Johns Hopkins University\" (confirmed by the screenshot text \"Earn a career certificate from Johns Hopkins University\").\n4. **Skills developed**: Detailed list of skills gained from completing the specialization was provided in the response.\n\nAll parts of the task instruction were properly fulfilled.\n\nSUCCESS",
+  "reason_short": "Based on the provided screenshot and response: 1. **Search for a Specialization on Coursera about 'Data Visualization' that includes a project**: The user identified the \"Data Visualization Specialization\" which includes an \"Applied Learnin",
+  "screenshots": [
+    "task_309/final.png"
+  ],
+  "raw_screenshot": "task_309/final.png",
+  "source_result": "task_309",
+  "usage": {
+    "completion_tokens": 353,
+    "prompt_tokens": 1782,
+    "total_tokens": 2135,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 213,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00266025,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00266025,
+      "upstream_inference_prompt_cost": 0.0013365,
+      "upstream_inference_completions_cost": 0.00132375
+    }
+  },
+  "elapsed_seconds": 5.42
+}

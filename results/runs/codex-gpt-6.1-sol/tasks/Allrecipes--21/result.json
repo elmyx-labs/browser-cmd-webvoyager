@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Allrecipes",
+    "id": "Allrecipes--21",
+    "ques": "Locate a high-rated recipe for gluten-free brownies on Allrecipes with at least 50 reviews. List the main ingredients and the total time required for preparation and cooking.",
+    "web": "https://www.allrecipes.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Allrecipes’ Gluten-Free Fudge Brownies qualifies with a 4.1/5 rating from 76 ratings and 59 written reviews.\n\nMain ingredients (16 brownies):\n- ⅔ cup gluten-free baking mix\n- ½ cup cornstarch\n- 1 cup white sugar\n- 1 cup packed brown sugar\n- ¾ cup unsweetened cocoa powder\n- 1 teaspoon baking soda\n- 2 eggs, beaten\n- ¾ cup margarine, melted\n\nTotal time: 1 hour — 15 minutes preparation plus 45 minutes cooking.\n\nSource: https://www.allrecipes.com/recipe/127503/gluten-free-fudge-brownies/ (recipe updated January 14, 2022; checked October 27, 2026).\nEvidence: final.png shows the recipe name, 4.1 rating, and 59 reviews together. The recipe page lists the ingredients and Prep Time: 15 mins, Cook Time: 45 mins, Total Time: 1 hr.",
+    "result_text": "FINAL: Allrecipes’ Gluten-Free Fudge Brownies qualifies with a 4.1/5 rating from 76 ratings and 59 written reviews.\n\nMain ingredients (16 brownies):\n- ⅔ cup gluten-free baking mix\n- ½ cup cornstarch\n- 1 cup white sugar\n- 1 cup packed brown sugar\n- ¾ cup unsweetened cocoa powder\n- 1 teaspoon baking soda\n- 2 eggs, beaten\n- ¾ cup margarine, melted\n\nTotal time: 1 hour — 15 minutes preparation plus 45 minutes cooking.\n\nSource: https://www.allrecipes.com/recipe/127503/gluten-free-fudge-brownies/ (recipe updated January 14, 2022; checked October 27, 2026).\nEvidence: final.png shows the recipe name, 4.1 rating, and 59 reviews together. The recipe page lists the ingredients and Prep Time: 15 mins, Cook Time: 45 mins, Total Time: 1 hr.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_18/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_18",
+  "elapsed_seconds": 90.37017393112183,
+  "execution_error": null,
+  "proxy_bytes": 82739548
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210496-oI1oUM8hub1Ed1ZiHgiL",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to check the current air quality index in Paris.\n\nThe provided screenshot displays the IQAir page for \"Air quality in Paris,\" indicating an Air Quality Index of 46 US AQI (Good), with PM2.5 as the main pollutant at 8.2 µg/m³. The response accurately reflects all this information directly from the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Air Quality**\n\nI'm focused on extracting the air quality data for Paris. I've identified the AQI as 46 US AQI, categorized as \"Good,\" with PM2.5 at 8.2 µg/m³ as the primary pollutant. The information is derived from IQAir's Paris page.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Air Quality**\n\nI'm focused on extracting the air quality data for Paris. I've identified the AQI as 46 US AQI, categorized as \"Good,\" with PM2.5 at 8.2 µg/m³ as the primary pollutant. The information is derived from IQAir's Paris page.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18RaqH7hCQMIYqYl/3nYbozTu/RAyVRNxoovirq8Ex+C3Ax7qfwktVKDs1mvqJsmwYAfSM8KGF5k0xnrcfOqWZXfHPGfIusS+yzBvtbnNFPhFeaR6weHZ/z2lJkI/GcFx+9vd0HRewhKapO2euQA6Mh+bidgChejJfHqnlaIFFDBg3mQ5fZNBENgIKzEJt9LSfyX3WvYOByu0HFyyW2r9HegJ2hA9teTFayxP62yNHN68aAGQhPnPneZ4aOTnFPRmrQ21Az4Nq0IUKE5UM9PZ2l1WHrYRkBZh4moU0+zFevq2gqk1Nw2MNLs/E3ZDAA975aKIx3PVbZvDMcx3E9IcWN8WWgt3zKrtzDleeLgCd4n0MmeQ+B1Y517UOAad3jiey1PcXOU/Nnagl+WWKp08ezcbaPC0saQrW0hR/xj/T3r/DZfcqdhNve16xYCBv7QT2irzNwkyL0bCrRlmbRTmV3YaXFSgRHerXLMYvk+Eno+s/Jr/e0KF2lxCuWHyaRTLQod89CB4556TX4doOhL4asNF/WAZe5jN5RU9VPddXrT92HrJTj4y8o9DdhKt2YTt72nRfPX/zs0FwRNB7IajP0o0tByNtTuecX07ZoUB/4CmCjFMtlDOK3cvPHFuNuXRx3jFxD5ICsp+tiITm2+emHMJL7it5VmYk1V4rhcsRlZOlpE0iFoy2ADZ9SBhNxTOehoG9hGOdKSbYWrFDlENF1KYcNIm+XzYdxClKc77KNespEWa/GE/aRGwerdmSAb7l7IBBVBmYMGLT5zaaOsYGlu1HfuiObTDZ5+29nMPRAq3Mg3vW4WtuTqC6ygAIwClWpbV9zYjQq431RpZ6ImDlUSMJNq3BTvFiq0cP/lSuMvKNCI6CUwyuksClZ4Xw=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210496,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 221,
+    "prompt_tokens": 1663,
+    "total_tokens": 1884,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 144,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002076,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002076,
+      "upstream_inference_prompt_cost": 0.00124725,
+      "upstream_inference_completions_cost": 0.00082875
+    }
+  },
+  "provider": "Google"
+}

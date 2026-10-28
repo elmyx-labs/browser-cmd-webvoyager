@@ -1,0 +1,4 @@
+[x] On ArXiv, search for papers with 'Neural Network Optimization' in the title published in 2023. Evidence: ANSWER.txt source URL, title phrase query, date-year=2023 and date-date_type=submitted_date_first; all 12 candidate titles checked in browser.
+[x] Provide the number of such papers. Evidence: six literal matches, result numbers 2, 6, 7, 9, 10, 11; titles and original submission dates recorded in ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the title, date filters, and count visible. Evidence: final.png, 931x1280, showing all 12 candidates and query/date/sort; six literal title matches are visible.
+[x] Write the result and its evidence to ./ANSWER.txt. Evidence: ANSWER.txt states 6 and lists the six titles, IDs, original dates, source URL, and screenshot reference.

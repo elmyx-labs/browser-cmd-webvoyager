@@ -1,0 +1,41 @@
+{
+  "id": "Apple--39",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find solutions on Apple's website if you forgot your Apple ID password.",
+  "answer": "FINAL: Apple provides several ways to reset a forgotten Apple ID password (now called an Apple Account password).\n\n1. Use a trusted device where you are already signed in. On iPhone or iPad, open Settings > [your name] > Sign-In & Security > Change Password and follow the instructions. On Mac, choose Apple menu > System Settings > [your name] > Sign-In & Security > Change Password, enter your Mac unlock password, and follow the instructions.\n2. Without a trusted device, choose “Forgot Password?” when signing in and follow the prompts. Apple may verify your identity using your trusted phone number or other recovery factors.\n3. Use https://iforgot.apple.com in Safari, or use the Apple Support app on a borrowed device or a device at an Apple Store: Support Tools > Reset Password > Help Someone Else. Apple says the information you enter is not stored on the borrowed device.\n4. If you cannot reset the password using a trusted device or recovery factors, request account recovery. Apple says this can take several days or more.\n\nEvidence: Apple Support, “If you forgot your password and can’t sign in to your Apple Account,” published October 5, 2026: https://support.apple.com/en-us/102656\nDevice instructions: Apple Support, “Change your Apple Account password,” published September 29, 2026: https://support.apple.com/en-us/101567\nScreenshot: final.png shows the main Apple Support guide.",
+  "response": "**Evaluation:**\n\nThe task required finding solutions on Apple's website for resetting a forgotten Apple ID password. \n\n1. **Screenshot Verification**: The screenshot displays an official Apple Support guide titled *\"If you forgot your password and can't sign in to your Apple Account\"*, which outlines steps such as choosing \"Forgot Password?\" and using trusted devices/phone numbers.\n2. **Response Assessment**: The response accurately summarizes the solutions provided by Apple (using a trusted device, clicking \"Forgot Password?\", using `iforgot.apple.com` or the Apple Support app, and initiating account recovery).\n\nThe requested information was successfully located and documented.\n\n**Verdict:**\nSUCCESS",
+  "reason_short": "**Evaluation:** The task required finding solutions on Apple's website for resetting a forgotten Apple ID password. 1. **Screenshot Verification**: The screenshot displays an official Apple Support guide titled *\"If you forgot your password",
+  "screenshots": [
+    "task_117/final.png"
+  ],
+  "raw_screenshot": "task_117/final.png",
+  "source_result": "task_117",
+  "usage": {
+    "completion_tokens": 285,
+    "prompt_tokens": 1904,
+    "total_tokens": 2189,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 146,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00249675,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00249675,
+      "upstream_inference_prompt_cost": 0.001428,
+      "upstream_inference_completions_cost": 0.00106875
+    }
+  },
+  "elapsed_seconds": 9.42
+}

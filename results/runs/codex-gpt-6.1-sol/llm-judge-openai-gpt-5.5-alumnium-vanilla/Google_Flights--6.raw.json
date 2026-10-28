@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyesZAI7rsCaIkrbw3EycfDSpK3I",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The screenshot shows Google Flights with:\n\n- Trip type: **Round trip**\n- Origin: **Tel Aviv-Yafo**\n- Destination: **Venice**\n- Departure date: **Sat, Dec 19**\n- Return date: **Sat, Dec 26**\n- Cabin class: **First**\n- A displayed flight option under departing flights, labeled **“First Class + Business Class”**\n\nThis matches the task instruction to search for a flight from Tel Aviv to Venice departing December 19 and returning December 26, with First Class selected. The response also accurately describes the visible search result.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196670,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 335,
+    "prompt_tokens": 1789,
+    "total_tokens": 2124,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 200,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

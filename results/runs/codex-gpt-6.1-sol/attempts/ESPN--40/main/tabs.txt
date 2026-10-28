@@ -1,0 +1,10 @@
+## session of the actor
+4 kept tabs: 2 ok, 2 not (t2 http 404, t3 http 404).
+<browser trusted="no">
+ t2 kept http 404 https://www.espn.com/insider/tools/ — ESPN - Serving Sports Fans. Anytime. Anywhere. [screenshot media/browser/browser-0003.png]
+ t3 kept http 404 https://www.espn.com/espn/insider/tools/ — ESPN - Serving Sports Fans. Anytime. Anywhere. [screenshot media/browser/browser-0004.png]
+*t4 kept ok https://espnpressroom.com/press-release/espn-tournament-challenge-2025-no-1-bracket-game-back-for-fans-with-bracketbrain/ — ESPN Tournament Challenge 2025: No. 1 Bracket Game, Back for Fans with ‘Bracketbrain’ - ESPN Press Room [screenshot media/browser/browser-0005.png]
+ t6 kept ok https://espnpressroom.com/press-release/espn-fantasy-football-no-1-game-gets-even-better-for-2019/ — ESPN Fantasy Football: No. 1 Game Gets Even Better for 2019 - ESPN Press Room [screenshot media/browser/browser-0006.png]
+ t1 ok https://www.espn.com/fantasy/football/ — Fantasy Football - Leagues, Rankings, News, Picks & More
+ t5 ok https://www.espn.com/ — ESPN - Serving Sports Fans. Anytime. Anywhere.
+</browser>

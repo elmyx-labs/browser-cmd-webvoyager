@@ -1,0 +1,3 @@
+- [x] Browse the GitHub Trending and find out which developer is currently ranked first this month and the corresponding repository. https://github.com/trending/developers?since=monthly shows “Date range: This month”, “1”, “Paul Bakaus”, “pbakaus”, and “POPULAR REPO impeccable”; link https://github.com/pbakaus/impeccable.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and monthly filter visible together. final.png is 1280×723 and shows the Developers tab, monthly filter, rank 1, name, and repository.
+- [x] Write the result and evidence to ./ANSWER.txt. Saved with the result, date, source URL, and screenshot reference.

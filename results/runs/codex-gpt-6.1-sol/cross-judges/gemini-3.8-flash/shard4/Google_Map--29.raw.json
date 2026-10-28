@@ -1,0 +1,60 @@
+{
+  "id": "gen-1793210412-SiY42LjRQW2VYjHTwTvi",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to identify bus stops in Ypsilanti, MI, and list three of them.\n\nBased on the provided screenshot and final response:\n- A search was conducted for bus stops in Ypsilanti, MI on Google Maps.\n- The results clearly show several bus stops, including \"Hamilton + Michigan\", \"Michigan + Huron\", and \"Michigan + Hamilton\".\n- The response lists these three bus stops accurately with details confirmed by the screenshot.\n\nTherefore, the task was successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": null,
+        "reasoning_details": [
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18nP8YmtWItY0cXRp/IBkpjfIbN1iOSZFPeQ3iYNKy+QXzP6s7Srphnx2ZxMu3wjw19BBP0w684ec0hi6p7DSo2JsYOsvqupKuau8RAJTOU6HIxDx9syU1n05UK4jio50sfZ0wCTZu6hvL//Uyg9tJE+BmlYdB0dZahinr1DqcI+d++nconQ5jdA3CcQ2oXy2U3OdDn24NWoT3bL0Tn4P+CUNp8iZEU2nVB8jdf1FvaYim6apLXqw3V+YjpxX76yUO+4eoTolxVLIwzX620Kes/HZ5xpE+LUdgVqWTZkR0NJWXKvgCDt1S5ghVusY5KtTg/hnsx4uqVQ0DlO+CsL/5FW4ugjlZ5zJGYmIPWwCuXo3iUgYbKcTDl/mAh9sRXp333M/XGnu9mh+Co5rOyTudV/6IGlKQ/0A31+NBKrwenLjz8Ck2MIwasZ36gq15d522HyF8YPbNVbMq68Ch2Nm1OJCgTcokF2lLTWD/kY/1MxpfKhOIUI3qrmd9KFU2IdHYrZwImxHkXNioriixseG4nZ/hosFBo4K21W5JoZfMXzdlaqGfLsOqWtIfg8aN90Of2rWRrH6Qtt6g5RYsbdg2Rhzspupy6Sp7mlTlmj770wBVqIy9n6o7sZJvZdDohln+u4QfG3jZYlXCQ3ozbzZabv8mmu2C98WVKEKXw+dT4+C213dbWIPq5lxbo0yk98mUoesELuVxM/7UImtmIf2HoPVvbgGHbGoue5ORg2r+c3TwDdmnv2BLJrXKDxHT+08Uf2thOMaO2AM5pIvAWCkB+pxvDxRy3f+vJpHno9OwEBB8w32uI52jCsTqhEHcZVRCPOZamCtACRs/jH9La6vTpMXyplayDU9fWK8Mc18CcLGpX2xLVTk55kN2MvyvG3Lehv6BjKHFri8ankWT3FmLCVmf9zDK2+Y/9PmZ7dJBwCPuNpuvwb2v1mYftz2eYBNLLfT7fcqQl48o2RfKYDVZU4hQQB7XsToRbxgbQuZsxEZ9e5n7EXgBPvntkdf0=",
+            "format": "google-gemini-v1",
+            "index": 0
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210412,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 254,
+    "prompt_tokens": 2476,
+    "total_tokens": 2730,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 148,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0028095,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0028095,
+      "upstream_inference_prompt_cost": 0.001857,
+      "upstream_inference_completions_cost": 0.0009525
+    }
+  },
+  "provider": "Google"
+}

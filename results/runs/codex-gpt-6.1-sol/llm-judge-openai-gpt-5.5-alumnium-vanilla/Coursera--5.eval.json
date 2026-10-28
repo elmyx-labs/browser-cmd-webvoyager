@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--5",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify a Specialization on Coursera that teaches C++ programming for beginners, provide the name and what the learning outcomes are.",
+  "answer": "FINAL: Programming in C++: A Hands-on Introduction Specialization, offered by Codio on Coursera, is suitable for beginners: Coursera labels it “Beginner level” and says it is intended for people without programming experience.\n\nLearning outcomes:\n- Use C++ to automate routine, repetitive tasks.\n- Build engaging programs with graphical output.\n- Establish computer science fundamentals that transfer to learning other programming languages.\n\nSource: https://www.coursera.org/specializations/hands-on-cpp\nEvidence: final.png, a screenshot of the Coursera Specialization page.",
+  "response": "The task was to identify a Coursera Specialization that teaches C++ programming for beginners and provide both its name and learning outcomes.\n\nThe screenshot shows a Coursera page for **“Programming in C++: A Hands-on Introduction Specialization.”** It is clearly labeled **“Beginner level,”** satisfying the requirement that it be suitable for beginners. The screenshot also displays the “What you’ll learn” section, including outcomes such as:\n\n- Automating everyday, repetitive tasks using C++ programs  \n- Creating engaging, graphical-based programs  \n- Developing a foundation of Computer Science concepts transferable to other languages  \n\nThe result response accurately names the specialization and summarizes these learning outcomes. It also provides the Coursera source link.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to identify a Coursera Specialization that teaches C++ programming for beginners and provide both its name and learning outcomes. The screenshot shows a Coursera page for **“Programming in C++: A Hands-on Introduction Specializ",
+  "screenshots": [
+    "task_288/final.png"
+  ],
+  "raw_screenshot": "task_288/final.png",
+  "source_result": "task_288",
+  "usage": {
+    "completion_tokens": 312,
+    "prompt_tokens": 2280,
+    "total_tokens": 2592,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 154,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.65
+}

@@ -1,0 +1,8 @@
+- [x] Look for a hotel in Paris — Booking.com search source in ANSWER.txt: "Hôtel Saint-Louis - Jardin du Luxembourg", "6th arr., Paris".
+- [x] User rating of 9 or higher — same search source: "Scored 9.0", "Wonderful", "628 reviews".
+- [x] Available for a 5-night stay starting January 15, 2027 — same source URL checkin=2027-01-15 and checkout=2027-01-20; "5 nights, 2 adults", "We have 3 left at this price", "See availability".
+- [x] Free Wi-Fi — same source: applied "Free Wifi" filter and card "Free Wifi 9.5".
+- [x] Breakfast included in the price — same source card: "Standard Double Room", "Breakfast included", "Current price € 1,080".
+- [x] Provide name, location, and price per night — ANSWER.txt: Hôtel Saint-Louis - Jardin du Luxembourg; 63 Rue Madame, 6th arrondissement, 75006 Paris, France; €216 average nightly from displayed €1,080/5, plus €55 total taxes/fees. Address source: https://www.booking.com/hotel/fr/hotel-saint-louis-jardin-du-luxembourg.html — "63 Rue Madame, 6th arr., 75006 Paris, France".
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name, deciding facts, applied filters, sorts, and dates visible together; no overlays — final.png is 1280x723, visually checked.
+- [x] Write final answer to ./ANSWER.txt — saved with FINAL: first line, dates and sources.

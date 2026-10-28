@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--1",
+    "ques": "Search for a beginner-level online course about Python programming, suitable for someone who has no programming experience on Coursera.",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Programming for Everybody (Getting Started with Python), offered by the University of Michigan on Coursera, is suitable for someone with no programming experience.\n\nCoursera explicitly labels it “Beginner level” and “No prior experience required.” It teaches Python basics, including installing Python, writing your first program, variables, functions and loops. The flexible schedule is approximately 2 weeks at 10 hours per week.\n\nSource: https://www.coursera.org/learn/python\nVerified October 27, 2026. Evidence: final.png shows the course name and beginner/no-experience requirements together.",
+    "result_text": "FINAL: Programming for Everybody (Getting Started with Python), offered by the University of Michigan on Coursera, is suitable for someone with no programming experience.\n\nCoursera explicitly labels it “Beginner level” and “No prior experience required.” It teaches Python basics, including installing Python, writing your first program, variables, functions and loops. The flexible schedule is approximately 2 weeks at 10 hours per week.\n\nSource: https://www.coursera.org/learn/python\nVerified October 27, 2026. Evidence: final.png shows the course name and beginner/no-experience requirements together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_284/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_284",
+  "elapsed_seconds": 66.55706310272217,
+  "execution_error": null,
+  "proxy_bytes": null
+}

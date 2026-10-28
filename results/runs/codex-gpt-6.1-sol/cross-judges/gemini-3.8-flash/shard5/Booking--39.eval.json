@@ -1,0 +1,41 @@
+{
+  "id": "Booking--39",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a pet-friendly hotel with parking available in downtown Toronto for the stay of July 24-26, 2027.",
+  "answer": "FINAL: Fairmont Royal York Hotel, 100 Front Street West, downtown Toronto, is a match for July 24–26, 2027 (2 nights). Booking.com shows an available Queen Room for 2 adults with the Hotels, Parking and Pet friendly filters applied. The hotel page confirms “Pets are allowed. Charges may apply” and “Private parking at the hotel,” including valet and garage parking.\nSource: https://www.booking.com/hotel/ca/fairmont-royal-york.html\nEvidence: final.png shows the hotel, downtown location, selected dates, and applied filters together.",
+  "response": "The task required finding a pet-friendly hotel with parking available in downtown Toronto for the stay of July 24–26, 2027.\n\nThe screenshot and response demonstrate:\n- **Location**: Downtown Toronto, Toronto\n- **Dates**: Sat, Jul 24 – Mon, Jul 26, 2027\n- **Filters**: \"Parking\", \"Pet friendly\", and \"Hotels\" are applied.\n- **Result**: Fairmont Royal York Hotel meets all criteria and is available.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+  "reason_short": "The task required finding a pet-friendly hotel with parking available in downtown Toronto for the stay of July 24–26, 2027. The screenshot and response demonstrate: - **Location**: Downtown Toronto, Toronto - **Dates**: Sat, Jul 24 – Mon, J",
+  "screenshots": [
+    "task_237/final.png"
+  ],
+  "raw_screenshot": "task_237/final.png",
+  "source_result": "task_237",
+  "usage": {
+    "completion_tokens": 483,
+    "prompt_tokens": 1722,
+    "total_tokens": 2205,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 362,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00310275,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00310275,
+      "upstream_inference_prompt_cost": 0.0012915,
+      "upstream_inference_completions_cost": 0.00181125
+    }
+  },
+  "elapsed_seconds": 5.33
+}

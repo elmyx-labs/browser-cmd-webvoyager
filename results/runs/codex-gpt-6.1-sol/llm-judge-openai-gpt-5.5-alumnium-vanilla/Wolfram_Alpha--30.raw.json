@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyhH5SRTCgX1e68dHn15kozFoWVe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to calculate estimated time to sunburn for different skin types at 1:00 pm in Brazil with SPF 1.\n\nThe screenshot shows WolframAlpha input information confirming:\n\n- Skin type: all\n- Location: Brazil\n- Start time: 1:00 pm UTC−03\n- SPF: 1\n\nIt also shows the “Typical time to sunburn” table with:\n\n- Skin type I: 13 min\n- Skin type II: 17 min\n- Skin type III: 25 min\n- Skin type IV: 33 min\n- Skin type V: 48 min\n- Skin type VI: 3.5 h\n\nThe result response accurately reports these values and aligns with the screenshot. The requested calculation was completed for all skin types.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196819,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 592,
+    "prompt_tokens": 2076,
+    "total_tokens": 2668,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 419,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

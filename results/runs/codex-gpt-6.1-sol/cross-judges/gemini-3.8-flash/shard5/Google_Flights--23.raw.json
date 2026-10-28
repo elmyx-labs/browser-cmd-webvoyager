@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210372-ZIkN940PR0MpnmQ4vkIC",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The evaluation is based on the following details:\n\n1. **Trip Type & Route**: The search is configured as a \"One way\" flight from \"Mumbai\" to \"Vancouver\".\n2. **Date**: The date selected is Wednesday, July 28 (July 28, 2027 falls on a Wednesday, confirmed in both the calendar and URL query parameters `2027-07-28`).\n3. **Filter**: The filter applied is \"1 stop or fewer\" (the standard stop-filtering option on Google Flights). All the resulting flights shown on screen (Philippine Airlines, Turkish Airlines, Lufthansa, British Airways) are strictly 1-stop flights.\n\nAll requirements of the task have been successfully met.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Flight Search Parameters**\n\nI'm currently reviewing the flight search query details. The focus is on verifying the one-way route from Mumbai to Vancouver and confirming the July 28, 2027 departure date, alongside the specific filter for 1-stop flights.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Flight Search Parameters**\n\nI'm currently reviewing the flight search query details. The focus is on verifying the one-way route from Mumbai to Vancouver and confirming the July 28, 2027 departure date, alongside the specific filter for 1-stop flights.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a198sjwczclYJSqKERbvrIVEtDNFOllcCm1Ujg5l3N+rEpeCB/z33xPC/8ROXZKozJ3zy0P3FQmux/must26tESmfUXSu22bHezi70r4Duhf6DJTwLR2NY9O8sA07nfQSVQKClcstTtHTsCpFc7bPx4u7cIyhF1B4v/qYfNvy8NhAQAIx5r2Fh4sP32oGDDFH02lI3HV7jWJ/OfsTAAqukdxnp77qZGvVlXuQUuYH2nKEaAK1BZV40bg3e4IwruAkeloFH0fbKeUOCxMG0kraQugsDVZ0jZn4TqlIkQrHyDFSmzM9mYCZcar3fhfqpUFKwfTc9B6v1tCBwgFHMuCck/p4anpKZTYQJDEYKBXInpcojsgLmb8+5vNaHRCZPtaTIjAMRRw1uKs9X4ysqikZzHk8vm7wt85evoRZaOh3fxAFb1Ox9riSnZZWHJV7PYSw+qkBJS/KkcAYjAcTBqeXpfNLnQecy9WG3IpNjRDZvubNQph9vU9/tOq3GoAE43Oe61BztoxnRmlD3l7Prslk4KDdBddgym7Qb1XFzaOJHIaZ3EDTiMPmFW5jD3CEHnZ9hG3GbRc9wq6XuoMsHg2nh3RkcORmrjqx/yY86NKPhTscz49UtXPgRvTScxaHC5MyeXXauxO1bUPdZBCagimjyKf3QlTT5YFhhb5CSLCF+W6EyeIF7MpmOM/zHr6pH0oGx8utSwqbw9aovRO2ig74QCv9V2T8xT+n9qLOmUrmecPKguPOFmRPeYCEY/QE4vJ4P0nQucDn/hyxyes3OJqwqkFbqMYgIHixv7T7CahvQtmdaceCSmDCcsFy9ccSjR5fDxfDSYjwQAlcXdshg6qjSHaKEynvBWMCCuvLftD33rz3Rh4ydzs2pLFr9rMl6AbrSRxlOC1v8/ptYffl5wR+dGW//YoDWm3VqXi1rV38n074mzN7QuTfgDJRZi/82v6BM0FzGPCpKo+QQ7Lw86aqPSl9b7D1LaFoTSrSs/BYG02yVd+37AtLHKhsEm6lUrCsOYPtbFO9G4Y+M2nmPiKQt2z4ExmYrcCWg5Wxk4jW2pD+KCSMmvr/1AY1KcWRgMjb4IxGVJwLHz32fnNXDSbaxzLVLR9R3Ncwf7rG6MJ85mmo9sQS8kMpFhSBLY7g3BtMmPImSCWJWlGvTRtjWyeGHbZkPfDKcevAf3SDC1lfFcYlFaVcZIj1Tyt5dF515Uq8yzyrV0tK4tArP2wJSNquN+GLA2gQT6aD6HCmL/E4kqVmCpH9UvIylz45SMxy4e8ybNV4bwDAP+MkOjCCK1tYsM/3fkQFBtdBuJlFBdyLk5Zio9ygQxTL70cLMr3jBwrDz56rHShZ069WkIEPhI+urR0Yah7NRLau8NH2QCdX6+w04163YivDPVmqhfcYegLSmaiQ2nTH594Gm3+0YPY9s/Ps1XeU7ybdctOx5Y8AMAPTBucTYSFOnuhmlzFGDBcSyzq0f92Zx3PVfBFzclXLhylZO1NEfLKfRIDonFuYJdeeIPFDiIjWb+MfoGmg1xO7j+yQQfjzPG8MEmZs2Blca5RUHkCt5+IUCqpeFtLbnblEPxGHg7yuiDxGCPx8w7cdlmUveVPqgZ/iUscPc4byscZaXpsn80vbmWW2cDTZWLFfDWxnvliRN37OSqLzwQbIShM/mq6Pr1fYvMkxe9F7lijFQEcttFyeiUMUGmYz2rDDJsdZFFP8/yH0t2WYjJtQTDL3GR7WAzaah/7iaDmsYbzctk/0NVXw+j8PfyYxmBrRCVNe6LkObOHsLqX76SgJcQ758W45aEZExPan+dmTxAA6Kik+FUxmiFLWeyijOXc2rTG9INtwWR91N8yBemv9lKyyGGhYwOKnZ4qLgmGa854b/i9xg==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210372,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 470,
+    "prompt_tokens": 1904,
+    "total_tokens": 2374,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 312,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0031905,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0031905,
+      "upstream_inference_prompt_cost": 0.001428,
+      "upstream_inference_completions_cost": 0.0017625
+    }
+  },
+  "provider": "Google"
+}

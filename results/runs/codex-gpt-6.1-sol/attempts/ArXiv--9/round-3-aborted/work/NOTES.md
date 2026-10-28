@@ -1,0 +1,4 @@
+The arXiv advanced search for all=neural networks, original submission date range 2026-10-21 to 2026-10-28, sorted Submission date (newest first), shows 325 results and KPPax first.
+Search URL: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=neural+networks&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2026-10-21&date-to_date=2026-10-28&date-date_type=submitted_date_first&abstracts=show&size=50&order=-submitted_date
+First result: KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry. Authors Wenqing Peng, Michael Boy, Zhi-Song Liu. Submitted 27 October 2026.
+Paper page https://arxiv.org/abs/2610.37655 shows original v1: Tue, 27 Oct 2026 17:58:40 UTC. Abstract describes a neural-network emission-inventory correction trained offline and fine-tuned online through the chemical model.

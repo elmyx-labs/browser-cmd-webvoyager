@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210360-shT4ZYvC1z8GVWa8QmCx",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response:\n\n1. The task requested searching for plumbers in Orlando, FL that are available now (\"Open now\") but not open 24 hours.\n2. The search was conducted on Google Maps for \"plumbers in Orlando FL\" with the \"Open now\" filter applied.\n3. The results clearly identify businesses meeting the criteria (such as *We Fix Drains*, which shows \"Open · Closes 8 PM\", and *RooterMan Orlando Florida*, which shows \"Open · Closes 11 PM\" with hours of 5 AM–11 PM rather than 24 hours).\n4. The response accurately lists these qualifying plumbers along with their hours and contact details.\n\nTherefore, the task has been successfully accomplished.\n\n**SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Search Results**\n\nI'm currently reviewing the search results for \"plumbers in Orlando FL\" with the \"Open now\" filter. My focus is on identifying any listings that are *not* open 24 hours, as the top result is currently showing as such.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Search Results**\n\nI'm currently reviewing the search results for \"plumbers in Orlando FL\" with the \"Open now\" filter. My focus is on identifying any listings that are *not* open 24 hours, as the top result is currently showing as such.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19M4ORRPmrxPf9w9SrNFvUAqH7NFd7B5PSWMuKdUHFdb0l7XbnCTl3FgaObi9aSgX66HEiwv9Avy4B2Sq6KPnfnDdi5Cjf5nlc4fRTfj7AfhXNlpEGwazw7YPxHMoqfGT3ZWf9gaWsRBQ1/aVG4Wg1id8vyiI2HaI+M1B7Ra4pNoCQ8wPt+5HAHCcFNs+NcpF6G30FdYyJsVJUkKWtT6fgEmW03GmxhWpd/qVlj+pjZv1j3/ZEYVVt5cBwVFPW3TuMf/CZR4JVxmNJ2dJpmizxIoZFPE5JLfnYOQBPiz2qg9bgoj6kMXRxvLLuHWrHrby2gbU6SA31nCtrlYJqM/cn37BCFKvfiQmlc15IRbvV9X+ehPhQbTMQrJDyNVIc22hPId0xkZ6AxYwbQ/1EceHGmhnIWMJlTY+wKaCsPJdY94iU/wTYYaYUQFhOciLMTSi0z0/qbv+TzG4CWE6uTtPeheEKPCSgbLru2vnKMX6+vQI91jm5Ab8ZRZ9L/KDi3/jGbtsNsFixFbpuVFlo3TDMnWYE5a6sLGIXt4lvltEwesH9UZGRpeC1CzJh+jmkG3kCjmQnpEbgG1Sno0W7g6bKEhBFnW5VwDmgX4PiIHgKu5LT7+j0+LJDvlbezT51FZ6mVjTQRs9Jeav8bLod+wVIh6DfI2WOAS/aKdmlDKlXscO58uN4rRFKl7hwBJL1KrqpZahd0FHMEzVaOj5he1z6uppWy5sRWA0aTzotnbi+0gJ9pItvTJQdZ1PdbVrcXyD9qtk+vh2g/C0rk1ebBvKIGTo0PQ2xbmJt/uEoLH43old8yR3xMdOMf42ytLgd4SoilfU3SpGx970Wa6qorUhld15CbppQLtypxk6ORGMbgAa/pJ37ubKgZiLfEHI5isgGS0ovRzt1HX3Zb5zxlhnuOoC5XFvbZG5DB25LbbVACSF3AqKJieUG+ydbRWf4Jnl53vNOJFazjMj8vyfBRf39f8dslPAmRXFKElUq+D367HPPWYWtwbqu6ieRXoG7aBF2fgrZkwDr9S5ekrfDF1vS2IJ233BiY0J1M8We9JYcgPp+UiS33Rjblt/JEi9Eb5/i4vIBvUqOTzgQMgqHUe2ezBU6eV7wqmAUDnxvezPNnddElterdPSC6EvsVzB2fBYaUXT4MlBkRWKSVImF3X8ohzcjpmzCn0UstlgBzyxWjNj673Jy9jzSKWQPBDQtqpaCPf1P+9kNATDI2gJ620nVw5uTu1RuFkiAUSljGZyzFAUSPG0Vq5UglYvgdbnuSMKg3USqkXD6RtZ8iY+h7YQGYYD8F0WHj6niMjgLeJ6O2v86285gQRoGgPGCN0fGu0gt9nBcQ2OGFVpVbp+f7DdG2Lj6W8IrQlrRDpfbS/Z62t1sVagoY/GIVi94UYSyuYw2i5SYt4VLBvrEj9n+o8KK2zKJt+lgwuVEB1yNUnAZV2AYqsDCJdRvDANQ1lxA1/gsUJWF9hZhpCktHjvI7TGmlH7+BXqi6GlrMrIEBsyHiLoRDLXDSg+hayYWtUcuiPmGb9M2iOrciLe+HNzJBSaeU2Ezikrw7Qm6Lg/ks8j3dkoc4dA0Ldgj7UpHd9f6vZq46seD7ME4GoSqqrXHICjJLp4Pcj9mricC3+oICCwFVoeN6QHeuTQP3+9AyUOu5nCGNhjyhLeeBOuHdvtddFeIPo34kgH8Roqel5rmNrDpjMEVArB2gAjg52Fnd4DagJXcm7/uj8DaKftdfu5TLjXVNpufsmEyRmiyLJjLCV+WNxwNXwB3uo8/gTr23f2dMWgvnwI3pMOUlH2iY8mrJ2U8QReZ9ZQ==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210360,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 473,
+    "prompt_tokens": 2878,
+    "total_tokens": 3351,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 309,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00393225,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00393225,
+      "upstream_inference_prompt_cost": 0.0021585,
+      "upstream_inference_completions_cost": 0.00177375
+    }
+  },
+  "provider": "Google"
+}

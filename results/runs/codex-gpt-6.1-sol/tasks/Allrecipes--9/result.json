@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Allrecipes",
+    "id": "Allrecipes--9",
+    "ques": "Find a high-rated recipe for vegetarian lasagna, list the key ingredients required, and include the total preparation and cook time stated on the recipe.",
+    "web": "https://www.allrecipes.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Allrecipes’ Vegetarian Four Cheese Lasagna is highly rated at 4.6/5 from 243 ratings.\n\nKey ingredients (8 servings): 2 cups diced, peeled pumpkin; 1 eggplant; 5 tomatoes; 1 pint ricotta; 9 oz feta; 2/3 cup pesto; 2 eggs; a 15-oz can of tomato sauce; fresh pasta sheets; 1 1/3 cups shredded mozzarella; 1 cup grated Parmesan; salt and pepper.\n\nStated timing: 15 minutes preparation + 1 hour cooking = 1 hour 15 minutes total.\n\nSource: https://www.allrecipes.com/recipe/21090/vegetarian-four-cheese-lasagna/ (accessed October 27, 2026). The recipe page provides the rating, ingredients and timing. Screenshot evidence: ./final.png, showing the recipe name, rating and stated times.",
+    "result_text": "FINAL: Allrecipes’ Vegetarian Four Cheese Lasagna is highly rated at 4.6/5 from 243 ratings.\n\nKey ingredients (8 servings): 2 cups diced, peeled pumpkin; 1 eggplant; 5 tomatoes; 1 pint ricotta; 9 oz feta; 2/3 cup pesto; 2 eggs; a 15-oz can of tomato sauce; fresh pasta sheets; 1 1/3 cups shredded mozzarella; 1 cup grated Parmesan; salt and pepper.\n\nStated timing: 15 minutes preparation + 1 hour cooking = 1 hour 15 minutes total.\n\nSource: https://www.allrecipes.com/recipe/21090/vegetarian-four-cheese-lasagna/ (accessed October 27, 2026). The recipe page provides the rating, ingredients and timing. Screenshot evidence: ./final.png, showing the recipe name, rating and stated times.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_8/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_8",
+  "elapsed_seconds": 141.50325417518616,
+  "execution_error": null,
+  "proxy_bytes": 51995928
+}

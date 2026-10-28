@@ -1,0 +1,5 @@
+[x] Identify a Specialization on Coursera that focuses on 'Human Resource'. Evidence: https://www.coursera.org/specializations/human-resource-management — “Human Resource Management: HR for People Managers Specialization”.
+[x] List the courses included in this Specialization. Same URL — Courses 1–5: “Preparing to Manage Human Resources”; “Recruiting, Hiring, and Onboarding Employees”; “Managing Employee Performance”; “Managing Employee Compensation”; “Human Resources Management Capstone: HR for People Managers”.
+[x] Identify the institution offering it. Same URL — “Offered by” / “University of Minnesota”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the name and deciding facts without overlays. final.png is 1280×723; the specialization title, all five courses and “Offered by University of Minnesota” are visible together. No filters, sort or date constraints were requested.
+[x] Write the result and evidence to ./ANSWER.txt. Completed, including source URL and final.png evidence reference.

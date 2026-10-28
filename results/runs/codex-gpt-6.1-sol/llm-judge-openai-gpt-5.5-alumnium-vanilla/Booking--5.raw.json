@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdybqSKfMEuHPCyS9gq5aD4N4xWDC",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to search for a hotel in Bali for October 1–4, 2027 with free WiFi and air conditioning.\n\nThe screenshot shows Booking.com search results for Bali with dates displayed as Fri, Oct 1 to Mon, Oct 4, and the result response states the URL confirms the year is 2027. The visible filters include “Free Wifi,” “Hotels,” and “Air conditioning,” which aligns with the requested criteria. The displayed hotel result is Adhi Jaya Hotel in Kuta, Bali, with availability shown for 3 nights and 2 adults.\n\nThe result response also identifies Adhi Jaya Hotel as matching the criteria and states that the hotel listing includes free WiFi and air conditioning.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196482,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 361,
+    "prompt_tokens": 1746,
+    "total_tokens": 2107,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 201,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

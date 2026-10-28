@@ -1,0 +1,4 @@
+[x] Find information on the latest (as of today's date) MacBook model. — https://www.apple.com/mac/ says “New 14” with M6” for MacBook Pro; checked October 27, 2026. Store says pre-order 10.28, available 11.6.
+[x] Include key features: processor type, memory size, and storage capacity. — https://www.apple.com/macbook-pro/specs/ says “Apple M6 chip”, “12-core CPU”, “12-core GPU”, “16GB unified memory”, “24GB or 32GB unified memory”, and “1TB, 2TB, or 4TB SSD”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts visible together, without an overlay. — final.png, 970×1280; MacBook Pro, Apple M6 chip, Memory and Storage visible. No filters, sorts, or date constraints were applied to the specifications page.
+[x] Write the result and its evidence to ./ANSWER.txt. — ANSWER.txt states the model, as-of date, processor, memory, storage, availability, source URLs, and final.png evidence.

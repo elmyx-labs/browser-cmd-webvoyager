@@ -1,0 +1,31 @@
+{
+  "id": "Apple--22",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find out the trade-in value for an iPhone 15 Pro Max in good condition on the Apple website.",
+  "answer": "FINAL: Apple’s U.S. trade-in value for an iPhone 15 Pro Max in good condition is $455 toward a new iPhone, checked October 27, 2026.\n\nEvidence: Apple’s estimator displays “Good News. Your iPhone 15 Pro Max qualifies for credit” and “Apple Trade-In Value: Good Condition — $455.” See final.png.\nSource: https://www.apple.com/shop/buy-iphone/iphone-18-pro\nApple Trade In: https://www.apple.com/shop/trade-in",
+  "response": "The task was to find the trade-in value for an **iPhone 15 Pro Max in good condition on the Apple website**.\n\nThe screenshot clearly shows Apple’s trade-in section with the message:\n\n- “Good News. Your iPhone 15 Pro Max qualifies for credit.”\n- “Apple Trade-In Value: Good Condition”\n- Value displayed: **$455**\n\nThe Result Response matches the screenshot and provides the requested trade-in value. The task did not require any additional comparison or purchase action.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find the trade-in value for an **iPhone 15 Pro Max in good condition on the Apple website**. The screenshot clearly shows Apple’s trade-in section with the message: - “Good News. Your iPhone 15 Pro Max qualifies for credit.”",
+  "screenshots": [
+    "task_100/final.png"
+  ],
+  "raw_screenshot": "task_100/final.png",
+  "source_result": "task_100",
+  "usage": {
+    "completion_tokens": 213,
+    "prompt_tokens": 1695,
+    "total_tokens": 1908,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 4.24
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Booking--7",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a hotel room on January 3-6 that is closest to National University of Singapore and costs less than $500",
+  "answer": "FINAL: Fragrance Hotel – Ocean View, Standard Double or Twin Room (1 full bed), January 3–6, 2027: US$236 + US$47 taxes and fees = US$283 for all 3 nights, for 2 adults in 1 room. It is Booking.com's first hotel when sorted by “Distance from landmark,” shown as 1 km from National University of Singapore. The rate is non-refundable. I used US dollars and the upcoming January.\nSource: https://www.booking.com/hotel/sg/fragrance-ocean-view.html\nEvidence: final.png shows the dates, Hotels filter, distance sort, room, distance and price.",
+  "response": "The user requested to find a hotel room on January 3–6 that is closest to the National University of Singapore and costs less than $500.\n\nBased on the provided screenshot and response:\n- Destination: National University of Singapore\n- Dates: Sun, Jan 3 – Wed, Jan 6\n- Filter/Sort: Sorted by \"Distance from landmark\", filtered by \"Hotels\"\n- The closest hotel listed is **Fragrance Hotel - Ocean View** (1 km from National University of Singapore).\n- The total price is US$236 (+ US$47 taxes and fees = US$283), which is well under the $500 budget limit.\n\nAll criteria have been accurately met.\n\nSUCCESS",
+  "reason_short": "The user requested to find a hotel room on January 3–6 that is closest to the National University of Singapore and costs less than $500. Based on the provided screenshot and response: - Destination: National University of Singapore - Dates:",
+  "screenshots": [
+    "task_208/final.png"
+  ],
+  "raw_screenshot": "task_208/final.png",
+  "source_result": "task_208",
+  "usage": {
+    "completion_tokens": 475,
+    "prompt_tokens": 1739,
+    "total_tokens": 2214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0030855,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0030855,
+      "upstream_inference_prompt_cost": 0.00130425,
+      "upstream_inference_completions_cost": 0.00178125
+    }
+  },
+  "elapsed_seconds": 5.33
+}

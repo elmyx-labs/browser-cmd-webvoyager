@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--1",
+    "ques": "Tell me one bus stop that is nearest to the intersection of main street and Amherst street in Altavista.",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Amherst and 7th is the nearest bus stop to Main Street and Amherst Avenue in Altavista (Google Maps labels the intersection “Amherst Ave & Main St”). Google Maps shows a 410-foot, two-minute walk via Amherst Avenue; the nearby Main Street Middle stop is 420 feet away.\n\nEvidence: final.png shows the intersection, stop name, and 410-foot walking directions together. Sources: [Google Maps directions](https://www.google.com/maps/dir/?api=1&origin=Amherst+Ave+%26+Main+St,+Altavista,+VA&origin_place_id=ChIJs3_rQXy2sokRqY07WabOqSc&destination=Amherst+and+7th,+Altavista,+VA&destination_place_id=ChIJAzqnGny2sokR7AKdqHGBHqo&travelmode=walking&hl=en); [comparison directions to Main Street Middle](https://www.google.com/maps/dir/?api=1&origin=37.1137115,-79.2828604&destination=37.1144507,-79.2817571&destination_place_id=ChIJ-YSKh3y2sokRt4arakl09qQ&travelmode=walking&hl=en).",
+    "result_text": "FINAL: Amherst and 7th is the nearest bus stop to Main Street and Amherst Avenue in Altavista (Google Maps labels the intersection “Amherst Ave & Main St”). Google Maps shows a 410-foot, two-minute walk via Amherst Avenue; the nearby Main Street Middle stop is 420 feet away.\n\nEvidence: final.png shows the intersection, stop name, and 410-foot walking directions together. Sources: [Google Maps directions](https://www.google.com/maps/dir/?api=1&origin=Amherst+Ave+%26+Main+St,+Altavista,+VA&origin_place_id=ChIJs3_rQXy2sokRqY07WabOqSc&destination=Amherst+and+7th,+Altavista,+VA&destination_place_id=ChIJAzqnGny2sokR7AKdqHGBHqo&travelmode=walking&hl=en); [comparison directions to Main Street Middle](https://www.google.com/maps/dir/?api=1&origin=37.1137115,-79.2828604&destination=37.1144507,-79.2817571&destination_place_id=ChIJ-YSKh3y2sokRt4arakl09qQ&travelmode=walking&hl=en).",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_449/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_449",
+  "elapsed_seconds": 110.53846406936646,
+  "execution_error": null,
+  "proxy_bytes": null
+}

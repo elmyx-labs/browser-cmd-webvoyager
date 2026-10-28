@@ -1,0 +1,41 @@
+{
+  "id": "Google Map--27",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Locate the Target stores in Atlanta, GA. How many results are shown on the map.",
+  "answer": "FINAL: Google Maps shows 7 Target results for “Target stores in Atlanta, GA.” Evidence: final.png shows seven Target map pins and “You've reached the end of the list.” Source: https://www.google.com/maps/search/Target+stores+in+Atlanta,+GA/ (viewed October 27, 2026).",
+  "response": "Based on the screenshot, the search query \"Target stores in Atlanta, GA\" was executed, and there are exactly 7 Target store pins displayed on the map. The response accurately identifies and reports that 7 results are shown on the map.\n\nSUCCESS",
+  "reason_short": "Based on the screenshot, the search query \"Target stores in Atlanta, GA\" was executed, and there are exactly 7 Target store pins displayed on the map. The response accurately identifies and reports that 7 results are shown on the map. SUCCE",
+  "screenshots": [
+    "task_474/final.png"
+  ],
+  "raw_screenshot": "task_474/final.png",
+  "source_result": "task_474",
+  "usage": {
+    "completion_tokens": 472,
+    "prompt_tokens": 1655,
+    "total_tokens": 2127,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 421,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00301125,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00301125,
+      "upstream_inference_prompt_cost": 0.00124125,
+      "upstream_inference_completions_cost": 0.00177
+    }
+  },
+  "elapsed_seconds": 8.23
+}

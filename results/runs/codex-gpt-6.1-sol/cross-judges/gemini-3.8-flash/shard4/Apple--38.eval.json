@@ -1,0 +1,41 @@
+{
+  "id": "Apple--38",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Explore accessories for Apple Vision Pro, list at least three accessories.",
+  "answer": "FINAL: Three accessories for Apple Vision Pro listed by Apple:\n\n- ZEISS Optical Inserts — from $99.00.\n- Apple Vision Pro Travel Case — $199.00.\n- Apple Vision Pro Battery — $199.00.\n\nSource: Apple’s US Apple Vision Pro Essentials page, viewed October 27, 2026: https://www.apple.com/shop/vision/accessories/apple-vision-pro-essentials\nEvidence: final.png is a 1280 × 723 viewport screenshot showing these three accessories and their listed prices together, with Featured sorting visible.",
+  "response": "The user asked to explore accessories for the Apple Vision Pro and list at least three accessories. \n\nThe screenshot displays the Apple Store's accessories page for Apple Vision Pro, featuring products such as the ZEISS Optical Inserts, Apple Vision Pro Travel Case, Apple Vision Pro Battery, and Knit Bands. The response correctly lists three of these accessories (ZEISS Optical Inserts, Apple Vision Pro Travel Case, and Apple Vision Pro Battery) along with their prices.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+  "reason_short": "The user asked to explore accessories for the Apple Vision Pro and list at least three accessories. The screenshot displays the Apple Store's accessories page for Apple Vision Pro, featuring products such as the ZEISS Optical Inserts, Apple",
+  "screenshots": [
+    "task_116/final.png"
+  ],
+  "raw_screenshot": "task_116/final.png",
+  "source_result": "task_116",
+  "usage": {
+    "completion_tokens": 346,
+    "prompt_tokens": 1713,
+    "total_tokens": 2059,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 241,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00258225,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00258225,
+      "upstream_inference_prompt_cost": 0.00128475,
+      "upstream_inference_completions_cost": 0.0012975
+    }
+  },
+  "elapsed_seconds": 6.77
+}

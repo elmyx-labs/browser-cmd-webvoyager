@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210169-IcK550kXwLG4Ab9eo1he",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user asked to look up the definition, pronunciation, and an example sentence for the word \"impeccable\".\n\nThe screenshot confirms the dictionary lookup on Cambridge Dictionary:\n- **Definition:** \"perfect, with no problems or bad parts:\"\n- **Pronunciation:** `/ɪmˈpek.ə.bəl/`\n- **Example sentence:** \"His English is impeccable.\"\n\nThe Result Response provides all of these accurately based on the source shown in the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Task Completion**\n\nI am now considering how to best assess if \"impeccable\" and its example sentence met the user's criteria. This involves a multi-faceted review, focusing on both accuracy and completeness.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Task Completion**\n\nI am now considering how to best assess if \"impeccable\" and its example sentence met the user's criteria. This involves a multi-faceted review, focusing on both accuracy and completeness.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+9nVn3GvEx5FeAIr2C4Ta40VdQYqt0O3Wd9svqt5uKSDAHn2Qei7HozfRxhpi7xOsWhZbiXzVdFft1qHzDUvCufz6tR/op8OViCbZP7ZwO8UE270DaKAtA/QY2KhJfWg21CAJhqmrRVYWsRqjMiNrluF050bPcSrMK1Sse3UkeOQRthsa64275KxbQqjeGK8UNURaXcnZWkNWpNqGXx5oOtHE+wSFN+IuiR2+7ngVOzhZ2yO8Rgm9ywKrxqr5/LV395h9CToWiC+2QvPkJlxGky4pcDik4NsiAsF29SfhPua8be7Xo6DjpS01Dg9VHN0NsOMNbZKthV4N0tkm6KQ7DCTCf6N9OZ23SZkB78iJjV8QkaLiJCkjEfJA0N5UlamruKIK1jPNkOMrz+ALTq46YH34Xe6l/tUGKqavJiqQWElZXzbBEmhSiMar+TPv34CmEslEfabqDY6VuMKxy0xSl90OvwiOwwzU7lnwwWlJOiI1vqiQgkADHaTASP2DEI7eo+2gbmsq3oSqKB1OenMAcnwQ7C6UVdInNcGqPiHFG7IxX8mwJaxUJjf43VAY0DiuU7NTVxmOZFzgJjo017EFMBnzWePQHJ0ZSZESeoge3EAohEXXiTSMVM06PojBYy1v1zawgwD2aej5XIiXblDHs2bMnREH+De0O6qIL68HXQVbtP9pgsKiDzmwRHgC/R6yRfeWESUPDUtvw9eTRZi5dAr1bH4jyagqgthsfRJDHoQbrJ1nam8Xii0pxt8VAlkg0QSs09pilv/nKqms+3btKeWhUGGUeC0HM0ZDg+t8riEnxW1RF2jWVPXJUgQPBN4877gD/npG/jqBr/nN+w/yWbsFZlmJUjwEPWvIs7/mujTthguaBWtIF3CVlN89HY4mv+4HCpqr5893guzLc4zJDcAgK7p2uG27J7z09LuiSC9lWruQ5zQNc8pB2leDtTskbUFsmJqJq0zt2n2+PCNgQozh5cQRboWEltOFHl6O2Zz3hqE7ewzduhAsSN9RweUK3LUnDkY56DFZ//E9fRXBXZeh4r2qxqHZ+ELHzggl0lAUs4mrHP2mJqh/nqNp91fdHkyOTWAsRD6rW+uPthU9bGeF5JXKzrV7JtU1Qq/+b3XhigOhbxvpCpE4HifUNDhlWN4dFdSDL52EjfkAV6DkEYiX/W52eTb1FRjxqxiQTbBRFmzsaR5rzLxKy7QoTjp/a72FgQG2i1JW/9iTRoC6a1yCHgYaM7KXMivBaKHe3/bWXtdoNalx167XsehBXnLYuFVqskEwTES2I711jKuOuA4GDVsBm20xK4oFiI6UsWDVCMjid6CN+rzqAdDxLql85AE6O76Hal3jYCt25HCeEtS8+2+vbfPcBKmaEXlDsYJaoxG+iFFVA5GVMfzXjg1dgCNBsq8a9NOggr4bAmGZ0SW9T/PEPIs0LSbqkSkPLwklIrZKoHiIrbzUVciJBJPnvEZFBLUUtfO4p9tzZgw==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210169,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 330,
+    "prompt_tokens": 1693,
+    "total_tokens": 2023,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 230,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00250725,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00250725,
+      "upstream_inference_prompt_cost": 0.00126975,
+      "upstream_inference_completions_cost": 0.0012375
+    }
+  },
+  "provider": "Google"
+}

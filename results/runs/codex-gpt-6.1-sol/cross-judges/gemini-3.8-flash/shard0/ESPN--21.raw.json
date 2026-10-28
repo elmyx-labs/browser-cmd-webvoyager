@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210355-5pvGR6HnUGjPHXRl0bJY",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested the scores and main highlight of a Denver Nuggets game that occurred within the last 3 days on ESPN.\n\nThe screenshot shows an ESPN recap page for a game between the Golden State Warriors and Denver Nuggets played on October 26, 2026. \n- The final score is clearly shown: Golden State Warriors 134, Denver Nuggets 114.\n- The main recap highlight is detailed: Rookie Yaxel Lendeborg recorded 31 points and 12 rebounds, leading Golden State to victory.\n- The response accurately reports these details from ESPN.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Processing Game Data**\n\nI'm analyzing the Denver Nuggets game data from ESPN, focusing on recent matches within the last three days. I'm currently cross-referencing game details to ensure I've identified the most relevant contest and its primary highlight, aiming for concise and accurate information extraction.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Processing Game Data**\n\nI'm analyzing the Denver Nuggets game data from ESPN, focusing on recent matches within the last three days. I'm currently cross-referencing game details to ensure I've identified the most relevant contest and its primary highlight, aiming for concise and accurate information extraction.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19fN1jUK8U/wOriOkriKTg+RTJgaYiBmr2fngUcvM096UINRuXa1bIFPrQA/SVMPXCn3G74imw6UGw5/V4GPNM56LvagdJFh7fN1B+iKhYOMhdXV1hQDK1kXefI3B6JCR4v3nK5sHU/EmnXxs44KJHCUxH3Jw4+0kmvC9t55Qml/VZC/CKHvakbXMhlw3jsf9WwaKEo4P1Ty0a7aP/wHcEyh+X2+WxETqShza+NbEtYbKfwabRMd1y+vpt2ZIFPgA/qMG5jEpMbB6WuotFOwt/MN4iXicEFCvvVVJYiSUXo64VJ/S9CTRlW2TUnRJoy8+cikUEcHkgQiK1aOK5fa/Ewu0+UlPKKu1E+Sh8mHOhlfAevtNlYYvGievE6QSrkoRINDuAPgdte3mkpMzFFqYCoMPbeOuW7Q5K+8w9YHPinxC6paoGcFkqXav6lEyK+Cyo2NyqskkVTuzrcRU5taNG33YlCJ8JzSdzn8iQatMw+6+bq1LWpbRMBvMEBqLIzPgIMVvjzYqCduuRmzdEvbQd700yH5ySYew+NqW4fc5osGLIqR+IBk3BWg5NVjpjEhmSSmtNX7M9+B7RQdSQOZiSAvuy/5hRHjKJbksxyEMIQSJbwBLTRA29pyriOZodDz+M6Q516ZphYIGaTkrYMnmtf9FMhL/fJTbezcyrokCWcOY3QwrDTS6tzx+V0nl/ywq7bkIf7skm2VwTpgC7DalxSzxnUfzA87ApIZom+WEiz4lOEV8TL54s4+GHKA93tcZCSU6sUQgMkcUlJISdeAYDFh9hz0rvL8dK12Uydj33/eVKACnjV2rQIZKc4hKUm+CPps7hOBzlDNO1oobfy4hBsebQJfgo6hcKK2ULzgua4pUpEQnAN119M280ynGfYxAluxesQ3NF6ZdO++l//r/PWPtDZDgxXD3AUP3UoGhoh8kvIVOTb2qyks7eB+RWLaKSZTBXOTmKHTd8T2c/F5K8Jknm6vGtVzdMvPVXbC7UICnKQUazHzUBINikK4+VYCNrZqu4NgZzwZSmFTwGkfhyy8/CTlhTh+2hx9Qf4xyyI0XjzjaFsnOa8tOHTvNfX1DK4tVnBVQ4c0WoMvLBAp7WPjwUx9rYoHHFmLvnKxJGRDW0izn4CK5pjPAaoDguZ0TH4WsAzT4fujxZUMJa5IRzkDihW1OeO6tbRAoAJD6mxHquUms90PdYNu6kno9gb1SuR2pssf3WTYsbDOwnCPxtpWXEmglDa4l8MDTrK7TJ940hyAFqb15/BYGymbKWuBTA0vgQlsujgmDdR0qv5X0pGZHNWA7C1zz46VIbnqrCECJfNr0aUPj3ES+zjaazFbjP+OMsP4AVog7SLCtB3U3iHJaJn6mRxBZXCmvzjf19Y+TB6rtUi5Pv7wfgrPsvmzQTjzDZnw/W3TQ+Z010kSfSl0v0U",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210355,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 340,
+    "prompt_tokens": 1735,
+    "total_tokens": 2075,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 214,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00257625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00257625,
+      "upstream_inference_prompt_cost": 0.00130125,
+      "upstream_inference_completions_cost": 0.001275
+    }
+  },
+  "provider": "Google"
+}

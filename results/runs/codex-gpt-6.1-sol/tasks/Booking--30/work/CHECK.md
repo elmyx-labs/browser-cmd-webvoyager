@@ -1,0 +1,5 @@
+- [x] Search for hotels in London from July 20 to July 23, 2027, on Booking. Source: Booking searchresults.html URL in ANSWER.txt has checkin=2027-07-20 and checkout=2027-07-23; destination London.
+- [x] Apply Breakfast included and Fitness center filters. Source: same URL; heading says “Applied filters: Breakfast included, Fitness center”; both chips visible in final.png.
+- [x] How many hotels are left after applying the filters? Source: same URL; “London: 278 properties found”.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with dates, filters and count visible and no popup. final.png is 1280×723, visually checked.
+- [x] Write final answer and evidence to ./ANSWER.txt. Written with count, dates, filters, source URL and screenshot evidence.

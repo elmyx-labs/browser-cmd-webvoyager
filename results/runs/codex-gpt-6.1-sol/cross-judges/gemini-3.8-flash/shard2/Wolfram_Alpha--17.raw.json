@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210587-xdqr6PVO3VE6uRwcYgAX",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested the average price of a movie ticket in Providence, Nashville, and Boise in 2023.\n\nThe screenshot displays a Wolfram|Alpha query comparing the three cities for 2023 movie ticket average prices, with the following results:\n- Providence: mean $14.37\n- Nashville: mean $13.30\n- Boise: mean $11.60\n\nThe result response accurately reflects these values and directly answers the prompt.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Ticket Prices**\n\nI'm currently focused on determining the average movie ticket prices for Providence, Nashville, and Boise in 2023. My analysis is informed by the Wolfram|Alpha query results, which have provided initial data points for Providence and Nashville.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Ticket Prices**\n\nI'm currently focused on determining the average movie ticket prices for Providence, Nashville, and Boise in 2023. My analysis is informed by the Wolfram|Alpha query results, which have provided initial data points for Providence and Nashville.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18H98jRPmDIJ4ReS734t9VqpS12CBTm0srmi+wXDW904xtLzcOcAuQHYmE8mESOu6ozXzDjyDIlSnira5Ujm/tMMiIBFcBXfITAhCCKDi/nUrBz06nJU8AQkJF8GM0//Zddd7UgrlaBHUjaRI8TsGxp6ngmCsFIggbBjRrlZIFR5FG+Tc9NlRkwfEollcaADFLQa0P+8TzfI6h3UsfQEApA80sj9ILRrhDYa1UO/6tzkKszpvpppl8p5LB+hLHQtu6My5SSAQNFskJRAVoAFD2iMwMJNSOWzxr3DChtOthKIjnmgQF4YlWYbKFFtiteNW8SKu3H6vXcLIBbh2l1GmdzH7uswaImeoLPUuDMkc/ofaBAJcog/0WCCSveC/M+f8SpllYa2Wz5LxH5e4oTHgw1u3qndv5tirIahin5t+vIg9uCdutvaOnD96tv8TjVSGjOi6rv+6HVnRIMViLGQ7BEtAP3hW9eKgQ3qoyuG3DO758YJpmUicMz/cpbWFEf0R17D9nAEqeZ7Ffsq4rSGoLtXo8C+kWgnSRuFzUovrHclXq3+8dm46rGQ2p4m/bEK8At6D9kg6W5Ke1AiUOpWHCSzatb3VWbTQkiFxjgE2kvJ2yN78UMQ+o5mIDpkyNLbsakDKbpseXYtvJKawSPD1E6rszRiHsaIjCKmgJjUa+kEeABHduwoQOgbYULJuIlSopiCBcrlJtbrJ0sxQGxU4dHja7MhZwli1l6V+HwhhUJ36SBZrwDGhhLydwgUSNLRlO/RnnC5LgIha4pbv9UZP1y7ucvvj41708vk0NiJkLumrNAzmQAzxnoN5uLOxyJcnIQGpYLocsTyftEy02eRhVz+bd+28SDnFV8vQlF+qcU+o2oC+YXQDgKmoZqBuTMhk5mly426x468rQ45Vz/UyKTqMhfASYRXQ1cp1w8rWn/yZL80Xi7ao2gZTL7h6REUNrK7WaIG7DT+uf0zPEFkmohMFurX+Yp8Ab2OQGZjwMSCpPyUkKmodI1srDDSLmfr/RccpNttEfiEa0fiTb5Ft9gjbLZ57sYxDxzmo8lblZ6U0IvIeIVipoxtx2g6X5z75/6vF+pi8QXGJsLFCZp4p+XSdU1HfXWWV9SCLk=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210587,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 282,
+    "prompt_tokens": 1748,
+    "total_tokens": 2030,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 180,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0023685,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0023685,
+      "upstream_inference_prompt_cost": 0.001311,
+      "upstream_inference_completions_cost": 0.0010575
+    }
+  },
+  "provider": "Google"
+}

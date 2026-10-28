@@ -1,0 +1,4 @@
+- [x] Calculate 3^71. WolframAlpha https://www.wolframalpha.com/input?i=3%5E71 displays “7509466514979724803946715958257547”.
+- [x] Retain 5 significant figures in scientific notation. The same page displays “7.509466514979724803946715958257547 × 10^33”; rounding using the sixth significant digit (6) gives 7.5095 × 10^33.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the expression and deciding values together with no pop-up, banner or open dialog. final.png shows Input, Result, Scientific notation together, 1280 × 722.
+- [x] Write the result and its evidence to ./ANSWER.txt, first line beginning FINAL: . Written with source URL, date, and screenshot reference.

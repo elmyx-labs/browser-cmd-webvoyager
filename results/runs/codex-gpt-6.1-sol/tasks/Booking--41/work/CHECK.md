@@ -1,0 +1,3 @@
+- [x] Browse Booking's homepage to find out which company it belongs to. https://www.booking.com/ footer: “Booking.com is part of Booking Holdings Inc.”
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the name and decisive facts visible and no overlay. final.png is 1280 × 723 and shows the footer statement.
+- [x] Write the result and evidence to ./ANSWER.txt. Names Booking Holdings Inc., the homepage source, access date and final.png.

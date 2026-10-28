@@ -1,0 +1,31 @@
+{
+  "id": "GitHub--20",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Open GitHub Copilot's FAQs to find the official answer to when Copilot chat can be used on mobile.",
+  "answer": "FINAL: Copilot chat can be used now in GitHub Mobile; all Copilot plans are supported. Pro and Business include Bing and public repository code search, while Enterprise adds access to your organization’s knowledge.\n\nEvidence: GitHub Copilot’s official FAQs, General → “What languages, IDEs, and platforms does GitHub Copilot support?” https://github.com/features/copilot (accessed October 28, 2026). The expanded answer states that all plans are supported in GitHub Mobile and describes the plan-specific features. Screenshot: final.png.",
+  "response": "The screenshot shows GitHub Copilot’s FAQ section with the question “What languages, IDEs, and platforms does GitHub Copilot support?” expanded. The visible official text states that chat functionality is currently available in supported environments and that “All plans are supported in GitHub Copilot in GitHub Mobile,” with additional plan-specific details.\n\nThe Result Response accurately reports that Copilot chat can be used now in GitHub Mobile and summarizes the plan support details shown in the FAQ. This directly addresses the task of opening GitHub Copilot’s FAQs and finding the official answer about when Copilot chat can be used on mobile.\n\nVerdict: SUCCESS",
+  "reason_short": "The screenshot shows GitHub Copilot’s FAQ section with the question “What languages, IDEs, and platforms does GitHub Copilot support?” expanded. The visible official text states that chat functionality is currently available in supported en",
+  "screenshots": [
+    "task_387/final.png"
+  ],
+  "raw_screenshot": "task_387/final.png",
+  "source_result": "task_387",
+  "usage": {
+    "completion_tokens": 461,
+    "prompt_tokens": 1700,
+    "total_tokens": 2161,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 323,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.21
+}

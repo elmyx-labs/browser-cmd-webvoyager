@@ -1,0 +1,3 @@
+- [x] List the 3 features mentioned in GitHub's Copilot product page. https://github.com/features/copilot: “Go beyond one-size-fits-all”; “Use your agents, your way”; “Stay in your flow”.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the product name and deciding facts together with no overlay. final.png shows all three cards and “GitHub Copilot” in the middle card; 1280 × 723; no filters, sorts, or dates apply.
+- [x] Write the result and its evidence to ./ANSWER.txt. ANSWER.txt contains the three features, descriptions, source URL, observation date, and screenshot reference.

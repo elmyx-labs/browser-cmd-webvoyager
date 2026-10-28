@@ -1,0 +1,4 @@
+Apple iPhone lineup https://www.apple.com/iphone/: “iPhone Duo New”, “iPhone 18 Pro New”; Duo is featured first.
+Apple iPhone Duo https://www.apple.com/iphone-duo/: “From $1999”. US site.
+Apple Newsroom https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/: “October 23, 2026”; “On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.”
+Apple announcement https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/: “iPhone Duo is available in star white and night sky, and starts at $1,999 (U.S.)”; storage capacities start at 256GB; preorders October 16, availability October 23. Article dated September 9, 2026 in search results and article text. Final screenshot is its Pricing and Availability section.

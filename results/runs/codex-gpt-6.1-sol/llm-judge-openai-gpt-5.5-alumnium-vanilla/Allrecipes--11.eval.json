@@ -1,0 +1,31 @@
+{
+  "id": "Allrecipes--11",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Discover a suitable chocolate cupcake recipe on Allrecipes that has a preparation time of under 1 hour and at least 100 user reviews.",
+  "answer": "FINAL: Easy Moist Chocolate Cupcakes on Allrecipes meets the requirements: 15 minutes preparation time (30 minutes total) and 958 user reviews, exceeding the minimum of 100. Verified October 27, 2026.\nSource: https://www.allrecipes.com/recipe/17377/chocolate-cupcakes/\nEvidence: final.png shows the recipe name, review count, preparation time and total time together.",
+  "response": "The task was to find a chocolate cupcake recipe on Allrecipes with:\n\n- Preparation time under 1 hour\n- At least 100 user reviews\n\nThe screenshot shows the Allrecipes page for **“Easy Moist Chocolate Cupcakes.”** It displays:\n\n- **Prep Time:** 15 minutes\n- **Total Time:** 30 minutes\n- **Reviews:** 958 Reviews\n\nThis satisfies both requirements: the prep time is well under 1 hour, and the recipe has more than 100 user reviews. The result response accurately identifies the recipe and supporting details shown in the screenshot.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The task was to find a chocolate cupcake recipe on Allrecipes with: - Preparation time under 1 hour - At least 100 user reviews The screenshot shows the Allrecipes page for **“Easy Moist Chocolate Cupcakes.”** It displays: - **Prep Time:** ",
+  "screenshots": [
+    "task_10/final.png"
+  ],
+  "raw_screenshot": "task_10/final.png",
+  "source_result": "task_10",
+  "usage": {
+    "completion_tokens": 229,
+    "prompt_tokens": 2443,
+    "total_tokens": 2672,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.12
+}

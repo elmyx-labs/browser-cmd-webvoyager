@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdydALXKS0lZbTbq9KdlTRiwueRsW",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to browse Coursera, identify which universities offer Master of Computer Science / Computer Science master’s degrees, and report the latest application deadline.\n\nThe result response provides:\n\n- A direct answer for the degree titled exactly **“Master of Computer Science”**:  \n  **University of Illinois Urbana-Champaign**, with a final application deadline of **October 30, 2026** for Spring 2027.\n- A broader Coursera computer science master’s list including:\n  - University of Illinois Urbana-Champaign\n  - Ball State University\n  - University of Colorado Boulder\n  - Heriot-Watt University\n- The latest listed deadline among those broader CS master’s offerings:  \n  **January 11, 2027** for Ball State University’s Spring 2027 cohort.\n\nThe screenshot confirms the Ball State page, showing:\n\n- **Master of Science in Computer Science**\n- **Ball State University**\n- **Spring 2027 cohort deadline: January 11**\n- “No application required” / performance-based admission\n- An “Application deadline: January 11, 2027” note in the visible enrollment panel\n\nThere is no contradiction between the screenshot and the response. The response also handles the ambiguity between the exact degree title “Master of Computer Science” and related “MS/MSc in Computer Science” degrees.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196564,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 798,
+    "prompt_tokens": 2007,
+    "total_tokens": 2805,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

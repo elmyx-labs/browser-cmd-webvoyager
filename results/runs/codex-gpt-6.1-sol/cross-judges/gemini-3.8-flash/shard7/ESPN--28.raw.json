@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210216-YuTpKbg68wevGQFIYbUW",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested two pieces of information:\n1. How many MLB teams there are.\n2. A list of all teams with 'City' in their name.\n\nBased on the provided screenshot from ESPN's MLB Teams directory:\n- There are 6 divisions with 5 teams each, making a total of 30 MLB teams.\n- Scanning all team names, the only team containing \"City\" in its name is the **Kansas City Royals**.\n\nThe result response correctly states that MLB has 30 teams and accurately identifies Kansas City Royals as the only team with \"City\" in its name.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Counting MLB Teams**\n\nI'm currently analyzing the provided screenshot, focusing on identifying the total number of MLB teams and then specifically listing those with \"City\" in their name. The visible information suggests 6 divisions, each with 5 teams, which will be my starting point.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Counting MLB Teams**\n\nI'm currently analyzing the provided screenshot, focusing on identifying the total number of MLB teams and then specifically listing those with \"City\" in their name. The visible information suggests 6 divisions, each with 5 teams, which will be my starting point.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210216,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 419,
+    "prompt_tokens": 1655,
+    "total_tokens": 2074,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 291,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0028125,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0028125,
+      "upstream_inference_prompt_cost": 0.00124125,
+      "upstream_inference_completions_cost": 0.00157125
+    }
+  },
+  "provider": "Google"
+}

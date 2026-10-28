@@ -1,0 +1,31 @@
+{
+  "id": "Wolfram Alpha--20",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Compute the integral of 3e^(2x) from x=0 to x=5.",
+  "answer": "FINAL: ∫₀⁵ 3e^(2x) dx = (3/2)(e^10 − 1) ≈ 33038.1986922101.\nEvidence: WolframAlpha’s “Definite integral” result displays the integrand 3e^(2x), limits 0 and 5, and this exact and decimal result. Screenshot: final.png.\nSource: https://www.wolframalpha.com/input?i=integrate+3e%5E%282x%29+from+x%3D0+to+x%3D5",
+  "response": "The task was to compute the definite integral of \\(3e^{2x}\\) from \\(x=0\\) to \\(x=5\\).\n\nThe result response gives:\n\n\\[\n\\int_0^5 3e^{2x}\\,dx = \\frac{3}{2}(e^{10}-1) \\approx 33038.1986922101\n\\]\n\nThis is mathematically correct, since:\n\n\\[\n\\int 3e^{2x}\\,dx = \\frac{3}{2}e^{2x}\n\\]\n\nand evaluating from 0 to 5 gives:\n\n\\[\n\\frac{3}{2}e^{10} - \\frac{3}{2}e^0 = \\frac{3}{2}(e^{10}-1)\n\\]\n\nThe screenshot also shows WolframAlpha displaying the same definite integral with limits 0 and 5 and the same exact and decimal result.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to compute the definite integral of \\(3e^{2x}\\) from \\(x=0\\) to \\(x=5\\). The result response gives: \\[ \\int_0^5 3e^{2x}\\,dx = \\frac{3}{2}(e^{10}-1) \\approx 33038.1986922101 \\] This is mathematically correct, since: \\[ \\int 3e^{",
+  "screenshots": [
+    "task_589/final.png"
+  ],
+  "raw_screenshot": "task_589/final.png",
+  "source_result": "task_589",
+  "usage": {
+    "completion_tokens": 293,
+    "prompt_tokens": 1708,
+    "total_tokens": 2001,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.59
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Apple--35",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "How many types of Apple Pencil are currently available on the Apple's website? Which one supports Wireless pairing and charging.",
+  "answer": "FINAL: Apple’s website offers 4 types of Apple Pencil: Apple Pencil Pro, Apple Pencil (USB-C), Apple Pencil (1st generation), and Apple Pencil (2nd generation). Wireless pairing and charging are supported by Apple Pencil Pro and Apple Pencil (2nd generation).\n\nEvidence (checked October 27, 2026): Apple’s shop selection page lists Pro and USB-C and provides purchase links for both older generations: https://www.apple.com/shop/select-apple-pencil . Its comparison marks wireless pairing and charging as supported for Pro and unsupported for USB-C. The 2nd-generation product page confirms that it pairs and charges magnetically on the side of an iPad: https://www.apple.com/shop/product/mxn43am/a/apple-pencil-2nd-generation . The 1st-generation page says it pairs and charges via Lightning: https://www.apple.com/shop/product/myqw3am/a/apple-pencil-1st-generation . Screenshot evidence: final.png.",
+  "response": "**Evaluation:**\n\n1. **Number of Types Available:** The task asked how many types of Apple Pencil are currently available on Apple's website. The response correctly identified that 4 types are available: Apple Pencil Pro, Apple Pencil (USB-C), Apple Pencil (1st generation), and Apple Pencil (2nd generation). The screenshot confirms the presence of Apple Pencil Pro, Apple Pencil (USB-C), as well as direct purchase links for Apple Pencil (1st generation) and Apple Pencil (2nd generation).\n2. **Wireless Pairing and Charging Support:** The task asked which one supports wireless pairing and charging. The screenshot explicitly shows a checkmark under Apple Pencil Pro for \"Wireless pairing and charging\" (and a dash for USB-C), and the response correctly notes that Apple Pencil Pro and Apple Pencil (2nd generation) support this feature.\n\nAll parts of the instruction have been completely and accurately answered.\n\n**SUCCESS**",
+  "reason_short": "**Evaluation:** 1. **Number of Types Available:** The task asked how many types of Apple Pencil are currently available on Apple's website. The response correctly identified that 4 types are available: Apple Pencil Pro, Apple Pencil (USB-C)",
+  "screenshots": [
+    "task_113/final.png"
+  ],
+  "raw_screenshot": "task_113/final.png",
+  "source_result": "task_113",
+  "usage": {
+    "completion_tokens": 563,
+    "prompt_tokens": 1812,
+    "total_tokens": 2375,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 371,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00347025,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00347025,
+      "upstream_inference_prompt_cost": 0.001359,
+      "upstream_inference_completions_cost": 0.00211125
+    }
+  },
+  "elapsed_seconds": 6.16
+}

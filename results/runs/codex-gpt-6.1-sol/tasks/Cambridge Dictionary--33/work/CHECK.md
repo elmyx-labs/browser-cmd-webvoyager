@@ -1,0 +1,3 @@
+[x] Find explanations and examples of the passive voice in Grammar on the Cambridge Dictionary website. URL: https://dictionary.cambridge.org/grammar/british-grammar/passive-voice — “Passive: active and passive”; explanation and house-design examples read.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the page title and deciding facts with no overlay. final.png shows “Passive voice”, its explanation and examples with no pop-up or dialog.
+[x] Write result and source evidence to ./ANSWER.txt. ANSWER.txt contains source, explanation, two examples and evidence filename.

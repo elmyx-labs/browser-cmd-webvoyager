@@ -1,0 +1,41 @@
+{
+  "id": "Booking--25",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a hotel in Lisbon with airport shuttle, rated 8.5 or above, available for a six-night stay from August 1 to August 7, 2027, for two adults, breakfast included.",
+  "answer": "FINAL: Tempo FLH Hotels Lisboa matches: a hotel in Lisbon rated 9.0/10 (1,484 reviews), with a paid airport shuttle. A Twin Room for two adults is available August 1–7, 2027 (6 nights), with breakfast included, for RSD 112,933 plus RSD 5,640 taxes and fees.\n\nBooking.com source: https://www.booking.com/hotel/pt/tempo-flh-hotels-lisboa.html?checkin=2027-08-01&checkout=2027-08-07&group_adults=2&no_rooms=1&group_children=0\n\nEvidence: final.png shows the August 1–7 search for two adults, applied Hotels / Breakfast included / Airport shuttle / Wonderful: 9+ filters, and the hotel's 9.0 rating and available Twin Room for six nights. The property page confirms “a paid airport shuttle service” and “Excellent breakfast included” for the room.",
+  "response": "The evaluation is based on the following criteria from the task instruction:\n\n1. **Destination**: Lisbon — Confirmed in the search bar and results.\n2. **Dates & Duration**: August 1 to August 7, 2027 (6 nights) — Confirmed (`Sun, Aug 1 — Sat, Aug 7`, which corresponds to 2027).\n3. **Occupancy**: Two adults — Confirmed (`2 adults · 0 children · 1 room`).\n4. **Property Type**: Hotel — Confirmed via the applied \"Hotels\" filter.\n5. **Amenities**: Airport shuttle & Breakfast included — Confirmed via applied filters (\"Breakfast included\", \"Airport shuttle\") and the room details (\"Breakfast included\").\n6. **Rating**: Rated 8.5 or above — Confirmed via the \"Wonderful: 9+\" filter, and the resulting hotel \"Tempo FLH Hotels Lisboa\" is rated 9.0.\n\nAll criteria were correctly searched and clearly satisfied in both the screenshot and the final response.\n\nSUCCESS",
+  "reason_short": "The evaluation is based on the following criteria from the task instruction: 1. **Destination**: Lisbon — Confirmed in the search bar and results. 2. **Dates & Duration**: August 1 to August 7, 2027 (6 nights) — Confirmed (`Sun, Aug 1 — Sat",
+  "screenshots": [
+    "task_223/final.png"
+  ],
+  "raw_screenshot": "task_223/final.png",
+  "source_result": "task_223",
+  "usage": {
+    "completion_tokens": 528,
+    "prompt_tokens": 1838,
+    "total_tokens": 2366,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 307,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0033585,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0033585,
+      "upstream_inference_prompt_cost": 0.0013785,
+      "upstream_inference_completions_cost": 0.00198
+    }
+  },
+  "elapsed_seconds": 5.38
+}

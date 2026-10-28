@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210514-nkjoKo7EcmKSmV4NIBKD",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task required finding the approximate time to sunburn for each skin type when standing in the sun from 11:00 am with SPF 5 in Australia. \n\nThe screenshot from WolframAlpha clearly displays the calculation inputs (Australia, 11:00 am, SPF 5, all skin types) and the resulting typical time to sunburn:\n- Skin type I: 1 h 7 min\n- Skin type II: 1 h 21 min\n- Skin type III: 1 h 49 min\n- Skin type IV: 2.5 h\n- Skin type V: 3 h\n- Skin type VI: 5.5 h\n\nThe result response accurately reflects all these values and details.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Calculating Sunburn Times**\n\nI'm focusing on calculating sunburn times, considering all skin types in Australia, starting at 11:00 am. I've been looking at a WolframAlpha query to get estimates and figuring out how to break it down based on SPF 5. My next step is to refine how the different skin types influence the estimates from the query.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Calculating Sunburn Times**\n\nI'm focusing on calculating sunburn times, considering all skin types in Australia, starting at 11:00 am. I've been looking at a WolframAlpha query to get estimates and figuring out how to break it down based on SPF 5. My next step is to refine how the different skin types influence the estimates from the query.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EsAICr0IAWkUfRNAHJI0ODVdvz2SF/mxdPIV6fh0m0pe3ojSV0/IQzkM272w59sjwqQxQ8N9IpxIJdWh/Q1FC/qND/21JTzeIgkU7mJdj+d09Olpmaf93ujJoT4krmE4uyV7KBr0dmpqDl7+SxeTF0Z2FvyzYLMmZp9PNy3kctRvva8rjD00x5ceFGHvQ4eESfDLpkfJjTYv+0gV/lUCHYl5YFPysmh6OsE2sZQGyau306nAoZwn8QcLSSra49SWOqn3PUHS9fexQ1Ihe44R46yBesTbKAVSbbn84xm3XTNlvWy2CZ1l2Hi8pNgnr8HYMre3SWIEuIg3jvc6o12ai+3Nc8SSjicDy212BaC9oGrg6HM05yGykSTXp6N56zJdu4hOYe1SlYaUz8PdimNj4bxathz6jx9cpkkozWGIuYEJ64End504bcMZZpdEQAtDRPdn6475/cq6DMyH7j3/IWCjLdH0COiA4Toa7ARefuZZC8ePQZc7IfxKf4xQ2mvQbp67+vYhDHSim/Iw3gJKxbR2d07/jwm/Nlytln9jkTauOCz3pj9wM7uk7Jt/SlgTAFz+8Vjxy3oZg1RQ9DzsxCoZPO0x3XpcBIOkLoWonGMXBOXvNzqtasxoxedOk54UWBGXhV1ooHk6WcqaBHl8bJpicDGH11efZYLjyhAW4rzAH64fvCypLojSNTppe5y+TLB/iGe3L7SLjWIDucxjOlUla9dYCGtbqYlUx9gYfsS0VBWNVQ7fl/VUDPoSfl4pwYIwi9i5sCcTCnF140A1/G5fOPjgMhvE25xEJfRA4CS7nznbiN8+BUjQpP9khqz0D7UBH1rz/v0HBGb7p3pw+tmEqU6Qnkih/TUcPVs/HsV1Y2cCFBUi0TsCroJbuD3qJAYaK75MRCMSbMwlnI+zFiCYVmjee97LG3GTU1biH39JOU4s78WMBP9kPs0vE5XziLR/oNthi82F4+DLfQ8ZF9pJ6CalfwUDduwaLseh9zCWg6baFPNGOvYtVPhtwa6Gwquao4A7hGfm5YwpLPx/as7ro3+7eN6N+ZSG6bP2Ot+GiD5BTij2GScZNMcU702ArUqxfTATYC78JgDGcF6+yZWeo9AwiseWJG/IcTrxDpbyyPiAHPiTwQR7+oiiPN814DTJIDaSyyclS1gO3qhKgyKg1d45WlX3sgQrPBE1hLOH7HRuQH9nXM6Fb5lHuV0sZl8dJNaiMPWUN0e/SUpoLULBEa/vNdKv0UOTjPwHJzF1KDcV2Cgi0Hn2PllVSPSklXwdaCCNMhPOvoAotIasGr3HBsdSzlnaRVaq099Fsvi8+JYlarxDuFyA9Amn/V4atbAc37LWLm3pxsgKRHpFkxQgfnGAApurETC3O2WutdV7CuSqZ0+GniBnsnHdmirIqlb5azmE5gQtfEqE1Dkz0N+s4bS7L7HlqjlmtCEw5picMSc=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210514,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 415,
+    "prompt_tokens": 1773,
+    "total_tokens": 2188,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 260,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002886,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002886,
+      "upstream_inference_prompt_cost": 0.00132975,
+      "upstream_inference_completions_cost": 0.00155625
+    }
+  },
+  "provider": "Google AI Studio"
+}

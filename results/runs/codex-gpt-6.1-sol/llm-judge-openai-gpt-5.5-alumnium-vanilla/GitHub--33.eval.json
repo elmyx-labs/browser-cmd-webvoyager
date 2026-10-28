@@ -1,0 +1,31 @@
+{
+  "id": "GitHub--33",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find Customer Stories on the GitHub page and list the 2 stories that appear on the web page.",
+  "answer": "FINAL: The first two featured Customer Stories are:\n1. GM — accelerated software delivery and strengthened engineering culture using GitHub. https://github.com/customer-stories/general-motors\n2. AstraZeneca — faster medicine discovery with GitHub and AI. https://github.com/customer-stories/astrazeneca\nEvidence: GitHub Customer Stories, https://github.com/customer-stories?type=enterprise, viewed October 28, 2026; final.png shows both featured stories.",
+  "response": "The task was to find the GitHub Customer Stories page and list 2 stories that appear on the web page.\n\nThe screenshot shows the GitHub “Customer Stories” page with visible story cards including:\n\n1. “How GM accelerated software delivery and strengthened engineering culture with GitHub.”\n2. “How AstraZeneca accelerates medicine discovery with GitHub and AI.”\n3. “Cathay embraces AI-powered development to deliver securely at scale.”\n\nThe result response lists GM and AstraZeneca, which are both clearly visible in the screenshot and match the displayed story titles. Although the screenshot also shows a third story, the task only asked to list 2 stories, so providing the first two visible stories is acceptable.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find the GitHub Customer Stories page and list 2 stories that appear on the web page. The screenshot shows the GitHub “Customer Stories” page with visible story cards including: 1. “How GM accelerated software delivery and s",
+  "screenshots": [
+    "task_400/final.png"
+  ],
+  "raw_screenshot": "task_400/final.png",
+  "source_result": "task_400",
+  "usage": {
+    "completion_tokens": 415,
+    "prompt_tokens": 1683,
+    "total_tokens": 2098,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 262,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.71
+}

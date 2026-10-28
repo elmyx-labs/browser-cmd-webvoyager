@@ -1,0 +1,41 @@
+{
+  "id": "Wolfram Alpha--14",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Compare the total Calories: whopper vs baconator vs big mac. Assume that each serving of food is 300g.",
+  "answer": "FINAL: For equal 300 g servings, the Baconator has the most total Calories (902 Cal), followed by the Big Mac (730 Cal), then the Whopper (657 Cal).\n\nWolframAlpha’s “Average result” table:\n- Burger King Whopper: 657 dietary Calories\n- Wendy’s Old Fashioned Baconator Burger: 902 dietary Calories\n- McDonald’s Big Mac: 730 dietary Calories\n\nThe Baconator has 245 more Calories than the Whopper and 172 more than the Big Mac. The Big Mac has 73 more than the Whopper.\n\nEvidence: WolframAlpha, viewed October 27, 2026. Each row explicitly shows 300 grams. These are the site’s average results under its displayed “any type” assumptions for the Whopper and Big Mac.\nhttps://www.wolframalpha.com/input?i=calories+300g+whopper+vs+300g+baconator+vs+300g+big+mac\nScreenshot: final.png (1280 × 723 viewport capture).",
+  "response": "The task asks to compare the total Calories for a Whopper vs Baconator vs Big Mac, assuming each serving is 300g.\n\nThe screenshot shows a WolframAlpha query for \"calories 300g whopper vs 300g baconator vs 300g big mac\", which displays the following results under \"Average result\":\n- Burger King Whopper (300g): 657 Cal\n- Wendy's Old Fashioned Baconator Burger (300g): 902 Cal\n- McDonald's Big Mac (300g): 730 Cal\n\nThe result response accurately reports these values and provides a comparison between them. Therefore, the task was completed successfully.\n\nSUCCESS",
+  "reason_short": "The task asks to compare the total Calories for a Whopper vs Baconator vs Big Mac, assuming each serving is 300g. The screenshot shows a WolframAlpha query for \"calories 300g whopper vs 300g baconator vs 300g big mac\", which displays the fo",
+  "screenshots": [
+    "task_583/final.png"
+  ],
+  "raw_screenshot": "task_583/final.png",
+  "source_result": "task_583",
+  "usage": {
+    "completion_tokens": 350,
+    "prompt_tokens": 1845,
+    "total_tokens": 2195,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 194,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00269625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00269625,
+      "upstream_inference_prompt_cost": 0.00138375,
+      "upstream_inference_completions_cost": 0.0013125
+    }
+  },
+  "elapsed_seconds": 5.56
+}

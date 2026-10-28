@@ -1,0 +1,41 @@
+{
+  "id": "Google Map--11",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Locate a large store in Washington that has kids' and maternity products, also check if it has a parking lot.",
+  "answer": "FINAL: Childish Things, 9776 Holman Rd NW, #102, Seattle, WA 98117, is a suitable store in Washington state. ParentMap describes it as spacious, and its official website confirms children's clothing, toys, gear and shoes, plus maternity and nursing essentials. Yes—it has a large free parking lot.\nEvidence checked October 28, 2026: https://childishresale.com/ confirms the products and address. https://www.parentmap.com/home-life/9-consignment-stores-seattle-area-families/ (section 6) confirms the spacious shop and large free lot; these details and its name are shown in final.png.\nGoogle Maps listing: https://www.google.com/maps/place/Childish+Things/data=!4m2!3m1!1s0x549016a31856cbe1:0x3b57962a82a414e0",
+  "response": "The user requested locating a large store in Washington state that sells kids' and maternity products, and checking if it has a parking lot.\n\nThe provided screenshot and response identify **Childish Things** located in Seattle, Washington (9776 Holman Road N.W., #102, Seattle). The listing explicitly highlights it as a \"spacious\" shop that offers kids' and maternity gear, and under \"Parking\" specifies that it features a \"Large free lot.\" \n\nAll parts of the instruction have been successfully addressed.\n\nSUCCESS",
+  "reason_short": "The user requested locating a large store in Washington state that sells kids' and maternity products, and checking if it has a parking lot. The provided screenshot and response identify **Childish Things** located in Seattle, Washington (9",
+  "screenshots": [
+    "task_459/final.png"
+  ],
+  "raw_screenshot": "task_459/final.png",
+  "source_result": "task_459",
+  "usage": {
+    "completion_tokens": 424,
+    "prompt_tokens": 1811,
+    "total_tokens": 2235,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 313,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00294825,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00294825,
+      "upstream_inference_prompt_cost": 0.00135825,
+      "upstream_inference_completions_cost": 0.00159
+    }
+  },
+  "elapsed_seconds": 7.67
+}

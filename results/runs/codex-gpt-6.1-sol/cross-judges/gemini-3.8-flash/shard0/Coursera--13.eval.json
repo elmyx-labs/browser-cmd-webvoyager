@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--13",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Look for a Specialization on Coursera that teaches Python programming, and identify the skills you will learn by taking this Specialization.",
+  "answer": "FINAL: Python for Everybody Specialization, offered by the University of Michigan on Coursera, teaches Python programming.\n\nSkills you will gain: Web Services, Program Development, Data Cleansing, File I/O, Debugging, Programming Principles, Data Visualization, Data Structures, Web Scraping, Data Presentation, Database Design, JSON, Data Processing, RESTful API, and Extensible Markup Language (XML).\n\nCoursera also lists these tools: SQL, Databases, Python Programming, Data Visualization Software, and Relational Databases.\n\nEvidence: Coursera's “What you'll learn,” “Skills you'll gain” (including the full “Show all” list), and “Tools you'll learn” sections, viewed October 27, 2026.\nSource: https://www.coursera.org/specializations/python\nScreenshot: final.png",
+  "response": "The evaluation of the web task execution is as follows:\n\n1. **Task Requirements**:\n   - Find a Specialization on Coursera that teaches Python programming.\n   - Identify the skills learned by taking this Specialization.\n\n2. **Analysis of Execution**:\n   - The screenshot shows the Coursera page for the **\"Python for Everybody Specialization\"**, which is a well-known specialization teaching Python programming.\n   - The page displays the section titled \"Skills you'll gain\" and \"Tools you'll learn\".\n   - The final response correctly identifies the Specialization name and provides a complete list of skills gained (matching those displayed in the screenshot, including the expanded \"Show all\" items such as RESTful API and XML).\n\nThe instructions have been fully and accurately satisfied.\n\nVerdict: SUCCESS",
+  "reason_short": "The evaluation of the web task execution is as follows: 1. **Task Requirements**: - Find a Specialization on Coursera that teaches Python programming. - Identify the skills learned by taking this Specialization. 2. **Analysis of Execution**",
+  "screenshots": [
+    "task_296/final.png"
+  ],
+  "raw_screenshot": "task_296/final.png",
+  "source_result": "task_296",
+  "usage": {
+    "completion_tokens": 443,
+    "prompt_tokens": 1766,
+    "total_tokens": 2209,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 275,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00298575,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00298575,
+      "upstream_inference_prompt_cost": 0.0013245,
+      "upstream_inference_completions_cost": 0.00166125
+    }
+  },
+  "elapsed_seconds": 5.92
+}

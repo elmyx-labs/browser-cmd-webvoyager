@@ -1,0 +1,4 @@
+[x] Search on ESPN for how many teams have Los Angeles in their name. https://www.espn.com/search/_/type/teams/q/Los%20Angeles — eight displayed names: Los Angeles Lakers, Rams, Chargers, Dodgers, Kings, Sparks, Angels, Knight Riders.
+[x] How many of them are NBA. Same search page labels Los Angeles Lakers “NBA”; all seven other literal matches have other league labels. https://www.espn.com/nba/teams displays “LA Clippers.”
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the names and deciding facts without overlays. final.png: 1280x723; search query, Teams selection, all names and league labels visible.
+[x] Write the result and evidence to ./ANSWER.txt. First line starts FINAL: and gives 8 teams, 1 NBA; source URLs and date follow.

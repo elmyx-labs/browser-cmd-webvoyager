@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210340-fE2Be1i3W3m8gkUr3Us2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a comparison of the maximum number of private repositories allowed in the Free and Pro plans on GitHub.\n\nThe screenshot of GitHub's plan documentation shows:\n- GitHub Free allows \"unlimited private repositories with a limited feature set\".\n- GitHub Pro includes all features available in GitHub Free plus additional features, meaning it also allows unlimited private repositories.\n\nThe result response correctly concludes that both plans allow unlimited private repositories.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing GitHub Pricing**\n\nI'm currently examining the GitHub pricing documentation, specifically focusing on the Free and Pro plans. My immediate goal is to determine the maximum number of private repositories permitted under each tier.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing GitHub Pricing**\n\nI'm currently examining the GitHub pricing documentation, specifically focusing on the Free and Pro plans. My immediate goal is to determine the maximum number of private repositories permitted under each tier.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/hVT5tQirBbtxkIchXDCBuguojoHrs4s3OoU6QAZBW40cQbVuKJk95LwE4pGw0UARupGcSO9WCzatuzd0F90+tKuQzNbJ5HFjDSq8HEmCR/LsOll0l0+Er3PxpTYcJv5SO6WHCEpoNENFwvYGAv/NQXQ2oqjwrTvJ8MfRU6Pybeaj+R4hpQZlUcF8LKIpyOGnqEGBxBO8ZQUR2LaM8ntNiS0Y2ROcHiVXy3i/rIhb/lknZCVoR38VTAN0NoE5wsC8YZqNVOzNM8YJdcMyLuGr8uc/ZhpOhzqZoH0kPPZw9yrVGVja5qS42xdWiss/r9sd88Z0k3VPpRGcIvPS+Mb9mjAllKTQH0f0xQbwhQJk4gOlT4Ytu0DtmqAbSk5GNr5lm/0TuWgOVr6TqdFyPMLDPiTdNa0anBBNyfkzIbxATB11rYqCxcnIsxrZJwRLZPbrkGrXdlQbHx8cuzWEpbhg/V1nJRhder6SSJwlO+lh6QueYZbzR33lW3UpCD+icZLSCm+RFwFSOfgPrMU5kZapqb7GXObwi/S6+Ejtwt0td87WmBzx8pbnxSWbwUCBw2hUMQE5xdN696i9d78PpiESe4OZZBAMn/rEBywVpoedVI9jzaEQ7PC5F65SyOWrJ1kafMVI9d6Vbd4UHU6YHbHomT4BE6kJp96LE2NTomYO+iN22ZxJopG6IzlYk93D+EQtb9hT/soqzS1MHBQKhEuk6+v7GHhVKC+eCv1+gFxI1H/F/GxJB0QdL0OrvCpqBgXnwVU19Yy7li7CktXOzcgXJkhXuJtp48c1xe7Alvriyf/KPgB+pNHtDBXjiKO0jyWR0Ty1Rd326C8C34b/Zyc0xXPOXdXQWVjEBnXauemCGaUu1a9h5TRNe08X94rF+pUV4ZiXfmeHn5qKF2VzWnvu5wmOAbBRaEET+i7khiiErevj2GxmZzHNcZO+c8PoSNfCSgIr86DA/tIJOLL1udF5pCAhYGgQY9CKNM1v0gW6QlR9Zpp4BZ6MeGgPHzqIHaA/o2RAzOp0LJbYNkt1k6ovVJhlNseZ1Pdx1jfsVO5qZbMrS/yvJIHKXa/E8sDsswm6ft7AHS9p3biKUgawSDeV+Qvqs9qMC05b4XKQOzrR9y/fAo+OChdIBLa4do9Ia6wgcfc6pelOYlViAQeACA15Ek0qjHfg08S8lwd9EN37cYX4Uh10HpRMiuxajn5GlWs7TQRknkMLa6vzYgiDzLy76gupghae7rQjoECgtoScfQx03CX/SN0tTqwDoulKj8LQ+d0lbKDcFN1wKu1i7orrWL2edZqPM5/941BM817CVBDl93DxhQ9MfzqGFD37xPkYEH1bd+YbGEug5Wj+LQ+dXOWtlSIkaw5neddCjDkQl4KijPmhJJChO/KPRqfxzTWBmQQN7X3Do5oNoOQD8wCDBKzGG96lr497P0+ipz+XCG/4eMel3mLlPnQp0DEz/k5BVXGhZChsTTflIUiojZGdid5jpELJEK5fgSfVwwLugGXn/BP9jaw/WzFvzzanj7FUDF0INipBLwjBgGN70SlCTw5XIxDwlZFClnUNb+SkzTA8kKK0QpsjwKuPnZrEvEWmNdtBimDJR/N1qy7kkrYHHVI+GnFkDvSmOt+gdTmjEBLMAzdxEOrcbaO+toUjfxTj8GLQaLrvHt3YV4p2PK6xHkcwYgLW++Z5PFp7S6E6EiHTCYkM=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210340,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 284,
+    "prompt_tokens": 1677,
+    "total_tokens": 1961,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 196,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00232275,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00232275,
+      "upstream_inference_prompt_cost": 0.00125775,
+      "upstream_inference_completions_cost": 0.001065
+    }
+  },
+  "provider": "Google"
+}

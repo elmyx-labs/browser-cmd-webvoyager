@@ -1,0 +1,31 @@
+{
+  "id": "Google Map--21",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify the nearest bus stop to the corner of Elm Street and Oak Street in Massachusetts.",
+  "answer": "FINAL: The nearest bus stop is Elm Street & Oak Street in Amesbury, Massachusetts 01913, served by bus 17.\nGoogle Maps labels it “Bus stop” and shows its pin on Elm Street near Oak Street, its Amesbury address, and bus 17 together. Evidence: final.png (1280 × 723 viewport screenshot).\nSource: https://www.google.com/maps/place/Elm+Street+%26+Oak+Street/@42.8543509,-70.9224998,18z/data=!4m6!3m5!1s0x89e2e3f73ad714ad:0x2ce28dc8560fab89!8m2!3d42.854347!4d-70.921148!16s%2Fg%2F11fvyz5tqh?hl=en\nCorroboration: BusMaps lists the same stop on Elm Street in Amesbury and route 17: https://busmaps.com/en/usa/public_transit-stop-Elm-Street-%26-Oak-Street-9278229813589944347",
+  "response": "The result aligns with the task. The screenshot shows Google Maps for “Elm Street & Oak Street” in Amesbury, Massachusetts, with a place labeled “Elm Street & Oak Street” categorized as a “Bus stop.” The map pin is located on Elm Street near Oak Street, and the details panel shows it is served by bus route 17.\n\nThe response correctly identifies the nearest bus stop as “Elm Street & Oak Street” in Amesbury, MA 01913, served by bus 17, which is supported by the screenshot.\n\nVerdict: SUCCESS",
+  "reason_short": "The result aligns with the task. The screenshot shows Google Maps for “Elm Street & Oak Street” in Amesbury, Massachusetts, with a place labeled “Elm Street & Oak Street” categorized as a “Bus stop.” The map pin is located on Elm Street nea",
+  "screenshots": [
+    "task_468/final.png"
+  ],
+  "raw_screenshot": "task_468/final.png",
+  "source_result": "task_468",
+  "usage": {
+    "completion_tokens": 302,
+    "prompt_tokens": 1813,
+    "total_tokens": 2115,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 181,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.04
+}

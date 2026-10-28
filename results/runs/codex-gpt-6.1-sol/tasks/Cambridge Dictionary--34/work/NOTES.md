@@ -1,0 +1,10 @@
+Source read in browser: https://dictionary.cambridge.org/grammar/british-grammar/comparison-adjectives-bigger-biggest-more-interesting
+Title: Comparison: adjectives (bigger, biggest, more interesting), English Grammar Today, Cambridge Dictionary.
+Read 27 October 2026.
+Exact source wording supporting core distinctions:
+- "Comparative adjectives compare one person or thing with another"
+- "Superlative adjectives describe one person or thing as having more of a quality than all other people or things in a group"
+- "To form the comparative, we use the -er suffix with adjectives of one syllable"
+- "To form the superlative, we use the -est suffix with adjectives of one syllable. We normally use the before a superlative adjective"
+Other rules observed: final -e takes -r/-st; one vowel + one final consonant doubles the final consonant; two-syllable -y changes to i with -er/-est; clever, quiet, narrow, simple also allow those endings; -ful normally uses more/most/least; three-plus syllables use more/less and most/least. Irregular good/better/best, bad/worse/worst, far/farther or further/farthest or furthest, old/older or elder/oldest or eldest. No more better or most biggest.
+Use: than introduces the second comparison term, ordinarily with object pronoun or formal subject plus be. Comparative changes: -er and -er, more and more, without than. Parallel changes: the comparative ..., the comparative ... . Strengtheners much/a lot/far/even/rather, than ever; softeners a little/a bit. Less with long adjectives; short adjectives prefer not as ... as. Superlatives: in + singular place/group, of + plural group. Normally the before superlative plus noun, possessive determiner possible, the can be absent informally with linking/sense verb and no noun. Superlative strengtheners by far/easily/of all, formal quite. To-infinitive can replace a relative clause. Reduced comparison clauses omit repeated subjects/auxiliaries. Comparative normally for two; superlative for whole group; informal superlative for two also occurs.

@@ -1,0 +1,3 @@
+Official source: https://info.arxiv.org/brand/swag.html links to the non-profit store at https://www.bonfire.com/store/arxiv-official/.
+Store fully loaded by scrolling to bottom. Six unique productType IDs are represented by these exact image descriptions: Black Printed Classic Baseball Cap; Solid White Blend Premium Unisex Tee; Solid White Blend Premium Long Sleeve Tee; Grey Heather Midweight Pullover Hoodie; White Coffee Mug; White Large Coffee Mug.
+Six named listings/designs: arXiv baseball cap; arXiv Logo Shirt; arXiv Logo Mug; arXiv is Open Science; arXiv Morning Mug; arXiv Forever. Repeated designs use the same product types.

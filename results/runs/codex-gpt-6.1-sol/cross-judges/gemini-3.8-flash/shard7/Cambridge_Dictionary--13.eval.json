@@ -1,0 +1,41 @@
+{
+  "id": "Cambridge Dictionary--13",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find one word, one phase and one idiom related to euphoria in Cambridge Dictionary.",
+  "answer": "FINAL: Word: exultation; phrase: for fun; idiom: like a dog with two tails.\n\nCambridge Dictionary lists all three in the euphoria entry’s “SMART Vocabulary: related words and phrases” section under “Pleasure and happiness”. It explicitly labels “for fun” as a phrase and “like a dog with two tails” as an idiom.\n\nSource: https://dictionary.cambridge.org/dictionary/english/euphoria\nEvidence: final.png shows the euphoria entry and the three items together.",
+  "response": "The user requested finding one word, one phrase, and one idiom related to \"euphoria\" in Cambridge Dictionary.\n\nThe screenshot shows the Cambridge Dictionary page for \"euphoria\", specifically the \"SMART Vocabulary: related words and phrases\" section under \"Pleasure and happiness\", which contains:\n- Word: \"exultation\"\n- Phrase: \"for fun\" (explicitly marked as *phrase*)\n- Idiom: \"like a dog with two tails\" (explicitly marked as *idiom*)\n\nThe result response correctly provides all three matching the evidence from the screenshot.\n\nSUCCESS",
+  "reason_short": "The user requested finding one word, one phrase, and one idiom related to \"euphoria\" in Cambridge Dictionary. The screenshot shows the Cambridge Dictionary page for \"euphoria\", specifically the \"SMART Vocabulary: related words and phrases\" ",
+  "screenshots": [
+    "task_255/final.png"
+  ],
+  "raw_screenshot": "task_255/final.png",
+  "source_result": "task_255",
+  "usage": {
+    "completion_tokens": 388,
+    "prompt_tokens": 1685,
+    "total_tokens": 2073,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 263,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00271875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00271875,
+      "upstream_inference_prompt_cost": 0.00126375,
+      "upstream_inference_completions_cost": 0.001455
+    }
+  },
+  "elapsed_seconds": 5.6
+}

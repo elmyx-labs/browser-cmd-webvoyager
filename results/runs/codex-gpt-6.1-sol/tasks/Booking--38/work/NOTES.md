@@ -1,0 +1,7 @@
+Source: https://www.booking.com/searchresults.html?label=mkt123sc-bdc13b30-51ae-4140-a074-fefc000e699f&aid=304142&ss=Vienna%2C+Vienna+%28state%29%2C+Austria&efdco=1&lang=en-us&src=index&dest_id=-1995499&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=c1c1462dabafe888d7a48231163dd877&checkin=2027-06-28&checkout=2027-07-02&group_adults=2&no_rooms=1&group_children=0&nflt=review_score%3D80%3Bht_id%3D204%3Bmealplan%3D1%3Bhotelfacility%3D2&selected_currency=EUR
+Search URL: checkin=2027-06-28; checkout=2027-07-02; group_adults=2; no_rooms=1; group_children=0.
+Page heading: "Vienna: 197 properties found". Applied filters: "Very Good: 8+", "Hotels", "Breakfast included", "Parking". Sort: "Our top picks".
+Hampton By Hilton Vienna City West: "Scored 8.6", "Queen Room", "Breakfast included", "4 nights, 2 adults", "€ 343", "Includes taxes and fees", "See availability".
+Leonardo Hotel Vienna Schönbrunn: "Scored 8.9", "Comfort Double Room", "Breakfast included", "4 nights, 2 adults", "€ 500", "Includes taxes and fees", "See availability".
+Eurostars Embassy: "Scored 9.0", "Double Room", "Breakfast included", "4 nights, 2 adults", "Current price € 507", "+€ 23 taxes and fees", "See availability".
+final.png: one genuine browser viewport screenshot, resized proportionally from 1440x1250 to 1280x1111. Only final.png was visually read.

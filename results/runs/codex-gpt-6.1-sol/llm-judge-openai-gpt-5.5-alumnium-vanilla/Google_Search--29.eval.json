@@ -1,0 +1,31 @@
+{
+  "id": "Google Search--29",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find out the current world record for the men's 100m sprint.",
+  "answer": "FINAL: The current men's 100m world record is 9.58 seconds, set by Usain Bolt of Jamaica at the Olympiastadion in Berlin, Germany, on 16 August 2009 (wind: +0.9 m/s).\nEvidence: World Athletics' official records page, with Men → Sprints → 100 Metres selected, lists this under “men - SENIOR” as “World Records”. Checked 27 October 2026.\nSource: https://worldathletics.org/records/by-discipline/sprints/100-metres/all/men\nScreenshot: final.png",
+  "response": "The task was to find the current world record for the men's 100m sprint.\n\nThe screenshot shows the World Athletics official records page for **100 Metres**, filtered to **Men → Sprints → 100 Metres**. In the **Men - SENIOR** table, the **World Records** row lists:\n\n- **Mark:** 9.58\n- **Wind:** +0.9\n- **Competitor:** Usain Bolt\n- **Country:** Jamaica\n- **Venue:** Olympiastadion, Berlin, Germany\n- **Date:** 16 Aug 2009\n\nThe Result Response accurately reports this information and cites the relevant World Athletics page. The screenshot supports the response.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find the current world record for the men's 100m sprint. The screenshot shows the World Athletics official records page for **100 Metres**, filtered to **Men → Sprints → 100 Metres**. In the **Men - SENIOR** table, the **Wor",
+  "screenshots": [
+    "task_516/final.png"
+  ],
+  "raw_screenshot": "task_516/final.png",
+  "source_result": "task_516",
+  "usage": {
+    "completion_tokens": 248,
+    "prompt_tokens": 1701,
+    "total_tokens": 1949,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 4.57
+}

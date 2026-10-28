@@ -1,0 +1,9 @@
+{
+  "id": "Booking--23",
+  "task": "Identify a hotel in Tokyo with a spa and wellness center, rated 9 or above, with availability for a five-night stay starting on June 20, 2027. Check if free cancellation is offered.",
+  "answer": "FINAL: Imperial Hotel Tokyo meets the criteria: it has a spa and wellness center, is rated 9.2/10 (“Wonderful,” 3,072 reviews), and has a Tower Building Standard Twin available for June 20–25, 2027 (5 nights; searched for 2 adults, 1 room). Free cancellation is offered; its standard room rate states “Free cancellation before June 19, 2027” and “Pay nothing until June 17, 2027.”\n\nBooking.com hotel and room-policy evidence: https://www.booking.com/hotel/jp/imperial-tokyo.html?checkin=2027-06-20&checkout=2027-06-25&group_adults=2&no_rooms=1&group_children=0\n\nFiltered availability search: https://www.booking.com/searchresults.html?ss=Tokyo&dest_id=-246227&dest_type=city&checkin=2027-06-20&checkout=2027-06-25&group_adults=2&no_rooms=1&group_children=0&nflt=fc%3D2%3Breview_score%3D90%3Bhotelfacility%3D54%3Bht_id%3D204\n\nScreenshot: ./final.png shows the dates, applied spa and wellness center / Wonderful: 9+ / Hotels / Free cancellation filters, hotel name, 9.2 score, 5-night availability, and free cancellation.",
+  "screenshots": [
+    "task_221/final.png"
+  ],
+  "raw_screenshot": "task_221/final.png"
+}

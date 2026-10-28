@@ -1,0 +1,6 @@
+[x] Search for a Specialization on Coursera about 'Data Visualization' that includes a project. https://www.coursera.org/specializations/data-visualization-dv — “Data Visualization Specialization”; “Applied Learning Project”; “Hands-on labs emphasize interactivity and graphic design”. Found via Coursera catalog search for Data Visualization.
+[x] Provide the name of the Specialization. Same URL — “Data Visualization Specialization”. Saved in ANSWER.txt.
+[x] Provide the institution offering it. Same URL — “Offered by Johns Hopkins University”. Saved in ANSWER.txt; screenshot also shows “Earn a career certificate from Johns Hopkins University”.
+[x] Provide the skills that will be developed by completing it. Same URL — full “Skills you'll gain” list read via Show all dialog and saved in ANSWER.txt and NOTES.md.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the name and deciding facts visible together, no overlay. 1280×723 viewport image shows sticky Specialization title, Johns Hopkins University, description and Applied Learning Project together. No task-specified filters, sort or dates.
+[x] Write final answer and evidence to ./ANSWER.txt. Complete result, skills, project evidence, source URL and verification date saved.

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--9",
+    "ques": "Locate a repository on GitHub that was created in the last week and has 50 or more stars. Provide brief details about the project's purpose and its programming language.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Word Atlas (designfuchen/word-atlas) is a matching GitHub repository, with 2,911 stars as checked on October 28, 2026.\n\nPurpose: An illustrated IELTS vocabulary-learning app with 7,298 words, British/American audio, and spaced review.\nMain programming language: TypeScript (59%).\n\nCreation evidence: GitHub returns this repository for created:2026-10-22..2026-10-28 and stars:>=50, placing its creation within the last week.\nRepository: https://github.com/designfuchen/word-atlas\nFiltered evidence (Most stars): https://github.com/search?q=word-atlas+created%3A2026-10-22..2026-10-28+stars%3A%3E%3D50&type=repositories&s=stars&o=desc\n\nScreenshot: final.png shows the matching result, purpose, language, star count, and sort. GitHub's current collapsed search header does not display the applied date/star query in the viewport; those filters are recorded in the linked search URL.",
+    "result_text": "FINAL: Word Atlas (designfuchen/word-atlas) is a matching GitHub repository, with 2,911 stars as checked on October 28, 2026.\n\nPurpose: An illustrated IELTS vocabulary-learning app with 7,298 words, British/American audio, and spaced review.\nMain programming language: TypeScript (59%).\n\nCreation evidence: GitHub returns this repository for created:2026-10-22..2026-10-28 and stars:>=50, placing its creation within the last week.\nRepository: https://github.com/designfuchen/word-atlas\nFiltered evidence (Most stars): https://github.com/search?q=word-atlas+created%3A2026-10-22..2026-10-28+stars%3A%3E%3D50&type=repositories&s=stars&o=desc\n\nScreenshot: final.png shows the matching result, purpose, language, star count, and sort. GitHub's current collapsed search header does not display the applied date/star query in the viewport; those filters are recorded in the linked search URL.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_376/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_376",
+  "elapsed_seconds": 263.32479429244995,
+  "execution_error": null,
+  "proxy_bytes": 21424128
+}

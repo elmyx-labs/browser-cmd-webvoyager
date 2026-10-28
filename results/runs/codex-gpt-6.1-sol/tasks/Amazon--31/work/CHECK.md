@@ -1,0 +1,6 @@
+- [x] Find a compact digital camera on Amazon. https://www.amazon.com/dp/B0GHMNJK89 — CAMKORY 5K Vlogging Camera 56MP; About this item says "this compact camera".
+- [x] Zoom capability of at least 10x. Same URL — "10x Optical Zoom" in name and specifications.
+- [x] Rated 4 stars or higher. Same URL — "5.0 out of 5 stars", 8 ratings.
+- [x] Priced between $100 to $300. Same URL — $145.99.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing name and constrained facts together; applied filters, sorts and dates visible; no overlays. Product-page viewport at scroll 160; title y50–72 and compact/zoom bullet y697–777 inside 813px viewport. Resized to 1280px wide. No filters, sort, or date restrictions applied.
+- [x] Write result and evidence to ./ANSWER.txt. Written with product link and observed date.

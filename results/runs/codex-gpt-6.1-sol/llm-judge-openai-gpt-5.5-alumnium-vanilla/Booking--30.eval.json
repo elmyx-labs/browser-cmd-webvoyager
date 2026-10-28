@@ -1,0 +1,31 @@
+{
+  "id": "Booking--30",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for hotels in London from July 20 to July 23, 2027, on Booking. How many hotels are left after applying the Breakfast included and Fitness center filters?",
+  "answer": "FINAL: 278 properties remain on Booking.com for London, July 20–23, 2027, after applying Breakfast included and Fitness center (2 adults, 1 room). Evidence: final.png shows “London: 278 properties found,” both active filter chips, and July 20–23 in the search bar.\nSource: https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaMEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALCk4TXBsACAdICJDliZjkwYmY5LTA1MWMtNDQ4Zi04Zjk2LTY4NzBlZmMxOWUwNtgCAeACAQ&aid=304142&ss=London%2C+Greater+London%2C+United+Kingdom&efdco=1&lang=en-us&src=index&dest_id=-2601889&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=b96190212e6102bc&checkin=2027-07-20&checkout=2027-07-23&group_adults=2&no_rooms=1&group_children=0&nflt=mealplan%3D1%3Bpopular_activities%3D11",
+  "response": "The task was to search Booking.com for London accommodations from July 20 to July 23, 2027, then apply the “Breakfast included” and “Fitness center” filters and report how many hotels/properties remain.\n\nThe screenshot shows:\n- Destination: London\n- Dates: Tue, Jul 20 — Fri, Jul 23\n- Occupancy: 2 adults, 0 children, 1 room\n- Active filter chips: “Breakfast included” and “Fitness center”\n- Result count: “London: 278 properties found”\n\nThe result response matches the screenshot and provides the correct count.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to search Booking.com for London accommodations from July 20 to July 23, 2027, then apply the “Breakfast included” and “Fitness center” filters and report how many hotels/properties remain. The screenshot shows: - Destination: ",
+  "screenshots": [
+    "task_228/final.png"
+  ],
+  "raw_screenshot": "task_228/final.png",
+  "source_result": "task_228",
+  "usage": {
+    "completion_tokens": 320,
+    "prompt_tokens": 1908,
+    "total_tokens": 2228,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 184,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.93
+}

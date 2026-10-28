@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210489-h9P7iObxjevAoTmOBicd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Tokenizer Addition**\n\nI'm now diving into the Hugging Face `transformers` documentation, specifically the `Tokenizer` class. My focus is centered on understanding the mechanics of token addition. The examples seem straightforward, but I need to grasp the nuance of how these new tokens integrate into existing vocabulary and impact the overall model behavior. I will look more into this example code snippet for a solid understanding.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Tokenizer Addition**\n\nI'm now diving into the Hugging Face `transformers` documentation, specifically the `Tokenizer` class. My focus is centered on understanding the mechanics of token addition. The examples seem straightforward, but I need to grasp the nuance of how these new tokens integrate into existing vocabulary and impact the overall model behavior. I will look more into this example code snippet for a solid understanding.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "ErkLCrYLAWkUfRPILMa57tSLKTVR7pB56PBEPNpiQ0HLVfM2sYg+tjH/+CIs02+DCLxN0lVmWRboWyC+c/laKSPINlwwQGQoB9UuGhBi3vHDATdRdWkOkGpEczUhrQrKNmfH1zNT+jjy9fbUOtUTLC+dDcu8pzYxbAPIoa6hrEHsuqdNklxzBfSAbB2h0YU9g1ZwsnRbg7JljMf+lku2tIdtfxbODMy5bhpDFcL8fHXrfxXG6NlIXURE/cXd0pVielWZMcf1CensOZ292BuoTlVQZRxs4CZWO8pIKra2NPG/RUeNRy6RFR/BPlDjrWu57kmk6KMq6/u3LnH3kPqnirrhELryKmyKH7LLhvp+TO5un/ALYDwcEpm3CrReRG2Yse0DuiJXzwGzeclLufBAdYj3wHeL/gujo+/7dv3u0VjdMJ9rg9FfUFRZ/g/k6H2p0OVV1O3nPT5kOO74F6W6YU3+Ici7QyGfNzOXqll3MTjHXAsBvB6rbgZwJ6A2bWHd1pwyN6wSwial6ffBJPPcqiaNGqN4dHA9HNoGPpVczIiZmmPug8EFXi+AXFgXwMIwPP/9d/xP+N7/lNnW0hrigD7xvwZpF+YIgnpq4pNnoMhJnZC80V5LL/vgLy926e6vvDXcvEi/lMqQeReOv6O7Oa4h+bNV150gVw/8rC6hfcn2ssM2cMIAxo3suhF9Et9K2jqexM17OtMSAILFw6EoUP0RXLb4Bnsm+6wlZwDllHzx0YwpUEjJJYNrundNsMfg4hJyG0HIXG2tqmPQc6H4BaNXXyytzmn4l3/f2cfG3IQyKfz25J8vOylSQDIxOz+EJoRTLq8TmjurlvXfY0qRlT+ST7c6Ih5aFvduH3Q1guGJHNzsOZUz42klLDqZCP1xoV+5SxrGRfATgO2nCB+2nT2VoTkYGIrUXh8IpMY8fLfhViVTJ8UTUbDM22m+aWTOyfeahpvPPS8CJr77h5Drae1zZD+B/2i2HWXXRdXqqO0WNnl7c0NRNHaIaofkGFYEF6wHfAgobpsy5RgyBtfmk3rZNyt7qe2itlW+PaoDVn1MTne6BGo+iLw0JTdLpPsslPyMeTFu/JeTdtGBNMvM//dNRWPeqkf9iHL7JF5LwsnCTVM5VG8VaEOW8+hAkqLpBcJ/MrSydvoTX1+ndBOO7yTXFzPtuBmZDnzxl0Jgy4Vo7PzYKK4Kids2QKBHbfoex0dB1Lc5Nkd4wwo83xmSihjKEShw0yLdfHDgomm9YAYBNEeJapZuQ/TRAnpoPSeRrbtrJbjp+YSVjNVi3sPSDDOzEMYon8PGiG/VhGlZr3+oOflkFdkrENdD9Vui8F5OhEvm4KvSikfUU7aEl7FZmI5z6SHJkHqBm64A8aV01chyO7LtRYPlUcEVDKtZWP0oEZXGC8odSVLtvt5hEmffqQ7sACt99mxLLfM99LaGxdjOxgxx4LNFN/a4vFflUsQvgS4Z/FRqBtxgywxn8BPuTXm5aXz8HYDu/LIqf4kLQPu4mTRkJeCMhLOJjZBosSs/QgzENlRkPdHuz56Ri9H03Bbrgpp3QlZPubu7CCoFHjflQYmmKOvtxUWXgpu/IhJRcoopzdNL/ZGPsBCSVj/ZBzQuc1GYGKd88wKpXvcCzq61GmuvAFpzAMV7LZeGxBAmqpeM5CfkReVi5zJfKEbuOsKYzKN7rccW+df3Q8dNs7i8L6ygLhYsspRVElmuk8ohLK7BW5u3mn8c3WvuvhQ98t9cBOPNk3OKt7Weyp9rc4sIMg7WMO69AJnoL4n8R1hONJvO5LLdyOixEqfVPoXLNvmiRdQ/vjvqgyhm9TLf4hx3vNf6BfKhvwlbwxUbota4PFhvsZo1XKmvsVGqHkSMyjelFfVGeKaPvAIHzVlFslR4+RWY5Nxnj0ZT9hnj665cwEAQ+mpCuaSuEbX3JBbS5mE0DTuDdGqB9ky98w==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210489,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 286,
+    "prompt_tokens": 2058,
+    "total_tokens": 2344,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 283,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002616,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002616,
+      "upstream_inference_prompt_cost": 0.0015435,
+      "upstream_inference_completions_cost": 0.0010725
+    }
+  },
+  "provider": "Google AI Studio"
+}

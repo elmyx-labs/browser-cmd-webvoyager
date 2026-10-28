@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210093-bFZwoeXmPhSNRoNV7SwJ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find a hotel in Los Angeles with a rating of 4 stars and above for 3 days starting from July 18th.\n\nThe search results displayed on Booking.com show:\n- Destination: Los Angeles\n- Dates: July 18 to July 21 (3 days / 3 nights)\n- Filter: Hotels, Property rating (4 stars and 5 stars applied)\n- Result: Loews Hollywood Hotel, a 4-star property located in Los Angeles, is presented with room availability and details.\n\nThe response accurately reflects the required parameters and the findings shown in the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Filtering Hotels**\n\nI've confirmed the destination and dates are correctly captured. My next step is to focus on applying the 4-star and above rating filter to narrow down the hotel options within Los Angeles for the specified three-day period.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Filtering Hotels**\n\nI've confirmed the destination and dates are correctly captured. My next step is to focus on applying the 4-star and above rating filter to narrow down the hotel options within Los Angeles for the specified three-day period.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/lAMWaxZ9DzkSCjeD1wwCeQV6cWxt1X+n5huGnNO4srx0fj6MY8JwsmfU/oyMOzPzQBLvx2OfCEydcUqObTX+j01mRIN7HkmoKSKC+Qpw9sFLGDORmpMHXJcTQBD19rqLAElEoGKrwuQsl79bwhoviEAyq/SRvRBwztFahkRqGztQSFtvWwO02yFNrQMfHVyPAa85QuXz+XM5+VMIPXkiLAJtCJgXXCzu6WR7F3uGtUPttkENedrrPIsJVyt6OBbFuGVhiot6WLG60L+Kww8qMgWXKeRAhJEl9PRFdceRV4bxNzSmTgsNY3xnGUxlBd3UWkaDmzvCPM/WQ2S1wwN2GtxSfxCnohzEzx/tomIhHQTVe6GRJPBS0XnWy2VKlHZggJRUC+nVAQqraXX80RLqti4J6ODwFFlH12BHPS3bWAJCKfH28GFnqPU7uFAUllF8pmnjrML/OLmQcErWmZOCal3jdYzqx54vxGVQ2Hwn0bnUorLu/Zh/80nFMhEw/nZRHg9b9YXiNf8LD0kJMLzpPNXKPGsHRxQptBlQjZVwUBegECLSmErdvUYOYOjThpPnBM2RdgK/QpL5XEWrufMmWx3Vin8IPJB0IELhdlsH7Pv2S84EE+evXIoFVv9JdY3GPxBkuPE1gsBnX41t/I0wbp4Rjtbhd1+UZnLQ0RYKlESoH/eCg/zFKhWukOfuzDJwelN79kq+Og7WKkrU6ykPjJrzvcWiGlCao4KGWNE8KJIk7IDLnJJvhJMIKbdscbnGY0+3RZbqdXdaI3Txiax49kS5l16JH17cxIE1ipbLGWkwWdcbKhKPim26g/VTStkxeMxX+NeFuWc5Y19TaQB+10gg/ru4tqLhBezmLWpm82UxyWmv/gCyfotglKluWaazOI0wKTz6IJ/HYKg2Jd3Spe4Kn+LH/P8x7Nfewp0vlNz3UpPI1mu27KWSPYDjB9RuCQBPsXcgB2K97k1e08YHGlHG+HG+ra9BbDJ5oWksKiiORiTHRlYAWUQ2VqrGOztc8ZtImXuOblhU/o1PJrfIEjy2qNdFmCSKCoQKRyUDyhyHmRuTQ0qBUgA9G8NvGcbeFdz+Ox/Xp/7123WcFnhD3rCj5i+/Jy0gcs0d/LUvJO1bFX3D3ApeqnB3dblRrR3qvZ3HCJlM5z43+Zv8F4cUcKsLa",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210093,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 316,
+    "prompt_tokens": 1870,
+    "total_tokens": 2186,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 184,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0025875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0025875,
+      "upstream_inference_prompt_cost": 0.0014025,
+      "upstream_inference_completions_cost": 0.001185
+    }
+  },
+  "provider": "Google"
+}

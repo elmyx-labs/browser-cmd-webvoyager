@@ -1,0 +1,4 @@
+[x] Check the release date for the latest version of the iPhone. https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/ — “October 23, 2026”; “On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.”
+[x] Check the price for the latest version of the iPhone. https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/ — “starts at $1,999 (U.S.)”; 256GB is the first storage capacity.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts together. final.png is 1280 x 723, from the announcement's Pricing and Availability section, showing iPhone Duo, $1,999 (U.S.), and October 23 availability. No dialog or banner.
+[x] Write the result and its evidence to ./ANSWER.txt. Answer and official source URLs saved.

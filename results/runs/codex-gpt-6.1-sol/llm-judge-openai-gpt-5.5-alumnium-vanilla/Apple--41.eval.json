@@ -1,0 +1,31 @@
+{
+  "id": "Apple--41",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "How much does it cost to buy an ipad mini with 128GB storage and Wi-Fi + Cellular connectivity? (no engraving, no apple pencil, no smart folio, no apple trade-in).",
+  "answer": "FINAL: The iPad mini with 128GB storage and Wi‑Fi + Cellular is listed at $849.00 USD on Apple’s U.S. store, with no engraving, Apple Pencil, Smart Folio, or trade-in. The configured summary shows “iPad mini Wi‑Fi + Cellular 128GB with standard glass - Midnight” and “One-time payment $849.00.” Selected no AppleCare coverage and connect to any carrier later. Delivery and pickup are currently unavailable. Source: https://www.apple.com/shop/buy-ipad/ipad-mini/128gb-midnight-wifi-cellular-standard-glass (October 27, 2026). Evidence: final.png.",
+  "response": "The result matches the task. The screenshot shows an Apple Store configuration for:\n\n- iPad mini\n- 128GB storage\n- Wi‑Fi + Cellular\n- Standard glass\n- No visible added accessories or extras\n- One-time payment: **$849.00**\n\nThe result response also states the same price and configuration, and notes that engraving, Apple Pencil, Smart Folio, and trade-in were not included.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The result matches the task. The screenshot shows an Apple Store configuration for: - iPad mini - 128GB storage - Wi‑Fi + Cellular - Standard glass - No visible added accessories or extras - One-time payment: **$849.00** The result response",
+  "screenshots": [
+    "task_119/final.png"
+  ],
+  "raw_screenshot": "task_119/final.png",
+  "source_result": "task_119",
+  "usage": {
+    "completion_tokens": 307,
+    "prompt_tokens": 1744,
+    "total_tokens": 2051,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 206,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.93
+}

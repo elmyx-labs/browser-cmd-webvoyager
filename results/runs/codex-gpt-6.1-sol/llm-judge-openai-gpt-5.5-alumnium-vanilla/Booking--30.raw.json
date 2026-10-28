@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edyc99oINE0tZpbaE7SsYK8MVUNmR",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to search Booking.com for London accommodations from July 20 to July 23, 2027, then apply the “Breakfast included” and “Fitness center” filters and report how many hotels/properties remain.\n\nThe screenshot shows:\n- Destination: London\n- Dates: Tue, Jul 20 — Fri, Jul 23\n- Occupancy: 2 adults, 0 children, 1 room\n- Active filter chips: “Breakfast included” and “Fitness center”\n- Result count: “London: 278 properties found”\n\nThe result response matches the screenshot and provides the correct count.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196501,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 320,
+    "prompt_tokens": 1908,
+    "total_tokens": 2228,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 184,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

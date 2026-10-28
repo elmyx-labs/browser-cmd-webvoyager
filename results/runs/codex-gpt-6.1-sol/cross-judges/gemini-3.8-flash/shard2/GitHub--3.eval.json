@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--3",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find out how much more package storage the Enterprise version has over Team in GitHub Pricing.",
+  "answer": "FINAL: GitHub Enterprise has 48 GB more Packages storage than Team: 50 GB versus 2 GB (50 − 2 = 48 GB).\nEvidence: GitHub Pricing, https://github.com/pricing, checked October 28, 2026. The “GitHub Packages” comparison row shows Team at “2GB” and Enterprise at “50GB”; both say “Free for public repositories.” Screenshot: final.png.",
+  "response": "The task asks to find out how much more package storage the Enterprise version has compared to the Team version in GitHub Pricing.\n\nBased on the provided screenshot from GitHub's pricing page:\n- Under **GitHub Packages**:\n  - **Team**: 2GB\n  - **Enterprise**: 50GB\n\nThe difference is 50 GB - 2 GB = 48 GB. The result response accurately identifies the values and computes the correct difference.\n\nSUCCESS",
+  "reason_short": "The task asks to find out how much more package storage the Enterprise version has compared to the Team version in GitHub Pricing. Based on the provided screenshot from GitHub's pricing page: - Under **GitHub Packages**: - **Team**: 2GB - *",
+  "screenshots": [
+    "task_370/final.png"
+  ],
+  "raw_screenshot": "task_370/final.png",
+  "source_result": "task_370",
+  "usage": {
+    "completion_tokens": 235,
+    "prompt_tokens": 1673,
+    "total_tokens": 1908,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 139,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002136,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002136,
+      "upstream_inference_prompt_cost": 0.00125475,
+      "upstream_inference_completions_cost": 0.00088125
+    }
+  },
+  "elapsed_seconds": 3.97
+}

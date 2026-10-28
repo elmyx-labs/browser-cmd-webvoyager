@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210279-y13001NnS7TmcCFIrxOs",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested the pronunciation and a sample sentence for the word \"pandemic.\"\n\nBased on the screenshot from Cambridge Dictionary:\n- Pronunciation: UK `/pænˈdem.ɪk/`, US `/pænˈdem.ɪk/`\n- Sample sentence: \"In some parts of the world malaria is still pandemic.\"\n\nThe result response correctly provides both elements accurately.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Discovering \"Pandemic\" Pronunciation**\n\nI've successfully pinpointed the pronunciation for \"pandemic\" in both UK and US English, as well as found a fitting sample sentence to illustrate its usage.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Discovering \"Pandemic\" Pronunciation**\n\nI've successfully pinpointed the pronunciation for \"pandemic\" in both UK and US English, as well as found a fitting sample sentence to illustrate its usage.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+gnaZIf2tUYvMy7HBG0cGBeBi4EMVAjOPSBmB9bNxGjmcWI4SMATiy2s4snonDWQSqf3Vd90sNn1paDRApmqsPQG5cfxXCxbPbPvKR7CvZgoXctFqhOP2PnpgmK4xQTzKKn2xZyqheber1PsUx2cq0ctakaWS4/B1I5jvmaaf9f5Nx8FoTlbAzHkOQuF/cNexVhbP1/NKs8DK2yjBBnemrhwxjDHAh9GGnioNeJs8KR4aBZ1O9hVzlBGj+iuGg71Sk5qMIvuk5jJ/4Jfg63+M2GGxosbia1fl3eB+1/8hPQF01Tvl0j5Y8i8SQV9zixuil0A/CgbHsmL2vatwlvQ1Kx00huZ9A8fU4Pa457UpDulHnpp9F1zwJsi/ilLgpuH3nHNJspWoo7Tu741wsBLYMrP/OSYURtqBOGutZ4VCDn5dTQwRjOZ+aEq/dtCq3YFdheEtpFtbpvtGXlqDt+w8KVfLXprrNkS9f/82wu7fNO0TFY1MuxM1MhfotjC8xxw4myjnyAngoklzdTF+Kleon9lB2SgG+n7Diyr8jfM8rplAQyL5lNY7m0VEjnh3saLH3z/AjSH+Rh5jXlDkVhwflg1sXZAjlug6Rnd4XsPCOQDaqVXIsyNzIbzCNMAbtrU8GrwxXIlppjdGX5Mwx+5ydB2Z2eIOmNQGZG6JWbNy7FK+BYiFYdoNw3i+MWuGHYzc4RFgf32mTkVOa1jijbIaHrdzcAFX8KTtDhDW3KG/xyqPLUsOdWq+kyFh8XSa+p44lx5xFwa5MHO9soHLz1ZrMwov4IjDt4BTTSP3GuJwr2GsrARZ+psnHcudWZfBRbndBh5v+ts91nrvC4pXrldNbKoZaKthMiK8Y5Ox3ZeEkdXCCYaTnNJJl1mEbM5+HHKm3FH2f1Y1xGOutgF3Bd5uMoy5oyAodblzoD5ND/lfXDi0Ed6kniZTiLz/UyRa/GqFkN1W1b7+/D6FuxRPN",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210279,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 213,
+    "prompt_tokens": 1638,
+    "total_tokens": 1851,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 133,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00202725,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00202725,
+      "upstream_inference_prompt_cost": 0.0012285,
+      "upstream_inference_completions_cost": 0.00079875
+    }
+  },
+  "provider": "Google"
+}

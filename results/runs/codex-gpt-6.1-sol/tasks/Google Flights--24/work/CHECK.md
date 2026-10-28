@@ -1,0 +1,5 @@
+[x] Compare prices for economy class round-trip flights from Dubai to Rome. Google Flights search URL in NOTES.md and ANSWER.txt: Saudia AED 1,846, Lufthansa AED 2,020, KLM AED 2,190, Emirates AED 3,740. Origin chosen as Dubai International DXB.
+[x] Departing on July 1, 2027, and returning on July 8, 2027. Selected itinerary URL in ANSWER.txt; Google Flights track-prices label explicitly states 2027-07-01 and 2027-07-08. Screenshot shows Thu, Jul 1 and Thu, Jul 8.
+[x] Select the option with the fewest stops. Selected Emirates EK 99 and EK 100; selected itinerary shows Nonstop for both legs, the minimum of zero stops.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with deciding facts and dates/filters/sort visible and no overlay. final.png is 1280×723, showing selected itinerary, Round trip, Economy, dates, both nonstop legs and booking prices, without any open dialog. Search filters/sort are not controls on the selected-itinerary summary.
+[x] Write result and evidence to ./ANSWER.txt. First line begins FINAL:, result with prices, dates, evidence and observed source URLs.

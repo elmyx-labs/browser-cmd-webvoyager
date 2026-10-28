@@ -1,0 +1,4 @@
+- [x] Convert 15 kilograms of sulfuric acid to moles. https://www.wolframalpha.com/input?i=15+kg+sulfuric+acid — “15 kg of sulfuric acid”; “molar amount | 153 mol (moles)”.
+- [x] Display the percentage composition of H, S, and O by weight. Same URL — “Mass composition for 15 kg”: “H (hydrogen) | 0.308 kg (2.1%)”; “O (oxygen) | 9.788 kg (65.2%)”; “S (sulfur) | 4.904 kg (32.7%)”.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the name and decisive facts visible together and no overlay. final.png is 1280 x 723, with the input interpretation and both result tables visible.
+- [x] Write the result and evidence to ./ANSWER.txt. Saved with result, source URL, viewed date, and screenshot filename.

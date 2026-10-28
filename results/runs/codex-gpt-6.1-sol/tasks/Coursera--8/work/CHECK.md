@@ -1,0 +1,5 @@
+[x] Find a free course related to 'R for Data Science' available on Coursera. Search results for R for Data Science list “Data Visualization using Plotnine and ggplot” with “Category: Free”; its project page explains that Plotnine is based on R’s ggplot2 package. Coursera classifies it as a Guided Project.
+[x] Scroll to find a course with the Free tag. Scrolled search results; filtered to Guided Projects; the results page displays “Category: Free” and “Free” for the selected item. https://www.coursera.org/search?query=R%20for%20Data%20Science&productTypeDescription=Guided%20Projects
+[x] Verify what language the course is taught in. “Taught in English” at https://www.coursera.org/projects/data-visualization-using-plotnine
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with course name and deciding facts visible and no overlay. Captured viewport at scroll 700; name, “Enroll for free,” and “Taught in English” are visible.
+[x] Write result and evidence to ./ANSWER.txt. Saved with sources and Guided Project distinction.

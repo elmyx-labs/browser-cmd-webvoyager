@@ -1,0 +1,6 @@
+- [x] Locate a hotel in Melbourne. https://www.booking.com/hotel/au/toorak-manor.html — "Toorak Manor Hotel Free Parking"; "220 Williams Road, 3142 Melbourne, Australia".
+- [x] Offering free parking. Hotel page — "Free private parking"; search checked "Free parking".
+- [x] Offering free WiFi. Hotel page — "Wonderful free Wifi"; room "Free Wifi"; search checked "Free Wifi".
+- [x] For a stay from June 28 to July 4, 2027. Search URL checkin=2027-06-28&checkout=2027-07-04; "Mon, Jun 28 — Sun, Jul 4"; Standard Queen Room available for "6 nights".
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing hotel name, deciding facts, applied filters and dates, without overlays. Genuine 1440x2180 browser viewport resized proportionally to 845x1280; search URL in ANSWER.txt.
+- [x] Write result and evidence to ./ANSWER.txt. Completed with hotel and search sources.

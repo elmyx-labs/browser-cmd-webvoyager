@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210104-fdi1keuvQGfuxhEM5Lsn",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the screenshot and the provided response:\n\n1. **Destination & Dates**: Paris, check-in Sunday, February 14, 2027, check-out Friday, February 19, 2027 (5 nights).\n2. **Filters**: Applied filters include \"Hotels\", \"Very Good: 8+\", and \"Fitness center\".\n3. **Sorting**: The results are sorted by \"Top reviewed\".\n4. **Hotel Result**: The top-ranked result found is \"Hôtel des Arts Montmartre\", which is available, rated 9.6/10, and fits all specified criteria.\n\nAll requirements of the instruction have been completely and accurately fulfilled.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Refining Search Criteria**\n\nI'm currently focusing on nailing down the exact parameters for the hotel search. The core elements are Paris, a 5-night stay beginning February 14, 2027, a fitness center, and a minimum rating of 8. I'm also ensuring the sorting will be by best reviewed, as requested.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Refining Search Criteria**\n\nI'm currently focusing on nailing down the exact parameters for the hotel search. The core elements are Paris, a 5-night stay beginning February 14, 2027, a fitness center, and a minimum rating of 8. I'm also ensuring the sorting will be by best reviewed, as requested.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/DGNR3opWcYWAnRpbJ/6t9rVE2/2ZD5j5Py+PCABA0V5j9YrFdZ+Zf/FRGzALtnWNzNmppktYGINwLs3iB63Aery5BnogNxi8EY1AIMZWuqJPRs/Oy020nyhRddHL7yYiK5K4nb7NVUSJQzw+E8Gw3pl5RQsrhNTclY1KvXwcDj49Xsc0XXPvna6eymxzHEIIqlmQWdkIEe7/F3D1i9r1nEExZmFCBmMDTeDu/lnNdP47IidnQ3Qhgoskv2EcY7x+BrmzBVKEju9IkUSr+UUJzyoqDpQ6zC4eCY3xamzte/LSh8mD9Y9uoiqixOkDQlmTKqcnMR+V1YOWQzN00N5ytcuKiY/LMPfMpO5zyyYba4YUI36n6feSPOaC9AaS0TtLB0KLckxfuvNtFiZKdXexr+k3VCi4P+sn/HS4GEtVRBGe9n/RjC4A1P68ss19IcGfLNjAzpaHUgxL7GqEQq2CMlH4Ha2U47khyAdS518hJ5HdO4OzsN4tkuVUM6OmJ9rqFliuWg2wtchoyKL0pKHZKZut0jUFy+a/kHcUaQGPkfhPBzCckOjjw/Q16bstU7NcQD6PkalzP50g4iFJGY1OtjUuqLnt5c4WDYnT9xIPeZT841Hfokfaktgk9SYxSSkWbsOYNzldAUk8tpksoRsdeYkzkDXOrWCpdJXcZ0Y2FeoKRGeinqLQCW0SzxmYnmPGxgOf9V0Cco4g5/LP0w5aLfe+vqo1vbFfkAdfVmpNteQhDEU4hiFS4cyogE9IvqKEZ8W2N+RYs4xRHEvPg9Af7X75aQL7izGgoxni0LF97k3NEnfvOYKyLlmy7oKJp7JjAozZhOQbvjYU5N6KgCoou6KbSp3XjljPQg3REPYedYJ9xSeFYm2ZuX0nfyYKm+bRCI0PETKBLIAiK05tBEBo/UgZx7Mkj5rpNvZDxuybcM740L23SobnyxELPVlpsmkbGrjPCbFOfBngao8nj/sYyFWa+3ggf2bQS3hiq6aFttNJ/awc5PE2to2OsqZ9hUcZQDTyu284sM04a4C70ggHcqWiVXU8rSw0IqucSbfXkr2m6Q/1otfN+q3UNhU0mLKMh6kMOYSLSFZNrPmOdqCrVW8grerss6MxFTMthnqW1h3SD5JuKfwSjdsOMGB4nrZTQEcwdfofsPW1RlsFTrYmaao5rrK0tjsU4ujklFpnALZ/VpXepcQxnog3aoPhnhcvjJvBuXL51YHla+5cUP9zrreosetSRFo7s6aZ5POAptfZ3PaDhD+SWOccFKbnymxRALGXkWD+01bJkWfQERyUqFELd/jTouK77viwFm+BBTDXbgjlNZVo6g9MQmnMuuvKsNWDvOqN39Imb9jqlELF9jk8jQLbieOylhpwCHdUF/YTDxBYuTKLZQA3BlC84yPGa9XYImpsWevMDnHVROYqRYRvbxPlOaWNtzXMYKf2UZaOuDOiOgXCtkVvv9SLKpR7bgjhc7lLcMxvEYelypvE55TB/slcV5/MmjPxola0X7LpWk9ARIlEvdOC53Q5Y5AyPglmSXsd75OCRH7a0QqJxm8lNZEV952hCi0NYjTdpZxz+nKcGW9L30X53TPrNcbkWc/idhDGB+FbQ8L7Zdz8tMtrAEMVrqexSuvipCWUPesy3U2kSN/liWn6C83Poef1pWLGZyhljiVjQRuo0K3nYeC68nVAJK2O452NtAxSCTXsr3otqiXAkQ97p4n8R8E0RYDgwA5eaH8PVzjASEmB9HMof/E8BE2jqb1NW8z8=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210104,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 457,
+    "prompt_tokens": 2098,
+    "total_tokens": 2555,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 306,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00328725,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00328725,
+      "upstream_inference_prompt_cost": 0.0015735,
+      "upstream_inference_completions_cost": 0.00171375
+    }
+  },
+  "provider": "Google"
+}

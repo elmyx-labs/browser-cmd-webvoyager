@@ -1,0 +1,3 @@
+[x] Find out the trade-in value for an iPhone 15 Pro Max in good condition on the Apple website. https://www.apple.com/shop/buy-iphone/iphone-18-pro — “Good News. Your iPhone 15 Pro Max qualifies for credit.” “Apple Trade-In Value: Good Condition” “$455”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with item name and deciding facts visible together and no overlay. final.png, 1280×723; model, Good Condition and $455 visible together.
+[x] Write the result and evidence in ./ANSWER.txt, first line FINAL:. Includes result, check date, source URLs and final.png evidence.

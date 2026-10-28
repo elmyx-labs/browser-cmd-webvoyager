@@ -1,0 +1,4 @@
+[x] Look up the pronunciation of the word "sustainability" on the Cambridge Dictionary. https://dictionary.cambridge.org/dictionary/english/sustainability — UK /səˌsteɪ.nəˈbɪl.ə.ti/; US /səˌsteɪ.nəˈbɪl.ə.t̬i/.
+[x] Look up the definition of the word "sustainability" on the Cambridge Dictionary. Same URL — “the quality of being able to continue over a period of time”; environmental sense: “the quality of causing little or no damage to the environment and therefore able to continue for a long time”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the word, pronunciation and definition visible and no overlay. final.png is 1280 × 723, from the Cambridge entry at scrollY 120; privacy banner closed.
+[x] Write the result and its evidence to ./ANSWER.txt. Includes pronunciations, two definitions, source URL, access date, and final.png.

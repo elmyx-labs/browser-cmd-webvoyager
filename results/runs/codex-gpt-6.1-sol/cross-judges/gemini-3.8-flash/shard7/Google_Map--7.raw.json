@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210332-lHtU4zn3FtEofAnZfX9h",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**Evaluation:**\n\nThe agent successfully identified a bus stop in Alanson, MI using Google Maps. The screenshot verifies the location \"Alanson (Alanson EZ-Mart)\" with Stop ID ALA, located in Alanson, MI 49706, serviced by Indian Trails buses. The details in the final response align directly with the visual evidence.\n\n**Verdict:** SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Confirming Bus Stop Details**\n\nI've confirmed the bus stop at Alanson EZ-Mart in Alanson, MI, identified as Stop ID ALA. Google Maps screenshots corroborate this finding and its bus station designation.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Confirming Bus Stop Details**\n\nI've confirmed the bus stop at Alanson EZ-Mart in Alanson, MI, identified as Stop ID ALA. Google Maps screenshots corroborate this finding and its bus station designation.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/f6/FRIVK87ITql6988TCtfmlBnrXK8x5InG59WND4ZCtnQECdFNAlKl5ZgrIpG41ZYRKJRjSGV9ctt3+MaZtbj2BUFIDWkT1a9u1DBjya7ZathJdoWWethEgaGzs4bqBaUQ+4zP0CS5GKUffDfHmdNytsT3lPu81i03VTOoSR4Gorpp++eOCxzYd8QmcdbP9Ugpi6G/Lf15sk3TbWXfe40gyq+k4KT1eIdy2ku337Il97bc//AKEFBh7uWK0sUEymswewlA3Ln+g4uDr4GYxO4FM2AvuihvdQRNQ73pdkor7eyr9VHkic8MEi0OFbfrh3WYh11rGdiSS7EBOlN5M9zJHobTC6v6VpU5Byec6WSj6YBzAdJc1lZhh7ToRupifLKGE7e/fyTB5OAKa0QVjHofBuXG6KHe6gVNwXak9QgPolcDqot3cERpGDd9p1hSXSiRoXQ0V2EsHik7p8i5nYM+QlEzvTR5qtRrxKwKBoU33x3tzQpWA4DlP2084PukZhuAfE819XlZ4fgus+GKHkOHV3RxnhdiVtG4E92Dxxijg59l27FVzD47o5bKBA/pGvgRisjMrO7oaqglgAekGtgQYN9cEj3koPTJyemEjh6zy9uwRCdcAcAjx3eksb9Qo06kq9J6FRgghCJMnfslJgf4442DVQ5JkEJrhOJgsCzPxpt8HgEYFn4mr+o2ZYeAgSFcsRj6YoPW6gh95Gjqg5N/tNWua7wRI60AJ1t7CO8E8CPXP6PC61qAdTWwy+o7KMJzP5hae/inF50LcKVCr06qbUuDUUhTrfeqWyYH62WPJcRgjt93BEkZ4bWGEOfsxQ9uVJcxYdLTTJ7T1IWMRWeklq/vC522I+d2H0hXvjQOp7HLImGrzNQOfXHUNsJ9aPcczN8NHZfHo7LRW+bVUZ7xJOPGXrgUXorxg53qcUJ2AmuPmaGbzux/Scvq8rIFDL+aX433Q9s0DBNh7dNXdpInm2WjUxUb4a6GVagRTK4+lGhOy+OSn5BjzmVH9NEG8rr40djkmu0afNsvuT0FJmCpKRkfId5iY5BzQTWcxIkDmLnD8+ny4l9Ig3i/ELZREvKWTc7xm+2HXcNWb+nYakPCYQBYWko/XZirEWKQ==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210332,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 239,
+    "prompt_tokens": 1832,
+    "total_tokens": 2071,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 162,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00227025,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00227025,
+      "upstream_inference_prompt_cost": 0.001374,
+      "upstream_inference_completions_cost": 0.00089625
+    }
+  },
+  "provider": "Google"
+}

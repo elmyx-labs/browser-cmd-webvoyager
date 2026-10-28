@@ -1,0 +1,31 @@
+{
+  "id": "Google Flights--30",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the most affordable one-way flight from Cape Town to Singapore, departing on July 20, 2027, and include the airline and total number of layovers.",
+  "answer": "FINAL: The most affordable one-way flight shown is Qatar Airways at RSD 53,339 for one adult in economy, from Cape Town (CPT) to Singapore (SIN), departing July 20, 2027. It has 1 layover: 2 hours in Doha (DOH). Departure: 7:30 PM July 20; arrival: 9:15 PM July 21. The displayed fare includes required taxes and fees.\nEvidence: final.png shows Google Flights with One way, Cape Town → Singapore, Tue, Jul 20, the Cheapest tab selected, and all flights sorted by price; Qatar Airways is first at RSD 53,339 with 1 stop.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI3LTA3LTIwagwIAxIIL20vMDF5ajJyDAgDEggvbS8wNnQydEABSAFwAYIBCwj___________8BmAEC&tfu=EgoIAhAAGAAgAigB",
+  "response": "The task was to find the most affordable one-way flight from Cape Town to Singapore departing July 20, 2027, and provide the airline and total number of layovers.\n\nThe screenshot shows Google Flights set to:\n- One way\n- Cape Town → Singapore\n- Date: Tue, Jul 20\n- Cheapest tab selected\n- Results sorted by price\n\nThe lowest visible fare is:\n- Qatar Airways\n- RSD 53,339\n- 1 stop / layover\n- Layover shown in Doha (DOH)\n\nThe result response accurately reports the cheapest option shown and includes the requested airline and number of layovers.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find the most affordable one-way flight from Cape Town to Singapore departing July 20, 2027, and provide the airline and total number of layovers. The screenshot shows Google Flights set to: - One way - Cape Town → Singapore",
+  "screenshots": [
+    "task_436/final.png"
+  ],
+  "raw_screenshot": "task_436/final.png",
+  "source_result": "task_436",
+  "usage": {
+    "completion_tokens": 421,
+    "prompt_tokens": 1822,
+    "total_tokens": 2243,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 278,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.75
+}

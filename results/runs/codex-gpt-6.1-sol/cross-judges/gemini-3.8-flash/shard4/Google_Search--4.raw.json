@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210423-5HbMACMmIlvcG6KBkxp2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user asked to show the most played games on Steam and provide the number of players in-game at this time. \n\nThe provided screenshot displays the \"Most Played Right Now\" chart on Steam, showing the top games:\n1. Counter-Strike 2 (575,675 in game)\n2. Dota 2 (522,083)\n3. Deadlock (207,472)\n4. AION 2 (179,829)\n5. FiveM (159,005)\n\nThe textual response accurately identifies the most played games along with their corresponding live in-game player counts as shown in the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Steam Data**\n\nI'm currently focused on extracting the most played games and their concurrent player counts from Steam's data. I've pinpointed the \"MOST PLAYED RIGHT NOW\" section on Steam Charts as a primary source. Initial observations suggest I can grab game titles and their corresponding player numbers directly from this area. I'll need to develop the extraction process now.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Steam Data**\n\nI'm currently focused on extracting the most played games and their concurrent player counts from Steam's data. I've pinpointed the \"MOST PLAYED RIGHT NOW\" section on Steam Charts as a primary source. Initial observations suggest I can grab game titles and their corresponding player numbers directly from this area. I'll need to develop the extraction process now.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EqkKCqYKAWkUfRMaHA8RL5q4A36Mw+bknwVidcJ/Xx5QeZMlXssxTnqf1hbTl+JSYbxLtRfo3xggfy3xgkcYSmJOBRDnxEV3SojrVR1QZOrflyjMjcIFUu0GvtAEDgTVQYXcUCzBZf1NlaxP9GZJDm9+0eeeLvyVql/pVZL/mdNjCNlxeYSIHgizQSg+5BJoU5v/ICnNZ3pp7f6EGuAhvei2y4wIAb2z2Ty29368g6y2nLOLq8RC2J4G3BgCEpTFUHVnndtvx+eMrEqiOaHlOHNDckY0Q0vDy+sI1iYrIGPbD9oyZCVQmp24jFBtyWBaPF8zZBBZs+Eni+n1iHYoDWSbOZFmOfwY3+u49Gpm+nRDKho1JApWxmx7JE4IzlD+ekzwFznIhD/ElCmtlxlpUgzAwT0WUtC7weCuYbb96pXPb+OdBVPQDoTdXmapbqyQDew+Ny9n+Duf7TWzBHDBVahBqwmtSu2La0qcAuNa0yv/XWhx8LA7VYC79PQHYy3+uIVYUhkqH5sVRiic6/PJzP1gvBrBhh5ZtsispGluqlk6FzEYNXl7unQEolp9ufIWcWev/zGGSRQCKk33FSkg+wX8UgT+B0G6DOAkQCqC58DX4TW7E/jYdckLhw7k8IEivzC72BZ2VN9VMt8AoTYuE9sJw8C9bOrgLi3qV0s1SHa8m+BD704F6Azoo7bB6yrTmdtNEkbpH69aTxocTA1jTP7DAs6Di+/tZLYFe9vouApX105a0dkn9nQYaMVu39QSJg656fi4Z8RB4nnrIkQD362yZ3tg+eJrx7GuSJ2IgoEem+eq8YeAH9kedQCZON66c1vxTAJZjk2Jho57CjdOlbjHhkLAQkF+G/EhW8Z9ZpY5xzgMBFFvKNP67l41C1qKm9aMo3S1lK3nvgSZTV8fixmGNZfekv3ATIjgchjTorKxeQ2Wh8PUqrlMAGmZDXggrs92DccNkG0CbyQoKyHjU6Px2cO84J7JKag0TOOW9Ra8uTq9g47Hh6c9hDSQ6fJREbbFD5SwH4/6ZmNr+uBeJi0W4fgIdg9J1EBkmiQfF26eLwG6HsBiuaatIHdBtl7LFuKS2IbTdn6SUGw/TlKC+eM4LKxdCBFoBFSZBu/2HAM041S/v/slzfhwLiXStboQm2Yr+37FtZ9tHdKPLab5RChLXsz6TwzU1awtAfI08K6+fI2i2aVZqCvW86X5osQIDhYVjssAmlaXxiUnTbPSQ/jAjvtRBDE8Gmz4H1UlFavNeWpJnFaTB+kxdxYOGpV5O845782AObmWrEQdlyvuQ/lMH9jw5XS273TbKS3Pvb/g3ZKUfnHcHakWgjs8D1j5iZ45chANiVySnpGmY8zqxuQC37D+Is8qbZEoHLmHuETF5xnf4RQWXWU9F0X+8DYEri+RIbHtQTuZbQI/m+dVgwPA1jkHROU4MNJirhMokWEJ6U3o1MaqyPXE6eDgWYY9LrlRn8aTdSEGatV8o1Hie3ajwUN0da735v6NZ2Fdk9YwDmWr+swp2EkCKv55kGKTP0LzIVdI52KW4cr8fL8kRh2tnLtELbURBTqblGQy/7MISqno5IOcN905IHsb32TLdYsrMnKVT13wvHD/fZEfhFxNY6KyOb8iYRXZ1AhrAzVwL7VPUj5LJcFGOOjIVJQHZuoxBwaqqF/LMk13tFpxrUfmG1ebghF37Sx9rM1qfBlkqpE5kUW4YoVd9fUjXwmAAL+uoi2jsT/FuksfoxNlx6qez2X4u/EPKFRW0g==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210423,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 502,
+    "prompt_tokens": 1791,
+    "total_tokens": 2293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 350,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00322575,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00322575,
+      "upstream_inference_prompt_cost": 0.00134325,
+      "upstream_inference_completions_cost": 0.0018825
+    }
+  },
+  "provider": "Google AI Studio"
+}

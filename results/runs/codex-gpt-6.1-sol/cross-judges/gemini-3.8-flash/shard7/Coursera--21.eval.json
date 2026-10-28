@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--21",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for an online course on Coursera about 'Digital Marketing', suitable for beginner-level learners. Specify the course duration, the main learning outcomes, and the institution offering the course.",
+  "answer": "FINAL: Foundations of Digital Marketing and E-commerce on Coursera, offered by Google, is suitable for beginners: no prior experience is required.\n\nDuration: 1 week at 10 hours per week, with a flexible, self-paced schedule.\n\nMain learning outcomes:\n- Understand digital marketing and e-commerce fundamentals.\n- Describe entry-level digital marketing and e-commerce responsibilities.\n- Explain the marketing funnel.\n- Understand the components and objectives of a digital marketing and e-commerce strategy.\n\nEvidence: Coursera labels the course “Beginner level” and lists “1 week at 10 hours a week.” The course page identifies Google as the provider and lists the four learning outcomes above. The saved viewport screenshot, final.png, shows the course title, Google branding, beginner requirement, duration and learning outcomes together.\n\nSource: https://www.coursera.org/learn/foundations-of-digital-marketing-and-e-commerce\nVerified on October 27, 2026.",
+  "response": "Based on the instruction, the user asked to search for an online course on Coursera about 'Digital Marketing' suitable for beginner-level learners, and specify:\n1. The course duration: Provided as \"1 week at 10 hours a week\" (flexible schedule).\n2. The main learning outcomes: Provided from the \"What you'll learn\" section of the course page.\n3. The institution offering the course: Identified as Google.\n\nThe screenshot corroborates all details provided in the response.\n\nSUCCESS",
+  "reason_short": "Based on the instruction, the user asked to search for an online course on Coursera about 'Digital Marketing' suitable for beginner-level learners, and specify: 1. The course duration: Provided as \"1 week at 10 hours a week\" (flexible sched",
+  "screenshots": [
+    "task_303/final.png"
+  ],
+  "raw_screenshot": "task_303/final.png",
+  "source_result": "task_303",
+  "usage": {
+    "completion_tokens": 397,
+    "prompt_tokens": 1793,
+    "total_tokens": 2190,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 290,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0028335,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0028335,
+      "upstream_inference_prompt_cost": 0.00134475,
+      "upstream_inference_completions_cost": 0.00148875
+    }
+  },
+  "elapsed_seconds": 3.98
+}

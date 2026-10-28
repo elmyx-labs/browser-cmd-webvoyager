@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Apple",
+    "id": "Apple--35",
+    "ques": "How many types of Apple Pencil are currently available on the Apple's website? Which one supports Wireless pairing and charging.",
+    "web": "https://www.apple.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Apple’s website offers 4 types of Apple Pencil: Apple Pencil Pro, Apple Pencil (USB-C), Apple Pencil (1st generation), and Apple Pencil (2nd generation). Wireless pairing and charging are supported by Apple Pencil Pro and Apple Pencil (2nd generation).\n\nEvidence (checked October 27, 2026): Apple’s shop selection page lists Pro and USB-C and provides purchase links for both older generations: https://www.apple.com/shop/select-apple-pencil . Its comparison marks wireless pairing and charging as supported for Pro and unsupported for USB-C. The 2nd-generation product page confirms that it pairs and charges magnetically on the side of an iPad: https://www.apple.com/shop/product/mxn43am/a/apple-pencil-2nd-generation . The 1st-generation page says it pairs and charges via Lightning: https://www.apple.com/shop/product/myqw3am/a/apple-pencil-1st-generation . Screenshot evidence: final.png.",
+    "result_text": "FINAL: Apple’s website offers 4 types of Apple Pencil: Apple Pencil Pro, Apple Pencil (USB-C), Apple Pencil (1st generation), and Apple Pencil (2nd generation). Wireless pairing and charging are supported by Apple Pencil Pro and Apple Pencil (2nd generation).\n\nEvidence (checked October 27, 2026): Apple’s shop selection page lists Pro and USB-C and provides purchase links for both older generations: https://www.apple.com/shop/select-apple-pencil . Its comparison marks wireless pairing and charging as supported for Pro and unsupported for USB-C. The 2nd-generation product page confirms that it pairs and charges magnetically on the side of an iPad: https://www.apple.com/shop/product/mxn43am/a/apple-pencil-2nd-generation . The 1st-generation page says it pairs and charges via Lightning: https://www.apple.com/shop/product/myqw3am/a/apple-pencil-1st-generation . Screenshot evidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_113/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_113",
+  "elapsed_seconds": 132.7554759979248,
+  "execution_error": null,
+  "proxy_bytes": null
+}

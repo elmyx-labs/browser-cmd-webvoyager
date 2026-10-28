@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyaPkVGH0MsF52h04g00soFLYX3A",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task asked for the cost to buy a specific configuration: **16-inch MacBook Pro with Apple M4 Max, 16-core CPU, 40-core GPU, 64GB unified memory, and 1TB SSD**.\n\nThe screenshot shows an AppleInsider price guide page for exactly that configuration:\n\n- **MacBook Pro 16-inch M4 Max**\n- **16-core CPU**\n- **40-core GPU**\n- **64GB RAM**\n- **1TB SSD**\n- **Standard Display**\n- **Space Black**\n\nThe displayed price is:\n\n- **Best Price: $4,199.00**\n- **MSRP: $4,199.00**\n\nThe result response states **US$4,199**, which matches the screenshot.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196393,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 299,
+    "prompt_tokens": 2146,
+    "total_tokens": 2445,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 131,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

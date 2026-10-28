@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Cambridge Dictionary",
+    "id": "Cambridge Dictionary--9",
+    "ques": "Look up the British pronunciation of the word \"euphoria\" and find an example sentence using that word on the Cambridge Dictionary.",
+    "web": "https://dictionary.cambridge.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Cambridge Dictionary gives the British (UK) pronunciation of “euphoria” as /juːˈfɔː.ri.ə/. Example sentence: “They were in a state of euphoria for days after they won the prize.”\nSource: https://dictionary.cambridge.org/dictionary/english/euphoria (accessed 27 October 2026).\nEvidence: final.png shows the word, UK pronunciation and example together.",
+    "result_text": "FINAL: Cambridge Dictionary gives the British (UK) pronunciation of “euphoria” as /juːˈfɔː.ri.ə/. Example sentence: “They were in a state of euphoria for days after they won the prize.”\nSource: https://dictionary.cambridge.org/dictionary/english/euphoria (accessed 27 October 2026).\nEvidence: final.png shows the word, UK pronunciation and example together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_251/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_251",
+  "elapsed_seconds": 74.9584288597107,
+  "execution_error": null,
+  "proxy_bytes": 10632049
+}

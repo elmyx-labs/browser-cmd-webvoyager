@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210257-4UMdlOrpSSKDFqRyz65F",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to search for properties in Los Angeles, check what filters are available on the results page, and list some of them.\n\nThe screenshot confirms a search for Los Angeles showing the results page with 1,006 properties found. On the left sidebar under \"Filter by:\", various filter categories and options are displayed (e.g., Your budget (per night), Hotels, Free cancellation, Wonderful: 9+, Apartments, Swimming pool, 5 stars, Entire homes & apartments, Parking). \n\nThe result response accurately lists these available filters found on the page. Therefore, the task was completed successfully.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching Los Angeles Listings**\n\nI've initiated the property search for Los Angeles and have begun analyzing the initial results page to identify available filters.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching Los Angeles Listings**\n\nI've initiated the property search for Los Angeles and have begun analyzing the initial results page to identify available filters.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/8uhabnU7p/psLTbGozKkZqLyQsAnYARO0yTpGafO3P+85msj/l9q2w5kMN5uF4FWwItXe/8FVVS0GHifc1RCyA340JFrui4mRlAQXiiXHoB9C1I7LIBm0/XvdBcpI5PLaF9+QzPJddYBdmkkZo53gEwuehfNeV5Ei83J43t6zSSIi41KlkElqFvYDASvfq6/nmNyItZViYwYJhoB+JQ+RZFt3eWlJLoL4ffHHuLA4FuSRNvT6mrWwJvl8j+biJn8pbxg0D547GsGYC27r1EyO4lEKpZm2pRy7k535Ue8YkupsS1hqt2DHQdIxOnjcADfLzdGW6lcrF17ht/de8z70b7suuFdRtdA1H58mCv8i1r75DSGmjYlp/Rv/rc6ggjUEb80THr97T+FtnkS3VH4r8xlJRnIAHxF/0c5MYRztsoiVQ0pTgjjrRwnMVptbuB6NLtZCOHKXP3f9j7l7lifTrV8JSNEleNQPz5vd+UFbpScDp2mhGt6QIqp5vNqc6ALw+hCbOo4a/abluUJjH9YfHz6RGyImxWCmjZEOXcguUbC4dlklgnKNGh8r65Fp+Y6csF36q5XKvlPoZ/13znedqR5QbY1GsWcvFmlxkZZ4yEi4zEu6b1a4W6jw1pfk780X6w0fTBjVViOkr5lAdnQ1wLzJorYNKLRbVlwLLFwbShkSBfauGYjoTuaieN5FBcImZyspHpd57RWQnihHek5s6JwUKWSVLaHHouXfPz7v6CNzguDiXkXwB9gKJhY55oBPRoZSBUMbKe0uI4X8oJZ8FSSWmBT5k+6rTY+zvbrQw3WvAFbFiYSfMyQPpIGOc0OJ4eSoBTMx5f+s4XlKAgrfUZ/YkevvW90qFzYJEX0jG0OvswinsO/RuZ0FPzaCNMehQkW7IaTFOAnHO7JDkzGm7FZ7IhfCYM5lAYPWA69hRnaRA5dyHrmWJdEw6FoXBsJWmRoS/HcAzgKs3MyTHL1G/vpFKZYIptnYvbTohTk4XFoDjozQDMu/5JedVzERdIPMELWgL+TcNoZosIGWYcWWhvBojK2UUN+bZXsXo+xBNIneCdHsi7m9no0x+DoEuZL7bzVc90UL5aZ5XxhPJpyTj3IFoCAgJfCnBZne/38U1whdgbgzanBfUyme5V6mIn4YK6FdJsQ72FDKJmN7FpvEk4HhNQEZQUyJ3vQ3mVUoI2eJzaeYIGphiOxcrbpvNe+2tq2vY54Jr3eZVAOnoADDxoIY0HE8lrddpueFHymKe68kqRtKpeCmNH15sVterTAk046nZqcydort3YnZgXCrMnGYJMqdM6/u6TKgF3zGI7BFOh3qYI/NT81olT7D0TTHuVQSa47sDRKLsjHW4LhNv6nQP4Sfb7G0LyGwYCmMZtFZ6dq/vkQAOD9pInYvH31gkCKyFbhjao2WvrPy5g64lGHQ7PoghqUlLtjPwXlnecrNnZQLJD1GT3KVrMVI1wCC065nA/UZmpPScx1ZEuYXqXsi8hm01ngexg==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210257,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 348,
+    "prompt_tokens": 2062,
+    "total_tokens": 2410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 220,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0028515,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0028515,
+      "upstream_inference_prompt_cost": 0.0015465,
+      "upstream_inference_completions_cost": 0.001305
+    }
+  },
+  "provider": "Google"
+}

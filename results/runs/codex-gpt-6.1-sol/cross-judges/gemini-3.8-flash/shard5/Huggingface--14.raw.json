@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210540-Fe5jum581rFqwzluJsG2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user asked for the monthly cost of Hugging Face PRO and its included features.\n\nThe provided screenshot confirms:\n- **Price:** $9/month (\"Upgrade your HF experience for $9/month.\")\n- **Features:**\n  - Private storage (10× private storage capacity)\n  - Public storage (2× public storage capacity)\n  - Inference Providers ($2 of included inference credits monthly)\n  - Spaces (Host your own ZeroGPU, Gradio & Docker Spaces on compute)\n  - ZeroGPU (8× ZeroGPU quota and highest queue priority)\n  - Spaces Dev Mode (Fast iterations via SSH/VS Code)\n  - Blog (Personal blog publishing)\n  - Dataset Viewer (for private datasets)\n  - Features Preview (Get early access to upcoming features)\n  - PRO Badge (Show your support with a PRO badge)\n\nThe Result Response completely and accurately reflects all the information from the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Discovering Pro Features**\n\nI've identified the core pricing and a key benefit of the Hugging Face Pro account from the provided materials. The monthly cost is $9, and it offers 10x private storage.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Discovering Pro Features**\n\nI've identified the core pricing and a key benefit of the Hugging Face Pro account from the provided materials. The monthly cost is $9, and it offers 10x private storage.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+qHiHY8JivVJCN9yu5YxfEbzSHk+uHlXYeu3klVz24fWRpMdPuzJZ7wxqnFuV4+itxlcuRInKtUSh93VnoV/gjQw8jORTxvOwZej5qFpsvK1fBBbfgg63lZZNt7UmyZk334D8b4UDkfNHJfGvickDRJXwdbRYjYhJym+RjBu1uzmReS97qRX4UJLiXqDCXxBxMShde/a/0PgTP5QbKwpGCFlvVRBat6QesxuANN9UZbVM+D3GLt6trkugDjzev44+PGH3UnkQj8jfx1jEwcter+LJZZV7GMo0YZrvzTfWxxa6shIW9b0g9L5D/BaPuZr3lEkjhF+NN/Yd+mf3/Avk0HLb1ymFzz2lkgNR+AiixoOe4P1UllvDFqjDC9G5lUze7BJNVodpZPMmOR5r21CA75JoxnGGTnWnuzCDl8SqqvkxW3mc6GX4ZQgq3Vax4HylrzVol30vCfHUr4u+lGRbwa44Oc5bkNnE6WoaVtLzUxjqgiVrDyAsZUTPbFB+fNZ0x6JYyK8xr0Taiu9OUdwkHbyvvRVPiDIwZrQkEYYvaOzkWpeNG7N5AHql5eAcBjPOi2Xth/I2h17a5HXCOeJS4gR4VrxI8XvmOEic2fF/RZAjxdEFg7WYw6DQmT9zDGXglp9e+++xKPIVA1GY4vkWckRyJZt3zSeN9d08KIHypU517SOClQl/tTriovBH5yDcbn2ngXf1G+2jShygjDq01eXmrxa3qCdgal43PF3Dj0ugC5gPEelJJnYsjfJ0P8IGw0Rd4NtzLGWyIOJqpLf3R9sEBYfgmxUKsCmhedxkr6BN0eB5y8Uw/oefKT4koml4Zq5P4jLy2FNusPI0p8VSmOGTGbFLJIRpCJvtq3xjHoM94SI8Ng+ijGP5/i1gcZ79XtzyPkqwRy81sFxtxTGOp+uXXnv22AKNtCcPc5UnQk8KkPirSGhQZNign468R+Vu7m79xBm/uWu4XMByi1EGT0Jd+GhextMREJpy4elQci1lvJbWWDFBaOfZS5n49j3ymT3Eo3R68oBurE7azUgamHUXPWHs/CgvOV779IdtYy3X9fiYpM8wZdR4WDTGlKmkmZ6TrhLPR+BBh7TLEbkSRtjbEENnI2oFhGaCY5dX1CBwrUulXtTzUYm/WZQZLN3u9TS7GxQiT3JN09ODvC935mo0T32QedEFb+CzJfwc7mNbGioKZ4Z67hVDZhbl0ofy7CDcLaxriHbwPulwKPox81/Q3qpNmAPCBnOiIjuk+xQB1YjaDnst3uPOOhs5DUVbcHGQhmggRN3NPU8j/vQxmB2bT+mcOEHUOpQEexnMrnEDuLZuKJPgpGyYRLAqzM2VnPYiFrJQoyuQlsG4BythJSUdRe2uB0WR8BaTvFr5NDoqKLcKHDhtotMl16t3avc35WuMK8kxPDIGe+4DMTnh4siT9yUp83IDGR5+s68Bgj6YUAd/7bZusO0KDru+Gp8usyO4OGhtj4iL9qNPtaq4uYHhQ29ic49yCxiXGbSju9RpQpe0HOcdXtVn67BZ3v/7MkN4NmGD6bRtOi7ljfkV1nPbQRCZkc4mrrg8=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210540,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 429,
+    "prompt_tokens": 1726,
+    "total_tokens": 2155,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 230,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00290325,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00290325,
+      "upstream_inference_prompt_cost": 0.0012945,
+      "upstream_inference_completions_cost": 0.00160875
+    }
+  },
+  "provider": "Google"
+}

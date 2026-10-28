@@ -1,0 +1,5 @@
+- [x] Search for a hotel in Berlin available July 15 to July 18, 2027, for one adult (three nights). Booking.com URL has checkin=2027-07-15&checkout=2027-07-18&group_adults=1; hotel card states “3 nights, 1 adult”, “Cozy Small Room”, “1 queen bed”, “See availability”.
+- [x] Tell the price in USD for the three-night stay. USD source in ANSWER.txt: “US$359”, “Includes taxes and fees”.
+- [x] Tell the price in CNY for the three-night stay. CNY source in ANSWER.txt: “CNY 2,395”, “Includes taxes and fees”.
+- [x] Save one genuine viewport screenshot ./final.png, shrunk to about 1280 px long side, with name and deciding facts visible and no overlay. Saved and visually read final.png, 1280x978.
+- [x] Write the result and evidence to ./ANSWER.txt. Saved final result, dates, occupancy, room, both totals, sources and screenshot reference.

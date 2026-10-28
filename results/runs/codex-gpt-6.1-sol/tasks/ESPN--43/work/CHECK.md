@@ -1,0 +1,3 @@
+[x] Check out NCAAW recruiting on ESPN, what colleges are the top three players from? — https://www.espn.com/high-school/girls-basketball/recruiting/rankings/scnext100girls ; “2027 SportsCenter NEXT 100”, class 2027; ranks 1 Kaleena Smith “None”, 2 Ivanna Wilson Manyacka “None”, 3 Caroline Bradley “LSU” in COLLEGE column.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing names and deciding facts together without overlays. — final.png shows class 2027 and ranks 1–3 with their COLLEGE values; 1280 × 722.
+[x] Write the result and evidence to ./ANSWER.txt. — ANSWER.txt has the answer, date, source URL and screenshot reference.

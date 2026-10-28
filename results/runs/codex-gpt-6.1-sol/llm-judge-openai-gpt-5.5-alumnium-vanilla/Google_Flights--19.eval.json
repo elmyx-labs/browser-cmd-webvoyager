@@ -1,0 +1,31 @@
+{
+  "id": "Google Flights--19",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the cheapest one-way flight from London to Paris, departing on July 25, 2027. Include the airline, total travel time, and layovers for the chosen flight.",
+  "answer": "FINAL: The cheapest one-way London–Paris flight shown on Google Flights for July 25, 2027 is easyJet U2 4662, from £51 per adult in economy. It departs London Southend (SEN) at 7:50 PM and arrives at Paris Charles de Gaulle (CDG) at 10:00 PM, local times. Total travel time: 1 hour 10 minutes. Layovers: none (nonstop).\n\nThe displayed fare includes required taxes and fees; overhead-bin access and checked baggage cost extra. Search: 1 adult, one-way, economy, London (all airports) to Paris (all airports), Cheapest tab, sorted by price. Evidence: final.png.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI3LTA3LTI1agwIAxIIL20vMDRqcGxyDAgDEggvbS8wNXF0akABSAFwAYIBCwj___________8BmAEC&tfu=EgoIAhAAGAAgAigB&curr=GBP",
+  "response": "The task was to find the cheapest one-way flight from London to Paris departing July 25, 2027, and include the airline, total travel time, and layovers.\n\nThe screenshot shows Google Flights with:\n- Route: London to Paris\n- Trip type: One way\n- Date: Sun, Jul 25\n- Cheapest tab selected, sorted by price\n- Cheapest fare shown: £51\n- Flight: easyJet U2 4662\n- Departure: London Southend Airport at 7:50 PM\n- Arrival: Paris Charles de Gaulle at 10:00 PM\n- Travel time: 1 hr 10 min\n- The displayed itinerary is nonstop, with no layovers shown.\n\nThe result response accurately reflects the information visible in the screenshot and includes the required airline, total travel time, and layover information.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find the cheapest one-way flight from London to Paris departing July 25, 2027, and include the airline, total travel time, and layovers. The screenshot shows Google Flights with: - Route: London to Paris - Trip type: One way",
+  "screenshots": [
+    "task_426/final.png"
+  ],
+  "raw_screenshot": "task_426/final.png",
+  "source_result": "task_426",
+  "usage": {
+    "completion_tokens": 435,
+    "prompt_tokens": 1833,
+    "total_tokens": 2268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 250,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 16.09
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--19",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Look up the most recently updated Python repository on GitHub that is tagged with 'web scraping' and has over 100 stars.",
+  "answer": "FINAL: DasDigitaleMomentum/searxNcrawl — https://github.com/DasDigitaleMomentum/searxNcrawl\n\nGitHub lists it first under “Recently updated” for topic:web-scraping language:Python stars:>100. It has 182 stars and was updated October 28, 2026 at 7:32 AM EDT. Its repository page confirms the web-scraping topic and Python as its main language (97%).\n\nSearch evidence: https://github.com/search?q=topic%3Aweb-scraping+language%3APython+stars%3A%3E100&type=repositories&s=updated&o=desc\nRepository evidence: https://github.com/DasDigitaleMomentum/searxNcrawl\n\nScreenshot: final.png (1280 × 723). It shows the first result, Python, 182 stars, the update age, and “Recently updated.” GitHub’s search header did not show the applied query, so the topic and star filters are documented in the search URL above rather than visible in the screenshot.",
+  "response": "### Evaluation\n\nThe user requested the most recently updated Python repository on GitHub with over 100 stars tagged with 'web scraping'. \n\nThe screenshot displays GitHub search results sorted by \"Recently updated\" matching the criteria. The top repository shown is `DasDigitaleMomentum/searxNcrawl`, which is written in Python, possesses 182 stars, and was updated 1 minute prior. The accompanying response corroborates the required topic tag and criteria matching.\n\n**SUCCESS**",
+  "reason_short": "### Evaluation The user requested the most recently updated Python repository on GitHub with over 100 stars tagged with 'web scraping'. The screenshot displays GitHub search results sorted by \"Recently updated\" matching the criteria. The to",
+  "screenshots": [
+    "task_386/final.png"
+  ],
+  "raw_screenshot": "task_386/final.png",
+  "source_result": "task_386",
+  "usage": {
+    "completion_tokens": 742,
+    "prompt_tokens": 1833,
+    "total_tokens": 2575,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 642,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00415725,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00415725,
+      "upstream_inference_prompt_cost": 0.00137475,
+      "upstream_inference_completions_cost": 0.0027825
+    }
+  },
+  "elapsed_seconds": 8.22
+}

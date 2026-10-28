@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--34",
+    "ques": "Find the course on Coursera named 'Essentials of Global Health'. Determine the instructor of this course and summarize his bio, note if there are any additional courses he offers on Coursera.",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The instructor of Yale University’s “Essentials of Global Health” on Coursera is Richard Skolnik.\n\nBio summary: Skolnik’s Coursera bio describes more than 40 years in international development and global health. He authored Global Health 101 and spent 25 years at the World Bank, retiring as Director for Health and Education for South Asia. His work focused on health systems, equity, maternal and child health, and communicable diseases. He later held leadership roles at PRB, George Washington University’s Center for Global Health, and Harvard’s PEPFAR AIDS-treatment program. He taught at Yale’s Schools of Public Health and Management (2012–2016), and holds a BA from Yale and an MPA from Princeton.\n\nAdditional Coursera courses: None are listed on his instructor profile; its “Courses - English” section contains only “Essentials of Global Health”.\n\nSources (viewed October 27, 2026):\nCourse: https://www.coursera.org/learn/essentials-global-health\nInstructor bio and course list: https://www.coursera.org/instructor/richard-skolnik\nScreenshot evidence: final.png shows his profile, bio, and listed course.",
+    "result_text": "FINAL: The instructor of Yale University’s “Essentials of Global Health” on Coursera is Richard Skolnik.\n\nBio summary: Skolnik’s Coursera bio describes more than 40 years in international development and global health. He authored Global Health 101 and spent 25 years at the World Bank, retiring as Director for Health and Education for South Asia. His work focused on health systems, equity, maternal and child health, and communicable diseases. He later held leadership roles at PRB, George Washington University’s Center for Global Health, and Harvard’s PEPFAR AIDS-treatment program. He taught at Yale’s Schools of Public Health and Management (2012–2016), and holds a BA from Yale and an MPA from Princeton.\n\nAdditional Coursera courses: None are listed on his instructor profile; its “Courses - English” section contains only “Essentials of Global Health”.\n\nSources (viewed October 27, 2026):\nCourse: https://www.coursera.org/learn/essentials-global-health\nInstructor bio and course list: https://www.coursera.org/instructor/richard-skolnik\nScreenshot evidence: final.png shows his profile, bio, and listed course.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_315/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_315",
+  "elapsed_seconds": 185.71340918540955,
+  "execution_error": null,
+  "proxy_bytes": null
+}

@@ -1,0 +1,3 @@
+- [x] Visit ESPN to view the Philadelphia 76ers' latest injuries. URL: https://www.espn.com/nba/team/injuries/_/name/phi/philadelphia-76ers — “Philadelphia 76ers Injuries”; Oct 27 Tacko Fall OUT (quadriceps), Jabari Walker OUT (knee); Oct 19 Dominick Barlow OUT (lumbar spine bone stress response); Oct 6 Ariel Hukporti OFS (season-ending ruptured right Achilles tendon).
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the team name and injury facts with dates and no overlays. final.png is 1280 × 723; all four entries and update dates are visible together.
+- [x] Write the result and evidence to ./ANSWER.txt. First line starts FINAL; report dates, source URL and final.png included.

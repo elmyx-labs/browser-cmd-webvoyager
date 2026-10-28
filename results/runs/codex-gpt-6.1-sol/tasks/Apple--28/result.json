@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Apple",
+    "id": "Apple--28",
+    "ques": "On the Apple website, find out if the Mac Mini can be configured with a GPU larger than 16-core.",
+    "web": "https://www.apple.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Yes. The Mac mini can be configured with an M5 Pro chip featuring an 18-core CPU and a 20-core GPU, exceeding 16 GPU cores. Apple’s “Configure to Order” section lists this option. Source: https://www.apple.com/mac-mini/specs/ (checked October 27, 2026). Evidence: final.png.",
+    "result_text": "FINAL: Yes. The Mac mini can be configured with an M5 Pro chip featuring an 18-core CPU and a 20-core GPU, exceeding 16 GPU cores. Apple’s “Configure to Order” section lists this option. Source: https://www.apple.com/mac-mini/specs/ (checked October 27, 2026). Evidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_106/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_106",
+  "elapsed_seconds": 88.43975520133972,
+  "execution_error": null,
+  "proxy_bytes": null
+}

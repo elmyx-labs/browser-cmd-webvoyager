@@ -1,0 +1,3 @@
+[x] Browse the about us section of Allrecipes for a brief introduction to The Allrecipes Allstars. — https://www.allrecipes.com/about-us-6648102#toc-the-allrecipes-allstars; “100+ brand ambassadors”; “Since 2011”; “tens of thousands of original recipes, photos, and reviews”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts visible together and no overlay. — final.png, 1280 × 723; heading and full introduction visible.
+[x] Write the result and its evidence to ./ANSWER.txt. — ANSWER.txt contains the introduction, source URL, viewing date, and screenshot reference.

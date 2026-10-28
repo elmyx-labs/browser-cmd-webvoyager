@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Huggingface",
+    "id": "Huggingface--41",
+    "ques": "What is the current Text-to-3D model with the highest number of downloads and tell me are there Spaces that use the model.",
+    "web": "https://huggingface.co/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: As of October 27, 2026, microsoft/TRELLIS-text-xlarge has the highest downloads among Hugging Face’s Text-to-3D models: 12,715 downloads last month (12.7k in the ranking). Yes—Hugging Face lists 11 Spaces using it, including hugging-apps/octllm and PUM4CH3N/TRELLIS_TextTo3D.\n\nEvidence: The Text-to-3D model list, sorted by “Most downloads,” places it first: https://huggingface.co/models?pipeline_tag=text-to-3d&sort=downloads\nThe model page shows “Downloads last month 12,715” and “Spaces using microsoft/TRELLIS-text-xlarge 11”: https://huggingface.co/microsoft/TRELLIS-text-xlarge\nScreenshot: final.png.",
+    "result_text": "FINAL: As of October 27, 2026, microsoft/TRELLIS-text-xlarge has the highest downloads among Hugging Face’s Text-to-3D models: 12,715 downloads last month (12.7k in the ranking). Yes—Hugging Face lists 11 Spaces using it, including hugging-apps/octllm and PUM4CH3N/TRELLIS_TextTo3D.\n\nEvidence: The Text-to-3D model list, sorted by “Most downloads,” places it first: https://huggingface.co/models?pipeline_tag=text-to-3d&sort=downloads\nThe model page shows “Downloads last month 12,715” and “Spaces using microsoft/TRELLIS-text-xlarge 11”: https://huggingface.co/microsoft/TRELLIS-text-xlarge\nScreenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_567/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_567",
+  "elapsed_seconds": 94.07301306724548,
+  "execution_error": null,
+  "proxy_bytes": null
+}

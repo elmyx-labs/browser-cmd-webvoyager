@@ -1,0 +1,2 @@
+Google Flights search for Cairo to Montreal, one way, 1 adult, Economy, July 21, 2027. Cheapest selected; sorted by price; no additional filters. First result: “From 704 Canadian dollars. 1 stop flight with Qatar Airways”; departs 7:50 PM July 21, arrives 2:45 PM July 22; “Total duration 25 hr 55 min”; Doha layover 9 hr 35 min.
+https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI3LTA3LTIxagwIAxIIL20vMDF3MnZyDAgDEggvbS8wNTJwN0ABSAFwAYIBCwj___________8BmAEC&tfu=EgoIAhAAGAAgAigB&curr=CAD

@@ -1,0 +1,3 @@
+[x] Check ESPN for the final scores of NBA games that were played yesterday (October 27, 2026). Source: https://www.espn.com/nba/scoreboard; page says "Tuesday, October 27, 2026", "FINAL/OT" Nets 124 Celtics 125, "FINAL" Pistons 97 Knicks 111, Kings 103 Spurs 130, Trail Blazers 136 Lakers 129.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with date and score evidence visible and no overlay. Saved 1280x723 viewport screenshot; date, teams, final status and total scores all visible.
+[x] Write the result, date, and source evidence to ./ANSWER.txt, beginning FINAL:. Saved all four final scores, date, ESPN URL and screenshot evidence.

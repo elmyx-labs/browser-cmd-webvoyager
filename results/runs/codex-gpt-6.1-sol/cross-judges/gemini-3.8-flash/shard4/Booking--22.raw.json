@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210119-DQmFWJyERVf1ctUdMzRG",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The evaluation is based on the following checks:\n1. **Destination**: The search is set to Amsterdam.\n2. **Dates & Duration**: The dates selected are Tue, Jun 15 – Tue, Jun 22, 2027 (which is a 1-week stay for those specific dates).\n3. **Guests**: The search is configured for 2 adults (1 room).\n4. **Filters & Criteria**: \n   - Filter for hotel type is applied (\"Hotels\").\n   - Filter for review score is applied (\"Wonderful: 9+\").\n   - Filter for amenities is applied (\"Bicycle rental\").\n5. **Result**: The hotel found (\"Element by Marriott Amsterdam\") meets all criteria, having a score of 9.0, bicycle rental amenities, and availability for the requested dates and guests.\n\nAll instructions have been fully fulfilled.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Defining Hotel Search Parameters**\n\nI'm focusing now on the essential parameters for this hotel search in Amsterdam. I need to be precise: \"Amsterdam\" for the location, and a customer review score of \"9 or higher\" is the critical filter. I'm ensuring I don't overlook any aspects in this initial phase of defining the search criteria.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Defining Hotel Search Parameters**\n\nI'm focusing now on the essential parameters for this hotel search in Amsterdam. I need to be precise: \"Amsterdam\" for the location, and a customer review score of \"9 or higher\" is the critical filter. I'm ensuring I don't overlook any aspects in this initial phase of defining the search criteria.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210119,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 637,
+    "prompt_tokens": 1762,
+    "total_tokens": 2399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 450,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00371025,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00371025,
+      "upstream_inference_prompt_cost": 0.0013215,
+      "upstream_inference_completions_cost": 0.00238875
+    }
+  },
+  "provider": "Google AI Studio"
+}

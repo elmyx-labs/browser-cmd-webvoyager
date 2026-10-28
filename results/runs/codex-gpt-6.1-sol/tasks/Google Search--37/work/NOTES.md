@@ -1,0 +1,14 @@
+Carnegie Science, July 16, 2026: https://carnegiescience.edu/news/detected-rocky-habitable-zone-exoplanet-atmosphere
+LHS 1140 b: "super-Earth"; mass 5.6 Earths, radius 1.7 Earths; period 24.7 days; receives 42% Earth's stellar radiation. Helium escaping observed in 2024, absent in 2025; evidence of retained atmosphere, not confirmation of liquid water or life.
+NASA definition: https://science.nasa.gov/exoplanets/super-earth/ — super-Earth refers to size, not Earth-like conditions; can comprise gas/rock/both.
+SETI, March 30 2026: https://www.seti.org/news/we-finally-have-a-shortlist-for-finding-life-beyond-earth/ — 45 prioritized habitable-zone rocky planets, no single top-three ranking provided.
+PHL catalog https://phl.upr.edu/hwc last updated March 21, 2024; not a suitable current 2026 ranking.
+McDonald Observatory, June 30 2026: https://mcdonaldobservatory.org/2026/06/nearby-super-earth-may-be-a-better-candidate-for-life-than-previously-thought/
+GJ 3378b: 25 light-years; minimum mass ~2.3 Earths (caption says minimum mass; text gives revised 2.3); orbit revised from 25 to 21 days, in habitable zone; revised lower mass increases likelihood rocky. Atmospheric survival not known.
+NASA article Jan 31 2024, updated Dec 16 2025: https://science.nasa.gov/universe/exoplanets/discovery-alert-a-super-earth-in-the-habitable-zone/
+TOI-715 b: 137 light-years, ~1.5 Earth diameter (paper 1.55 Earth radius), red dwarf, conservative habitable zone, 19-day orbit. TESS detection, transits allow frequent observations; potential JWST atmosphere target, not confirmed habitable.
+
+Verified October 28 2026: NASA Exoplanet Catalog https://science.nasa.gov/exoplanets/exoplanet-catalog/ describes itself as "continuously updated" and "all confirmed exoplanets". Only filter applied: Planet Type = Super Earth. First three entries in its displayed order: TOI-789 b, TOI-789 d, TOI-789 c. All listed discovery year 2026, distance 43.407 parsecs. Next entries TOI-4616 b and TOI-5961 b, confirming first-three boundary. Selection now uses catalog position, not subjective research appeal. General searches for current rankings yielded discovery/news lists rather than a scientific league table; no universal-ranking claim is made.
+https://science.nasa.gov/exoplanet-catalog/toi-789-b/ — "super Earth exoplanet"; M-type star; 3.7 Earth masses; radius1.18 Earth; period5.4 days; orbital radius0.043 AU; Transit; discovery2026.
+https://science.nasa.gov/exoplanet-catalog/toi-789-d/ — "super Earth exoplanet"; M-type star; 6.6 Earth masses; radius1.4 Earth; period13 days; orbital radius0.077 AU; Transit; discovery2026.
+https://science.nasa.gov/exoplanet-catalog/toi-789-c/ — "super Earth exoplanet"; M-type star; 3 Earth masses; radius1.15 Earth; period8 days; orbital radius0.056 AU; Transit; discovery2026.

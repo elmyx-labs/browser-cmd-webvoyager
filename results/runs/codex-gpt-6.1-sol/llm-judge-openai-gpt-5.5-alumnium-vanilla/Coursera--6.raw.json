@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdydUZz8WCDFgx61pDQYiy1XSpUCV",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to identify a Coursera course related to “Artificial Intelligence for Healthcare” and provide both the course duration and the number of quizzes in Assessments.\n\nThe screenshot shows a Coursera course titled **“Generative AI for Healthcare”** by **Google Cloud**, which is clearly related to artificial intelligence in healthcare. The screenshot also visibly shows the duration as **“3 hours to complete.”** In the “Details to know” section, it lists **Assessments: 2 assignments**. The result response further states that the modules contain **2 quizzes**, which is not contradicted by the screenshot.\n\nTherefore, the response satisfies the task requirements: it identifies a relevant course, gives the duration, and provides the assessment quiz count.\n\n**Verdict: SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196584,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 390,
+    "prompt_tokens": 2445,
+    "total_tokens": 2835,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 227,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

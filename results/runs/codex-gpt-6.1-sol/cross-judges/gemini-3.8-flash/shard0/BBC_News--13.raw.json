@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210091-3NlNMwrLXVhoL54E7BCf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a search for recent news related to Trump and a summary of the main points.\n\nThe provided screenshot displays a BBC News report (\"Trump vs Obama - which president has the star power to get out the vote?\") published recently (tagged with \"US midterm elections 2026\"). The textual result response provides a clear, comprehensive summary of recent news items concerning Trump from credible sources (BBC, Al Jazeera) covering economic issues, midterm campaign trails, statements on election results, and related legal developments.\n\nAll aspects of the instruction have been successfully fulfilled.\n\n**SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing News Summaries**\n\nI've reviewed the recent news summary on Trump. It appears to be a good start, covering four key reports, though the date seems a bit future-dated, which is an interesting detail to consider.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing News Summaries**\n\nI've reviewed the recent news summary on Trump. It appears to be a good start, covering four key reports, though the date seems a bit future-dated, which is an interesting detail to consider.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/1gS0XvpxlnP1d7TKZR+yF/DWVM2YSjWzJwXU+Z7qW/Cnye2KbHEDhj/IsfB36SIiFRUG/o8cFeXDLVMPr42wUGWY2SnefGbjtPFXeay7k4TJWS8UvPFluihmBGWllHZgg8csYStZwZJFQavIQSJNjXkhG4IXRYyG8U8TLygFpXvVhbqHEBBCJV62DIdEWCJQaNzRntDlgCdPZ0oLKD9U8++cmv8iwqNcC7tKzpH+JrUll8Inn40vviNFlj1Xp37ezEVuPF/YOZNVhEW09cS0Xg6tW9ip29JRoIyJaeSvUR+xAd6Zs101auAeE+lpGoCskwqZsnRX1O0nX7SvujoSetxCbHwZCRNjMuyJftnSBGlcVlfGEb38X4pXVSR4+VD9+QBDgg8Ffut7eEZkTSOpmy17P+lTBMzO1kJKAaT+SezzekGqfDtKcR1H8wYbk5SE/6BJGx2Z6Vk1bz69O0RjrGbTKewxLN+GhI1GzMGNQXc8v32t1lPcqgPwAyvYklectQCV2TEndwivk2mfrTJPzpp/sZhSlJ1QSskxL5lPlIIIvovSKgQM8sRvoCR7cRKe1UjvskKUkjObNjqtpY/SnF/Oe07lxh+vDaWRH67tiKuDWij2QXQDeekQo0aM8oRPuzoIlpPWieqD7yvo21QLzFxrFyqzM67HwgMZZTY8U8geSG57E35pEOyKHAuef2ZuqnqhRXR3OnZNJs71Y+lMsoRdrKGWtBDrGVQAw6hXaJmpipPcHx0Bs7X/44hvUM0j7gsBpXNb16QBra/X15VP+opPovwNqLTeEfVllq7QGptP83HGg8chC/aqkdk/k5VKyygH88207dgBODPSn0lifdVXkreyPxuJkv/X/BmYJcvgYMDDDAjdC1HkyL8dHl7rMlP9+065JlCvax8ZljFy+D1/7A5bwTHgfmdYbllADXVzACjeC3JzaNJihzLNpNytQ9++2E+6k6DupM2cPdbolYtFR3agO43cDmC1dWnVHzmnIVLK51emg66gu7ZAl3ZFZ0HRiRwvwKpX/VKX1y4psmvm5K3RlLZoy7aEXUxPgKUqb2TgAIsPI7BYkK98hiihsOUYEO8GqKaHx8TQ+hSRiON4ZWPJysGX240ITP54AriThJkO2Nrm8/QedZi5+9QdrgrLUnCLpbPkSgSyLfCsc0jBs06Ib3SSMEErUR6NgN370N2YAWvNDVfvfVatqBg/raVmJcLzVc2UTSZFaM6ltOBcXpeAwScKKeTbkggJHysRNNXRqhWhKu3/S4SnZ5sPbOOkAved6SjITW4JvMIm7MEkvawPFXRFhIsUN3QSjTpz4hfOBZNfmaFJgDEVo7DIw1VHwhK9xUxKk/bLknYeGB2LU9cJTYlU7VvNg8lyjn32UiRk5xdNsWoM7Jxgmp5aGtjXg7N9HJhLGkwF4+S3YJnmD1HJ4sJh518cgIh2ODtX71+snPT/oC5xNDqnvdjatT2VTmRhU81ZnseLZNpRMYXQO8rwow/lu1EdeAn+zf2dCBGB5XvQAw8g=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210091,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 320,
+    "prompt_tokens": 2055,
+    "total_tokens": 2375,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 202,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00274125,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00274125,
+      "upstream_inference_prompt_cost": 0.00154125,
+      "upstream_inference_completions_cost": 0.0012
+    }
+  },
+  "provider": "Google"
+}

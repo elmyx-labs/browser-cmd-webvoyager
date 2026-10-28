@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--11",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a Specialization on Coursera about project management that is produced by a university, show a testimonial for this Specialization.",
+  "answer": "FINAL: Project Management Principles and Practices Specialization on Coursera is offered by the University of California, Irvine.\n\nTestimonial: “Excellent practical advice given in the tutorials and videos that will help you avoid some of the common pitfalls of project management” — RG, 5/5, December 16, 2017, reviewing Budgeting and Scheduling Projects, one of the Specialization’s four courses.\n\nSource: https://www.coursera.org/specializations/project-management#reviews\nEvidence: final.png shows the Specialization’s name, university provider, and learner review together. Accessed October 27, 2026.",
+  "response": "The task was to find a Coursera Specialization about project management, ensure it is produced/offered by a university, and show a testimonial for that Specialization.\n\nThe screenshot shows:\n\n- **Specialization:** “Project Management Principles and Practices Specialization”\n- **Provider:** “Offered by University of California, Irvine,” which satisfies the university-produced/offered requirement.\n- **Relevant testimonial/review:** A learner review by **RG** for “Budgeting and Scheduling Projects,” part of the Specialization, including the quoted text: “Excellent practical advice given in the tutorials and videos that will help you avoid some of the common pitfalls of project management…”\n\nThe Result Response accurately identifies the Specialization, the university provider, and provides a testimonial that is visible in the screenshot.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find a Coursera Specialization about project management, ensure it is produced/offered by a university, and show a testimonial for that Specialization. The screenshot shows: - **Specialization:** “Project Management Principl",
+  "screenshots": [
+    "task_294/final.png"
+  ],
+  "raw_screenshot": "task_294/final.png",
+  "source_result": "task_294",
+  "usage": {
+    "completion_tokens": 427,
+    "prompt_tokens": 2389,
+    "total_tokens": 2816,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 257,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.06
+}

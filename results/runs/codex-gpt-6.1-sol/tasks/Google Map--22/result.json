@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--22",
+    "ques": "Find a Best Buy store near zip code 33139.",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Best Buy at 1131 5th St, Miami Beach, FL 33139 is in the requested ZIP code. It is on Floor 3 of Fifth and Alton.\n\nEvidence: Google Maps lists the store name, address with ZIP 33139, and “Floor 3 · Fifth and Alton” together in final.png. Verified October 27, 2026.\nSource: https://www.google.com/maps/place/Best+Buy/@25.7747998,-80.1425509,17z/data=!3m2!4b1!5s0x88d9b4f4e2ff2ce7:0xfe6faaec94af825b!4m6!3m5!1s0x88d9b4f5026f5401:0x23ca3eea8f1c1b42!8m2!3d25.774795!4d-80.139976!16s%2Fg%2F1ttdz7kd?hl=en",
+    "result_text": "FINAL: Best Buy at 1131 5th St, Miami Beach, FL 33139 is in the requested ZIP code. It is on Floor 3 of Fifth and Alton.\n\nEvidence: Google Maps lists the store name, address with ZIP 33139, and “Floor 3 · Fifth and Alton” together in final.png. Verified October 27, 2026.\nSource: https://www.google.com/maps/place/Best+Buy/@25.7747998,-80.1425509,17z/data=!3m2!4b1!5s0x88d9b4f4e2ff2ce7:0xfe6faaec94af825b!4m6!3m5!1s0x88d9b4f5026f5401:0x23ca3eea8f1c1b42!8m2!3d25.774795!4d-80.139976!16s%2Fg%2F1ttdz7kd?hl=en",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_469/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_469",
+  "elapsed_seconds": 50.83640909194946,
+  "execution_error": null,
+  "proxy_bytes": null
+}

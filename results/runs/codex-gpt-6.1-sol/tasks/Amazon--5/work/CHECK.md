@@ -1,0 +1,4 @@
+- [x] Find a Blue iPhone 12 Pro 128gb. https://www.amazon.com/dp/B08PMYLKVF — “Apple iPhone 12 Pro, 128GB, Pacific Blue - Unlocked (Renewed)”.
+- [x] Add to cart. https://www.amazon.com/cart — matching product, quantity 1, “Subtotal (1 item): $300.20”.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and constrained values visible together and no overlay. final.png is 1280×723 and shows the cart item, “Size: 128GB”, “Color: Pacific Blue”, and quantity 1.
+- [x] Write the result and evidence to ./ANSWER.txt.

@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--27",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a Ruby repository on GitHub that has been updated in the past 3 days and has at least 1000 stars.",
+  "answer": "FINAL: typhoeus/typhoeus — https://github.com/typhoeus/typhoeus — is a Ruby repository with 4,137 stars. GitHub's search result showed “Updated 14 seconds ago” on October 28, 2026, meeting the past-three-days requirement.\nEvidence: final.png shows the repository name, Ruby, 4.1k stars, and “Updated 14 seconds ago,” with “Recently updated” sorting. GitHub's accessible star label gives the exact count, “4137 stars.”\nSource: https://github.com/search?q=language%3ARuby+stars%3A%3E%3D1000+pushed%3A%3E%3D2026-10-25&type=repositories&s=updated&o=desc\nApplied filters: language:Ruby stars:>=1000 pushed:>=2026-10-25.\nScreenshot limitation: GitHub hides the applied query text, so the cutoff date and filter values could not be shown in the viewport; the repository's language, star count, update age, and sorting are visible together.",
+  "response": "The task required finding a Ruby repository on GitHub that has been updated in the past 3 days and has at least 1,000 stars.\n\nBased on the provided screenshot and response:\n- The repository `typhoeus/typhoeus` is identified.\n- It uses the language **Ruby**.\n- It has **4.1k stars** (>= 1,000 stars).\n- It was updated **14 seconds ago** (well within the past 3 days).\n\nAll criteria of the instruction have been successfully met.\n\nSUCCESS",
+  "reason_short": "The task required finding a Ruby repository on GitHub that has been updated in the past 3 days and has at least 1,000 stars. Based on the provided screenshot and response: - The repository `typhoeus/typhoeus` is identified. - It uses the la",
+  "screenshots": [
+    "task_394/final.png"
+  ],
+  "raw_screenshot": "task_394/final.png",
+  "source_result": "task_394",
+  "usage": {
+    "completion_tokens": 498,
+    "prompt_tokens": 1855,
+    "total_tokens": 2353,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 377,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00325875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00325875,
+      "upstream_inference_prompt_cost": 0.00139125,
+      "upstream_inference_completions_cost": 0.0018675
+    }
+  },
+  "elapsed_seconds": 12.94
+}

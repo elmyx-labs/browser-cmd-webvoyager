@@ -1,0 +1,25 @@
+FINAL: SmolLM3-3B (HuggingFaceTB/SmolLM3-3B), released by Hugging Face on July 8, 2025, is the newest documented general-purpose Hugging Face language-model release I verified with English summarization training, as of October 27, 2026.
+
+It is an instruction-tuned text-generation model that can be prompted to summarize English text. Its official SmolTalk2 post-training corpus includes 96,061 examples in the smoltalk_smollm3_smol_summarize_no_think subset. It is not a dedicated summarization-only checkpoint.
+
+Features:
+- About 3 billion parameters; decoder-only Transformer with Grouped Query Attention and a hybrid RoPE/NoPE design.
+- Trained on 11.2 trillion tokens covering web text, code, mathematics and reasoning.
+- Six natively supported languages: English, French, Spanish, German, Italian and Portuguese.
+- Trained with a 64K-token context; supports up to 128K using YaRN extrapolation, useful for processing longer documents.
+- Optional extended reasoning, controlled with /think, /no_think or enable_thinking. The summarization training subset uses no-thinking mode.
+- Apache 2.0 license; open weights, public data mixtures, training configurations and training/evaluation code. Supports Transformers and local inference options including llama.cpp, ONNX and MLX.
+- Outputs can contain factual errors, inconsistencies and biases. The official card does not report a summarization-specific ROUGE score, so no summarization quality ranking is claimed.
+
+Recency and authorship evidence: I inspected creation-date-descending listings for Hugging Face's own HuggingFaceTB and HuggingFaceH4 accounts without an English-language filter, then read newer model cards. The April 2026 nanowhale models are educational architecture demonstrations; their cards describe unreliable generations and no production suitability. The March/April 2026 GSM8K models target mathematics. Later SmolLM3 intermediate checkpoints and ONNX exports are artifacts of the same July 2025 release. Newer community medical/news summarizers, including October 26's ritujaa1/qwen05-med-summarizer-gguf, were also checked; their publishers are not Hugging Face.
+
+Sources:
+Release announcement and date: https://huggingface.co/blog/smollm3
+Official model card: https://huggingface.co/HuggingFaceTB/SmolLM3-3B/raw/main/README.md
+Summarization training evidence: https://huggingface.co/datasets/HuggingFaceTB/smoltalk2/raw/main/README.md
+Official project and Hugging Face attribution: https://github.com/huggingface/smollm
+Unrestricted-language release listing: https://huggingface.co/api/models?author=HuggingFaceTB&sort=createdAt&direction=-1&limit=15
+Newer educational model: https://huggingface.co/HuggingFaceTB/nanowhale-100m/raw/main/README.md
+Additional author/date check: https://huggingface.co/api/models?author=HuggingFaceH4&sort=createdAt&direction=-1&limit=8
+
+Screenshot evidence: final.png is a genuine 1280 × 723 viewport of https://huggingface.co/models?language=en&license=license:apache-2.0&author=HuggingFaceTB&sort=created . It shows the official publisher filter, selected English filter, one applied license filter, Recently created sort, SmolLM3-3B and newer entries. Dates beside models are update dates; the July 8 release date comes from the announcement. The listing does not display the summarization-training facts, which are established by the linked official dataset card.

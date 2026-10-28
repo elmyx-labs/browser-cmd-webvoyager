@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edye88wRoH4A9GPEqJ5HAQx2Y0tZK",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The screenshot shows GitHub Copilot’s FAQ section with the question “What languages, IDEs, and platforms does GitHub Copilot support?” expanded. The visible official text states that chat functionality is currently available in supported environments and that “All plans are supported in GitHub Copilot in GitHub Mobile,” with additional plan-specific details.\n\nThe Result Response accurately reports that Copilot chat can be used now in GitHub Mobile and summarizes the plan support details shown in the FAQ. This directly addresses the task of opening GitHub Copilot’s FAQs and finding the official answer about when Copilot chat can be used on mobile.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196624,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 461,
+    "prompt_tokens": 1700,
+    "total_tokens": 2161,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 323,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

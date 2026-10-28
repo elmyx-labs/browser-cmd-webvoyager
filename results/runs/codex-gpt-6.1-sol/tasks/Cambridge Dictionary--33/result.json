@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Cambridge Dictionary",
+    "id": "Cambridge Dictionary--33",
+    "ques": "Find explanations and examples of the passive voice in Grammar on the Cambridge Dictionary website.",
+    "web": "https://dictionary.cambridge.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Found Cambridge Dictionary’s “Passive voice” guide in Grammar → Verbs → Passive voice, from English Grammar Today.\n\nSource: https://dictionary.cambridge.org/grammar/british-grammar/passive-voice\n\nThe section “Passive: active and passive” explains that the passive makes the person or thing receiving an action the topic. The person doing the action can be omitted or introduced with “by”. It is useful for changing the focus, or when the doer is unknown, unimportant, or deliberately unnamed.\n\nCambridge’s examples:\n• Without an agent: “These houses were designed in the 1880s.”\n• With an agent: “These houses were designed in the 1880s by Edward Barnes.”\n\nEvidence: final.png shows the page title, explanation and examples together. Viewed 27 October 2026.",
+    "result_text": "FINAL: Found Cambridge Dictionary’s “Passive voice” guide in Grammar → Verbs → Passive voice, from English Grammar Today.\n\nSource: https://dictionary.cambridge.org/grammar/british-grammar/passive-voice\n\nThe section “Passive: active and passive” explains that the passive makes the person or thing receiving an action the topic. The person doing the action can be omitted or introduced with “by”. It is useful for changing the focus, or when the doer is unknown, unimportant, or deliberately unnamed.\n\nCambridge’s examples:\n• Without an agent: “These houses were designed in the 1880s.”\n• With an agent: “These houses were designed in the 1880s by Edward Barnes.”\n\nEvidence: final.png shows the page title, explanation and examples together. Viewed 27 October 2026.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_274/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_274",
+  "elapsed_seconds": 194.22417092323303,
+  "execution_error": null,
+  "proxy_bytes": 19069845
+}

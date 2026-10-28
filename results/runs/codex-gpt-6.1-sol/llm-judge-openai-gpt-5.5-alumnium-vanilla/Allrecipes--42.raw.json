@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyZKx1VVsOQ41l3ar1uf8nZH8qJ3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find an Allrecipes banana bread recipe with more than 200 reviews and a rating of at least 4.0 stars.\n\nThe screenshot shows the Allrecipes page for **“Janet’s Rich Banana Bread.”** It displays a rating of **4.8 stars** and **8,333 reviews**, which satisfies both requirements: the rating is above 4.0 and the review count is well over 200. The result response accurately identifies the recipe and the relevant rating/review information shown in the screenshot.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196326,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 224,
+    "prompt_tokens": 1682,
+    "total_tokens": 1906,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,3 @@
+- [x] Browse the ArXiv store and let me know how many different types of merchandise are available. Official link: https://info.arxiv.org/brand/swag.html → https://www.bonfire.com/store/arxiv-official/. Store labels: Printed Classic Baseball Cap; Premium Unisex Tee; Premium Long Sleeve Tee; Midweight Pullover Hoodie; Coffee Mug; Large Coffee Mug. Six distinct types.
+- [x] Save one genuine viewport screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side, with the item's name and deciding facts in view and no overlay. final.png is a 1041 × 1280 viewport screenshot showing all six product types and their names.
+- [x] Write the final answer and evidence to ./ANSWER.txt.

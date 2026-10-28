@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Flights",
+    "id": "Google Flights--41",
+    "ques": "Choose one way business class ticket from Hong Kong to Glacier National Park on 6 July 2027, offering a 1 stop ticket.",
+    "web": "https://www.google.com/travel/flights/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Choose Cathay Pacific + Alaska, one way from Hong Kong (HKG) to Glacier Park International Airport (FCA), serving Glacier National Park, on 6 July 2027, with 1 stop in Seattle (SEA).\n\nDepart HKG at 1:25 PM on Cathay Pacific CX 852 in Business Class; arrive SEA at 10:20 AM. After a 2 hr 56 min layover, take Alaska AS 2072, operated by Horizon Air as Alaska Horizon, at 1:16 PM in First Class; arrive FCA at 3:35 PM the same day. Total journey: 16 hr 10 min. Times are local.\n\nGoogle Flights lists this itinerary under its Business search as “Business Class + First Class.” Search-result fare: RSD 604,688 for 1 adult. The selected itinerary's Cathay Pacific booking option showed RSD 604,337 (HK$44,912). No purchase was made.\n\nEvidence: final.png shows the Google Flights search with One way, Business, Tue Jul 6, the 1 stop or fewer filter, and the Cathay Pacific + Alaska itinerary. The departure year was confirmed in the date picker as Tuesday, July 6, 2027 and in the selected itinerary search date (2027-07-06).\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhogEgoyMDI3LTA3LTA2KAFqBwgBEgNIS0dyBwgBEgNGQ0FAAUgDcAGCAQsI____________AZgBAg&tfu=EgYIABAAGAA",
+    "result_text": "FINAL: Choose Cathay Pacific + Alaska, one way from Hong Kong (HKG) to Glacier Park International Airport (FCA), serving Glacier National Park, on 6 July 2027, with 1 stop in Seattle (SEA).\n\nDepart HKG at 1:25 PM on Cathay Pacific CX 852 in Business Class; arrive SEA at 10:20 AM. After a 2 hr 56 min layover, take Alaska AS 2072, operated by Horizon Air as Alaska Horizon, at 1:16 PM in First Class; arrive FCA at 3:35 PM the same day. Total journey: 16 hr 10 min. Times are local.\n\nGoogle Flights lists this itinerary under its Business search as “Business Class + First Class.” Search-result fare: RSD 604,688 for 1 adult. The selected itinerary's Cathay Pacific booking option showed RSD 604,337 (HK$44,912). No purchase was made.\n\nEvidence: final.png shows the Google Flights search with One way, Business, Tue Jul 6, the 1 stop or fewer filter, and the Cathay Pacific + Alaska itinerary. The departure year was confirmed in the date picker as Tuesday, July 6, 2027 and in the selected itinerary search date (2027-07-06).\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhogEgoyMDI3LTA3LTA2KAFqBwgBEgNIS0dyBwgBEgNGQ0FAAUgDcAGCAQsI____________AZgBAg&tfu=EgYIABAAGAA",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_447/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_447",
+  "elapsed_seconds": 302.7882900238037,
+  "execution_error": null,
+  "proxy_bytes": null
+}

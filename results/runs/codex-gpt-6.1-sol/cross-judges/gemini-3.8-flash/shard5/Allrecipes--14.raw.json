@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209894-FI0FPmdljKACPbS2R8vv",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response:\n\n1. **Website**: The search was conducted on Allrecipes (`allrecipes.com`).\n2. **Ingredients**: The recipe, \"Air Fryer Pesto Chicken Quinoa Bowl\", includes both \"chicken breast\" (\"1 pound skinless, boneless chicken breasts\") and \"quinoa\" (\"2 cups cooked quinoa\").\n3. **Preparation Time**: The prep time is explicitly listed as 10 minutes (with a total time of 20 minutes), which is under the requested 30-minute threshold.\n\nAll criteria of the instruction have been successfully fulfilled.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Recipe Matches**\n\nI'm focusing on validating recipe search results. So far, I've confirmed a potential match on Allrecipes for \"Air Fryer Pesto Chicken Quinoa,\" which meets the core ingredient and time criteria.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Recipe Matches**\n\nI'm focusing on validating recipe search results. So far, I've confirmed a potential match on Allrecipes for \"Air Fryer Pesto Chicken Quinoa,\" which meets the core ingredient and time criteria.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19Gr/25nCrvu9Q75NjBrMvx0sJeGF8/ClSS/4SWG1dQlO8bxMmHD2CtSR9AXZhHFtFxvCJcrSegrF7wGxARtce/RKDsZ7sxaLbBys2KEwGGQbSdYqkiZVRJBKySYXbS3Wao/Any+iUedqP66hpUDczbzxholrouzVgj9bTjfWjIqTJ7CaEC9U7bk8J99Vqqq4ugrX5cYveoaYg5deCDkHYQvNd/1Bm3dGj+xoLL4eAp5YUDD1dbDlJiSzjRICuXT8THPvMrBVGEwatk3TYH5j1yX8+f9c1C31lGXh9H0NLZfvct9/uccZURk2z+86BsODJcyM+DQ6Qst+Ju5zPyTa8z1ymCTwK/6rDd1c8HdmTn59UMk2KJ/Z8MEsOVsZW7YVL2H+cDvBwBqkrgmMX/TnMu4gnYi0p/pdZfEPlV4v523GNsyASgxb3CHSr5ee45WK/umMd5RepmcbDvr5EhywpB3Lm1R1EXixKLERth2XGbIuf/Y0zrqeaarhbuyZvWpMJ/PFLhQDcTVWmkT1jH+sfclcJXMVI9m4Je/eWNnOvGSwkGGw6CSModqcL/sEReQahARsk32t5NAmATARaI0AUoZc3Y9Ii4qGPMBc5OasJYva9QY3ZSRSowAcDLePJ15VXg9uAxg8c6KJ6swrSCV2Qgz7o51U9a9K4OFu51i34MST/+KpvDTSDIASHFhlFS3+QfccEdp0YkbKV+eQZG14Y2Cq6RCYTzGbv25N2ql/35a/LeVQlOjtH0ZvW7poxC8n91WkSu1pbIg/E23QVeTyOtPu59bfKHEqP8edoeMFgDNXT5uOwhkMHmqWwl3ArhDgplE1/e/bZlUhhvYYbLiYYuCeuHJtYqxASsWTc/eQR6CvksVbcY/6tX+hm9l1LLG7I3hfB3Tw1bgXPW6Yy7GJDLIVTDXuoIwt2xKsFpa+xuraQCDwIyCN+bGHL8U2dnwFtbNWZJqjj2kHpZkxAV9QpitTyo77CqUIhQqucEg1uk74oAbIfOkanbNpxU4sZ8rZfY1jELybDG2znzbM9niKMeXd6Smn1Y2bNr577cYf92QKxslnCg688geVIdvubgH7Mh/1p+XxY+ZJqkhtDF6/ot1IDZ4gtf2KVZvdDS0+wLDGprmKxED9E48dXG34W3mh//idFxVb7ELx88elsNIEYfaYpA2nRK27Ln/ES75OE/5KFlcugSoRt7tn46ka8m64fJijw1hTK+DnvuivpEDAOpEZuttCaoIuYokKAFh1DvaeYM",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209894,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 325,
+    "prompt_tokens": 1739,
+    "total_tokens": 2064,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 196,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002523,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002523,
+      "upstream_inference_prompt_cost": 0.00130425,
+      "upstream_inference_completions_cost": 0.00121875
+    }
+  },
+  "provider": "Google"
+}

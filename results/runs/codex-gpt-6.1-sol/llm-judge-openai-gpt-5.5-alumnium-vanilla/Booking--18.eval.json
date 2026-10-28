@@ -1,0 +1,31 @@
+{
+  "id": "Booking--18",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search a hotel in London with a user rating of 8 or higher for a stay between February 14th, 2027, and February 21st, 2027, suitable for a couple. Provide the name and a short description of the hotel.",
+  "answer": "FINAL: Gem Fitzrovia Hotel — London\n\nA 4-star hotel in a Georgian building in London’s West End, a short walk from Oxford Street and Oxford Circus, with free Wi-Fi, a restaurant and a cocktail lounge.\n\nFor February 14–21, 2027 (7 nights), Booking.com lists a Superior Double Room with one queen bed for two adults. Its guest rating is 8.4/10 from 2,877 reviews, exceeding the requested 8/10. Couples rate its location 9.3/10.\n\nSource: https://www.booking.com/hotel/gb/gem-fitzrovia-hotel.html\nEvidence: final.png shows the London search, selected dates, two adults/one room, applied Hotels and Very Good: 8+ filters, and the hotel’s rating and double-room result.",
+  "response": "The task was to find a London hotel for a couple for February 14–21, 2027, with a user rating of 8 or higher, and provide the hotel name plus a short description.\n\nThe screenshot shows Booking.com search results for London with:\n- Dates selected: Feb 14–Feb 21\n- Occupancy: 2 adults, 0 children, 1 room\n- Filter applied: “Very Good: 8+”\n- Hotel filter applied\n- A visible result: “Gem Fitzrovia Hotel”\n- Rating: 8.4, which satisfies the requirement of 8 or higher\n- Room shown: Superior Double Room with 1 queen bed, suitable for a couple\n\nThe result response provides the hotel name and a short description, and it states the stay is for February 14–21, 2027. Although the screenshot does not visibly show the year, it does not contradict the response.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find a London hotel for a couple for February 14–21, 2027, with a user rating of 8 or higher, and provide the hotel name plus a short description. The screenshot shows Booking.com search results for London with: - Dates sele",
+  "screenshots": [
+    "task_216/final.png"
+  ],
+  "raw_screenshot": "task_216/final.png",
+  "source_result": "task_216",
+  "usage": {
+    "completion_tokens": 391,
+    "prompt_tokens": 1789,
+    "total_tokens": 2180,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 186,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.43
+}

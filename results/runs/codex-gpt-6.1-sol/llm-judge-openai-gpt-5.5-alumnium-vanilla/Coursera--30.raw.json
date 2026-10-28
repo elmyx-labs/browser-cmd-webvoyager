@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdydWlw2AcSF1kmoGNc8Hs49kjN4N",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The screenshot shows the Coursera reviews page for **“Modern Art & Ideas”** offered by **MoMA / The Museum of Modern Art**, satisfying the course-location requirement.\n\nThe visible rating breakdown shows:\n\n- **5 stars:** 83.11%  \n- **4 stars:** 13.16%  \n- **3 stars:** 2.42%  \n- **2 stars:** 0.63%  \n- **1 star:** 0.65%\n\nThe result response correctly states that the **3-star rating percentage is 2% when rounded** from 2.42%, and correctly identifies **2-star ratings** as the lowest percentage at **0.63%**.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196586,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 262,
+    "prompt_tokens": 1719,
+    "total_tokens": 1981,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

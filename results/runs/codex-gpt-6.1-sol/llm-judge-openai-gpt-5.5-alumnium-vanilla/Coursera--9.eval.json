@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--9",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify a Coursera course on artificial intelligence ethics that has a duration of less than 20 hours to complete and has been rated 4+ stars by participants.",
+  "answer": "FINAL: Artificial Intelligence: Ethics & Societal Challenges, offered by Lund University on Coursera, meets the requirements: its displayed schedule is 1 week at 10 hours a week (about 10 hours, under 20), and its participant rating is 4.7/5 from 433 reviews.\nSource: https://www.coursera.org/learn/ai-ethics\nVerified October 27, 2026. Evidence: final.png shows the course title, duration schedule, rating and review count together.",
+  "response": "The task was to identify a Coursera course on artificial intelligence ethics that:\n\n1. Is about artificial intelligence ethics  \n2. Takes less than 20 hours to complete  \n3. Has a participant rating of 4+ stars  \n\nThe screenshot shows the Coursera course **“Artificial Intelligence: Ethics & Societal Challenges”** by **Lund University**, which clearly matches the AI ethics topic. It displays a **4.7-star rating** with **433 reviews**, satisfying the 4+ stars requirement. It also shows a flexible schedule of **1 week at 10 hours a week**, which is approximately **10 hours total**, under the 20-hour limit.\n\nThe Result Response accurately reflects the information visible in the screenshot.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to identify a Coursera course on artificial intelligence ethics that: 1. Is about artificial intelligence ethics 2. Takes less than 20 hours to complete 3. Has a participant rating of 4+ stars The screenshot shows the Coursera ",
+  "screenshots": [
+    "task_292/final.png"
+  ],
+  "raw_screenshot": "task_292/final.png",
+  "source_result": "task_292",
+  "usage": {
+    "completion_tokens": 237,
+    "prompt_tokens": 1703,
+    "total_tokens": 1940,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 4.96
+}

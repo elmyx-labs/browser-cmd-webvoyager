@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210406-c5C4BnJ9DOHtM5cGw4NX",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response:\n\n1. **Search Parameters**: The search was conducted on Google Flights for a one-way flight from London to Paris on July 25, 2027, sorted by price.\n2. **Cheapest Flight Found**: easyJet (£51).\n3. **Required Details**:\n   - **Airline**: easyJet (Flight U2 4662)\n   - **Total travel time**: 1 hour 10 minutes\n   - **Layovers**: None (nonstop)\n\nAll instructions and required details have been accurately fulfilled.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching for Flight**\n\nI'm currently focused on identifying the most economical one-way flight from London to Paris for July 25, 2027. My analysis of the provided data is aimed at extracting the airline, total travel duration, and any layovers associated with the optimal option.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching for Flight**\n\nI'm currently focused on identifying the most economical one-way flight from London to Paris for July 25, 2027. My analysis of the provided data is aimed at extracting the airline, total travel duration, and any layovers associated with the optimal option.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/pm99ZbO00ezFck2V2mjfuMaXMhEkZBvQcb0WMeHVNYm/l+9sDY/88QaGlFxvdhzdJjD3xN+l4t0u8X45ddusVzcxS41Lb+k1iMS4QQBcsVKIZxjbve+6p/5g8zADc+RObXIaE3JZ9F6W9rcEKc1S0xClebVtlSqQo5RC6IFAO0oJXV+tYpnRXnk1FoCCGPwVIqagUqpSYHSvthPDsKoq0Jzjk/rw4SPCmXpELFLbjBrutemz9dDVzRVlS1nqGgoG2u3fpIsKeG2Cx+yrkEbnPUlBfZk4jqVp5XtQAE9Kr3cIpcLPd73aTaDbaB5LYVMuXfLzI4yAlvnsurPg7HXyLR7S+Pk+v7EMwz4miUWwztMdAM6V7f1GEJKbdMuzWalIj/yRf4qE04n/t58Qt+m5aJArJFZ8ZUz9dPohsDzBUSmCKPxb/4XXyiUN05UQh9oa5JQTzbyg8kdiHAu7R7umKcSLeLSB18UgOcXVDdKPsCNXeVVli+1P8EkQFItEoZzmcwLUnFHnb/6AMU8iC5LECtHh3YpxW0652bl/+DNvRegighR2eFIv29f1jJOJKMGKHSmiW+fJWwjfDzJ+vlY3rB95efJJwkwUPyZ/yzvUo1vBk9ljJFSEQkUk2ZjEUMhb9zw/JOPTfNf6gR65nJHSM62oQe2vcMqRh41g48lgvN5/t4OGfif4J7ihPq3fdXE6Iz1CraU8XmfRKYvJymg0tRs974VxfVEyaUVsvVfp9USP/sv1lJhcnj8Ur4W+RqkNcVuGKXQcZxHfIWYdFTAHU8k8Lhzn3AjWrDI+IF+suN6CSu1o2wWW9YvkswYmW71byfNhUUwUdTJI5evZxrJqfL5rYlVOYQ4EIApmQC3JuhI+E4cIOedRMhIzOiQaTVb3oeWVVmbLaIOqOfLrU43V23uPOmQk2hSsTwFCnVyh7Uztr+ptiz3t/cDQVwQgYKC9Go7ADTnGpjK5C0zofchEkMsoRkSenTxGZ+PPs9w1oqU87uR/S21xlK52zKPRkEhXglXNB2FfvOE0UvYWEkOS88G0IiGpbXvDtPTMYdVn7wa3MpMUzXhmU9c8S3yY3YZA21HMHKFFeF/WTgAx4Lxa21Z8T3QKhek7YFWF4qCC2iWNn68sseZ8rDt5tQwbHAbV/MGItJSB+sVBTlTGCsrzEc1C23AOKCaKDf5ccAHWPKhi0Ipq8wsflRAN75luxDXR0XB+N6sU1YECpxVgzxdtJfpW4/jVEip/dxX/8d7BBA06hBT0VK0TsvuK8/LxhocHKtuCimHGIBCEKMj/nKVnNAIXvS+ouXwm5zL0nre68Px89qwdwwDWEA/OOrfpP9tgyfVzX5Bq7KfQY8WhIoYi554MJS7YTnO2b6NHdkCcEy1w+gKRLxHqGvIM1++8HI/yuK3G+Qa9lpH+cg39aQx5PsAW30Pa1W+Uu4vQxCbMBiI83RXTYE5V84TE=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210406,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 398,
+    "prompt_tokens": 1852,
+    "total_tokens": 2250,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 269,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0028815,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0028815,
+      "upstream_inference_prompt_cost": 0.001389,
+      "upstream_inference_completions_cost": 0.0014925
+    }
+  },
+  "provider": "Google"
+}

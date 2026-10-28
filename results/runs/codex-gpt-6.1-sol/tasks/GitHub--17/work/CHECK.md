@@ -1,0 +1,6 @@
+[x] Locate a C++ project on GitHub. https://github.com/opencv/opencv — Languages: C++ 86.2%; search result: C++.
+[x] Recently updated in the last week (October 21–28, 2026). https://github.com/search?q=opencv+language%3AC%2B%2B+stars%3A%3E%3D500+pushed%3A2026-10-21..2026-10-28&type=repositories&s=updated&o=desc — screenshot: Updated 3 minutes ago. Browser page data: updated_at 2026-10-28T11:28:52.458Z.
+[x] At least 500 stars. Same search URL — accessible link: 91354 stars; screenshot: 91.4k.
+[x] Describe its main purpose. https://github.com/opencv/opencv — Open Source Computer Vision Library; topics computer-vision and image-processing.
+[blocked] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side; name, constrained values, filters, sort, and dates visible together; no overlay. Saved genuine viewport at 1280x723, with project name, purpose, C++, 91.4k stars, Updated 3 minutes ago, and Recently updated sort. Applied query text and absolute date range are hidden by GitHub's current header. Direct search, interactive search, and advanced-search submission all produced this layout. No overlays present; one evidence image read.
+[x] Write final answer with result and evidence to ./ANSWER.txt. Written; includes source URLs and screenshot limitation.

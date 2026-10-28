@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210148-qveMKctWKLWtdoaEZlLF",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response:\n\n1. **Destination & Type**: The search was conducted for \"Bali\" with the property type filter set to \"Resorts\" (excluding generic hotels).\n2. **Dates & Availability**: The search was specified for July 20, 2027, to July 25, 2027 (Tuesday to Sunday, 5 nights). The response clearly details the stay dates, availability, and pricing for the property (*Bali Tropic Resort & Spa - CHSE Certified*).\n3. **Tour / Cultural Experiences**: The response details the tour and cultural experiences available at the resort, including tours/classes about local culture, Balinese cultural shows, cooking classes, bike tours, and other activities.\n\nEverything requested by the task has been fulfilled accurately.\n\n**SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Defining Travel Parameters**\n\nI've got the search parameters dialed in: Bali as the destination and dates locked down from July 20th to July 25th, 2027. I'm focusing on resorts, explicitly avoiding hotels in this initial query. Next, I'll be looking into any associated tour or cultural experiences.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Defining Travel Parameters**\n\nI've got the search parameters dialed in: Bali as the destination and dates locked down from July 20th to July 25th, 2027. I'm focusing on resorts, explicitly avoiding hotels in this initial query. Next, I'll be looking into any associated tour or cultural experiences.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210148,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 511,
+    "prompt_tokens": 2110,
+    "total_tokens": 2621,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 340,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00349875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00349875,
+      "upstream_inference_prompt_cost": 0.0015825,
+      "upstream_inference_completions_cost": 0.00191625
+    }
+  },
+  "provider": "Google AI Studio"
+}

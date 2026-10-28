@@ -1,0 +1,6 @@
+[x] Locate a repository on GitHub that was created in the last week. https://github.com/search?q=word-atlas+created%3A2026-10-22..2026-10-28+stars%3A%3E%3D50&type=repositories&s=stars&o=desc — "1 result", "designfuchen/word-atlas" under created:2026-10-22..2026-10-28.
+[x] Repository has 50 or more stars. Same search URL — "2911 stars" (accessible link), visible "2.9k".
+[x] Provide brief details about the project's purpose. https://github.com/designfuchen/word-atlas — "Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review."
+[x] Provide its programming language. https://github.com/designfuchen/word-atlas — "TypeScript 59%".
+[blocked] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with name, constrained facts, filters, sorts and dates visible together and no overlay. final.png saved at 1280px, showing name, star count, purpose, language, sort, no overlay. Applied creation/date query is hidden by GitHub's redesigned collapsed Search header; it is present in URL and accessibility heading. Tried search UI submission, advanced search, alternate query and type variants. Advanced search shows query but no results.
+[x] Write final answer with result and evidence to ./ANSWER.txt. Written with date-filtered search and repository source URLs, screenshot limitation stated.

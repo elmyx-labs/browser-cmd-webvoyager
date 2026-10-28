@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210360-AgKLYtCAZdj4okIyMRVK",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find the cheapest round-trip flight option from New York City to Tokyo departing on July 10, 2027, and returning on July 24, 2027.\n\nThe result screenshot and response confirm that Google Flights was searched for New York to Tokyo for July 10, 2027 – July 24, 2027, identifying the cheapest round-trip itinerary (Cathay Pacific via Hong Kong at $1,412) along with relevant flight details, flight times, and booking options.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Flight Options**\n\nI'm currently examining the initial flight search parameters, specifically the origin and destination cities, dates, and passenger count for the round-trip journey. This forms the foundational step for identifying the most economical flight.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Flight Options**\n\nI'm currently examining the initial flight search parameters, specifically the origin and destination cities, dates, and passenger count for the round-trip journey. This forms the foundational step for identifying the most economical flight.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/nFG6ai/vMPsBKF/IxsXAJBdJCf7hD4qO7pYC+HXwsLnsDxN9BRbHm/uJRqpR4wpy/dtVkpuRMhtESWvSqgTivOhG1It2R3usHM5mIgoKxj9/BCuQJm6gf59YUyZG4u99igznP62lev8tyeer2Js4RfHoZO7WeWFsXbvin4DwpMfDfSlIZf26qGGw+EjA80m+lgNIWs4fiukLg//EAVZN3wj239cQD62LlHXPrvfC0pl+aSBt66r2dpSTelUEIzzP1pB0hWgmIYR2Y2Qigcnw/gsjxg6vbJc7ZP/OOVsBJLOOOGdvGpo/hJNv2eognfDqfnVWnZBFaY0EGGAVZZkHxdeDa6MmzIHDOzIWA6hYOzgnSxn7usX4u85vB/aXn86th5606NShWHe3xeWRkdDusv2SxfjedE7VoJlS4Nn1tbPxe831N9ed90ze3TATyOUBN7uHDPJ6sTyH4Wt2O1x2ZHoqFqa+ybh3nNT/FrzsLommaEUGGoWE/vq0rADANwZMx4q2PHPmFM6Fjqtlp1B+e3nclO7qYFOLB5jVpQkGnHZVfG0fNcQ4E7HhHmpChYHXvAx/FUgPfaZohfthAOzhKQQnw7Cyn23V3zTkFfXoUkNtE/fp7ioIw+bCAva0Jz/hj+SLp0u4MjApdKidtJHLosh54nhuQFFNdQ4pORomkY6/TDAsPuFMcXE6VSq0/CqSeTZ2ZAQZLE5wFS9IHqsc831zpFqTt+N6kjpezZAEFSmNIM79EG6FH8ODsaArpaznobkfl4VPCu074jeWzh8GlJKaYF/p0X1W7pjdVTdjGA+zQOKYB7EH1YPT1TYfcmBVcpCQh8V+N2kCBfDqYJq5dkMj+EvjDm8bNOZKrbUZ+GiBzjCPC+hVOCjdcFa9gk2OnkEnhcgXMgdtunxGIyBH/zHGHobO5QJ7obEsqMVkeorsZXUyc0+63IKRKwtFY1wzalmhLaca1a7HmaHD+yr0SsDCDl98aBDb41CbmndlRG9OBkJZyCSurAJytDhssGwd3KW3o2uqCbnkpLVtOaoEVFY1XQusFY8YgFoQHErMQepyQLHSiJXTB0hA4enOaMPO6jwBNVqK6ERTBGqhBFYz7YsS7UIdWH1O6NdgT+imu/o843qGoq5d77h3/Od98Un9vXEWJvS2G/5rGMNlu8RNs1OkBJJtS6c4+wlTC7YqMYZ6Xi7/oPIbEckBCa34rsvURmf/ZJJDLlxbzYTlAQTb4UF4WeqIdHx+A4jpAzNHZbzm37e4n4akPnD72dVsxJPt+nBCrALJI7q/vNNppvARIFfqf",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210360,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 362,
+    "prompt_tokens": 2504,
+    "total_tokens": 2866,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 240,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0032355,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0032355,
+      "upstream_inference_prompt_cost": 0.001878,
+      "upstream_inference_completions_cost": 0.0013575
+    }
+  },
+  "provider": "Google"
+}

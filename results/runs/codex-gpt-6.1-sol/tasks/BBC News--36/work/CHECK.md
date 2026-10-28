@@ -1,0 +1,6 @@
+[x] Read recent BBC World → Africa news. Source: https://www.bbc.com/news/world/africa. Browser extraction in COUNTS.md establishes latestCount 9, leadCount 7 and additionalLeadCount 2. The two additional leads are the Ghana-linked romance scam and Egypt journalist stories.
+[x] Verify every sample article. Eleven linked articles read with browser-cmd pages; passages saved in ARTICLES.md and NOTES.md, with a supporting fact and link for every entry in ANSWER.txt.
+[x] Verify the Nigerian cleric and detention stories, Sudan famine risk, Kenya Ebola response, and journalist imprisonment in Algeria. Article passages establish the cleric and guest killed, 33 preventable detention deaths, Western warning and aid-access appeal, ongoing Ebola quarantine/screening, and Gleizes serving seven years respectively. URLs and details appear in ANSWER.txt.
+[x] Summarize recurring topics. ANSWER.txt explains violence/security, humanitarian/health crises and justice/press freedom, limited to this recent sample.
+[x] Rewrite final.png as a genuine viewport screenshot, the only evidence image read this turn, reduced to 1280 px on its long side. Shows BBC Africa heading and all seven lead cards with descriptions and ages, without an overlay.
+[x] Rewrite ANSWER.txt with result and supporting evidence; first line FINAL:, no discussion of the review.

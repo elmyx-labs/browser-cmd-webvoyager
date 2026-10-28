@@ -1,0 +1,41 @@
+{
+  "id": "Google Flights--4",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for one-way flights from New York to London on Dec. 26th and filter the results to show only non-stop flights.",
+  "answer": "FINAL: Google Flights now shows one-way flights from New York to London departing December 26, 2026, with the Nonstop filter applied. Evidence: final.png shows the route, One way, Sat, Dec 26, the active Nonstop filter, and nonstop flight results together.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhorEgoyMDI2LTEyLTI2KABqDQgDEgkvbS8wMl8yODZyDAgDEggvbS8wNGpwbEABSAFwAYIBCwj___________8BmAEC&tfu=EgYIABAAGAA",
+  "response": "Based on the provided screenshot and response, the evaluation is as follows:\n\n1. **Trip Type & Route**: The search is properly configured for a \"One way\" flight from \"New York\" to \"London\".\n2. **Date**: The departure date is set to \"Sat, Dec 26\".\n3. **Filter**: The \"Nonstop\" filter has been applied (as shown by the active `Nonstop X` filter tag), and the displayed flight results are all marked as \"Nonstop\".\n\nAll requirements of the task have been fully satisfied.\n\nSUCCESS",
+  "reason_short": "Based on the provided screenshot and response, the evaluation is as follows: 1. **Trip Type & Route**: The search is properly configured for a \"One way\" flight from \"New York\" to \"London\". 2. **Date**: The departure date is set to \"Sat, Dec",
+  "screenshots": [
+    "task_411/final.png"
+  ],
+  "raw_screenshot": "task_411/final.png",
+  "source_result": "task_411",
+  "usage": {
+    "completion_tokens": 332,
+    "prompt_tokens": 1738,
+    "total_tokens": 2070,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 213,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0025485,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0025485,
+      "upstream_inference_prompt_cost": 0.0013035,
+      "upstream_inference_completions_cost": 0.001245
+    }
+  },
+  "elapsed_seconds": 4.13
+}

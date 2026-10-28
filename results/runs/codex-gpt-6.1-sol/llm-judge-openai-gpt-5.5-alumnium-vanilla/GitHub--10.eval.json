@@ -1,0 +1,31 @@
+{
+  "id": "GitHub--10",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "If I start using Copilot Individual, how much US dollars will it cost per year and what features does it have?",
+  "answer": "FINAL: For a new paid individual subscription, GitHub currently lists Copilot Pro at US$10 per month—US$120 for 12 months at that rate.\n\nAs checked on October 28, 2026, its main features include:\n- Unlimited code completions and next-edit suggestions.\n- Copilot Chat in supported IDEs, on GitHub and GitHub Mobile, plus inline chat and slash commands.\n- Model selection and access to medium-complexity models.\n- Agent mode, Copilot cloud agent, and code review.\n- Access to third-party agents such as Claude Code and Codex.\n- Copilot CLI, the Copilot app, and community support.\n- Custom instructions and agents, MCP integrations, Copilot Spaces, and a public-code filter with code referencing.\n- Currently 1,500 AI credits per month ($15 usage value), including 1,000 base credits and a variable 500-credit flex allotment. Extra usage can cost more; unused credits do not roll over.\n\nGitHub now presents several individual plans rather than a single plan named “Copilot Individual.” The price above is for the entry-level paid plan, Pro. Existing annual subscriptions are covered by legacy billing terms; the current price for a new subscription is monthly.\n\nEvidence: final.png shows GitHub's individual pricing cards with the Pro price and principal features.\nSources:\nhttps://github.com/features/copilot/plans\nhttps://github.com/features/copilot\nhttps://docs.github.com/en/copilot/get-started/plans\nhttps://docs.github.com/en/copilot/concepts/billing-and-usage/individuals/billing\nhttps://docs.github.com/en/copilot/reference/copilot-billing/request-based-billing-legacy/what-changed-with-billing",
+  "response": "The result appears to satisfy the task.\n\nThe user asked: “If I start using Copilot Individual, how much US dollars will it cost per year and what features does it have?”\n\nThe screenshot shows GitHub Copilot pricing for individuals, with the paid “Pro” plan listed at **$10 USD per user/month**. The response correctly converts that to **$120 per year** if paid monthly for 12 months. It also explains that GitHub now presents individual Copilot options as Free, Pro, Pro+, and Max rather than a single “Copilot Individual” plan, and treats **Pro** as the relevant entry-level paid individual plan.\n\nThe listed features in the response are broadly consistent with the screenshot and additional cited GitHub pages. The screenshot directly supports key Pro features such as:\n\n- Access to medium-complexity models\n- Unlimited code completion and next-edit suggestions\n- Access to third-party agents like Claude Code and Codex\n- 1,500 monthly AI credits\n\nThe response includes further feature details not visible in the screenshot, but according to the evaluation rules, information in the response that is not contradicted by the screenshot can be accepted.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The result appears to satisfy the task. The user asked: “If I start using Copilot Individual, how much US dollars will it cost per year and what features does it have?” The screenshot shows GitHub Copilot pricing for individuals, with the p",
+  "screenshots": [
+    "task_377/final.png"
+  ],
+  "raw_screenshot": "task_377/final.png",
+  "source_result": "task_377",
+  "usage": {
+    "completion_tokens": 763,
+    "prompt_tokens": 2328,
+    "total_tokens": 3091,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 15.02
+}

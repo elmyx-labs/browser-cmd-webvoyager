@@ -1,0 +1,9 @@
+{
+  "id": "GitHub--11",
+  "task": "Find a newly created open-source project on GitHub related to 'climate change' that has been initiated in January 2023; check the main programming language used and the project's description.",
+  "answer": "FINAL: kemolumi/open-meteo-dart is an MIT-licensed open-source project created on January 29, 2023. Its main programming language is Dart (100%).\n\nDescription: \"A free, all-in-one API SDK to forecast weather, air quality, climate change, and many more by OpenMeteo with full typed support for Dart!\"\n\nRepository: https://github.com/kemolumi/open-meteo-dart\nEvidence: https://api.github.com/repos/kemolumi/open-meteo-dart shows created_at = 2023-01-29T04:56:04Z, language = Dart, license = MIT License, fork = false, and the description above. The repository's Languages section reports Dart 100%.\nDiscovery: GitHub repository search with climate created:2023-01-01..2023-01-31 license:mit language:Dart returned this project: https://github.com/search?q=climate+created%3A2023-01-01..2023-01-31+license%3Amit+language%3ADart&type=repositories\nScreenshot: final.png is a genuine viewport of the unfiltered GitHub metadata page, showing the repository URL, description, creation timestamp, language, and license together.",
+  "screenshots": [
+    "task_378/final.png"
+  ],
+  "raw_screenshot": "task_378/final.png"
+}

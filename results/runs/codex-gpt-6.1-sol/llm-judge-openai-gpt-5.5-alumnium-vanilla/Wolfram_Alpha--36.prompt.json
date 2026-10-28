@@ -1,0 +1,9 @@
+{
+  "id": "Wolfram Alpha--36",
+  "task": "Determine the convergence or divergence of the series Σ (n=1 to ∞) of 1/(n^3 + 1).",
+  "answer": "FINAL: The series Σ(n=1 to ∞) 1/(n³ + 1) converges (absolutely).\n\nFor every n ≥ 1, 0 < 1/(n³ + 1) ≤ 1/n³. Since Σ 1/n³ is a convergent p-series with p = 3 > 1, the comparison test proves convergence.\n\nBrowser evidence: WolframAlpha states that the series “converges” and lists “integral | series converges” under its convergence tests. Screenshot: final.png.\nSource: https://www.wolframalpha.com/input?i=SumConvergence%5B1%2F%28n%5E3%2B1%29%2C+n%5D\nChecked October 27, 2026.",
+  "screenshots": [
+    "task_605/final.png"
+  ],
+  "raw_screenshot": "task_605/final.png"
+}

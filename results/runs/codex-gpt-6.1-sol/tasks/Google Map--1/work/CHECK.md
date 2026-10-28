@@ -1,0 +1,3 @@
+- [x] Tell me one bus stop that is nearest to the intersection of main street and Amherst street in Altavista. Google Maps labels it Amherst Ave & Main St; Amherst and 7th is a “Bus stop”, 410 feet versus Main Street Middle at 420 feet. Sources and exact words in NOTES.md; directions source in ANSWER.txt.
+- [x] Save one genuine viewport screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side, showing the item's name and deciding facts with no overlay. final.png is 1280×723 and shows Amherst Ave & Main St, Amherst and 7th, and 2 min (410 ft).
+- [x] Write the result and its evidence to ./ANSWER.txt. Written with FINAL: first line and source links.

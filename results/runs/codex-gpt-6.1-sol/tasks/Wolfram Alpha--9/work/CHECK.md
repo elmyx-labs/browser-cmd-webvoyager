@@ -1,0 +1,3 @@
+- [x] Annual energy production of Diablo Canyon 2 in 2010. https://www.wolframalpha.com/input?i=Diablo+Canyon+2+annual+energy+production+2010 — “Diablo Canyon-2 (nuclear reactor) | annual energy production | 2010”; “9752 GW h/yr (gigawatt hours per year)”.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the name, year and production value together, without overlays. final.png is 1280 × 723 and visibly shows all three.
+- [x] Write result and source evidence to ./ANSWER.txt, first line FINAL:.

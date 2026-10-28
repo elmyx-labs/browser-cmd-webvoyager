@@ -1,0 +1,9 @@
+Google Flights search: New York (all airports) to Tokyo (all airports), round trip, economy, one adult, June 25–July 15, 2027, USD, sorted by duration.
+Outbound expanded to 157 results; first seven are nonstop: United EWR–NRT 13h50 11:40am–2:30pm Jun26 $2169; ANA JFK–HND 14h 2am–5am Jun26 $1949; United EWR–HND 14h05 10:30am–1:35pm Jun26 $1849; JAL JFK–HND 14h05 1:30am–4:35am Jun26 or 1:35pm–4:40pm Jun26 $2011; American JFK–HND 14h25 10:30am–1:55pm Jun26 $1718; ANA JFK–HND 14h25 1:30pm–4:55pm Jun26 $1949.
+First outbound details: United UA79, June25, 11:40am EWR–2:30pm NRT June26, 13h50.
+Selected UA79 return list sorted by duration: United NRT–EWR July15 5:25pm–5:15pm, nonstop, 12h50, $2169 round trip. Total 26h40.
+Source: https://www.google.com/travel/flights/search?tfs=CBwQAhpJEgoyMDI3LTA2LTI1Ih4KA0VXUhIKMjAyNy0wNi0yNRoDTlJUKgJVQTICNzlqDQgDEgkvbS8wMl8yODZyDAgDEggvbS8wN2RmaxopEgoyMDI3LTA3LTE1agwIAxIIL20vMDdkZmtyDQgDEgkvbS8wMl8yODZAAUgBcAGCAQsI____________AZgBAQ&curr=USD
+Selected ANA NH159 JFK–HND outbound 2am–5am (14h). Return list: JAL HND–JFK 11:05am–11:05am or 7:30pm–7:30pm, 13h, mixed airline total $11999. ANA HND–JFK 10:50am–11am or 10:45pm–10:55pm, 13h10, $1949 round trip (27h10 combined). American return 5:45pm–5:55pm 13h10, mixed total $11929.
+Selected United UA131 EWR–HND outbound 10:30am–1:35pm June26 (14h05). Fastest return United HND–EWR July15 5:45pm–6pm (13h15), $1849 round trip, combined 27h20.
+Selected JAL JL3 JFK–HND 1:30am–4:35am June26 (14h05). Fastest return JAL HND–JFK July15 11:05am–11:05am or 7:30pm–7:30pm (13h), $2310 round trip, combined 27h05. Cheaper American return 5:45pm–5:55pm (13h10), $2011 round trip, combined 27h15.
+Selected American AA167 JFK–HND 10:30am–1:55pm June26 (14h25). Fastest return JAL HND–JFK July15 11:05am–11:05am or 7:30pm–7:30pm, 13h, $2017, total 27h25. American HND–JFK 5:45pm–5:55pm, 13h10, $1718, total 27h35.

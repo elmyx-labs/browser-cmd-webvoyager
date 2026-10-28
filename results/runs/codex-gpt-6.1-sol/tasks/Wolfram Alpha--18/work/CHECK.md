@@ -1,0 +1,4 @@
+[x] Plot Albert Einstein curve on https://www.wolframalpha.com/ — https://www.wolframalpha.com/input?i=Albert+Einstein+curve+parametric+equations identifies “first Albert Einstein curve” and “parametric equations”; Plot states “plotted for t from 0 to 92 π”.
+[blocked] Display explicit Parametric equations — direct equation queries, both Einstein curve variants, built-in example, mobile entry point and clean-session retry returned a plot but no Equations section.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px long side, showing the item's name and deciding facts with no overlay — final.png is 1280 × 722 and shows the full portrait, name, parametric interpretation and range together.
+[x] Write result and evidence to ./ANSWER.txt, first line FINAL: — result, range, source URL, screenshot evidence and missing explicit formulas stated.

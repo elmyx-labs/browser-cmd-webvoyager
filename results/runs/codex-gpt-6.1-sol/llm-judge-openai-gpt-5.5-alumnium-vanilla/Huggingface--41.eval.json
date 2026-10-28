@@ -1,0 +1,31 @@
+{
+  "id": "Huggingface--41",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "What is the current Text-to-3D model with the highest number of downloads and tell me are there Spaces that use the model.",
+  "answer": "FINAL: As of October 27, 2026, microsoft/TRELLIS-text-xlarge has the highest downloads among Hugging Face’s Text-to-3D models: 12,715 downloads last month (12.7k in the ranking). Yes—Hugging Face lists 11 Spaces using it, including hugging-apps/octllm and PUM4CH3N/TRELLIS_TextTo3D.\n\nEvidence: The Text-to-3D model list, sorted by “Most downloads,” places it first: https://huggingface.co/models?pipeline_tag=text-to-3d&sort=downloads\nThe model page shows “Downloads last month 12,715” and “Spaces using microsoft/TRELLIS-text-xlarge 11”: https://huggingface.co/microsoft/TRELLIS-text-xlarge\nScreenshot: final.png.",
+  "response": "The task asked for:\n\n1. The current Text-to-3D model with the highest number of downloads.\n2. Whether there are Hugging Face Spaces using that model.\n\nThe result response identifies **microsoft/TRELLIS-text-xlarge** as the highest-download Text-to-3D model, with **12,715 downloads last month**, and states that there are **11 Spaces** using it. The screenshot supports the key details on the model page: it shows the model is tagged **Text-to-3D**, displays **Downloads last month: 12,715**, and shows **Spaces using microsoft/TRELLIS-text-xlarge: 11**, with several Space names visible.\n\nAlthough the screenshot does not show the sorted model list proving it is ranked first by downloads, the result response provides that claim and a Hugging Face model-list URL as evidence. There is no contradiction between the screenshot and the response.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task asked for: 1. The current Text-to-3D model with the highest number of downloads. 2. Whether there are Hugging Face Spaces using that model. The result response identifies **microsoft/TRELLIS-text-xlarge** as the highest-download Te",
+  "screenshots": [
+    "task_567/final.png"
+  ],
+  "raw_screenshot": "task_567/final.png",
+  "source_result": "task_567",
+  "usage": {
+    "completion_tokens": 546,
+    "prompt_tokens": 1769,
+    "total_tokens": 2315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 345,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 8.0
+}

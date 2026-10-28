@@ -1,0 +1,31 @@
+{
+  "id": "Google Map--31",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "First search New York's Central Park Zoo on Google Map, and then find the way to share the map. What is the generated sharing link?",
+  "answer": "FINAL: Central Park Zoo’s generated Google Maps sharing link is https://maps.app.goo.gl/Gq8R7Kb5EwSoTRYv5\nEvidence: Obtained through Share (“Дели”) → Copy Link. Opening this URL resolves to the Google Maps listing headed “Central Park Zoo”, with address “New York, NY 10021”. NOTES.md records the copied links and browser destination verification; final.png shows the verified zoo listing and map with the dialog closed.",
+  "response": "The task was to search for New York’s Central Park Zoo on Google Maps, use the map’s share function, and report the generated sharing link.\n\nThe screenshot shows Google Maps opened to the “Central Park Zoo” listing in New York, with the place selected on the map and the Share button (“Дели”) visible in the listing panel. The result response provides a Google Maps short sharing URL and states it was obtained through the Share → Copy Link flow. There is no contradiction between the screenshot and the response.\n\nGenerated sharing link provided:  \nhttps://maps.app.goo.gl/Gq8R7Kb5EwSoTRYv5\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to search for New York’s Central Park Zoo on Google Maps, use the map’s share function, and report the generated sharing link. The screenshot shows Google Maps opened to the “Central Park Zoo” listing in New York, with the plac",
+  "screenshots": [
+    "task_478/final.png"
+  ],
+  "raw_screenshot": "task_478/final.png",
+  "source_result": "task_478",
+  "usage": {
+    "completion_tokens": 359,
+    "prompt_tokens": 1691,
+    "total_tokens": 2050,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 216,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 9.46
+}

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--19",
+    "ques": "Identify a course on Coursera that provides an introduction to Psychology, list the instructor's name, the institution offering it, and how many hours it will approximately take to complete.",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Introduction to Psychology — taught by Paul Bloom and offered by Yale University on Coursera. It takes approximately 20 hours, based on Coursera’s estimate of “2 weeks at 10 hours a week.”\nSource: https://www.coursera.org/learn/introduction-psychology\nEvidence: final.png shows the course title, Yale logo, instructor, and estimated schedule.",
+    "result_text": "FINAL: Introduction to Psychology — taught by Paul Bloom and offered by Yale University on Coursera. It takes approximately 20 hours, based on Coursera’s estimate of “2 weeks at 10 hours a week.”\nSource: https://www.coursera.org/learn/introduction-psychology\nEvidence: final.png shows the course title, Yale logo, instructor, and estimated schedule.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_301/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_301",
+  "elapsed_seconds": 64.46899724006653,
+  "execution_error": null,
+  "proxy_bytes": null
+}

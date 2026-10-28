@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--32",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for 'Data Analysis' courses on Coursera. Apply filters to find courses that are 'Beginner Level' and have a duration ranging from 1 to 3 months. Determine the total count of courses that match these specifications.",
+  "answer": "FINAL: 2,179 courses match “Data Analysis” on Coursera with Beginner level, 1–3 Months duration, and Learning Product: Courses selected, as of October 27, 2026.\nEvidence: Coursera’s Filter & Sort panel showed “Duration 1-3 Months”, “Learning Product Courses”, “Level Beginner”, and “View (2179)”. final.png shows the filtered results with all three filters applied and the panel closed.\nSource: https://www.coursera.org/search?query=Data%20Analysis&productDifficultyLevel=Beginner&productDuration=1-3%20Months&productTypeDescription=Courses&sortBy=BEST_MATCH",
+  "response": "The task was to search Coursera for “Data Analysis” courses, apply filters for **Beginner Level** and **1–3 Months** duration, and determine the total count.\n\nThe screenshot shows Coursera search results for **“Data Analysis”** with visible filter chips including:\n\n- **1–3 Months**\n- **Courses**\n- **Beginner**\n\nThis aligns with the requested filters. The screenshot itself does not visibly show the total count, but the Result Response states that the Coursera filter panel showed **“View (2179)”** with the relevant filters applied. Since this count is not contradicted by the screenshot, it can be accepted.\n\nTherefore, the task appears to have been completed correctly.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The task was to search Coursera for “Data Analysis” courses, apply filters for **Beginner Level** and **1–3 Months** duration, and determine the total count. The screenshot shows Coursera search results for **“Data Analysis”** with visible ",
+  "screenshots": [
+    "task_313/final.png"
+  ],
+  "raw_screenshot": "task_313/final.png",
+  "source_result": "task_313",
+  "usage": {
+    "completion_tokens": 449,
+    "prompt_tokens": 1752,
+    "total_tokens": 2201,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 290,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.78
+}

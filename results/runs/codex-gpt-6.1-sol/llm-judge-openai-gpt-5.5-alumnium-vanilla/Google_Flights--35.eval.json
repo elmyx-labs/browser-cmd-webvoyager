@@ -1,0 +1,31 @@
+{
+  "id": "Google Flights--35",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the lowest-priced one-way flight from Cairo to Montreal on July 21, 2027, including the total travel time and number of stops.",
+  "answer": "FINAL: The lowest-priced one-way flight shown by Google Flights from Cairo (CAI) to Montreal (YUL) on July 21, 2027 is Qatar Airways at CA$704 per adult in Economy. Total travel time: 25 hr 55 min, with 1 stop in Doha (DOH; 9 hr 35 min layover). It departs at 7:50 PM on July 21 and arrives at 2:45 PM on July 22 (local times).\nEvidence: Google Flights, Cheapest selected and sorted by price, with no additional filters. Required taxes and fees are included; optional charges and bag fees may apply. Screenshot: final.png.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI3LTA3LTIxagwIAxIIL20vMDF3MnZyDAgDEggvbS8wNTJwN0ABSAFwAYIBCwj___________8BmAEC&tfu=EgoIAhAAGAAgAigB&curr=CAD",
+  "response": "The screenshot shows Google Flights for a one-way trip from Cairo to Montreal on Wed, Jul 21, with the “Cheapest” tab selected and results sorted by price. The first listed option is Qatar Airways at CA$704, with a total travel time of 25 hr 55 min and 1 stop in DOH. This matches the Result Response, which also includes the stop location and layover duration.\n\nThe task required identifying the lowest-priced one-way flight from Cairo to Montreal on July 21, 2027, including total travel time and number of stops. The response provides all required details, and they are supported by the screenshot.\n\nVerdict: SUCCESS",
+  "reason_short": "The screenshot shows Google Flights for a one-way trip from Cairo to Montreal on Wed, Jul 21, with the “Cheapest” tab selected and results sorted by price. The first listed option is Qatar Airways at CA$704, with a total travel time of 25 h",
+  "screenshots": [
+    "task_441/final.png"
+  ],
+  "raw_screenshot": "task_441/final.png",
+  "source_result": "task_441",
+  "usage": {
+    "completion_tokens": 291,
+    "prompt_tokens": 1821,
+    "total_tokens": 2112,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 147,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.53
+}

@@ -1,0 +1,60 @@
+{
+  "id": "gen-1793210224-A0UY0wVPBAlj7UWkRvGB",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to identify a Coursera course that teaches JavaScript, is beginner-friendly, and includes a certificate upon completion.\n\nThe provided screenshot and response identify the course \"Programming with JavaScript\" by Meta on Coursera, which clearly shows:\n- Subject: Teaches JavaScript (as shown in the course title, \"What you'll learn\", and \"Tools you'll learn\").\n- Level: \"Beginner level\" recommended experience.\n- Certificate: \"Shareable certificate\" included upon completion.\n\nAll criteria of the instruction have been met.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": null,
+        "reasoning_details": [
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18mifB+uJ4NTSarLYzuaL4cMsxWH810sHaEtVBuaXb4LOggIfODP79o4CizR8rDJ+zZPmpA/uQB/X4WHiqFUEeETpuUCulvRZlOfbCBglwJ16OtmhgFvX0TgB/pMiS//a30/1BVjVnp7r2sukbx8H30+k6M5qb29N+2Ec6M88ruThK5ZZVe0HVM2TuAiGR03V26q6rD65sIlv+F9CoyXqR4G1Q/Um9l79j8VG8AhH6NchDL3aBzS6hkkm8vpYWKJU0E/PPGv34DGUCbBn6ZtOQXAd3rhkSybnGMWEejGBPxij3tTgYrfbNljj34GkDbYsrsX+i9FLYHAbVO0vfVEPkIx5fsJ+eM8Kg9Wy9dikUYgHBcsUl3ZZ2X5DmP03fW8SKm9dtjXdjcOqycEd/XNmpLBbH52gyY/PXGYf1Kjulr1UzjhRmDEyY+i9mrKdX+bf9QVWkLY8b/o/LGf3ZN7xCNLaq6IJUzjb5AOCf6zS17sX3SsTE2veQHYTCOrmr4lzHUpwcRAhhMsy22fsXp/rcc9V3NyKm6kK58we+fMthnLC6wchiszWwuIL56Q8pzuanaX65Tng0lm7Ohek/VTn0iWncQ9BjmDzDynnL+tlLHcKmw8gKLJrofsASaYaTZxHIPaxqZgaRfQieC3FcpTFdHhqxEJ+GhqbBDsV2N+VYIaghTeZ68vzcmVIzH0I45EdohojX6HoQ74TEVRM/O8DFM2DVCdbJOwJJatsUkjw98p3Lhg+GKdHzCZ/C8qTj5fUbX4zorJHz0EzwDLAjW0CJVCnvOZxNu4x/10n+z0uSJQ52ewrToF8DjKHYa9zjtavYZNmQ07gcMzj16aidPO2IFHSWKljq7Pnq/Nq2Slm/5pSqEho2vfsA2QjviRieH12q6jOJvjC4w1gZTWZxIQ2LcjqJhKL6dQv0W+seOFRhy2j32hpkzpR0JMjVCgrHjeBy+SyO2KBbBrDUFCduOIFUO/5HB0nBl1SUhMaShH6yzu5yXyyrOf9dEO65ooVmM1OVIWnCFrr5LW3pkNeyO9wrPzVqdYRxx51YjwsoREac6QjqAMn2IihxSFng2Ap3074ens/udEf2PAmcLL7sbfhhJnqL9Pd6fsNzZufh62VCZJ3hwmDDgx/qkYEZcdPE2fufDNSIO5sJSabxbpYZfidiWnELw6gCxLdNhfouIyc5KLqiE3wpakoLCCTC2V9gN1owWiHn/45L7SsQFXVZKsbLGx66kl8n152+iqajfW2ywrDt40sWpLLsmmyfvWnswwT1Bnze4HcwPRTeprK70NA2zYr3D0JK/P9O0yVIy90HkBgRbRembhR38hOO4ltJv8gKfEiSIjpvk4oDYk3S9NB2k7AjriQOkb/r1Mne11bl1AIKzuVVfAxI4tUaA6QuWqTxGTc5XOFATzvhb01buGb1dtGGRBFHhODFY1CVSdqFwf0SNCSU4lSQQOmnteXriAcBcgNMKq3XLEPyNIQ==",
+            "format": "google-gemini-v1",
+            "index": 0
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210224,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 301,
+    "prompt_tokens": 1692,
+    "total_tokens": 1993,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 185,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00239775,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00239775,
+      "upstream_inference_prompt_cost": 0.001269,
+      "upstream_inference_completions_cost": 0.00112875
+    }
+  },
+  "provider": "Google"
+}

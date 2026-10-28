@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210527-g4Mvm2yUaklrEoRKg6SY",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested identification of the most downloaded models on Hugging Face that use the PaddlePaddle library.\n\nThe screenshot confirms that on the Hugging Face models page, the library filter was set to `PaddlePaddle` and the sorting order was set to `Most downloads`. The resulting top models displayed are:\n1. `PaddlePaddle/PP-Chart2Table` (6.14k downloads)\n2. `logasanjeev/indian-id-validator` (1.12k downloads)\n3. `tieubaoca/pp-ocrv6-medium-rec-vietnamese` (233 downloads)\n4. `PaddlePaddle/PP-DocBee2-3B` (175 downloads)\n5. `Kellenok/PP-OCRv6_manga` (139 downloads)\n\nThe result response accurately reflects this information, identifying `PaddlePaddle/PP-Chart2Table` as the most downloaded model along with providing the top rankings.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Discovering Top PaddlePaddle Models**\n\nI'm focusing on identifying the most downloaded Hugging Face models specifically utilizing the PaddlePaddle library. My initial scan of the filtered results shows \"PaddlePaddle/\" as the leading entry, and I'm currently examining further to confirm additional top contenders.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Discovering Top PaddlePaddle Models**\n\nI'm focusing on identifying the most downloaded Hugging Face models specifically utilizing the PaddlePaddle library. My initial scan of the filtered results shows \"PaddlePaddle/\" as the leading entry, and I'm currently examining further to confirm additional top contenders.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/JX4ChryRKHvlWsuOSfghSvSnOv2Y0i0WZMiiAyzGKeFYTZKuT708HNM/lvnstugxkhJLFKcik/S9i02yM/2o2ZMgpiCur6x2OAfjSwOgbhrReFPaRRIbNxFuNn1ptSiBax2p2ozRwhcmBe9mJl3C2971RO5wyQH/W1Gqk8eRA+pMKDVlucG3T3frziBNxvXhL2H5SMe/e+JxHUyJmpssTxoKT8u6CjB9CNg/T+diXGKZNCNJgFOT67F4954qjShJUoXU03EJCvLV+YsKv2lTNe3i6LxA47n7bmZh4tMcsKbGE3Z8Yic/20P/v1Huy54M4czwKWh9DdegYyOaD7KzrhkneP8GwP2iARs+8THPGTxOtZc06mpPMpPsuuPaaowX9N9fgCNb8moNEpeB/WG0gSfr/y2hDMgdA8f9YvZepwwCf9d8Xsz72c8yolIqcgPgAYx9Qa1AUcQN04flOtfGrLqbHWytPCCdKIJxLM1sw7JcGeWdVxFJqKD2cRxn4PqtqzEIBrz/GHWMdvUL1fMA6KSiIq8z4NXRjSn8nODNJ4RozXIFG+IDgoT+5JKrD3gf2lgrBLDUR0/EDoHgPZ6p5QKAcOoVSsddQAIaJdio+S6pIMhB/uauLBk2GGjibfcpWz+ExHur8WbubRDMySvezdcdzYYOoU7OJovuVyuYw7K149sldw2M0+l5Avfl5+3NYs/4ATtyo4xYbEy9FjkvyoXrnPCEVSse7mkpIrj1cpgvlkosZoChVOc/Gnteu1etNaZmDWegDCWZqs6iRwsn4dfhCsg5oNypdhbLqOE5bSTumPZiPOB3unAtz02RbvlCb4jNaVhNahrQRbNoBAZkJRid5UHYJ/VaF2y6C81B5jo0urrsVqtpTQM3qpbPQo7r4vB+iGdGJhRifH+4CCpNZAu58vl0wQbLPo5PXxqQ2DDiGkndwhhwqQmAWy4IcbpwF2I4XYXp0hmIytzLjJesEJzT9nBy8arHjQcbonDdU95QpLAf3AuCVMpanx2cc71iSyRI+e2A0dMEa5pb0ry1mmhE8aUjMMHCAdlzXytqiQoWXO2Y+Q1WdlhbzSkINDMr8iR542eAujlpSdguHTnLRJBvqMvwE8t2UPrq6FmOyJER9H9ymaJnGqq65UJCP18fJzeCrf3AkMoS7kyP4PYUmHHETcZV1ktFspAq16hVSQQE282s+6IUBhJMG57IP6tRoclaZgRIEmTD6pbVJKDt37zpovnhw6xWuzozS5Tk83G3mdkHbfMP4WVGHozu5L6k8QQZ1yte5jujQ6u/7aJhVoylHQkk+LMJ3GY5cXWopBcmg9qE/OwKDu/ybQq8RK6y+rcTQWGpR",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210527,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 437,
+    "prompt_tokens": 1970,
+    "total_tokens": 2407,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 226,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00311625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00311625,
+      "upstream_inference_prompt_cost": 0.0014775,
+      "upstream_inference_completions_cost": 0.00163875
+    }
+  },
+  "provider": "Google"
+}

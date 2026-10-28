@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--15",
+    "ques": "Find a course on Coursera named 'Introduction to Mathematical Thinking' offered by Stanford, what is the percentage (rounded) of 5 star ratings in reviews and which level has the least percentage?.",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Stanford Online’s Introduction to Mathematical Thinking has 84% 5-star ratings (84.18% rounded). The 2-star level has the least share, at 0.52%.\nEvidence: Coursera’s review breakdown shows 5 stars 84.18%, 4 stars 12.62%, 3 stars 1.67%, 2 stars 0.52%, and 1 star 0.98%. Viewed October 27, 2026: https://www.coursera.org/learn/mathematical-thinking/reviews\nCourse provider: Stanford Online, shown at https://www.coursera.org/learn/mathematical-thinking\nScreenshot: final.png.",
+    "result_text": "FINAL: Stanford Online’s Introduction to Mathematical Thinking has 84% 5-star ratings (84.18% rounded). The 2-star level has the least share, at 0.52%.\nEvidence: Coursera’s review breakdown shows 5 stars 84.18%, 4 stars 12.62%, 3 stars 1.67%, 2 stars 0.52%, and 1 star 0.98%. Viewed October 27, 2026: https://www.coursera.org/learn/mathematical-thinking/reviews\nCourse provider: Stanford Online, shown at https://www.coursera.org/learn/mathematical-thinking\nScreenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_298/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_298",
+  "elapsed_seconds": 79.95205187797546,
+  "execution_error": null,
+  "proxy_bytes": null
+}

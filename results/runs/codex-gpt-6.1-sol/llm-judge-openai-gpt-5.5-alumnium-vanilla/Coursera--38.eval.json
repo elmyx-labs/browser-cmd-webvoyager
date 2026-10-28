@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--38",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Browse Coursera, which universities and companies from Australia are partners of Coursera? List all of them.",
+  "answer": "FINAL: Coursera lists five partners from Australia, all universities:\n\n1. Macquarie University\n2. The University of Melbourne\n3. The University of Sydney\n4. University of Western Australia\n5. UNSW Sydney (The University of New South Wales)\n\nNo companies are listed under Australia in Coursera's partner directory.\n\nEvidence: https://www.coursera.org/partners — “Meet our partners,” filtered by country to Australia, checked 27 October 2026. These are the complete filtered results; each is labelled “Australia.” Screenshot: final.png.",
+  "response": "The task asked to identify all Coursera partners from Australia, including both universities and companies.\n\nThe screenshot shows Coursera’s “Meet our partners” page with a country filter applied, and the visible filtered results are five Australian partners:\n\n1. Macquarie University  \n2. The University of Melbourne  \n3. The University of Sydney  \n4. University of Western Australia  \n5. UNSW Sydney / The University of New South Wales  \n\nAll visible partner cards are labeled “Australia,” and no company partner cards are shown. The result response lists exactly these five institutions and states that no companies are listed under Australia. This aligns with the screenshot and completes the requested task.\n\nVerdict: SUCCESS",
+  "reason_short": "The task asked to identify all Coursera partners from Australia, including both universities and companies. The screenshot shows Coursera’s “Meet our partners” page with a country filter applied, and the visible filtered results are five Au",
+  "screenshots": [
+    "task_319/final.png"
+  ],
+  "raw_screenshot": "task_319/final.png",
+  "source_result": "task_319",
+  "usage": {
+    "completion_tokens": 374,
+    "prompt_tokens": 1701,
+    "total_tokens": 2075,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 228,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 8.48
+}

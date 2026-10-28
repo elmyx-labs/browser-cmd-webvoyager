@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210576-rl4Y2bZwVKiNAZhqGBcH",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**Evaluation:**\n\nThe search results clearly display the ratings for the 2012 film *Prometheus*: IMDb shows 7/10 and Rotten Tomatoes shows 73%. Both ratings match the values provided in the response, satisfying all requirements of the task.\n\n**Verdict:** SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Task Scope**\n\nI am currently evaluating the scope of the request. My focus is on how best to present the requested ratings for \"Prometheus\" from both IMDb and Rotten Tomatoes, considering how to efficiently compress the different rating dimensions towards a central point for clarity.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Task Scope**\n\nI am currently evaluating the scope of the request. My focus is on how best to present the requested ratings for \"Prometheus\" from both IMDb and Rotten Tomatoes, considering how to efficiently compress the different rating dimensions towards a central point for clarity.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19tluHZsrhYZGkKGUvJNdzRJAwEqUmh+/PAPn0Fv77KrRWynf2X6vJTqUcWDX5evxNeQPfcpSvMUxSOkff61wxDbKj7kk4COnOHDRGYZevUmMgoo1ToXNIVcTozjNCzPQsBRfhdEkHPYNhPhnv4rehpPb/oTkAVNacLLkeceSzEEGMVoKw3kgzkz+0pD6gUGBDYR7jVwWGdKiuYftLsBPPVG4+sSiiEWMYKMlLnJBt9q70uoOwQ3e6IUpivMuD8C4DNCA8MYO4Mf7E/UA/QSW0eF32KQmTH8ABls9mA89kC8Qnaq0hGaIk10skby4iI0GJQV4HTk83n2f2yKLAcS07o56YJKiZlRQTtckcyfb210ksNnIdwk8TL4AtMO3odWMngyMeJkebALr9tMLNOFEvjXuwSVJRXjinse+zhYth/Pm1HHpprpL99n7rxqAnEFk2alZO8qxAXMGrdBzELsa5nWfeqJKiR/sj7Y2U1LMQSEr3rV1u5UvwPZ0C9bKvheIVoIfMRRtirncpHql19AiLx0Rkr5+FOdQJ5G5wNM2jmvyXIhPUi8B7lykm3BHtHX7fR9Zu/OkTW/1qX8uuhApJy6WuAiWlPWhiDX7bpK9tFkaNbXGldUzLmHuGs3zPE+sBzRUCqL42c9gsxyCoUKm3h8BW3gYpXgBPPaaPwItNupAKjVmRecGTvatq4swxdmfSvuNYJQ3wrssty/6rsVCWWMtSpVv607XVdIrSQBquAwOq2wlWJNAIRgnNr7lRCKIBhnaX1t/z77mkvNrFnW+lMfWkXgDE+g5wVnIZey+XtFa0xCnXO/O684ARsHCz6X7YsykkaJDZ0AMPyQGPD+VLfgNp+DG3NsNuiumN+PcTJB9ilUo4rs8VpPU/fSIeQFZ5lvDlSj1MexdFdWYfVOYkU9D0a34HGUpijoqJcRgHFzqHVebwQGeO0iHKPNyFde+etflmK2Qg/wIVLtnh8WiamCM7D4TA6kGHaWWXOq6P1EBYjhZvWfVF04qSxmq5Szd/irHe7NcinkBYg2i9YkFLpf+Yd0UHwfl8QHEojLgOA5vZUB1TwseE1nxCUGwCnSkUbRmrt8/hwMhpz4285JIbZqUS4D1IWwfcNjpbgsM00w6yicXPgCYK0kisN9T5AQLKPwDCM8YvOLEn6r1EGgZCuzExnfvWEUSrLAd1fAXQT+HMJl09POK+8Q0a0On337bJSP105qukoS9RJnqDFtPyp5Jz1S/6m47POyVG5MtDKybuu/oBrHCeT6g1Vk5lJRjere5XunX7IT2zzmC8nTLCt9nrgkjbd1CRYs47i8Ot8jxAkO53tWJwxuHPg6JO27hHxmwdkknQMokp+KAUNQzlBVe21Li7Y9KtgN0A37EKANigjkENc4Urbes9BbywEfHq0hzAa4ezXGf4yF82yaoQUpR1Pl0fV4V6cHggO/9+zCOQd8H0OOFkZhvwYnwQgInWO/JZX94/bd0Loc07sx2A1ldJaHfgiNduC1Z3QqRAJiwuIWiXPMGuNfY3g0oFour6QWjoA1DIwtlPRjFASIYfKaAkcA/7W091XEvjrL5UMk7jzaBPkx1XfHwh2liNegXhI9cfLAunT",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210576,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 294,
+    "prompt_tokens": 1728,
+    "total_tokens": 2022,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 234,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0023985,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0023985,
+      "upstream_inference_prompt_cost": 0.001296,
+      "upstream_inference_completions_cost": 0.0011025
+    }
+  },
+  "provider": "Google"
+}

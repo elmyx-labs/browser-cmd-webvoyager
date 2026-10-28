@@ -1,0 +1,31 @@
+{
+  "id": "Allrecipes--33",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a recipe for a low-carb breakfast on Allrecipes with at least 25 reviews. Show the Nutrition Facts and the total carbohydrate content per serving.",
+  "answer": "FINAL: Low-Carb Bacon Spinach Egg Cups on Allrecipes is a breakfast recipe with 90 reviews, exceeding the required 25. Total carbohydrate: 4 g per serving (1% Daily Value).\n\nNutrition Facts per serving:\nCalories: 237\nTotal fat: 18 g (23% DV)\nSaturated fat: 9 g (47% DV)\nCholesterol: 223 mg (74% DV)\nSodium: 669 mg (29% DV)\nTotal carbohydrate: 4 g (1% DV)\nDietary fiber: 1 g (4% DV)\nTotal sugars: 1 g\nProtein: 17 g (33% DV)\nVitamin C: 6 mg (7% DV)\nCalcium: 69 mg (5% DV)\nIron: 2 mg (9% DV)\nPotassium: 259 mg (6% DV)\n\nThe recipe makes 6 servings (12 muffins).\nSource: https://www.allrecipes.com/recipe/240905/low-carb-bacon-spinach-egg-cups/\nEvidence: final.png shows the expanded Nutrition Facts, review count, and recipe name together.",
+  "response": "The task required finding an Allrecipes low-carb breakfast recipe with at least 25 reviews, and providing the Nutrition Facts plus total carbohydrate content per serving.\n\nThe result satisfies these requirements:\n\n- The recipe identified is **“Low-Carb Bacon Spinach Egg Cups”** on Allrecipes.\n- It is a low-carb breakfast-style recipe.\n- The screenshot shows **Reviews (90)**, which exceeds the minimum requirement of 25 reviews.\n- The screenshot displays the expanded **Nutrition Facts** panel.\n- The total carbohydrate content is clearly shown as **4 g per serving**, matching the result response.\n- The response includes the full Nutrition Facts information requested.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task required finding an Allrecipes low-carb breakfast recipe with at least 25 reviews, and providing the Nutrition Facts plus total carbohydrate content per serving. The result satisfies these requirements: - The recipe identified is *",
+  "screenshots": [
+    "task_28/final.png"
+  ],
+  "raw_screenshot": "task_28/final.png",
+  "source_result": "task_28",
+  "usage": {
+    "completion_tokens": 332,
+    "prompt_tokens": 1540,
+    "total_tokens": 1872,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 187,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.41
+}

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Booking",
+    "id": "Booking--26",
+    "ques": "Check Booking.com for a 3-star hotel or higher in Paris with a guest rating above 8.0 and available parking for dates July 20-23, 2027.",
+    "web": "https://www.booking.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Best Western Plus La Demeure meets the requested criteria on Booking.com: a 4-star hotel in Paris with a guest score of 8.7/10, available for July 20–23, 2027 (3 nights; search for 2 adults, 1 room). Booking.com lists nearby public parking in a parking garage; reservation is needed, charges may apply, and spaces are subject to availability.\n\nEvidence: final.png shows the hotel, four stars, 8.7 score, available room, dates, and applied Hotels, Very Good: 8+, Parking, and 3/4/5-star filters; sort is Booking.com's “Our top picks.” The property page confirms: “Public parking is available at a location nearby (reservation is needed) and charges may apply.”\nSource: https://www.booking.com/hotel/fr/lademeure_paris.html?checkin=2027-07-20&checkout=2027-07-23&group_adults=2&no_rooms=1&group_children=0\nFiltered search: https://www.booking.com/searchresults.html?ss=Paris&dest_id=-1456928&dest_type=city&checkin=2027-07-20&checkout=2027-07-23&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Breview_score%3D80%3Bhotelfacility%3D2%3Bclass%3D3%3Bclass%3D4%3Bclass%3D5",
+    "result_text": "FINAL: Best Western Plus La Demeure meets the requested criteria on Booking.com: a 4-star hotel in Paris with a guest score of 8.7/10, available for July 20–23, 2027 (3 nights; search for 2 adults, 1 room). Booking.com lists nearby public parking in a parking garage; reservation is needed, charges may apply, and spaces are subject to availability.\n\nEvidence: final.png shows the hotel, four stars, 8.7 score, available room, dates, and applied Hotels, Very Good: 8+, Parking, and 3/4/5-star filters; sort is Booking.com's “Our top picks.” The property page confirms: “Public parking is available at a location nearby (reservation is needed) and charges may apply.”\nSource: https://www.booking.com/hotel/fr/lademeure_paris.html?checkin=2027-07-20&checkout=2027-07-23&group_adults=2&no_rooms=1&group_children=0\nFiltered search: https://www.booking.com/searchresults.html?ss=Paris&dest_id=-1456928&dest_type=city&checkin=2027-07-20&checkout=2027-07-23&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Breview_score%3D80%3Bhotelfacility%3D2%3Bclass%3D3%3Bclass%3D4%3Bclass%3D5",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_224/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_224",
+  "elapsed_seconds": 140.80539417266846,
+  "execution_error": null,
+  "proxy_bytes": null
+}

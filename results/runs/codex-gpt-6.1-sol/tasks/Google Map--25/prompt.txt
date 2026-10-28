@@ -1,0 +1,7 @@
+You are solving one web task in a real browser. Use the browser-cmd skill, and browser-cmd for every browser action; `browser-cmd CMD --help` gives one command's syntax.
+
+TASK: Search for a parking facility near the Fox Theater in Detroit that closes at night.
+START URL: https://www.google.com/maps/
+TIME: about 15 minutes; shortly before the end you will be told to finish with what you have.
+
+When done, save one genuine screenshot as ./final.png: the only evidence image read, shrunk to about 1280 px on its long side. Make it a viewport (not `screenshot full`) of the page the answer comes from, scrolled so the item's name and the facts that decide the task (the values it constrains) are in view together; filters, sorts and dates applied and visible; no pop-up, banner or open dialog over it. Do not cite other screenshots. Then write your final answer to ./ANSWER.txt; the file is what is read, so end with one short line, not the answer again. The answer states the result and its evidence: verify a doubtful point in the browser rather than writing the doubt into the answer, and say plainly only what truly could not be done. Do not fabricate evidence. Use web search and the pages it opens to find and read sources the task does not name: no `site:` operators, and never read the website the task names through them; read that website with browser-cmd. Open in the browser what the task names, what must be interacted with or left open, and the page your final screenshot shows. Do not sign in, purchase, send messages, or change external account data.

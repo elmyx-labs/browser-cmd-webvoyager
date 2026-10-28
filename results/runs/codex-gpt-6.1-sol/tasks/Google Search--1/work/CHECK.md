@@ -1,0 +1,3 @@
+[x] Find Kevin Durant's bio — https://www.nba.com/player/201142/bio; “KEVIN DURANT,” “PLAYER BIO,” “PROFESSIONAL CAREER,” “BEFORE NBA,” “PERSONAL LIFE.”
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts visible together and no pop-up, banner or open dialog — final.png, 1280×723, shows “KEVIN DURANT,” Houston Rockets, birthdate, height, weight, Texas and draft selection; Bio tab selected, cookie overlay dismissed.
+[x] Write the result and its evidence to ./ANSWER.txt — official bio URL, biographical details and source recorded.

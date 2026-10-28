@@ -1,0 +1,5 @@
+[x] Download the paper 'Dense Passage Retrieval for Open-Domain Question Answering'. — https://arxiv.org/pdf/2004.04906; browser saved 383508-byte PDF, copied to Dense_Passage_Retrieval_for_Open-Domain_Question_Answering.pdf.
+[x] How many formulas are in the article? — https://arxiv.org/html/2004.04906v3; numbered equation tags (1), (2), (3), (4), (5).
+[x] Which one is the loss function? — Section 3.2: “We optimize the loss function as the negative log likelihood of the positive passage:” followed by equation (2).
+[blocked] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts in view together. — final.png is a genuine 1280×1280 viewport screenshot showing “Dense Passage Retriever (DPR)” and equation (2) with its defining text. The full paper title and equation tags (3)–(5) are at other scroll positions and are not included in this screenshot.
+[x] Write the final answer and evidence to ./ANSWER.txt. — Answer includes count, loss equation, source URLs, and downloaded filename.

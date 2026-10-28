@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edyfa1xMBl9FvkTA5aVFYEoQZA99e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task required three things:\n\n1. Search for Los Angeles on Google Maps.  \n   - The screenshot clearly shows Google Maps with “Los Angeles” selected, including the Los Angeles, California, USA place panel and the map centered on the Los Angeles region. This part is completed.\n\n2. Try to print the map as a PDF.  \n   - The final screenshot does not show a print dialog or PDF preview, but the Result Response states that the map print layout was saved as `Los-Angeles-map.pdf` using Chrome’s PDF output. Since this is not contradicted by the screenshot, this can be accepted.\n\n3. Summarize the information on the map.  \n   - The Result Response summarizes the visible map and place information, including the Los Angeles boundary, nearby cities/areas, major roads, landmarks, and the Quick facts panel. This satisfies the summary requirement.\n\nOverall, the result aligns with the task requirements.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196714,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 467,
+    "prompt_tokens": 1928,
+    "total_tokens": 2395,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 266,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

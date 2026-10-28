@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--7",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a course on Coursera that teaches Reinforcement Learning for Intermediate with a rating of at least 4.5. Provide the name of the course, the institution offering it, and the number of reviews it has received.",
+  "answer": "FINAL: Fundamentals of Reinforcement Learning, offered by the University of Alberta and the Alberta Machine Intelligence Institute, is an Intermediate-level Coursera course rated 4.8/5 with 2,911 reviews. Verified October 27, 2026, on the course page: https://www.coursera.org/learn/fundamentals-of-reinforcement-learning . Evidence: final.png shows the course name, Intermediate level, rating, and review count together.",
+  "response": "Based on the provided screenshot and response:\n\n1. **Course Name**: *Fundamentals of Reinforcement Learning* (matches topic: Reinforcement Learning).\n2. **Level**: Intermediate level (clearly visible in the details card).\n3. **Rating**: 4.8 / 5, which satisfies the requirement of at least 4.5.\n4. **Institution Offering It**: University of Alberta / amii (visible at the top left of the course title).\n5. **Number of Reviews**: 2,911 reviews (clearly visible below the rating).\n\nAll criteria specified in the instruction have been accurately identified and provided.\n\nSUCCESS",
+  "reason_short": "Based on the provided screenshot and response: 1. **Course Name**: *Fundamentals of Reinforcement Learning* (matches topic: Reinforcement Learning). 2. **Level**: Intermediate level (clearly visible in the details card). 3. **Rating**: 4.8 ",
+  "screenshots": [
+    "task_290/final.png"
+  ],
+  "raw_screenshot": "task_290/final.png",
+  "source_result": "task_290",
+  "usage": {
+    "completion_tokens": 335,
+    "prompt_tokens": 1706,
+    "total_tokens": 2041,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 200,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00253575,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00253575,
+      "upstream_inference_prompt_cost": 0.0012795,
+      "upstream_inference_completions_cost": 0.00125625
+    }
+  },
+  "elapsed_seconds": 6.49
+}

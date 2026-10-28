@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210184-i6tsLFjzdUVY8EXcQW4Q",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to search for the word \"sustainability\" on Cambridge Dictionary and find its translation into Chinese and French according to the dictionary.\n\nThe screenshot shows the Cambridge Dictionary page for \"Translations of sustainability\", clearly displaying:\n- In Chinese (Traditional): 可持續性, (可）持續性，永續性...\n- In Chinese (Simplified): 可持续性, (可）持续性，永续性...\n- In French: durabilité, viabilité...\n\nThe Result Response accurately reports these translations in accordance with the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Translations**\n\nI've successfully identified the Chinese and French translations for \"sustainability\" on Cambridge Dictionary. The data is now clearly laid out.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Translations**\n\nI've successfully identified the Chinese and French translations for \"sustainability\" on Cambridge Dictionary. The data is now clearly laid out.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+TbOJuiwPqmIWPBmgyewAV3kAja5Zt/qHOiSCOg1oB67veVEeMScD5kdnGfg4hTbq5BA40j4CIMyyuC3oDz9Bnx9V9r18GsOJVgaB1sQeXJVMlUnZlFaonx1YuRN49RgxVhEloledxT8wm5IgRlAkEGc0l/yi7IYy2Q6UPM/yhn3CYUgDkRdpgPcd4QCZV0NcJ6nt8gJJIpmtgiOdeMRchY/MpgQZgmz1L5+FTodxZd8di0PtThFYgngzftgoznrrj7HFOBJ0NVzOLkcDO7O9V/B580dlxtke49w5N+IjfWikXNvS6iXUJLfpytc5Z/TxJ0MlL5NOIiDJKkjCuGEhXsURVv1/FkSIy7vzZ/T8/n+z+Cw+NXsoixpq3XhjpsSUt1QLGrzZo0rbiyOrpNkUpka2qKs9rH3cbADGFK+CFHJmm1owQHYNAFKruLFhsKth8e93t59gMKRD3lQFmTfTMyL9ZaTmTr0AHpnT17DJdXVdZZ/wiEa5ECoTpze5/sBq5VhKdyhr9dWevi4sYUDRHVtc3LymzFXfbO1YC27CEm8xBudhkIZS3UAI81GqEBqKacCvlfwK3s0eQhUuh/I1k+4xqkIdYJ7WqmjtkYbQ+gcYXKiALf7b5XMc38oMGEr36BrgdztA4dTVhFY1OrDB9X+6edOy+g1IRByEzn44eFhtMOsy/FD0eQtqIK7PippYyLAVW6HzDBy/o2dqvWvQ/zTYXWTdxh5jFnLh6gjHu6IruZKu9xWff5jX22gS3pBv+GEUDMePnCN2rxEw8ZXBitCMUx1IP09exWBYhv0iEU/e2O10FbakGsc/G9aTJL7l+bK7rdDovMcum63NVrWVOieb97h6PKrlp/LfRtIU73F5W4uIYQ0/A/Hvq1RpqhKzawHo1f0p5PUbFxTdjV+1L3mjMzzxs+MR+DxHMvjlr2fc6WBnO3kdgUujuUpzpF2yw2futtdViEPcpqn4nF9sZXFwIrskBi3rN4MnjE0sTuTDJhLFY6zPGa0Q8If0LVE9MOHQ3qsFLIggitVuxpS+7QOkzxZ1jOeM/xFlTDUwBg8ZqfUkDwsLPob5J82tBA+7V1ngOiw6RA1mWaQcdbO6AZ1106NlV1BKDcc+7/p6iYrp99wOpS/zknZGLyyUcKVzdRGPcG8VJFFvdr/aj+zYzpGdZ694=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210184,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 276,
+    "prompt_tokens": 1704,
+    "total_tokens": 1980,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 162,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002313,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002313,
+      "upstream_inference_prompt_cost": 0.001278,
+      "upstream_inference_completions_cost": 0.001035
+    }
+  },
+  "provider": "Google"
+}

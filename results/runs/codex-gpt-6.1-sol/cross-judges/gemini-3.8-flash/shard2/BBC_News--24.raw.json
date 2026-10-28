@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210124-15xI9k8IZyJ2K7iXjpdS",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find the latest article about space exploration on BBC News and summarize its key points.\n\nThe screenshot confirms the agent navigated to BBC News and found the latest article titled *\"What is Nasa's Artemis III mission? And what comes next?\"* published 9 hours prior. The response accurately summarizes the main points of this article regarding the Artemis III mission schedule, objectives, participants, and broader long-term lunar exploration goals.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Artemis III Mission**\n\nI'm currently dissecting the latest BBC News article on space exploration, specifically focusing on NASA's Artemis III mission. My aim is to extract and synthesize the core details of this endeavor and its future implications.\n\n**Refining Artemis III Details**\n\nI've refined my understanding of Artemis III, noting the 2027 launch and the critical LEO docking with prototype landers. The mission now focuses on testing and rehearsal rather than a direct lunar landing, supporting later endeavors. I'm assessing the implications of the staged approach.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Artemis III Mission**\n\nI'm currently dissecting the latest BBC News article on space exploration, specifically focusing on NASA's Artemis III mission. My aim is to extract and synthesize the core details of this endeavor and its future implications.\n\n**Refining Artemis III Details**\n\nI've refined my understanding of Artemis III, noting the 2027 launch and the critical LEO docking with prototype landers. The mission now focuses on testing and rehearsal rather than a direct lunar landing, supporting later endeavors. I'm assessing the implications of the staged approach.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/mAJZpSdKISSkhEq7vF35yF8I3Eq6sK3QeR3Rh7KZheW6Q+J/lRixPRHEMy8ZMo+9z1wtmCYbamRlJCUbSK54azGWtr26S9Yml+sFDchQ8OropatBgpKohza9ibtXNeHKY4iupZKCJBv6Hd5alykWFdULaiPR3Kpp9dWMTSKrnZasmf/dVVvTw+rQZ9qsUZv6diTkBdfrZI/7XjoRNyKqG0JN4uE6HE6bj0JFGzzIw4wXkurSqs8Qgm45g6hohVfY78gpD74hom6x5s4ixPivntw9wTLGhrPva8JWa8RnnOxfcJIRmAEgUnTD9txdqyhBZ8uxN1bAPxBGp+frzOC0aXCLEGXQC3L57TNmPAfLVgPhAbwXuOO8nWddiLcmIUUfWcsDbzedUjCprRue08tfy9z+GgMs7vcnBEwphVmLEzLIfCwOlfmVZhtr3tKNkSZ2x3lHSkYNjlBzwpvz3W2n97x80XET9k03PBmXnuWFOiTSvaqiSJWPrQohndL8np5KO2J8dR27QkcfhdZEzizN+UK35RYdpdPqy33pPtqV8TmtB0dXlCkHOpuFvGDOr/fNaWsJA/C9u54vm/M4/LoPy7gzAAeSM0aucKKf3SNkJ/6hLhE88rm/RNYrNyx5xs4JsmF3Wiupk9QNv0/dpZHHoSuY8WudyigBLibPFhIV0GwqYv51DNZG4mqsUUAhAqE1qTtFLdJU1mR95A9VNt4GhcTe9Nishdi3OUtg7HBjPIY6zOicM1Fq1cG+8kUK+m8E+BdDh2o/2roJ4Orp2whwgug6yGm0X6zSGdNrTpoLV0gxPyxpZ8G17OkWC24zYuHdTVP33/vjn/+rAAop37MEUYS0n3yKIiu04xvIIdxU6Y7bLc7LzZZ11xc5ZZIu1KOdK2jat/2t57aasQK74xFnlw+XQNZhDgXaygpf/Az7r9dxMHFUOWJu0enxC/8rFQMpi8oH/X9GHav1+NjQsjaVsFtb1jcofHq+sgFnicPiGaDuoqY7jQF3N2Tz38LSHB36Dkta/MZIDj8PKQ7NhcHD2spBK0Ikk2Zm9i+uEha2qIpOHvjxg5N96I+c1pailRHS/ZSSR9ZWUUMa3c2B24GFnUuZewoZUBW6hxCsYIcEyLOEw9i1xJIcoaXEjpMWoDwmaL2Ys2g3+HHM5nA0ohiircPjeVnb7nwK2Bom35JYG3LpPU7zY0Vlbqk+rdQYHV9EW3kXTtb3mBpx5ngDPsMDbThafgt/jafmQDf4t5Y1wRYlUW3VfuWa7ealwLIyV98GFmff5CqEIFD4mRkYOK5AxXttj54q/LJO0qMGWpciMpjpnOgIJyBdm7gYqbI51ZcwM1IMIsU2FStaYvk8CvROMILSxX8DkJPANSddJxtL13B+8QRQBC5BizdpTcJdk2xj/cXqBR6y13CbNl2Jph6QA/24ofVaEqwykGz0ir2wE2VslGOnr/aWP7EDIYr5HewWa9GZgAoXp7R3gbidj94tey9W1JULYkvbFHmlGXq4Mc8cG2Iy+OKjr+lbb1PTHX39Kn9Ss57bLlIZ6gZzMgNA731qzcWBnsTZrCM1efrPE6aUmrsUC6a5MXX8tVHPT1GcOj2Rg6lhReLK1esONiYywAXCGM1upoSa+frgcPmkPh/Gfja/dzOfzNs0iMKfI+4mxVUIL7S1efO6mZe7ubB9woauAGF7Ji4zWpaLeeSSUW8L08RAemP08GT9jbTceCDgQRaJYfmTjgxINiZHTKPUTYBJym/MDEUcDjHoKtVlkkFUwwdqqSmDq9mjzu7W1Oip7zTmOF+xH4N7aumI1Oc9d2pMlqftoXimCR2LGgSDmER/N+wbK47DBQ+z9V/jkDEgPebVdkkzn+gX/yWqZ6ElSBT1ggU0BXAOOSCsW6cFZHVYh53lBSNjdak6bN3Dvgw60Vz15kgWsluuMkzVvX2KOGfsmFeOZUoTwapr3Bb0XI+qFW4s/yoeBb3eBEpMpjpexIHnTthp1nx/a8HLHycA/DoqDKkxrWa6Um4Q3OXVXNd/O5eoNnHTcUFesMul0hzipfLYBQN9jz/bTwSKKLuUXiIlFWBQT/EUfJKUyeV5AmzKROQFO++9lrAqFSBRIvRlFMzYUOqnsu+N366XZG90PdSMnFitp1j5gkQQA3Elrzhpsl3f3KQ5vSuohF3Lc9aDWAllxOOoR4HhqTUbt5Vknln62nTi0uCP6w8/S+PW7JAvZFzYG",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210124,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 419,
+    "prompt_tokens": 1948,
+    "total_tokens": 2367,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 329,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00303225,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00303225,
+      "upstream_inference_prompt_cost": 0.001461,
+      "upstream_inference_completions_cost": 0.00157125
+    }
+  },
+  "provider": "Google"
+}

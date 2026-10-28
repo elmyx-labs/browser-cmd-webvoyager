@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209998-8Yh9SZeAgppdUZ8aENn4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested the trade-in value for an iPhone 15 Pro Max in good condition on the Apple website.\n\nThe screenshot confirms the trade-in value estimator on Apple's website showing:\n- \"Good News. Your iPhone 15 Pro Max qualifies for credit.\"\n- \"Apple Trade-In Value: Good Condition\"\n- \"$455\"\n\nThe result response accurately provides this information.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Assessing Trade-In Value**\n\nI've checked the Apple website and found the trade-in value for an iPhone 15 Pro Max in good condition to be $455 towards a new iPhone. I'm focusing on that specific figure now. I am looking at the provided screenshot to fully grasp the visual representation of the provided quote.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Assessing Trade-In Value**\n\nI've checked the Apple website and found the trade-in value for an iPhone 15 Pro Max in good condition to be $455 towards a new iPhone. I'm focusing on that specific figure now. I am looking at the provided screenshot to fully grasp the visual representation of the provided quote.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EpcFCpQFAWkUfROLIm7F8YsgEX7R/Lmk7LCbwUMkg2CF3IWqBBV3IMryOnLpxslSc6SqG5LUGwBd4A7Tau/AAgI95UWDS8t53n6hHrul+BKmQJPi77KKaeQQRklt67+G12FkT0OTgKnOW/Q6GwCxlJokFohl1YpX+z+j039sbDCxpBNtXLvK3p3gnIOAJXrhgF4XzYmXiATPHatuUxTSsvJa+iiSh+aso7C0wmIHULbX4JyqNGIj8XFk3eC1CpGdXO2FoZgZ77JRAPjLMgOmOPp/CwqSqs22gCVdaWr8nLI2rLNxO7vfwjEb4bSuV8paEQlG/gQHUtIexFglZFQUPufnC1BubGGvzb7eNm/lXxW8Kzx9BEPYErLZZyVsL3y66JO3JuS45U57i+DJ/jPHjMSzGJlXxchqK4OkbX239RtV+0o2bZBPw0eAkXXpnErQnPZeEjeen7HJKv547cLx8Rp6t7BGQJHJ1E9INKAlaa8mK2Vt43IiiWIerp6HDU943YkPD9geWh9gkZAim9AKj+L6F/klVW8opdiUVWGpIa/CwkquCl8bGCCWooYgSwSkP25Z9rlu/YoOxtwlc9D1lM0DVqL65EVL0w7UxhxGPephRtF68bxaPg0a4jC5JTAOnyPHESseg83GIc2WGdnpEfTa11XEJblMVBA2PpQyptaojMSJmSdJ/vuZ+Gcn77h8ZDmP+8GGVhqGt/JPQiIw0gMdnzGerShJnIaCnSA0PUtLI9zou/H8OT3A/uI0oQSbOU4Dj0E9lWPqgqQyHFJi6wdS+jLsRBf5okc4NJgXy1vMhm8Ek+LFkMnWSVDdHGwtN30WXZiQ6B8zAsjwPVKTCS3b0bawJIVsyjdtvtG1xqLijrEANZzbsJtV",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209998,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 209,
+    "prompt_tokens": 1715,
+    "total_tokens": 1924,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 121,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00207,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00207,
+      "upstream_inference_prompt_cost": 0.00128625,
+      "upstream_inference_completions_cost": 0.00078375
+    }
+  },
+  "provider": "Google AI Studio"
+}

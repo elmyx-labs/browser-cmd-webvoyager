@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Flights",
+    "id": "Google Flights--2",
+    "ques": "Find the lowest fare from all eligible one-way flights for 1 adult from JFK to Heathrow on Jun. 22.",
+    "web": "https://www.google.com/travel/flights/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The lowest displayed fare is US$385 one way for 1 adult in Economy from JFK to London Heathrow (LHR) on June 22, 2027 (the next June 22). One option is Virgin Atlantic, departing 8:05 AM and arriving 8:00 PM the same day, nonstop, 6 hr 55 min. Other flights share the displayed $385 minimum.\n\nEvidence: Google Flights, Cheapest tab, All flights sorted by price, with no additional filters. The fare includes required taxes and fees; the Virgin Atlantic fare excludes overhead-bin access. Screenshot: ./final.png. Viewed October 27, 2026.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTA2LTIyagcIARIDSkZLcgcIARIDTEhSQAFIAXABggELCP___________wGYAQI&tfu=EgoIAhAAGAAgAigB&curr=USD",
+    "result_text": "FINAL: The lowest displayed fare is US$385 one way for 1 adult in Economy from JFK to London Heathrow (LHR) on June 22, 2027 (the next June 22). One option is Virgin Atlantic, departing 8:05 AM and arriving 8:00 PM the same day, nonstop, 6 hr 55 min. Other flights share the displayed $385 minimum.\n\nEvidence: Google Flights, Cheapest tab, All flights sorted by price, with no additional filters. The fare includes required taxes and fees; the Virgin Atlantic fare excludes overhead-bin access. Screenshot: ./final.png. Viewed October 27, 2026.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTA2LTIyagcIARIDSkZLcgcIARIDTEhSQAFIAXABggELCP___________wGYAQI&tfu=EgoIAhAAGAAgAigB&curr=USD",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_409/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_409",
+  "elapsed_seconds": 143.03419613838196,
+  "execution_error": null,
+  "proxy_bytes": null
+}

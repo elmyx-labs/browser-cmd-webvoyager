@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--37",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Browse the Coursera homepage and list at least three free courses.",
+  "answer": "FINAL: Three free Coursera courses from Princeton University, verified October 27, 2026:\n\n1. Algorithms, Part I — https://www.coursera.org/learn/algorithms-part1\n2. Algorithms, Part II — https://www.coursera.org/learn/algorithms-part2\n3. Computer Science: Algorithms, Theory, and Machines — https://www.coursera.org/learn/cs-algorithms-theory-machines\n\nEach course page states: “All the features of this course are available for free.”\n\nI browsed the Coursera homepage (https://www.coursera.org/) and followed its Free Courses link. Evidence: final.png shows Algorithms, Part II and its statement that all features are free; the page also says it does not offer a certificate upon completion.",
+  "response": "The task was to browse the Coursera homepage and list at least three free courses.\n\nThe result response lists three Coursera courses:\n\n1. Algorithms, Part I  \n2. Algorithms, Part II  \n3. Computer Science: Algorithms, Theory, and Machines  \n\nIt also provides Coursera URLs for each and states that each course page says: “All the features of this course are available for free.”\n\nThe screenshot supports at least part of this claim: it shows the Coursera page for “Algorithms, Part II,” and the visible text states, “All the features of this course are available for free.” While the screenshot only verifies one of the three courses, the response provides the required list of at least three free courses, and there is no contradiction between the screenshot and the response.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to browse the Coursera homepage and list at least three free courses. The result response lists three Coursera courses: 1. Algorithms, Part I 2. Algorithms, Part II 3. Computer Science: Algorithms, Theory, and Machines It also ",
+  "screenshots": [
+    "task_318/final.png"
+  ],
+  "raw_screenshot": "task_318/final.png",
+  "source_result": "task_318",
+  "usage": {
+    "completion_tokens": 437,
+    "prompt_tokens": 1743,
+    "total_tokens": 2180,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 267,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.89
+}

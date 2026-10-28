@@ -1,0 +1,5 @@
+[x] NHL Standings 2025-26 on ESPN — https://www.espn.com/nhl/standings/_/season/2026 — “NHL Standings 2025-26”; “2025-26”; “Regular Season”.
+[x] Which teams are at the top and which are at the bottom in Eastern and Western Conference — https://www.espn.com/nhl/standings/_/season/2026/group/conference — Eastern first Carolina 113, last New York Rangers 77; Western first Colorado 121, last Vancouver 58. Full records in NOTES.md and ANSWER.txt.
+[x] What about the situation in Division — https://www.espn.com/nhl/standings/_/season/2026 — Atlantic Buffalo 109 / Toronto 78; Metropolitan Carolina 113 / New York Rangers 77; Central Colorado 121 / Chicago 72; Pacific Vegas 95 / Vancouver 58.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with season and deciding facts visible and no overlay — final.png, 1086 × 1280; division standings, all four divisions and their points and records, season and Regular Season filters visible; only this evidence image was read.
+[x] Write result and evidence to ./ANSWER.txt, first line FINAL: — completed, sources and date included.

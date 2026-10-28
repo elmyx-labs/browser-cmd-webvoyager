@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--6",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify a course on Coursera related to 'Artificial Intelligence for Healthcare' and note the course duration along with the number of quizzes in Assessments.",
+  "answer": "FINAL: Generative AI for Healthcare — Google Cloud, Coursera. Duration: 3 hours to complete. Quizzes: 2.\nEvidence: The Assessments section lists “2 assignments”; expanded Modules 2 and 3 each list one “Quiz.” Screenshot: final.png.\nSource: https://www.coursera.org/learn/generative-ai-for-healthcare — verified October 27, 2026.",
+  "response": "The task was to identify a Coursera course related to “Artificial Intelligence for Healthcare” and provide both the course duration and the number of quizzes in Assessments.\n\nThe screenshot shows a Coursera course titled **“Generative AI for Healthcare”** by **Google Cloud**, which is clearly related to artificial intelligence in healthcare. The screenshot also visibly shows the duration as **“3 hours to complete.”** In the “Details to know” section, it lists **Assessments: 2 assignments**. The result response further states that the modules contain **2 quizzes**, which is not contradicted by the screenshot.\n\nTherefore, the response satisfies the task requirements: it identifies a relevant course, gives the duration, and provides the assessment quiz count.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The task was to identify a Coursera course related to “Artificial Intelligence for Healthcare” and provide both the course duration and the number of quizzes in Assessments. The screenshot shows a Coursera course titled **“Generative AI for",
+  "screenshots": [
+    "task_289/final.png"
+  ],
+  "raw_screenshot": "task_289/final.png",
+  "source_result": "task_289",
+  "usage": {
+    "completion_tokens": 390,
+    "prompt_tokens": 2445,
+    "total_tokens": 2835,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 227,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.78
+}

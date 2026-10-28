@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdycIoYu5gSqK5cJx49qCHZfykWoO",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find a pet-friendly hotel with parking available in downtown Toronto for July 24–26, 2027.\n\nThe result shows a Booking.com search for Downtown Toronto with:\n- Dates: Sat, Jul 24 – Mon, Jul 26, matching the requested stay dates.\n- Filters applied: Parking, Hotels, Pet friendly.\n- A listed hotel: Fairmont Royal York Hotel, located in Downtown Toronto.\n- Availability shown for a Queen Room for 2 nights.\n\nThe response also states that the hotel page confirms pets are allowed and private parking is available at the hotel. There is no contradiction between the screenshot and the response.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196510,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 389,
+    "prompt_tokens": 1712,
+    "total_tokens": 2101,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 246,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

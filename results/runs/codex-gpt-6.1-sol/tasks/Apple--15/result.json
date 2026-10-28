@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Apple",
+    "id": "Apple--15",
+    "ques": "On Apple's website, how many different types of keyboards are available when customizing your 14-inch MacBook Pro?",
+    "web": "https://www.apple.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Apple offers 20 keyboard language/layout options when customizing the 14-inch MacBook Pro. The Keyboard section states “Choose from 20 languages.” Source: https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-black-standard-display-apple-m6-chip-12-core-cpu-12-core-gpu-16gb-memory-1tb-storage (checked October 27, 2026). Evidence: final.png.",
+    "result_text": "FINAL: Apple offers 20 keyboard language/layout options when customizing the 14-inch MacBook Pro. The Keyboard section states “Choose from 20 languages.” Source: https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-black-standard-display-apple-m6-chip-12-core-cpu-12-core-gpu-16gb-memory-1tb-storage (checked October 27, 2026). Evidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_93/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_93",
+  "elapsed_seconds": 154.74724507331848,
+  "execution_error": null,
+  "proxy_bytes": null
+}

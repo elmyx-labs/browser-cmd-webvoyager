@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--6",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for an open-source project related to 'cryptocurrency wallet' updated in the past 30 days and provide the top three contributors.",
+  "answer": "FINAL: BlueWallet/BlueWallet — an MIT-licensed Bitcoin wallet for iOS and Android — was updated October 28, 2026, within the past 30 days (September 28–October 28, 2026).\n\nTop three contributors by GitHub's all-time commit ranking (Period: All):\n1. marcosrdz — 5,570 commits\n2. GladosBlueWallet — 3,242 commits\n3. Overtorment — 2,027 commits\n\nEvidence:\n- Project description, MIT license, and latest commit dated October 28, 2026: https://github.com/BlueWallet/BlueWallet\n- Contributor ranks #1–#3 and commit totals: https://github.com/BlueWallet/BlueWallet/graphs/contributors?all=1\n- Search: cryptocurrency wallet, pushed on or after September 28, 2026, non-archived repositories, sorted by most stars: https://github.com/search?q=cryptocurrency+wallet+pushed%3A%3E%3D2026-09-28+archived%3Afalse&type=repositories&s=stars&o=desc\n- Screenshot: final.png, showing the contributor ranking with Period: All and the graph's date range.",
+  "response": "The user requested an open-source cryptocurrency wallet project updated within the past 30 days and its top three contributors. \n\nThe provided response identifies the repository `BlueWallet/BlueWallet`, confirms recent update activity in October 2026, and accurately lists the top three contributors (`marcosrdz`, `GladosBlueWallet`, and `Overtorment`) as verified by the GitHub insights screenshot.\n\nSUCCESS",
+  "reason_short": "The user requested an open-source cryptocurrency wallet project updated within the past 30 days and its top three contributors. The provided response identifies the repository `BlueWallet/BlueWallet`, confirms recent update activity in Octo",
+  "screenshots": [
+    "task_373/final.png"
+  ],
+  "raw_screenshot": "task_373/final.png",
+  "source_result": "task_373",
+  "usage": {
+    "completion_tokens": 311,
+    "prompt_tokens": 1868,
+    "total_tokens": 2179,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 224,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00256725,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00256725,
+      "upstream_inference_prompt_cost": 0.001401,
+      "upstream_inference_completions_cost": 0.00116625
+    }
+  },
+  "elapsed_seconds": 5.94
+}

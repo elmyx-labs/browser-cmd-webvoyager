@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--21",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the Security topic in GitHub Resources and answer the role of GitHub Advanced Security.",
+  "answer": "FINAL: GitHub Advanced Security helps keep code and secrets safe by identifying and fixing vulnerabilities through static code analysis, dependency scanning, and secret scanning.\n\nEvidence: GitHub → Resources → Explore by Topic → Security (https://github.com/resources/articles?topic=security). The Security article “What is application security and how does it work?” (August 31, 2026), under “Next steps to keep your code and secrets secure,” describes this role: https://github.com/resources/articles/what-is-application-security#next-steps-to-keep-your-code-and-secrets-secure\n\nScreenshot: final.png shows the GitHub Advanced Security passage and the article’s Security tag.",
+  "response": "The user instructed to find the Security topic within GitHub Resources and determine the role of GitHub Advanced Security.\n\nThe provided screenshot confirms that an article tagged with \"Security\" under GitHub Resources was located, which explicitly states: \n\"For an all-up solution to keep your code and secrets safe, check out GitHub Advanced Security—which helps you identify and fix vulnerabilities in your code, including static code analysis, dependency scanning, and secret scanning.\"\n\nThe Result Response accurately relays this information and correctly answers the prompt.\n\nSUCCESS",
+  "reason_short": "The user instructed to find the Security topic within GitHub Resources and determine the role of GitHub Advanced Security. The provided screenshot confirms that an article tagged with \"Security\" under GitHub Resources was located, which exp",
+  "screenshots": [
+    "task_388/final.png"
+  ],
+  "raw_screenshot": "task_388/final.png",
+  "source_result": "task_388",
+  "usage": {
+    "completion_tokens": 283,
+    "prompt_tokens": 1727,
+    "total_tokens": 2010,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 178,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0023565,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0023565,
+      "upstream_inference_prompt_cost": 0.00129525,
+      "upstream_inference_completions_cost": 0.00106125
+    }
+  },
+  "elapsed_seconds": 4.7
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Google Map--21",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify the nearest bus stop to the corner of Elm Street and Oak Street in Massachusetts.",
+  "answer": "FINAL: The nearest bus stop is Elm Street & Oak Street in Amesbury, Massachusetts 01913, served by bus 17.\nGoogle Maps labels it “Bus stop” and shows its pin on Elm Street near Oak Street, its Amesbury address, and bus 17 together. Evidence: final.png (1280 × 723 viewport screenshot).\nSource: https://www.google.com/maps/place/Elm+Street+%26+Oak+Street/@42.8543509,-70.9224998,18z/data=!4m6!3m5!1s0x89e2e3f73ad714ad:0x2ce28dc8560fab89!8m2!3d42.854347!4d-70.921148!16s%2Fg%2F11fvyz5tqh?hl=en\nCorroboration: BusMaps lists the same stop on Elm Street in Amesbury and route 17: https://busmaps.com/en/usa/public_transit-stop-Elm-Street-%26-Oak-Street-9278229813589944347",
+  "response": "The user requested to identify the nearest bus stop to the corner of Elm Street and Oak Street in Massachusetts.\n\nThe provided screenshot and response show a verified bus stop named **\"Elm Street & Oak Street\"** located in Amesbury, Massachusetts (01913), served by bus route 17 (MVRTA). The information provided directly addresses and answers the prompt accurately.\n\nSUCCESS",
+  "reason_short": "The user requested to identify the nearest bus stop to the corner of Elm Street and Oak Street in Massachusetts. The provided screenshot and response show a verified bus stop named **\"Elm Street & Oak Street\"** located in Amesbury, Massachu",
+  "screenshots": [
+    "task_468/final.png"
+  ],
+  "raw_screenshot": "task_468/final.png",
+  "source_result": "task_468",
+  "usage": {
+    "completion_tokens": 556,
+    "prompt_tokens": 1876,
+    "total_tokens": 2432,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 475,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.003492,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.003492,
+      "upstream_inference_prompt_cost": 0.001407,
+      "upstream_inference_completions_cost": 0.002085
+    }
+  },
+  "elapsed_seconds": 6.02
+}

@@ -1,0 +1,8 @@
+Source: https://arxiv.org/abs/2604.19549
+Title: Fuzzy Geometries with an Internal Space
+Authors: John W. Barrett, Joseph Burridge
+Date: Submitted on 21 Apr 2026. Submission history: From: John W. Barrett; [v1] Tue, 21 Apr 2026 15:06:40 UTC.
+Abstract: The product of a non-commutative matrix spectral triple with a simple two-dimensional internal space is considered. This is interpreted as a non-commutative spacetime that contains one charged Dirac fermion and its antiparticle. The inner fluctuations of a vacuum Dirac operator are calculated, using the standard technique of Connes' one-forms. This results in the non-commutative analogue of a gauge field, as expected, and also fluctuations of the spacetime geometry. In addition, the fluctuations include a derivative operator that depends on the particle charge. The integral over the fermions in the model is calculated, leading to some novel induced bosonic terms.
+Search: All fields non-commutative geometry AND author John; all dates; Submission date (newest first). 12 results. First result arXiv:2604.19549, Submitted 21 April, 2026. Second 1908.06796, submitted 30 October, 2024.
+Alternate spelling checked: https://arxiv.org/search/advanced?advanced=1&terms-0-term=noncommutative+geometry&terms-0-operator=AND&terms-0-field=all&terms-1-term=John&terms-1-operator=AND&terms-1-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-date_type=submitted_date&abstracts=show&size=50&order=-submitted_date
+31 results, sorted Submission date (newest first). First result: A Note on Quantum Odometers, authors Slawomir Klimek, Matt McBride, John Wilson Peoples; Submitted 17 May, 2022. Thus no newer match than 21 April 2026 under this spelling.

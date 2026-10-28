@@ -1,0 +1,17 @@
+FINAL: In Hugging Face’s “Load adapters with 🤗 PEFT” tutorial (Transformers v4.49.0), see “Load in 8bit or 4bit.” Use bitsandbytes quantization to save memory:
+
+```python
+from transformers import AutoModelForCausalLM, BitsAndBytesConfig
+
+model = AutoModelForCausalLM.from_pretrained(
+    "ybelkada/opt-350m-lora",
+    quantization_config=BitsAndBytesConfig(load_in_8bit=True),
+    device_map="auto",
+)
+```
+
+For 4-bit loading, replace load_in_8bit=True with load_in_4bit=True. device_map="auto" distributes the model across available hardware.
+
+Evidence: The tutorial’s “Load in 8bit or 4bit” section states both options and recommends device_map="auto"; its example passes BitsAndBytesConfig(load_in_8bit=True) through quantization_config.
+Source: https://huggingface.co/docs/transformers/v4.49.0/en/peft#load-in-8bit-or-4bit
+Screenshot: final.png

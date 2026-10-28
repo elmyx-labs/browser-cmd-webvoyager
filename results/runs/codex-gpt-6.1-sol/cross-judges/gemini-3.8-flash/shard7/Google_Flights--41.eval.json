@@ -1,0 +1,41 @@
+{
+  "id": "Google Flights--41",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Choose one way business class ticket from Hong Kong to Glacier National Park on 6 July 2027, offering a 1 stop ticket.",
+  "answer": "FINAL: Choose Cathay Pacific + Alaska, one way from Hong Kong (HKG) to Glacier Park International Airport (FCA), serving Glacier National Park, on 6 July 2027, with 1 stop in Seattle (SEA).\n\nDepart HKG at 1:25 PM on Cathay Pacific CX 852 in Business Class; arrive SEA at 10:20 AM. After a 2 hr 56 min layover, take Alaska AS 2072, operated by Horizon Air as Alaska Horizon, at 1:16 PM in First Class; arrive FCA at 3:35 PM the same day. Total journey: 16 hr 10 min. Times are local.\n\nGoogle Flights lists this itinerary under its Business search as “Business Class + First Class.” Search-result fare: RSD 604,688 for 1 adult. The selected itinerary's Cathay Pacific booking option showed RSD 604,337 (HK$44,912). No purchase was made.\n\nEvidence: final.png shows the Google Flights search with One way, Business, Tue Jul 6, the 1 stop or fewer filter, and the Cathay Pacific + Alaska itinerary. The departure year was confirmed in the date picker as Tuesday, July 6, 2027 and in the selected itinerary search date (2027-07-06).\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhogEgoyMDI3LTA3LTA2KAFqBwgBEgNIS0dyBwgBEgNGQ0FAAUgDcAGCAQsI____________AZgBAg&tfu=EgYIABAAGAA",
+  "response": "The evaluation is based on the following criteria from the task instruction:\n\n1. **Origin & Destination**: The search was conducted from Hong Kong (HKG) to Kalispell / Glacier Park International Airport (FCA), which is the primary airport serving Glacier National Park.\n2. **Trip Type & Date**: Selected as a \"One way\" flight departing on Tuesday, July 6, 2027.\n3. **Cabin Class**: Filtered for \"Business\" class (showing Business Class + First Class for regional leg).\n4. **Stops**: Filtered for 1 stop, and a specific 1-stop itinerary (via Seattle / SEA) was selected and detailed in the response.\n\nAll requirements specified in the task instruction are completely and accurately met.\n\nSUCCESS",
+  "reason_short": "The evaluation is based on the following criteria from the task instruction: 1. **Origin & Destination**: The search was conducted from Hong Kong (HKG) to Kalispell / Glacier Park International Airport (FCA), which is the primary airport se",
+  "screenshots": [
+    "task_447/final.png"
+  ],
+  "raw_screenshot": "task_447/final.png",
+  "source_result": "task_447",
+  "usage": {
+    "completion_tokens": 559,
+    "prompt_tokens": 1971,
+    "total_tokens": 2530,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 396,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0035745,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0035745,
+      "upstream_inference_prompt_cost": 0.00147825,
+      "upstream_inference_completions_cost": 0.00209625
+    }
+  },
+  "elapsed_seconds": 10.94
+}

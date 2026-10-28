@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Booking",
+    "id": "Booking--9",
+    "ques": "Find hotels for 2 adults in London with a price less than 250 dollars for four days starting from December 25. You must browse the page and offer at least 3 options.",
+    "web": "https://www.booking.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Three London hotels for 2 adults, 1 room, December 25–29, 2026 (4 nights), below US$250 per night:\n\n| Hotel | Room | Four-night total | Average per night |\n|---|---|---:|---:|\n| London Star Hotel | Double Room, 1 queen bed | US$415 | US$103.75 |\n| London Olympus Hotel Nirvana | Triple Room, 1 twin and 1 full bed | US$466 | US$116.50 |\n| Prince Regent Hotel Excel London | Standard Double Room, Annex Building, 30 seconds’ walk from main building | US$474 | US$118.50 |\n\nAll totals include taxes and fees. Nightly averages are totals divided by four. The US$250 limit follows Booking.com’s per-night budget filter; these options exceed US$250 for the entire stay.\n\nEvidence: final.png shows all three hotels, their prices, “4 nights, 2 adults,” London, December 25–29, USD, the US$60–US$250 nightly budget, and the applied Hotels, Private bathroom and Good: 7+ filters. Results are sorted by Price (lowest first). Viewed October 28, 2026.\n\nSource: https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaMEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALe3ofXBsACAdICJGExMWMwMDc1LTI4ODgtNDQxOC05NzJhLWJiMDY5NTIzNzJkNNgCAeACAQ&aid=304142&ss=London%2C+Greater+London%2C+United+Kingdom&efdco=1&lang=en-us&dest_id=-2601889&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=9a3a5a2f71570195&checkin=2026-12-25&checkout=2026-12-29&group_adults=2&no_rooms=1&group_children=0&nflt=price%3DUSD-min-250-1%3Bht_id%3D204%3Broomfacility%3D38%3Breview_score%3D70&order=price",
+    "result_text": "FINAL: Three London hotels for 2 adults, 1 room, December 25–29, 2026 (4 nights), below US$250 per night:\n\n| Hotel | Room | Four-night total | Average per night |\n|---|---|---:|---:|\n| London Star Hotel | Double Room, 1 queen bed | US$415 | US$103.75 |\n| London Olympus Hotel Nirvana | Triple Room, 1 twin and 1 full bed | US$466 | US$116.50 |\n| Prince Regent Hotel Excel London | Standard Double Room, Annex Building, 30 seconds’ walk from main building | US$474 | US$118.50 |\n\nAll totals include taxes and fees. Nightly averages are totals divided by four. The US$250 limit follows Booking.com’s per-night budget filter; these options exceed US$250 for the entire stay.\n\nEvidence: final.png shows all three hotels, their prices, “4 nights, 2 adults,” London, December 25–29, USD, the US$60–US$250 nightly budget, and the applied Hotels, Private bathroom and Good: 7+ filters. Results are sorted by Price (lowest first). Viewed October 28, 2026.\n\nSource: https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaMEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALe3ofXBsACAdICJGExMWMwMDc1LTI4ODgtNDQxOC05NzJhLWJiMDY5NTIzNzJkNNgCAeACAQ&aid=304142&ss=London%2C+Greater+London%2C+United+Kingdom&efdco=1&lang=en-us&dest_id=-2601889&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=9a3a5a2f71570195&checkin=2026-12-25&checkout=2026-12-29&group_adults=2&no_rooms=1&group_children=0&nflt=price%3DUSD-min-250-1%3Bht_id%3D204%3Broomfacility%3D38%3Breview_score%3D70&order=price",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_2/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_2",
+  "elapsed_seconds": 355.4285361766815,
+  "execution_error": null,
+  "proxy_bytes": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Google Flights--28",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the best-priced round-trip flight from Seattle to Paris, departing on July 27, 2027, and returning on August 1, 2027, with a maximum of one stop.",
+  "answer": "FINAL: The best-priced round trip found is Condor, Seattle (SEA)–Paris Charles de Gaulle (CDG), July 27–August 1, 2027, for US$1,204 total for one adult in economy, offered through Gotogate on Google Flights. There is one stop in Frankfurt (FRA) in each direction.\n\nOutbound: Tuesday, July 27, 5:45 PM from Seattle → Wednesday, July 28, 8:45 PM in Paris. Total 18 hours, including a 6-hour-45-minute Frankfurt layover.\nReturn: Sunday, August 1, 11:35 AM from Paris → 3:40 PM in Seattle the same day. Total 13 hours 5 minutes, including a 1-hour-20-minute Frankfurt layover. All times are local.\n\nEvidence: final.png shows the round-trip dates, Seattle–Paris route, “1 stop or fewer” filter, Cheapest tab, “Sorted by price,” and Condor as the lowest result at $1,204 round trip. The completed Google Flights booking options also confirmed Gotogate at $1,204 (RSD 127,071). Carry-on and checked bags cost extra.\n\nSearch source: https://www.google.com/travel/flights/search?tfs=CBwQAhoqEgoyMDI3LTA3LTI3KAFqDAgDEggvbS8wZDlqcnIMCAMSCC9tLzA1cXRqGioSCjIwMjctMDgtMDEoAWoMCAMSCC9tLzA1cXRqcgwIAxIIL20vMGQ5anJAAUgBcAGCAQsI____________AZgBAQ&tfu=EgoIAhAAGAAgAigB&curr=USD\nBooking source: https://www.google.com/travel/flights/booking?tfs=CBwQAhpuEgoyMDI3LTA3LTI3IiAKA1NFQRIKMjAyNy0wNy0yNxoDRlJBKgJERTIEMjAzMyIgCgNGUkESCjIwMjctMDctMjgaA0NERyoCREUyBDQzMDAoAWoMCAMSCC9tLzBkOWpycgwIAxIIL20vMDVxdGoabhIKMjAyNy0wOC0wMSIgCgNDREcSCjIwMjctMDgtMDEaA0ZSQSoCREUyBDQzMDMiIAoDRlJBEgoyMDI3LTA4LTAxGgNTRUEqAkRFMgQyMDMyKAFqDAgDEggvbS8wNXF0anIMCAMSCC9tLzBkOWpyQAFIAXABggELCP___________wGYAQE&tfu=CnhDalJJVUVneFVsbDNia1pHVlVWQlFVOW1kSGRDUnkwdExTMHRMUzB0TFdWbVpXMHhOVUZCUVVGQlIzSm9SMTkzVEZSUmEzZEJFZzFFUlRRek1ETjhSRVV5TURNeUdnc0locXdIRUFJYUExVlRSRGdjY0lhc0J3PT0SBggCIAIoASIA&curr=USD",
+  "response": "Based on the provided screenshot and response:\n\n1. **Route & Dates**: The search correctly configured a round-trip flight from Seattle to Paris, departing Tuesday, July 27, 2027, and returning Sunday, August 1, 2027.\n2. **Stops Constraint**: The \"1 stop or fewer\" filter was enabled.\n3. **Price/Best Option**: The flights were sorted by price under the \"Cheapest\" tab, identifying the lowest-priced option: Condor via Frankfurt (FRA) for $1,204 round-trip.\n4. The response accurately details the flight timings, airline, layover details, and total cost matching the evidence.\n\nSUCCESS",
+  "reason_short": "Based on the provided screenshot and response: 1. **Route & Dates**: The search correctly configured a round-trip flight from Seattle to Paris, departing Tuesday, July 27, 2027, and returning Sunday, August 1, 2027. 2. **Stops Constraint**:",
+  "screenshots": [
+    "task_434/final.png"
+  ],
+  "raw_screenshot": "task_434/final.png",
+  "source_result": "task_434",
+  "usage": {
+    "completion_tokens": 501,
+    "prompt_tokens": 2356,
+    "total_tokens": 2857,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 350,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00364575,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00364575,
+      "upstream_inference_prompt_cost": 0.001767,
+      "upstream_inference_completions_cost": 0.00187875
+    }
+  },
+  "elapsed_seconds": 16.73
+}

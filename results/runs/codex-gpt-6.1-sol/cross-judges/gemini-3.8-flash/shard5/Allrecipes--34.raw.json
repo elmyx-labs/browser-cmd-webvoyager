@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209915-dxbs9dmseH7ExBT8ViFe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided task instruction, screenshot, and result response:\n\n1. **Recipe Location & Criteria**: The screenshot clearly shows the recipe \"Lemon-Rosemary Salmon\" under the breadcrumb category `MAIN DISHES > SEAFOOD MAIN DISHES > SALMON > BAKED SALMON RECIPES` on Allrecipes. It has a rating of 4.7 stars (exceeding 4.5 stars) and 285 reviews (exceeding the requirement of at least 50 reviews).\n2. **Seasoning/Herb & Cooking Time**: The result response notes the primary herb (fresh rosemary) and the estimated cooking time (15 minutes), fulfilling the remaining requirements of the prompt.\n\nAll conditions specified in the task have been met accurately.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching for Salmon**\n\nI’ve navigated to the seafood main dishes section on Allrecipes, focusing on locating a highly-rated baked salmon recipe with substantial review volume. The next step involves refining my search within this category.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching for Salmon**\n\nI’ve navigated to the seafood main dishes section on Allrecipes, focusing on locating a highly-rated baked salmon recipe with substantial review volume. The next step involves refining my search within this category.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209915,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 506,
+    "prompt_tokens": 1745,
+    "total_tokens": 2251,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 341,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00320625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00320625,
+      "upstream_inference_prompt_cost": 0.00130875,
+      "upstream_inference_completions_cost": 0.0018975
+    }
+  },
+  "provider": "Google"
+}

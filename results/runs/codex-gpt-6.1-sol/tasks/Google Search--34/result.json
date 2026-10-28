@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Search",
+    "id": "Google Search--34",
+    "ques": "Determine the distance from Earth to Mars as of today's date.",
+    "web": "https://www.google.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: On October 28, 2026 at 00:00 Europe/London, the Earth–Mars distance is approximately 219.11 million kilometres.\n\nEvidence: TheSkyLive’s Mars planetarium displays “28-Oct-2026 00:00”, “Object: Mars”, and “Earth Dist: 219.11 MKm” together. Source: https://theskylive.com/planetarium?obj=mars&date=2026-10-28&h=00&m=00 . The supporting viewport screenshot is final.png.",
+    "result_text": "FINAL: On October 28, 2026 at 00:00 Europe/London, the Earth–Mars distance is approximately 219.11 million kilometres.\n\nEvidence: TheSkyLive’s Mars planetarium displays “28-Oct-2026 00:00”, “Object: Mars”, and “Earth Dist: 219.11 MKm” together. Source: https://theskylive.com/planetarium?obj=mars&date=2026-10-28&h=00&m=00 . The supporting viewport screenshot is final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_521/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_521",
+  "elapsed_seconds": 186.46719098091125,
+  "execution_error": null,
+  "proxy_bytes": null
+}

@@ -1,0 +1,27 @@
+FINAL: Zenyx-100M-Base, created by Anamitra Sarkar (Arko007), was the most recently updated open-source NLP model project in the Hugging Face listings checked. Its latest update was October 27, 2026 at 23:33:24 UTC, and its license is Apache-2.0.
+
+The project is a 151-million-parameter language model trained from scratch on web, code and mathematics text. It generates text continuations and includes a self-contained PyTorch loader with examples for arithmetic and Python code generation. Pre-training is ongoing.
+
+Evidence:
+- Project, functionality and license: https://huggingface.co/Arko007/Zenyx-100M-Base
+- Creator's profile identifies Arko007 as Anamitra Sarkar: https://huggingface.co/Arko007
+- Latest file-history timestamp: https://huggingface.co/Arko007/Zenyx-100M-Base/tree/main
+- final.png shows Zenyx first with Text Generation, the Apache-2.0 filter selected, its update age and “Recently updated” sort: https://huggingface.co/models?pipeline_tag=text-generation&license=license:apache-2.0&sort=modified
+
+Comparison scope: Hugging Face model repositories across all 12 NLP task categories. Each category was sorted “Recently updated” WITHOUT a license restriction, so discovery included every open-source license. The newest entries observed were:
+
+Task | Newest result's update age when checked
+Text Generation | Zenyx-100M-Base — less than a minute
+Feature Extraction | TB22427/MyAwesomeModel-TestRepo — 1 minute
+Text Classification | Aravindhan11/tin — 2 minutes
+Translation | rodinaahmed30/qwen1.5b-masri-lora-1024-9.0e-4r — 4 minutes
+Question Answering | AI999X/time-series-ai999x — 11 minutes
+Sentence Similarity | Ehsanl/Qwen3-4B-v3 — 25 minutes
+Token Classification | mycroft3000/xlm-roberta-base-finetuned-panx-de — about 1 hour
+Fill-Mask | ania3000/tjbert-demo — about 2 hours
+Text Ranking | hmzprover/hpsearch-rerank-4b-state-v2 — about 5 hours
+Zero-Shot Classification | dleemiller/finecat-nli-v2-l — about 7 hours
+Summarization | Mouserat/titlerat — about 18 hours
+Table Question Answering | prereasoner/prereasoner-weights — 2 days
+
+These comparisons were read on October 27, 2026 from each task's Models listing using pipeline_tag=<task>&sort=modified. The unrestricted Text Generation listing also gave exact update times: Zenyx 23:33:24 UTC; the next result, MoonMath-ai/GLM-5.3-Uncensored-FP8, 23:32:58 UTC. Source: https://huggingface.co/models?pipeline_tag=text-generation&sort=modified . The Apache-2.0 filter was applied after the cross-category comparison for the final screenshot.

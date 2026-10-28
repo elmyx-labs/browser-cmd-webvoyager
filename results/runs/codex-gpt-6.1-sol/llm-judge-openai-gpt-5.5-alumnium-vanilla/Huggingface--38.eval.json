@@ -1,0 +1,31 @@
+{
+  "id": "Huggingface--38",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Investigate the 'transformers' library in the Hugging Face documentation, focusing on how to add new tokens to a tokenizer.",
+  "answer": "FINAL: In Hugging Face Transformers, add new vocabulary entries with tokenizer.add_tokens(...), then resize the model's token embeddings to len(tokenizer).\n\nThe English tokenizer API documentation, version v5.21.0, was checked on October 27, 2026.\n\nExample adapted from the documentation:\n    from transformers import BertTokenizerFast, BertModel\n\n    tokenizer = BertTokenizerFast.from_pretrained(\"google-bert/bert-base-uncased\")\n    model = BertModel.from_pretrained(\"google-bert/bert-base-uncased\")\n\n    num_added = tokenizer.add_tokens([\"new_tok1\", \"my_new-tok2\"])\n    model.resize_token_embeddings(len(tokenizer))\n\nadd_tokens accepts a string, an AddedToken, or a sequence of either. It adds only entries absent from the vocabulary, appends new entries to the end, and returns the number actually added. AddedToken lets you customize matching and whitespace behavior. The special_tokens argument defaults to False.\n\nThe resize call must receive the full updated tokenizer length, rather than num_added. The documentation explicitly demonstrates model.resize_token_embeddings(len(tokenizer)).\n\nFor a token with a special role, use a dictionary with add_special_tokens:\n    tokenizer.add_special_tokens({\"cls_token\": \"<CLS>\"})\n    model.resize_token_embeddings(len(tokenizer))\n\nThis also registers the role as a tokenizer attribute (tokenizer.cls_token in this example). The add_special_tokens documentation explicitly states that special tokens are \"never split\"; they can also be omitted during decoding with skip_special_tokens=True.\n\nSources:\nhttps://huggingface.co/docs/transformers/v5.21.0/main_classes/tokenizer#transformers.PythonBackend.add_tokens\nhttps://huggingface.co/docs/transformers/v5.21.0/main_classes/tokenizer#transformers.PythonBackend.add_special_tokens\n\nScreenshot evidence: final.png shows the vocabulary-expansion example and embedding resize call, followed by the add_special_tokens API and its explicit statements that special tokens can be skipped during decoding and are never split.",
+  "response": "The task was to investigate the Hugging Face Transformers documentation, specifically how to add new tokens to a tokenizer.\n\nThe result response directly addresses this by explaining:\n\n- Use `tokenizer.add_tokens(...)` to add regular new tokens.\n- Call `model.resize_token_embeddings(len(tokenizer))` afterward so the model embedding matrix matches the expanded tokenizer vocabulary.\n- Use `tokenizer.add_special_tokens({...})` for special-role tokens such as `cls_token`.\n- Special tokens are not split and can be skipped during decoding with `skip_special_tokens=True`.\n\nThe screenshot supports the response: it shows the Hugging Face Transformers tokenizer documentation with an example adding tokens via `tokenizer.add_tokens([\"new_tok1\", \"my_new-tok2\"])` and then resizing embeddings with `model.resize_token_embeddings(len(tokenizer))`. It also shows the `add_special_tokens` section and documentation explaining special token handling.\n\nThe task did not require performing any additional action beyond investigating and reporting the relevant documentation guidance. The provided response is consistent with the screenshot and fulfills the requested focus.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to investigate the Hugging Face Transformers documentation, specifically how to add new tokens to a tokenizer. The result response directly addresses this by explaining: - Use `tokenizer.add_tokens(...)` to add regular new toke",
+  "screenshots": [
+    "task_564/final.png"
+  ],
+  "raw_screenshot": "task_564/final.png",
+  "source_result": "task_564",
+  "usage": {
+    "completion_tokens": 422,
+    "prompt_tokens": 2817,
+    "total_tokens": 3239,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 196,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.02
+}

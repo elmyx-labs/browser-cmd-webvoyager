@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210378-bc8pFN639vELArT5GTao",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task requested finding a one-way economy flight from Auckland (AKL) to Honolulu (HNL) on July 25, 2027, browsing the results, and displaying the flight option with the most stops.\n\nThe provided screenshot confirms:\n- One-way, Economy, 1 passenger from Auckland (AKL) to Honolulu (HNL) on July 25, 2027.\n- A flight option with 4 stops (WLG, SYD, NAN, CXI) operated by Air New Zealand and Fiji Airways departing at 9:40 PM and arriving at 10:50 AM (+2 days) for RSD 87,613, which is clearly displayed and identified in the result response.\n\nAll requirements have been met accurately.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Locating Flight Options**\n\nI've zeroed in on the initial parameters: a one-way economy flight from Auckland (AKL) to Honolulu (HNL) on July 25, 2027. I'm prioritizing the flight with the highest number of stops from the results. I'm focusing on the screen data to extract and present a suitable option.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Locating Flight Options**\n\nI've zeroed in on the initial parameters: a one-way economy flight from Auckland (AKL) to Honolulu (HNL) on July 25, 2027. I'm prioritizing the flight with the highest number of stops from the results. I'm focusing on the screen data to extract and present a suitable option.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EvoJCvcJAWkUfROGuxWvJQ8HvhKqFWcWJ6ypTuloMg2ueVMaW4wfkwDM1ValnTMY0LoFyyFx5SOKvCoIgzhlbbklJxBpMFZWFRioL088W9lzbJ9jn4s1ZI5a1PvUr8ic69itw+/lv+Ez9uZkUb9OAAkgFggBEWps8SCfBAbg1GPudvlHpQin1Hdnxpre7SuVwcYf/2o1cUXgIUTEOAdIIIB7gfxEFPIc+nPOyDLR4Eme4ZqBlzdb7odDkEV0/3/qGVJVdcIQfU8XfG2RsqxF0s82rV0nzfE6rn2DJaGlNRk1N+DxRIyHY50RtB3iwTe3nLt7N532lUBiDMJRO4Bo6TjDA+zbZamj1Kq25MmQGpjhs9OVHXmNPMpvFL2EEyLfrZicVCa3aji2VPsGgTUrjbD26GhUDMrk+nSm/LTiPagbPp8AXQMU2Mifu+SDp2kigXNfMQo8XyZ9n/cb7AkSywi/G8EAPcMDzAvplR1LLrVBSA84zCkggsIuuXboxDZtwhLXsVxUBxW0uxvrcV0SP/ts8boZ7/btAiNyw9cmCWI6CGYKr4Vp7+DvyIMroJgcImreWNS2V8IVOP0LJkqD/hreTsyy906VdHo0XZrCAAvCyEwmWO3whefOSuwOUA1qWW+lKK5px1eMShdu/Z3fUC3BNfJnFLK3YhBbVacF5yAwirgKAFYVf5WrMkMA40ESjMBKbAoGlrfvOMlNUdPr0NGEIW4yWaZBT7NPA/dnH76j9hviySn5wMzfHecXnLH0Fe20zWojjCI/Ak5eW0G/1Q0SnFaMrCDyv9kGSHRCN+vVVQzUInhW5Zn3Nqn0rT0mWHsABFqcWvSI0o87Diexiv4uXrV2U9KgRdLPvuw6zT/k26kU5pwuIJSM4EsoMe5m2pHCpi4alejBSFhQlrafRIP3QTWhW1w62S1qn7RZtCp4QMw6gZn7hcu72xdZmAXd0vHPppiN7HiDRPYcR0OmBc7BqFneW5UCQkIuQRxapdctPwpH35hm+T5uZfcpaWG3oEpnz0yX6Zl5fuQ4TtXxL35nXKYJm4yWU1f4kpCehvGnelOscdj17zmyCst982CT/uO499Nx+BTNSikh/wuejDgu9dJoFHDVowdfDj8Gxrjwwg3sF2IfPZXo0m6nYELtmLb2ZNHKRo+J3z7bF7leT/UgzmXPKt1sF+/aO8qvvYC1rHj0H/zRSNpLZXcRYy52rY8r7VjCKN8p5PI09Cbweg5qOPc+N0LdXhLXHuYooArZnOSJlouH1fH9vFnv7jYIdNXWVX2+3ppj7zomuaeMBmGI0kPT88B32xcR7PXaOxI0s5oe5xLzArWotg3fevCxfSuY5DSPTvQR3Joh8LMrKAMcAqrCqDRsoJEbG6h4ypn5Hm8WhMUqtMzWpjmjNTYmzZL4FRjY1LlQinl2eKG31RtmXT6S6Tq68vJv/QO3a/9Jjg1lf5NwAkS49kdLk8re1IFlgiuiH53CwSpdWNuoymlowyoEU3BvVx5K9unaXdZgPU4TJM8z/mKeh8xBDhga5K++MSXGhrSbQbAgwcn2cfisEJHRYGTbotgEIF6yeX8VmRyITRPgaTlF2VL7130esb7773NyXbqNbF/z8NkUIDwEzgggL6/PXlD8QjhVj5OM12pBkJJW3S2bJOSpMmg9N9LAvj780EP8KYGJlJ1WcvxPY7W9l0TIx192wQg=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210378,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 496,
+    "prompt_tokens": 1854,
+    "total_tokens": 2350,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 325,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0032505,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0032505,
+      "upstream_inference_prompt_cost": 0.0013905,
+      "upstream_inference_completions_cost": 0.00186
+    }
+  },
+  "provider": "Google AI Studio"
+}

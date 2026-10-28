@@ -1,0 +1,5 @@
+[x] Search ArXiv for papers with 'Graph Neural Networks' in the abstract — search results query says AND abstract="Graph Neural Networks"; URL recorded in NOTES.md and ANSWER.txt.
+[x] Submitted between Jan 1, 2024, and Jan 3, 2024 — date_range: from 2024-01-01 to 2024-01-03, original submission date selected; all three records say Submitted on 1 Jan 2024.
+[x] Determine how many of these papers have more than five authors — 2: https://arxiv.org/abs/2401.00755 lists seven names; https://arxiv.org/abs/2401.00713 lists ten names; https://arxiv.org/abs/2401.01384 lists two.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing names, deciding facts, filters and dates — final.png is the browser viewport at 1280×723; search query, date range, sort, all three titles, author lists and original submission dates are visible.
+[x] Write the result and evidence to ./ANSWER.txt — first line FINAL: 2 papers; includes titles, counts, dates, sources, and screenshot filename.

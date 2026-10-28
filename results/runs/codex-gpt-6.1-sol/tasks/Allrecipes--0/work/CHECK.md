@@ -1,0 +1,6 @@
+- [x] Provide a recipe for vegetarian lasagna. Spinach Lasagna: spinach, mushrooms, tomato pasta sauce, cheeses, no meat; choose vegetarian rennet cheeses. https://www.allrecipes.com/recipe/22729/spinach-lasagna-iii/
+- [x] More than 100 reviews. Page: “500 Reviews”. Same URL.
+- [x] A rating of at least 4.5 stars. Page: “4.7”. Same URL.
+- [x] Suitable for 6 people. Page: “Servings: 12” and selected “1/2x”; 12 × 1/2 = 6. Same URL.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with recipe name and deciding facts visible together and no overlay. final.png: 698×1280, genuine 900×1650 viewport reduced uniformly; name, 4.7, 500 Reviews, Servings 12, selected 1/2X visible. No pop-up/dialog over the recipe; site ads occupy their own page space.
+- [x] Write result and evidence in ./ANSWER.txt. Completed.

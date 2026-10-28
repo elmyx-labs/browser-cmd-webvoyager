@@ -1,0 +1,4 @@
+[x] Find 5 beauty salons in Seattle, WA. — Names, full Seattle WA addresses, and Google Maps URLs in ANSWER.txt and NOTES.md.
+[x] Each has a rating greater than 4.8. — Lady Neptune 5.0; 13th House 4.9; Aurora Beauty 5.0; Stone Atelier 4.9; R&R Studio 4.9. Exact source words and URLs in NOTES.md.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with name and deciding facts visible and no overlay. — Google Maps 13th House profile: "13th House", "4.9", "Beauty salon", "1315 E Pine St, Seattle, WA 98122, United States"; final.png 1280 px wide. https://www.google.com/maps/search/13th+House+Seattle/?hl=en
+[x] Write results and evidence to ./ANSWER.txt, first line beginning FINAL:. — Complete table of 5 salons, ratings, counts, addresses, sources and screenshot evidence.

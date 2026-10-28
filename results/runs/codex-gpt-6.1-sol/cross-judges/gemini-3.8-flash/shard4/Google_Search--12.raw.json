@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210440-B1hLSccT93pTRIbCidKY",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find the year that Tom Brady had the most touchdowns in a single season.\n\nThe screenshot shows a search on StatMuse indicating that Tom Brady had his most touchdowns in a season in 2007, totaling 50 passing touchdowns. The Result Response accurately reports the year 2007 along with the relevant context.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Brady's Touchdowns**\n\nI've successfully identified Tom Brady's peak touchdown season. It was 2007, with an impressive 50 passing touchdowns, surpassing even his 2021 performance.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Brady's Touchdowns**\n\nI've successfully identified Tom Brady's peak touchdown season. It was 2007, with an impressive 50 passing touchdowns, surpassing even his 2021 performance.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/sEaLzz4pPXthHdlCdRluvR3yjmK8GA/nzFncvyX3HGmUYk6ke2acy7UaCr04WVqNPGbrLoxStsm2n5XcreBb5YOQDs/CqWv4zTFyST8YrkLbd6VyYuMcYFPLbwRtc+jX4NWa8HVdlpBPYfMaw0NN1OdVT19rA+mrx5leVU30MbWr5mZtQzQtUgoqZ22kVIpTJP7nKikZZrXkExaRHS9IQOE7gkqLVZxCVxbU0wNwgum2eK/jc3OUNO7K9hoxSC/FyYNa3wUr/RNCK1XF+2ppf/+RQGX6d56n0hKh+HEH3QJcQ85KLgq/iV9Ii8KIZPvnpsJJ+LiBQl/qv6+ElCHvB+FRPnL/p8Atmkv4tUw6GdcJJfDRVdM53I8GFgWFuj7AwDgKkinERiPr/Teg7hPq78QE9Of/3AOgrxFjxemvD+gC2FTyFh5WVoVfkD8d3LHMt7qpgT5To2GBc+Gkql1nPJbyYZhw7wLksynjqykI1mPRtiLw8nxMjblUsEo4Gi00Nlc0kF5n88d9DuVzQfXPB8GyPMToM0TBIzT1D5A1ainFbjezCs1wpYtMbHQpoRKbYTqQUvdgHyyZaTx81o3h91afzlM+6QO4tsztpzy9xSCySJUX77IDW413swlFMhKEkGOoxKvDBBG6Ao3GZvtbeXjxTTuZvNlh45036kAa/fOwCGK28fRrXhOd7d8lbiNdlu0BEqVxTbBEZYxtt7g01yP1TlPDIwp6KC/jNU71S1+69HIMj+UtfkXkf4pt3v/0S+1wp5zqZVGNkr8IIgV5cXR/9NNPhDgUY+dyLu6ca01kSMuOLHTAem+6izVP5AbL6bKO8+TC5WoY+9Gj6pnx9lrxHCmjMHVnysdhhigCb573GMUW+H8TE8DKpmWSUrVk1/2TiwE1AmPSkNXv+LGRPm8Aq61P6sZMq/m0Ywx32AsxzNTGKghp0ZznuH2MsxnXlpfKRwu5fX/+iHRIeJjnILM7Lip6evsvLYQZNPjQ96BC2U9ngv+WW4wePwjINJ+fQmy+g7xNJqcDHD9hgQ+pvEKQwViRCxQYQVwtSThFfzvO25avdU3G9kg==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210440,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 259,
+    "prompt_tokens": 1667,
+    "total_tokens": 1926,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 176,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0022215,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0022215,
+      "upstream_inference_prompt_cost": 0.00125025,
+      "upstream_inference_completions_cost": 0.00097125
+    }
+  },
+  "provider": "Google"
+}

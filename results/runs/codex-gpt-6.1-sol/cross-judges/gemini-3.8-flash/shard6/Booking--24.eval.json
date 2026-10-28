@@ -1,0 +1,41 @@
+{
+  "id": "Booking--24",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a hotel in Barcelona for a stay from February 25-28, 2027. Please sort the results by distance from the beach and make sure they offer free Wi-Fi and breakfast.",
+  "answer": "FINAL: Eurohotel Diagonal Port in Barcelona — February 25–28, 2027 (3 nights; 2 adults, 1 room).\n\nIt is the first result after sorting by “Distance from closest beach” with “Hotels”, “Free Wifi”, and “Breakfast included” applied. The listing is marked “Beachfront”; the Standard Double or Twin Room includes breakfast and free cancellation.\n\nDisplayed price: RSD 62,741 plus RSD 6,514 in taxes and fees for the stay.\n\nSource: https://www.booking.com/searchresults.html?ss=Barcelona&dest_id=-372490&dest_type=city&checkin=2027-02-25&checkout=2027-02-28&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bmealplan%3D1%3Bhotelfacility%3D107&order=closest_beach_distance_v2\nHotel: https://www.booking.com/hotel/es/rafaeldiagonal.html?checkin=2027-02-25&checkout=2027-02-28&group_adults=2&no_rooms=1&group_children=0\nEvidence: final.png shows the selected dates, all three applied filters, beach-distance sort, and the hotel's beachfront and breakfast details together.",
+  "response": "**Evaluation:**\n\nThe search was conducted for Barcelona with the requested dates (February 25–28, 2027). The listings are sorted by distance from the closest beach, and filters for free Wi-Fi and breakfast included are actively applied. A qualifying hotel matching all criteria is clearly displayed and identified.\n\n**Verdict:** SUCCESS",
+  "reason_short": "**Evaluation:** The search was conducted for Barcelona with the requested dates (February 25–28, 2027). The listings are sorted by distance from the closest beach, and filters for free Wi-Fi and breakfast included are actively applied. A qu",
+  "screenshots": [
+    "task_222/final.png"
+  ],
+  "raw_screenshot": "task_222/final.png",
+  "source_result": "task_222",
+  "usage": {
+    "completion_tokens": 349,
+    "prompt_tokens": 1943,
+    "total_tokens": 2292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 278,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002766,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002766,
+      "upstream_inference_prompt_cost": 0.00145725,
+      "upstream_inference_completions_cost": 0.00130875
+    }
+  },
+  "elapsed_seconds": 7.18
+}

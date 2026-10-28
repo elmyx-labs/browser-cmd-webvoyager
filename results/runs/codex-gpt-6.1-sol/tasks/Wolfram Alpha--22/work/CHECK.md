@@ -1,0 +1,3 @@
+- [x] Determine the area of a regular hexagon with a side length of 7 cm. WolframAlpha https://www.wolframalpha.com/input?i=area+of+regular+hexagon+side+length+7+cm shows “regular hexagon”, “edge length 7 cm”, and “147√3/2 cm² ≈ 127.306 cm²”.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the name and decisive values visible and no overlay. final.png is 1280 × 723 and shows the WolframAlpha input interpretation and result together.
+- [x] Write the result and evidence to ./ANSWER.txt. Saved exact and approximate areas, WolframAlpha source URL, and final.png evidence.

@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyaSLiOdThbFTrcgcd1O5cqUfhpv",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to investigate the trade-in value for an iPhone 13 Pro Max on Apple’s website.\n\nThe screenshot shows Apple’s iPhone trade-in values list, including the row:\n\n- “iPhone 13 Pro Max — Up to $320”\n\nThe screenshot also includes the relevant footnote explaining that trade-in values depend on condition, year, configuration, eligibility, and receipt of a qualifying device, which matches the caveats described in the Result Response.\n\nThe Result Response accurately reports the visible value and appropriately frames it as a maximum estimate rather than a guaranteed amount.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196396,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 231,
+    "prompt_tokens": 1746,
+    "total_tokens": 1977,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

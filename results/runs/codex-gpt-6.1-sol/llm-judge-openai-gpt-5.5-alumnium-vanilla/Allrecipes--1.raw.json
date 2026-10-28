@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyVg4CXS0a1lGTGqG83Nhyiz4k1O",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find a vegetarian lasagna recipe with at least a four-star rating that uses zucchini.\n\nThe screenshot shows an Allrecipes page for **“Debbie’s Vegetable Lasagna”** under the breadcrumb/category **Vegetarian Lasagna Recipes**. The visible rating is **4.7**, which satisfies the requirement of at least four stars. In the ingredients list, it includes **“2 cups coarsely chopped zucchini,”** satisfying the zucchini requirement.\n\nThe result response accurately identifies the recipe and provides the relevant evidence.\n\n**Verdict: SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196100,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 242,
+    "prompt_tokens": 1527,
+    "total_tokens": 1769,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 121,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

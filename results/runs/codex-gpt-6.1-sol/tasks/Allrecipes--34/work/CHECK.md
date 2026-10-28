@@ -1,0 +1,7 @@
+- [x] Locate a baked salmon recipe on Allrecipes. https://www.allrecipes.com/recipe/80388/lemon-rosemary-salmon/ — "Lemon-Rosemary Salmon", "Baked Salmon Recipes".
+- [x] At least 50 reviews. Same URL — "285 Reviews".
+- [x] A rating of 4.5 stars or higher. Same URL — "4.7", "426 Ratings".
+- [x] Note the primary seasoning or herb used. Same URL — "4 sprigs fresh rosemary", "1 lemon, thinly sliced".
+- [x] Note the estimated cooking time. Same URL — "Cook Time: 15 mins", "Total Time: 25 mins".
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the recipe name, rating and review count together and no overlay. final.png is 1280x723 and shows "Lemon-Rosemary Salmon", "4.7", "285 Reviews". No filters, sorts, or date restrictions were applied.
+- [x] Write the result and its evidence to ./ANSWER.txt. Saved with source URL and verified date.

@@ -1,0 +1,3 @@
+[x] Use Wolfram alpha to write the expression of the ellipse x^2 + 3 y^2 = 4 rotated 33 degrees counterclockwise. URL: https://www.wolframalpha.com/input?i=rotate+x%5E2+%2B+3+y%5E2+%3D+4+by+33+degrees+counterclockwise — “angle | 33 ° (counterclockwise)”, “center | (0, 0)”; “Transformed curve” shown in NOTES.md and final.png.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the query and deciding result together. final.png shows input, interpretation, and transformed curve together.
+[x] Write the result and its evidence to ./ANSWER.txt. ANSWER.txt contains the rearranged equation, Wolfram Alpha output, source URL, and evidence image filename.

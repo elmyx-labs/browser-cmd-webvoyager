@@ -1,0 +1,3 @@
+[x] Find a dog bed on Amazon that is washable and has a length of at least 30 inches. https://www.amazon.com/POCBLUE-Deluxe-Washable-Fluffy-Anti-Slip/dp/B0C4T4LCWM/ — “Machine Washable”; “35\"L x 23\"W x 3.5\"Th”.
+[x] Save one genuine screenshot as ./final.png, shrunk to about 1280 px on its long side, of the product page viewport showing the item's name, washable care, and length together with no overlay. final.png is 1280 x 880 and shows name, selected size, Special Feature and Product Dimensions.
+[x] Write the result and its evidence to ./ANSWER.txt. ANSWER.txt contains result, exact specifications, source URL and evidence image.

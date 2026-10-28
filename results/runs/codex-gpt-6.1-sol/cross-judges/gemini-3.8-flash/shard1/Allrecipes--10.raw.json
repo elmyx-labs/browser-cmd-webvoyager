@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209904-LjhaZUWWc0NNNCfuwOiZ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find \"The Most Popular Recipes of the 1960s\" collection, and note the recipe name, preparation time, and total time of the second recipe in this collection.\n\nBased on the provided screenshot and response:\n- Recipe Name: Swedish Meatballs I\n- Prep Time: 25 mins\n- Total Time: 1 hr 25 mins\n\nAll required details were found and accurately reported.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Processing Recipe Details**\n\nI’m currently processing the specific details for the second recipe, Swedish Meatballs I. I have logged its preparation time as 25 minutes and its total time as 1 hour and 25 minutes.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Processing Recipe Details**\n\nI’m currently processing the specific details for the second recipe, Swedish Meatballs I. I have logged its preparation time as 25 minutes and its total time as 1 hour and 25 minutes.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+PKVvpKmTlsMcqPCsnvf7PIIcoWgWmLKplPNDPo9FKDWmxHoYvubOMmWQxsG5/dLXecrcHh2Oec197OmGZub3lgQCAv67uVlZJm+QUN+uBdUcMny3wsRm/nHjVKu0PPKVcvF0rdkSYN9KBA4eldiG4ymisyna75c1ZfuCsBObC0HVhK9u576pvFe8nFJrrjoZ4hLZq26AVYRn6vGYw1mJ6ojs0qwYA14GHXJbQQmfuzwKUOojyFP/w2mO1mcJ7+D5iSplH4ow0yqeq0uNkOHPJvIQlVG8NVIWjAEOdTE0YMqJSi/s7H18+wNrMEiXs292gqlYvN6Ay994dLdCzlqDMy7XayoYrw1myaRIx8ZEi1R6uHO6QkCHjFSEHvYmxfm5SwsTuaw/zjImv2zFLjqQ2jVfGs8z5PBGI3siQbRUBsrmZtLlhAvPunartQrUmriEbFf97FYs+9HkMKhWR4xiYckmH8geuyDD4VnrQfneAy+CTmFtvSsSU5XNq0JuPN/PwmBRN4ex1QDXANBWzKLqEnYtnQK6CsQX/6hUlDfUwPSNEW8mODmpWXmhGlEOEduS14ZdeiaynuWaeV4HhWyVVf+jSIBkh9ZsNWzHUsGlAwrfAuhSmLkfe3B4MJprqcnBElxj2djSm6bpjO8WQ8SFqA81AlnWhiTxD1cqMpQQfKKqjPscV4UJ0tpjZ3gr/seJ6zKgQVzleNweoGpbcC62Ff2U9RvboSd/rdoR311NJ35Vtm1KG3yOk6/c0wlrn6zrxIcR6nMbv5DIWJ360miP2Fjt21x1LFSsN8cy+tXlei/PL0wcE3WCcxplefKxwvPo24Y7M7WFuCaM6NcT5dV6gd09GtQfBIzijmn+11vH6XsggQ4E/c3q/93ggI3PRj5jClLPUdsnKVKoRHxjIeRU0m6d6s8mZLKL0ZdXyGlFPyrfPjR6Z2QogDf0em0LFPw8GOiI5AVjJPxorHVGrb5eCDaZE1kGUBlJDR3VSkaLov36NmLS6YTKxTYFHBPy8ZKXujwEtT7fa3SaCggNFugf5Tg==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209904,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 251,
+    "prompt_tokens": 1724,
+    "total_tokens": 1975,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 159,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00223425,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00223425,
+      "upstream_inference_prompt_cost": 0.001293,
+      "upstream_inference_completions_cost": 0.00094125
+    }
+  },
+  "provider": "Google"
+}

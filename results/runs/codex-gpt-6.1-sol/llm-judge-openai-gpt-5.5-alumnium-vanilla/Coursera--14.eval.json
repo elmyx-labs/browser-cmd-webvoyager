@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--14",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a course on Coursera related to Introductory Project Management that includes modules on Agile methodology.",
+  "answer": "FINAL: Foundations of Agile Project Management, offered by Google on Coursera, matches the request. This beginner-level, 3-hour course includes three modules:\n1. Introduction to Agile Project Management\n2. Adopting an Agile Mindset\n3. Explore Popular Agile Frameworks\nModule 1 explicitly covers Agile versus Waterfall and the Agile Manifesto’s four values and twelve principles. The course overview also covers Scrum, Kanban, XP, and Lean.\nSource: https://www.coursera.org/learn/google-foundations-of-agile-project-management\nVerified October 27, 2026. Evidence: final.png shows the course title, provider, all three modules, and Module 1’s Agile content.",
+  "response": "The task was to find a Coursera course related to introductory project management that includes modules on Agile methodology.\n\nThe provided result identifies **“Foundations of Agile Project Management”** offered by **Google** on Coursera. The screenshot supports this by showing:\n\n- Course title: **Foundations of Agile Project Management**\n- Modules tab open\n- Modules listed:\n  1. **Introduction to Agile Project Management**\n  2. **Adopting an Agile Mindset**\n  3. **Explore Popular Agile Frameworks**\n- Module 1 description explicitly mentions Agile project management, Agile vs. Waterfall, and the Agile Manifesto.\n\nThis clearly satisfies the requirement of being related to introductory project management and including Agile methodology content.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The task was to find a Coursera course related to introductory project management that includes modules on Agile methodology. The provided result identifies **“Foundations of Agile Project Management”** offered by **Google** on Coursera. Th",
+  "screenshots": [
+    "task_297/final.png"
+  ],
+  "raw_screenshot": "task_297/final.png",
+  "source_result": "task_297",
+  "usage": {
+    "completion_tokens": 370,
+    "prompt_tokens": 1729,
+    "total_tokens": 2099,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 207,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.39
+}

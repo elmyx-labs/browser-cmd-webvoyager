@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Allrecipes",
+    "id": "Allrecipes--20",
+    "ques": "Find a recipe for a cauliflower pizza crust that has a preparation time of under 30 minutes and a rating of at least 4 stars on Allrecipes. Include the number of calories per serving.",
+    "web": "https://www.allrecipes.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Allrecipes’ Cauliflower Pizza Crust meets the requirements: prep time is 15 minutes (under 30), its rating is 4.2/5 stars from 295 ratings, and it has 59 calories per serving.\n\nThe recipe yields 6 servings. Total time, including cooking and cooling, is 1 hour.\n\nSource: https://www.allrecipes.com/recipe/232930/cauliflower-pizza-crust/\nEvidence: The recipe page lists “Prep Time: 15 mins,” a 4.2 rating, and “Nutrition Facts (per serving): 59 Calories.” Screenshot: ./final.png (recipe name, rating, and prep time together).\nVerified October 27, 2026; the recipe page says updated April 22, 2026.",
+    "result_text": "FINAL: Allrecipes’ Cauliflower Pizza Crust meets the requirements: prep time is 15 minutes (under 30), its rating is 4.2/5 stars from 295 ratings, and it has 59 calories per serving.\n\nThe recipe yields 6 servings. Total time, including cooking and cooling, is 1 hour.\n\nSource: https://www.allrecipes.com/recipe/232930/cauliflower-pizza-crust/\nEvidence: The recipe page lists “Prep Time: 15 mins,” a 4.2 rating, and “Nutrition Facts (per serving): 59 Calories.” Screenshot: ./final.png (recipe name, rating, and prep time together).\nVerified October 27, 2026; the recipe page says updated April 22, 2026.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_17/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_17",
+  "elapsed_seconds": 135.25968503952026,
+  "execution_error": null,
+  "proxy_bytes": 8223528
+}

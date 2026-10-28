@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210540-Rp2ilD6e6KjzuHMYD5SJ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find the YouTube video titled 'Oscars 2023: Must-See Moments!' and identify:\n1. Who the first displayed comment belongs to.\n2. How many thumbs up the comment has.\n3. How many replies the comment has.\n\nBased on the screenshot:\n- The video 'Oscars 2023: Must-See Moments!' is displayed.\n- The first displayed comment is by `@HotFuzzGoonayorum`.\n- It shows `399` thumbs up.\n- There is no replies thread or replies count shown below it (indicating 0 replies).\n\nThe response accurately reports all these details.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching for Moments**\n\nI'm currently focused on locating the specified YouTube video, \"Oscars 2023: Must-See Moments!\". My next steps will involve analyzing the comments section to identify the first displayed comment and its associated engagement metrics.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching for Moments**\n\nI'm currently focused on locating the specified YouTube video, \"Oscars 2023: Must-See Moments!\". My next steps will involve analyzing the comments section to identify the first displayed comment and its associated engagement metrics.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18MFh8Ie53ZLoRyeEz/bTuYjGL2ouBHRGrMwbtODSnJY3sPoz5cvMgyIpoFsS+aNQrdxvP6XVglx58jFV2ZmWkRyAiH4EkFBHJS5FCmlKFD4JkdTzOZ8bgkgWlTzXGOERvqLqk9xXc23YoyKtIxnKb9lzs9Sc0nO/EOYy0ffykZbzVziHTt4HMGyij5EFg0nsftyMuXBqodWdLmAH2pf5YO3GlHWiZG1X6PXNewRRlrUA9n98bvEqNmOWaHcowolso+cXEbJ21tCB+57ftzqQiz9MJ/ORmYsQh8ot/20gdN+Ybp5owg8cNZzfsUjVLVxfRG+2gb2HSo02FXQBLxIhhnP6KIlefpo7J04pyD9bqlC3iEjQDrn4SaDbutS2DIed6Y7R8H1ImnexHTEIJxwmZPAFYyaqtCe15AC2D7eZW6I1rCLVxa542gBEfY9Y3Ua990R4RkbNtNGum3jrbkF9fBQCnka/PcAfNjF6rzO9fmNnqKvsi5EVlzmrraFUeX+mmsAxOteDXcjseiCS42y4HIwgbVMy1m9AMcC0ABEONbdNawLdyMo5oFheMuEsNfnM1rEE6417xrN92wLf0IoUVWGht6/PYYMpK+B1wDGvzqQWMyMuu0CticHd4VRPGysjRvQx+cBRelrZCdPHcV2StM5R1LA95u+BmGxD3b4WrX4plg4Cb0xmA+mEWZZhnxrRaNeRHAb16z3m9LhFJnUcbRF+eKH2ZRDBRC/bLufWOYOhvF3gsgQ7ZFAjnwLS88VQXQeVlXUy8mTi9/GXEqw4LX4rOE4E/0xfU6wCecB9vuHWfCEu0GF7vmaIpAi+mVhg2zE3jmu1gCg5jeaESuJCehCKGo34YO1GMD819G+3njfh8TJzp27wmQ9dcmpe4FOcNKPj+iVa3P5e67GfL/Zr7zSvIJJXzUfReaiJZsms1YTVGM2cwjJ3lYjg3cGD80Q3THOtGB+v+q7Gsk/kmtjs1MNsQRhWzDm0oD3ctkvOmRSOQ//fGKSesmqSljf8KeEz36lA3v7Umm0/9J4IkPJQQjfj+dYrfS6nxz17MNXwEpAHcOh6058YPCpZLVDObPncdQFVxGVKx67e0+dlWpXVzSfi9ylgnLK7oxDM57qBN+iflKVLSfhSB7Fx3gxhQJRJzRXrmj2kVoNXMRgSPYDEyon4H0KvRfNB5araSaW7JvjmcsB53S80SADLrrkDjeRbdb/SPfx94Mra8r7dxfx281bujXfp4L7QDenoB/35lCyxtZKRommaft9Jj1qVdbz1bonQHgV52l2Ad/b0hcor2KxKEWrNUoMehetTg/LResp7U0amBtz3YazAQQdLloEEl7rQ2bN35IBYJCnl9+ICm3Fa04lTAmUSdoav+NKLRcrPoSdc5XBqZHE52FXd3oFHULsdmLV07U6nnX",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210540,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 377,
+    "prompt_tokens": 1743,
+    "total_tokens": 2120,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 233,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002721,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002721,
+      "upstream_inference_prompt_cost": 0.00130725,
+      "upstream_inference_completions_cost": 0.00141375
+    }
+  },
+  "provider": "Google"
+}

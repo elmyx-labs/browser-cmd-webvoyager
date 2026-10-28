@@ -1,0 +1,41 @@
+{
+  "id": "Allrecipes--13",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a recipe with over 100 reviews for Fried Fish on Allrecipes, list the Full Nutrition Label and tell me the amount of Iron per Serving.",
+  "answer": "FINAL: Crispy Fried Fish on Allrecipes has 105 reviews and provides 15 mg iron per serving (83% Daily Value).\n\nFull Nutrition Label — per serving; 4 servings per recipe:\nNutrient | Amount | % Daily Value\nCalories | 634 | —\nTotal Carbohydrate | 69 g | 25%\nDietary Fiber | 1 g | 5%\nTotal Sugars | 5 g | —\nProtein | 29 g | 57%\nTotal Fat | 24 g | 31%\nSaturated Fat | 3 g | 17%\nCholesterol | 95 mg | 32%\nVitamin C | 10 mg | 11%\nSodium | 833 mg | 36%\nCalcium | 35 mg | 3%\nIron | 15 mg | 83%\nPotassium | 563 mg | 12%\n\nPercent Daily Values are based on a 2,000-calorie diet.\nSource: https://www.allrecipes.com/recipe/42814/crispy-fried-fish/ (expanded “Show Full Nutrition Label”; checked October 27, 2026).\nThe label notes that nutrient amounts use available ingredient data; some nutrient information is unavailable. Daily Values can vary with calorie needs.\nEvidence: final.png shows the expanded nutrition label, including iron 15 mg (83% DV), alongside “Reviews (105)” and the recipe name “Crispy Fried Fish.”",
+  "response": "Based on the provided screenshot and response, here is the evaluation:\n\n1. **Recipe with over 100 reviews**: The recipe selected is \"Crispy Fried Fish\" on Allrecipes, which shows 105 reviews in the screenshot (exceeding the requirement of over 100 reviews).\n2. **List Full Nutrition Label**: The full nutrition label is visible in the expanded view in the screenshot and has been accurately and completely transcribed in the response.\n3. **Amount of Iron per Serving**: The response correctly identifies the amount of Iron per serving as 15 mg (83% Daily Value), which directly matches the nutrition facts label in the screenshot.\n\nAll requirements of the task have been successfully met.\n\nSUCCESS",
+  "reason_short": "Based on the provided screenshot and response, here is the evaluation: 1. **Recipe with over 100 reviews**: The recipe selected is \"Crispy Fried Fish\" on Allrecipes, which shows 105 reviews in the screenshot (exceeding the requirement of ov",
+  "screenshots": [
+    "task_12/final.png"
+  ],
+  "raw_screenshot": "task_12/final.png",
+  "source_result": "task_12",
+  "usage": {
+    "completion_tokens": 481,
+    "prompt_tokens": 1918,
+    "total_tokens": 2399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 328,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00324225,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00324225,
+      "upstream_inference_prompt_cost": 0.0014385,
+      "upstream_inference_completions_cost": 0.00180375
+    }
+  },
+  "elapsed_seconds": 4.26
+}

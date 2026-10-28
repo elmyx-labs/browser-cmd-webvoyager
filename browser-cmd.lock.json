@@ -1,0 +1,24 @@
+{
+  "repository": "https://github.com/elmyx-labs/browser-cmd",
+  "evaluated_source": "snapshot/browser-cmd-source.tar.gz",
+  "evaluated_source_sha256": "d0e376a1285480af1cf1d761dfe10bd26299cf94c5e7fa09e6de198ab377d60f",
+  "binary_sha256": "63296bc812ee34b3fb41a94b72e96863beedeade709ba6af3e11ccecab3d1b7a",
+  "skill": "harness/runner/skills/lean/SKILL.md",
+  "skill_sha256": "3cd714ca1c85ba5449796bc5527d76197bc9424c710832ec9cd9925c531820a8",
+  "actor": {
+    "host": "codex-cli 0.163.0",
+    "model": "gpt-6.1-sol",
+    "reasoning_effort": "high"
+  },
+  "reviewer": {
+    "model": "gpt-6.1-terra",
+    "rounds": 2
+  },
+  "judge": {
+    "repository": "https://github.com/omxyz/webvoyager",
+    "commit": "df42681",
+    "path": "evaluation/auto_eval.py",
+    "sha256": "d09efb00afb25c40ab9c11e190aa166810e0a681a1baa77fff0bd69a1825b6dc",
+    "model": "gpt-5.5"
+  }
+}

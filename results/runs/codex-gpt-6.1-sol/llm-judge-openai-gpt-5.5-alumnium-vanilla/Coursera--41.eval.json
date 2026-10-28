@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--41",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Browse online degrees section on Coursera and list 3 Bachelor's degree programmes.",
+  "answer": "FINAL: Three online Bachelor's degree programmes listed on Coursera are:\n\n1. Bachelor of Science in Computer Science — University of London.\n   https://www.coursera.org/degrees/bachelor-of-science-computer-science-london\n2. Bachelor of Arts in Liberal Studies — Georgetown University.\n   https://www.coursera.org/degrees/ba-liberal-studies-georgetown\n3. Bachelor of Information Technology — Illinois Tech.\n   https://www.coursera.org/degrees/bach-information-technology-illinois-tech\n\nSource: Coursera's online Bachelor's degree listings, https://www.coursera.org/degrees/bachelors (accessed 27 October 2026).\nEvidence: final.png shows the bachelor's listing heading and the three programme cards with their universities.",
+  "response": "The task was to browse Coursera’s online degrees section and list 3 Bachelor’s degree programmes.\n\nThe screenshot shows Coursera’s “Bachelor’s Degrees” page with multiple programme cards. The listed programmes in the response match visible cards in the screenshot:\n\n1. **Bachelor of Science in Computer Science** — University of London  \n2. **Bachelor of Arts in Liberal Studies** — Georgetown University  \n3. **Bachelor of Information Technology** — Illinois Tech  \n\nThese are all Bachelor’s degree programmes shown on Coursera’s Bachelor’s Degrees listing page. The response satisfies the requirement by listing three relevant programmes.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The task was to browse Coursera’s online degrees section and list 3 Bachelor’s degree programmes. The screenshot shows Coursera’s “Bachelor’s Degrees” page with multiple programme cards. The listed programmes in the response match visible c",
+  "screenshots": [
+    "task_322/final.png"
+  ],
+  "raw_screenshot": "task_322/final.png",
+  "source_result": "task_322",
+  "usage": {
+    "completion_tokens": 253,
+    "prompt_tokens": 1737,
+    "total_tokens": 1990,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.44
+}

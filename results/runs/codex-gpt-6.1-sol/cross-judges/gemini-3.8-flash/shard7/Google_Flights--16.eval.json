@@ -1,0 +1,41 @@
+{
+  "id": "Google Flights--16",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the cheapest one-way flight from New York to Tokyo departing on January 15, 2027, and provide the airline and total flight duration.",
+  "answer": "FINAL: Air India has the cheapest one-way flight shown on Google Flights from New York to Tokyo departing January 15, 2027: US$407 per adult in economy, with a total duration of 29 hours 55 minutes. It flies from JFK to Haneda (HND) with one stop in New Delhi (DEL).\nEvidence: final.png shows Google Flights’ Cheapest tab, results sorted by price, the January 15 departure, and the Air India result with its price and duration.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhopEgoyMDI3LTAxLTE1ag0IAxIJL20vMDJfMjg2cgwIAxIIL20vMDdkZmtAAUgBcAGCAQsI____________AZgBAg&tfu=EgoIAhAAGAAgAigB&curr=USD",
+  "response": "The task requires finding the cheapest one-way flight from New York to Tokyo departing on January 15, 2027, along with the airline and total flight duration.\n\nBased on the provided screenshot of Google Flights:\n- **Date & Route**: One-way from New York to Tokyo departing on Friday, January 15 (2027).\n- **Cheapest flight**: Air India at $407.\n- **Flight duration**: 29 hours 55 minutes.\n\nThe response accurately reports the airline (Air India) and the total flight duration (29 hours 55 minutes) matching the screenshot.\n\nSUCCESS",
+  "reason_short": "The task requires finding the cheapest one-way flight from New York to Tokyo departing on January 15, 2027, along with the airline and total flight duration. Based on the provided screenshot of Google Flights: - **Date & Route**: One-way fr",
+  "screenshots": [
+    "task_423/final.png"
+  ],
+  "raw_screenshot": "task_423/final.png",
+  "source_result": "task_423",
+  "usage": {
+    "completion_tokens": 420,
+    "prompt_tokens": 1800,
+    "total_tokens": 2220,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 283,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002925,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002925,
+      "upstream_inference_prompt_cost": 0.00135,
+      "upstream_inference_completions_cost": 0.001575
+    }
+  },
+  "elapsed_seconds": 16.74
+}

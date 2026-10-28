@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210483-UjAAy10XTQgJqktMzK7u",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user asked to find 5 beauty salons with ratings greater than 4.8 in Seattle, WA.\n\nThe response provides a list of 5 beauty salons located in Seattle, WA, each having a rating of 4.9 or 5.0 (which is strictly greater than 4.8), along with addresses, review counts, and links. The screenshot confirms the details for one of the listed salons (\"13th House\", rating 4.9, categorized as a beauty salon in Seattle, WA).\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Identifying Top Salons**\n\nI've successfully identified five beauty salons in Seattle, WA, all exceeding my target rating of 4.8. The initial results showcase excellent options, with Lady Neptune Hair Salon and 13th House already confirmed with strong ratings.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Identifying Top Salons**\n\nI've successfully identified five beauty salons in Seattle, WA, all exceeding my target rating of 4.8. The initial results showcase excellent options, with Lady Neptune Hair Salon and 13th House already confirmed with strong ratings.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/NHUdEo+jdE4dqWdE4ApScyrRTEUjr4FsH90//IoY6d5KgR+ui30+fEpPhj4tAlNsR1JCGeuzqoPFzSKdVgFCfSbxYqonxLQSwEKH38wRO0JkRy/cELRdbx2B0ZC6KoSeG5JAZa501RHU+gbDasPE3j9pIIdOmF/NVLIUBGX/z2sgNg0VqXmmWEsmaF0ns8TA10zSI1VacHAj9UOG0tvAyW2ySt8h2cUYEeHQPw/SzEpoCK/04/0r9uC6l8vImr/oWfnEuDprtqnpULAT2z5GxvozkrZxdmXr5+RbKrTvS/qGHusiF5Z38BozcIWrgCOUFbZiyT1N6A2IwbZoUlqBFsk+OnqSOEZt7m0YxfhZG4T5gyR+9/a8YstpNjht/Ocv0H4AdCUQQNdY91r+CoQowtxwjNwmxhog9k/mFyWuvB8wTp9F84apvsJCO7z8GN2t+941awJvnMO1Lo57FTtvE6W3DV/3t9s5VbWyp3oVc9lmlYyUmo9aOxYN2XZdBrHc/XNnbyhD/OabkVoTKm5dq8KwFAi4I8lvwXZ42Run1x9HUjuX/WN3ao+/a6faUfnMdK+M5kF7MTCbibC8uj46PbPsU6IVKWVo82f+ohixoys+zWic7GRsmuTGQJPDQGJXTnwXvRfTIoW3I9o5O+LlMTymtA/HFEVKWBhDstwL0uyHS9HYddK0SwMEHZpkdfirQXq7MluTlJC2Frb7GRFPH/qUk95hEfi/pgAV71pY+VYq1fdjQIKq4oLSu7r7rK4V/uA0+1w8y/nns8V0fo7lSy7gH+FeS/Bf/sLgwVv73BpQLSgsTzQJl3SMhC2Ja7wjrTmVNXsZyM3N1cg9C9SgcpnZOmAxLiGG6Ld+ku13G1NZx0bsa0AJIwhpMLL+2YmnU0rDXEr9VApA7rKsfnH7zo5hIB93iuYwb91jOaDCRlf5qi3iYdFjmv+Arr/xJgEYm40RbgxOjhiBuSb7vrJ3PEj3WrmUzYsuuL+Fb1pzRVnUT/1QG9/gyRGg2hlOIf2zsY5sD2A7yPkZ2xEPx5KxYgcXoHny274N+n76f4QNbVmro0DyKZAY9y5umpVcDprIRikf0IEkKgLEc43mlDe2kVPjM0da+ktvY7C38AITbhKgmXiKImtZYzTC5KjSWiMrHMqAKHvWTNBmzMX22Qw6LR52Ly76ndVQLX3hgOWbPglG2c1xrpvqZFOLaS112Auylky1rEI8ANdS5oAgvXeLKCgHhbGFO3YuXsg6PrHVZJaWP6hcESgg4FZjXprYCGZ5qoZpGf0MEGv55KqTnNgNjOX1ASbt17tOmEhOsBmed4l/511KO6gEyWepUFXr2xDshMyY62ZZt5PZodwDUHhbOjDChIb+52FIYta7Kc6WfO9s0ID9LbAATVjek3jl5VlHYTqLtu5lFyN976PoRfOyg322lUeafnDAecjBluvYllISWzDRliFeOJIVZd3IZzdw6BbpUP5SmEddDKki4lU/QxHm/R0EvqkRq3J9KKtwh8qUth06CUWR2l51H7vxl",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210483,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 402,
+    "prompt_tokens": 2051,
+    "total_tokens": 2453,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 283,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00304575,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00304575,
+      "upstream_inference_prompt_cost": 0.00153825,
+      "upstream_inference_completions_cost": 0.0015075
+    }
+  },
+  "provider": "Google"
+}

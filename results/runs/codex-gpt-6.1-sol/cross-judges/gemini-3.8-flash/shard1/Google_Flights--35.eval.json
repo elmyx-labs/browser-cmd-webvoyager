@@ -1,0 +1,41 @@
+{
+  "id": "Google Flights--35",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the lowest-priced one-way flight from Cairo to Montreal on July 21, 2027, including the total travel time and number of stops.",
+  "answer": "FINAL: The lowest-priced one-way flight shown by Google Flights from Cairo (CAI) to Montreal (YUL) on July 21, 2027 is Qatar Airways at CA$704 per adult in Economy. Total travel time: 25 hr 55 min, with 1 stop in Doha (DOH; 9 hr 35 min layover). It departs at 7:50 PM on July 21 and arrives at 2:45 PM on July 22 (local times).\nEvidence: Google Flights, Cheapest selected and sorted by price, with no additional filters. Required taxes and fees are included; optional charges and bag fees may apply. Screenshot: final.png.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI3LTA3LTIxagwIAxIIL20vMDF3MnZyDAgDEggvbS8wNTJwN0ABSAFwAYIBCwj___________8BmAEC&tfu=EgoIAhAAGAAgAigB&curr=CAD",
+  "response": "The user requested the lowest-priced one-way flight from Cairo to Montreal on July 21, 2027, along with the total travel time and number of stops.\n\nThe screenshot confirms the search criteria: one-way flight from Cairo to Montreal on July 21, sorted by price. The lowest-priced result is a Qatar Airways flight for CA$704, with a travel duration of 25 hr 55 min and 1 stop in Doha. The textual response accurately reflects these details.\n\nSUCCESS",
+  "reason_short": "The user requested the lowest-priced one-way flight from Cairo to Montreal on July 21, 2027, along with the total travel time and number of stops. The screenshot confirms the search criteria: one-way flight from Cairo to Montreal on July 21",
+  "screenshots": [
+    "task_441/final.png"
+  ],
+  "raw_screenshot": "task_441/final.png",
+  "source_result": "task_441",
+  "usage": {
+    "completion_tokens": 463,
+    "prompt_tokens": 1840,
+    "total_tokens": 2303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 352,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00311625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00311625,
+      "upstream_inference_prompt_cost": 0.00138,
+      "upstream_inference_completions_cost": 0.00173625
+    }
+  },
+  "elapsed_seconds": 10.11
+}

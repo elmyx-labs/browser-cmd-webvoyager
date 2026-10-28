@@ -1,0 +1,60 @@
+{
+  "id": "gen-1793210019-XUsQr3SEI7PQ3hXb1fF0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to investigate the trade-in value for an iPhone 13 Pro Max on Apple's website.\n\nThe provided screenshot displays Apple's official iPhone trade-in values table, which clearly lists \"iPhone 13 Pro Max\" with a value of \"Up to $320\". The Result Response accurately reports this value along with relevant details regarding condition dependencies and footnote terms.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": null,
+        "reasoning_details": [
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19ySYenBn+OQWjx3RB6eir6npDJxWAUMcmQQBS8CnOQqkfJuQsn1VhdSA4EYMhKSDXb5LWRzIb3lnVxUDbgYZiQKQ3nCKefterBSTKdGgCbEE3bjr4lcHcg5cllR53UjEFy92MwDOefkIgvGMAxXDT5XE8Rr3pbiMVE30KIWagQResjga0v4ZNkWAjtSVaZZ6RYKLMfea+W5gNZH94o8mFrCTzbi8qIsLI0KA3uY9m74kEsNIVfPKzo2v5hx18g4FR/w5hVuyczP73ZRtW6TZTqcb5CLa99TEpOSovLSCZa+qcvKNs9vAINbzL9j2e6ZaaY8lXyVD9vEyPY8h3kkukwabQZ7QnkIzBpSvZDimjegouphE0MjBPHJNtYWicDNNXJEMlJhNJzT0+LdBdF27byOiG6FmJqI76zAyAav7jY7ZiZJ4RmYsFXSQjEW7xlhXiOTN/5VmPYxe+EK9tGMV7nWKTKyBVe0VNyhpu/ZeVsjD43Oj2TA7IxYeuPC0Xf4AcQ7wfmsLXOCRy6B2Jt3aEAqeCGVoOGhh/yJjKGfuNjzUEVCRG5FaIaYPcLdBZve8q97XALv6rIFcc220A5EGi3Z475M9e678i7LQ7++y80VC+aL8TJj0I+puHbTeDnoS1jYk0mE1rh+B2OKvV/OhxMjwDyZ5y/ku+R1GNoF4mVz6I4xSLxH+3D7gr1HIFuuZNy6nwT6l1g0hcA02MYb/4c1IvwTaTxmYrNAJQfIlAoYxAcgjuBXgAdEaZGHxjxIRHWmGbZvwM5rwrF0WLiW080zqtGzABHk8ivhd+zOapQu+mZI2HjKFWzHT+Heapz6JgI+XO5R0KouBwmC0mMDvCZNXlFYelYZlBAcOheLZnBeLH6TiN4lUfHaaC/+MZ34GClf/8oU7SRluWV84DZJJ/aDvgJlBm9h0dvf2ncNR/c9mxcDdl9nE7t2W+2XyvVTIBdYp6Cyog0h5sPYvgk1/wOaCCD+JbBfIWSwYan",
+            "format": "google-gemini-v1",
+            "index": 0
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210019,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 240,
+    "prompt_tokens": 1763,
+    "total_tokens": 2003,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 157,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00222225,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00222225,
+      "upstream_inference_prompt_cost": 0.00132225,
+      "upstream_inference_completions_cost": 0.0009
+    }
+  },
+  "provider": "Google"
+}

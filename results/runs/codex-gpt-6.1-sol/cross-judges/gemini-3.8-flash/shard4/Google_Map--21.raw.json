@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210406-EMeaAX7kTneyNYc7x94W",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to identify the nearest bus stop to the corner of Elm Street and Oak Street in Massachusetts.\n\nThe provided screenshot and response show a verified bus stop named **\"Elm Street & Oak Street\"** located in Amesbury, Massachusetts (01913), served by bus route 17 (MVRTA). The information provided directly addresses and answers the prompt accurately.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Locating bus stop**\n\nI'm confirming the nearest bus stop at Elm Street and Oak Street in Amesbury, Massachusetts.\n\n**Clarifying intersection location**\n\nI'm working to pinpoint the precise intersection of Elm Street and Oak Street in Amesbury, MA, as the map details are slightly ambiguous regarding their direct connection, even though the bus stop is clearly labeled with both street names.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Locating bus stop**\n\nI'm confirming the nearest bus stop at Elm Street and Oak Street in Amesbury, Massachusetts.\n\n**Clarifying intersection location**\n\nI'm working to pinpoint the precise intersection of Elm Street and Oak Street in Amesbury, MA, as the map details are slightly ambiguous regarding their direct connection, even though the bus stop is clearly labeled with both street names.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210406,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 556,
+    "prompt_tokens": 1876,
+    "total_tokens": 2432,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 475,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.003492,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.003492,
+      "upstream_inference_prompt_cost": 0.001407,
+      "upstream_inference_completions_cost": 0.002085
+    }
+  },
+  "provider": "Google"
+}

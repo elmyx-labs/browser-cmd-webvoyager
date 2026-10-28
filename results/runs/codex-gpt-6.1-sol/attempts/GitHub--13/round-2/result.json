@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--13",
+    "ques": "Identify the latest top-trending open-source project in the topic of 'Machine Learning' on GitHub, and check the number of stars it has received.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: TensorFlow (tensorflow/tensorflow) leads GitHub’s Machine Learning topic under “Most stars,” with 201,272 stars (displayed as 201k), checked October 28, 2026. Source: https://github.com/topics/machine-learning — evidence: final.png.\nGitHub has no topic-specific Trending sort; this is the topic’s most-starred project, and none of today’s Trending entries carries the Machine Learning topic.",
+    "result_text": "FINAL: TensorFlow (tensorflow/tensorflow) leads GitHub’s Machine Learning topic under “Most stars,” with 201,272 stars (displayed as 201k), checked October 28, 2026. Source: https://github.com/topics/machine-learning — evidence: final.png.\nGitHub has no topic-specific Trending sort; this is the topic’s most-starred project, and none of today’s Trending entries carries the Machine Learning topic.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_1/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_1",
+  "elapsed_seconds": 173.50644373893738,
+  "execution_error": null,
+  "proxy_bytes": 24168894
+}

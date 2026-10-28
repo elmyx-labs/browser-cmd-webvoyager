@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyflUPsP2yB4fUQzhUodiY5zViRC",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to locate Target stores in Atlanta, GA and determine how many results are shown on the map.\n\nThe screenshot shows a Google Maps search for “Target stores in Atlanta, GA.” On the map, there are seven visible Target map pins. The result response states that Google Maps shows 7 Target results, which matches the visible pins in the screenshot. The list also indicates the end of results, supporting that this is the full displayed set.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196725,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 479,
+    "prompt_tokens": 1650,
+    "total_tokens": 2129,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 376,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

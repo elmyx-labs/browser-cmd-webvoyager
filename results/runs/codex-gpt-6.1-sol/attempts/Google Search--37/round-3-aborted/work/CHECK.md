@@ -1,0 +1,4 @@
+[x] Find the current top 3 super-earth planets (state the chosen meaning of top and verify the order). Chosen proximity with one planet per host system: Proxima b, GJ411b, GJ887b; NASA profiles classify each Super Earth, archive sorted distance and viewer checked GJ411. URLs and exact values in NOTES.md and ANSWER.txt.
+[x] Give a brief introduction to each of the 3 planets using current sources. NASA profile facts: masses 1.055, 2.69, 3.9 Earths; orbital periods 11.2, 12.9, 9.3 days; discovery years 2016, 2019, 2020. URLs in ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, about 1280 px on its long side, with deciding facts in view and no overlay. NASA GJ411 profile shows name, Super Earth, 2.69 Earths, 12.9 days, 2019; 1280-pixel long side.
+[x] Write ./ANSWER.txt with result, date, sources, and evidence; first line begins FINAL:.

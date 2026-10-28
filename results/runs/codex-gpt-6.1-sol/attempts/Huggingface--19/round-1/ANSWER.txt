@@ -1,0 +1,20 @@
+FINAL: Mouserat/titlerat (titlerat v1) is the newest model in Hugging Face’s English + Summarization listing sorted by Recently created, checked October 28, 2026. Its weights were first uploaded October 23, 2026 UTC (October 22 in the browser’s New York timezone).
+
+Scope: this is a community release by Mouserat hosted on Hugging Face, specialized in short chat titles; it is not a Hugging Face-authored general article summarizer.
+
+Features:
+- Generates short noun-phrase titles describing an English or Japanese request’s topic and type, intended for chat-history lists.
+- Fine-tuned from google/mt5-small; about 0.3 billion parameters, distributed as FP32 Safetensors.
+- Apache 2.0 license for model weights and code.
+- Works with Transformers and includes a Colab notebook. Use its own tokenizer and the supplied <user> and <assistant> delimiters.
+- Trained on 37,319 examples drawn from Japanese/multilingual chat datasets and synthetic/self-authored data; some titles were generated with Qwen3.5-4B.
+- Includes tokenizer files and a manifest with a weights SHA-256 hash.
+
+Practical limits: long requests produce more topic errors, especially long English requests. Titles are not factual guarantees, and the model is not intended to answer requests or make safety decisions. The complete training dataset is not yet public, and no Hugging Face Inference Provider currently serves the model.
+
+Evidence:
+Selection and newest-first ordering: https://huggingface.co/models?pipeline_tag=summarization&language=en&sort=created
+Apache-2.0-filtered confirmation: https://huggingface.co/models?pipeline_tag=summarization&language=en&license=license:apache-2.0&sort=created
+Model features, license and limitations: https://huggingface.co/Mouserat/titlerat
+Initial upload and subsequent updates: https://huggingface.co/Mouserat/titlerat/commits/main
+Screenshot: final.png

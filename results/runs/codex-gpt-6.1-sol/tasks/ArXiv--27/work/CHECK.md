@@ -1,0 +1,3 @@
+[x] On ArXiv, what categories does Economics include, and what are their abbreviations? — https://arxiv.org/archive/econ, “Categories within Economics”: “econ.EM - Econometrics”; “econ.GN - General Economics”; “econ.TH - Theoretical Economics”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with Economics and its category names and abbreviations visible together. — final.png, 1280 × 723, from https://arxiv.org/archive/econ; heading and all three category labels visible, no banner or dialog.
+[x] Write the result and its evidence to ./ANSWER.txt. — ANSWER.txt contains all three category labels, source URL, viewed date, and screenshot reference.

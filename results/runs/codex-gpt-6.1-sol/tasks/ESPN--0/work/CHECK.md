@@ -1,0 +1,3 @@
+- [x] Look up the current standings for the NBA Eastern Conference on ESPN. https://www.espn.com/nba/standings — "NBA Standings 2026-27", "Eastern Conference", "Regular Season"; all 15 team records recorded in ANSWER.txt.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with conference, season and standings visible and no overlay. final.png shows all Eastern teams and W, L, PCT, GB, season and conference controls.
+- [x] Write the result and its evidence to ./ANSWER.txt. Source URL, viewed date, season and screenshot stated.

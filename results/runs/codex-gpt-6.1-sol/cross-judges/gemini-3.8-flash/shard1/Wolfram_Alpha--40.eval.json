@@ -1,0 +1,41 @@
+{
+  "id": "Wolfram Alpha--40",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Approximate amount of fat burned by a 28yo, 172cm tall, 70kg woman running for 30min at a pace of 6min/mile.",
+  "answer": "FINAL: Approximately 78 g (0.078 kg) of fat burned.\n\nWolframAlpha's running calculation shows “fat burned | 0.078 kg” for a 28-year-old woman, 172 cm tall and weighing 70 kg, running for 30 minutes at 6 min/mile. The page labels its results as estimates based on CDC standards.\n\nSource (accessed October 27, 2026): https://www.wolframalpha.com/input?i=fat+burned+running+30+minutes+at+6+minutes+per+mile%2C+female+age+28%2C+height+172+cm%2C+weight+70+kg\nEvidence: final.png shows all the inputs and the fat-burned result together.",
+  "response": "Based on the provided screenshot and task instructions:\n\n1. The task asked to find the approximate amount of fat burned by a 28-year-old woman, 172 cm tall, 70 kg, running for 30 minutes at a pace of 6 min/mile.\n2. The screenshot shows WolframAlpha with the exact inputs:\n   - Activity: running\n   - Time: 30 minutes\n   - Pace: 6 min/mi\n   - Gender: female\n   - Age: 28 years\n   - Height: 172 cm\n   - Body weight: 70 kg\n3. Under \"Metabolic properties\", the calculated result for \"fat burned\" is clearly displayed as `0.078 kg` (approx. 78 g).\n4. The final response correctly provides this exact value along with proper attribution.\n\nVerdict: SUCCESS",
+  "reason_short": "Based on the provided screenshot and task instructions: 1. The task asked to find the approximate amount of fat burned by a 28-year-old woman, 172 cm tall, 70 kg, running for 30 minutes at a pace of 6 min/mile. 2. The screenshot shows Wolfr",
+  "screenshots": [
+    "task_609/final.png"
+  ],
+  "raw_screenshot": "task_609/final.png",
+  "source_result": "task_609",
+  "usage": {
+    "completion_tokens": 458,
+    "prompt_tokens": 1786,
+    "total_tokens": 2244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 266,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.003057,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.003057,
+      "upstream_inference_prompt_cost": 0.0013395,
+      "upstream_inference_completions_cost": 0.0017175
+    }
+  },
+  "elapsed_seconds": 5.44
+}

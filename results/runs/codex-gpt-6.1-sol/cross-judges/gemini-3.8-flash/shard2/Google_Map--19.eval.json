@@ -1,0 +1,41 @@
+{
+  "id": "Google Map--19",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "I will arrive Pittsburgh Airport soon. Provide the name of the Hilton hotel closest to the airport. Then, tell me the the walking time to the nearest supermarket from the hotel.",
+  "answer": "FINAL: Hilton Garden Inn Pittsburgh Airport, 9600 University Boulevard, Moon Township, is the closest Hilton hotel to Pittsburgh International Airport.\n\nThe nearest supermarket is Pittsburgh Area Commissary at 79 Soldiers Lane: Google Maps gives an 8-minute walk (0.4 mile) via Soldiers Lane. It requires military shopping eligibility, and Maps marks the route as restricted/private.\n\nFor a supermarket open to the general public, Walmart Supercenter at 7500 University Boulevard is the nearest option found: a 26-minute walk (1.2 miles) via University Boulevard.\n\nEvidence checked October 27, 2026:\n- Hotel distance comparison: https://pitinternationalairport.com/pittsburgh-international-airport-hotels/ lists Hilton Garden Inn ahead of Hampton Inn and DoubleTree.\n- Walking route shown in final.png: https://www.google.com/maps/dir/?api=1&origin=Hilton+Garden+Inn+Pittsburgh+Airport,+9600+University+Blvd,+Moon+Township+PA&destination=Pittsburgh+Area+Commissary,+79+Soldiers+Lane,+Moon+Township+PA&travelmode=walking&hl=en\n- Commissary access: https://corp.commissaries.com/shopping/store-locations/pittsburgh-area states “100% Military ID check is in effect.”\n- Public alternative route: https://www.google.com/maps/dir/?api=1&origin=Hilton+Garden+Inn+Pittsburgh+Airport,+9600+University+Blvd,+Moon+Township+PA&destination=Walmart+Supercenter,+7500+University+Boulevard,+Moon+Township+PA&travelmode=walking&hl=en\n- Walmart's grocery department: https://www.walmart.com/store/4644-moon-township-pa",
+  "response": "The user requested the name of the Hilton hotel closest to Pittsburgh Airport and the walking time from that hotel to the nearest supermarket.\n\n1. **Closest Hilton Hotel**: The response correctly identified **Hilton Garden Inn Pittsburgh Airport** (9600 University Blvd, Moon Township).\n2. **Walking Time to Nearest Supermarket**: The response provided the walking time to the closest supermarket, Pittsburgh Area Commissary (8 minutes / 0.4 miles), confirmed by the Google Maps screenshot showing walking directions, as well as an alternative public supermarket (Walmart Supercenter, 26 minutes).\n\nAll requirements were met accurately.\n\nSUCCESS",
+  "reason_short": "The user requested the name of the Hilton hotel closest to Pittsburgh Airport and the walking time from that hotel to the nearest supermarket. 1. **Closest Hilton Hotel**: The response correctly identified **Hilton Garden Inn Pittsburgh Air",
+  "screenshots": [
+    "task_466/final.png"
+  ],
+  "raw_screenshot": "task_466/final.png",
+  "source_result": "task_466",
+  "usage": {
+    "completion_tokens": 373,
+    "prompt_tokens": 2008,
+    "total_tokens": 2381,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 246,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00290475,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00290475,
+      "upstream_inference_prompt_cost": 0.001506,
+      "upstream_inference_completions_cost": 0.00139875
+    }
+  },
+  "elapsed_seconds": 4.67
+}

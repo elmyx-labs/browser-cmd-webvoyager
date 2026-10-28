@@ -1,0 +1,5 @@
+[x] Search for a recipe for Beef Wellington on Allrecipes. Used https://www.allrecipes.com/search?q=Beef+Wellington and opened https://www.allrecipes.com/recipe/16899/beef-wellington/ — "Beef Wellington".
+[x] At least 200 reviews and an average rating of 4.5 stars or higher. Recipe page: "4.7", "250 Reviews"; 365 ratings.
+[x] List the main ingredients required for the dish. Recipe page "Ingredients" section lists beef tenderloin, butter, onion, mushrooms, liver paté, salt and pepper, puff pastry, egg yolk, beef broth, and red wine; recorded in ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, about 1280 px long side, with recipe name and rating/review facts visible and no overlay. final.png is 1280 x 723, shows "Beef Wellington", "4.7", and "250 Reviews" together. No filters, sorts, or date restrictions required or applied.
+[x] Write final answer and source evidence to ./ANSWER.txt. Includes recipe, qualifying values, main ingredients and quantities, source URL, and screenshot reference.

@@ -1,0 +1,8 @@
+Daily Papers, https://huggingface.co/papers, Daily selected, Oct 27: first entry "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents", 331.
+Paper, https://huggingface.co/papers/2610.33568: "#1 Paper of the day", submitted Oct 27, "Upvote 331". Link badge points to https://huggingface.co/papers/date/2026-10-27.
+"Models citing this paper 0" / "No model linking this paper"; "Datasets citing this paper 0" / "No dataset linking this paper".
+Community comment claims "all five checkpoints and the 34,772-interaction candidate pool are released alongside the code" — verify official source.
+Project link https://yihaohu0118.github.io/Trajectory2Gym-page/ ; GitHub https://github.com/yihaohu0118/Trajectory2Gym.
+Official repository (found via Google search "Trajectory2Gym model data release"), https://github.com/yihaohu0118/Trajectory2Gym: "The public candidate interactions are available at mis2/Trajectory2gym: 34,772 semantic interactions in seven compressed JSONL shards (about 125 MB)." "All five paper checkpoints are available"; model links: mis2/Trajectory2Gym-1.7B, -4B, -8B, -14B, -30B-A3B.
+Browser-read release pages verified available: https://huggingface.co/datasets/mis2/Trajectory2gym (Dataset card/Data Studio/Files and versions, train preview) and https://huggingface.co/mis2/Trajectory2Gym-1.7B (Transformers/Safetensors model page and usage).
+Final screenshot: native viewport 1440x1850 at https://huggingface.co/papers/2610.33568, top. Browser evidence confirmed full title at 427,189; upvote 331 at 964,199; Oct 27 and #1 Paper of the day at y264; "all five checkpoints" release discussion at 313,1553. Shrunk proportionally to 996x1280 as final.png.

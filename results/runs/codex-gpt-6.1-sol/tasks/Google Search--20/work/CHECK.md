@@ -1,0 +1,3 @@
+[x] Find the release date for the latest "Fast & Furious" movie. Evidence: https://en.wikipedia.org/wiki/Fast_%26_Furious#Films — “Fast X” / “May 19, 2023” under “U.S. release date”; next film “Fast Forever” / “March 17, 2028”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the film name and deciding facts together, without overlays. Evidence: final.png (1280 × 723), viewport of the Films table at https://en.wikipedia.org/wiki/Fast_%26_Furious#Films, showing “Fast X”, “May 19, 2023”, and the next film's date.
+[x] Write the result and evidence to ./ANSWER.txt. Evidence: ANSWER.txt starts “FINAL:” and contains the result, source URL, and screenshot filename.

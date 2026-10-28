@@ -1,0 +1,31 @@
+{
+  "id": "Google Search--27",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Check the current air quality index in Paris.",
+  "answer": "FINAL: Paris, France: 46 US AQI⁺ — Good. IQAir's current reading is timestamped 23:00 Paris local time on October 27, 2026. Main pollutant: PM2.5, 8.2 µg/m³. Source: https://www.iqair.com/air-quality/france/ile-de-france/paris . Screenshot evidence: final.png.",
+  "response": "The task was to check the current air quality index in Paris.\n\nThe screenshot shows the IQAir page for “Air quality in Paris,” with the current AQI displayed as **46 US AQI**, categorized as **Good**. It also shows the main pollutant as **PM2.5** with a concentration of **8.2 µg/m³**, and the timestamp reads **23:00, Oct 27 Local time**. The result response accurately reports these values and cites the IQAir source.\n\nThis satisfies the task requirement.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The task was to check the current air quality index in Paris. The screenshot shows the IQAir page for “Air quality in Paris,” with the current AQI displayed as **46 US AQI**, categorized as **Good**. It also shows the main pollutant as **PM",
+  "screenshots": [
+    "task_514/final.png"
+  ],
+  "raw_screenshot": "task_514/final.png",
+  "source_result": "task_514",
+  "usage": {
+    "completion_tokens": 278,
+    "prompt_tokens": 1659,
+    "total_tokens": 1937,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 154,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 4.92
+}

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Apple",
+    "id": "Apple--13",
+    "ques": "How many colors does the latest MacBook Air come in?",
+    "web": "https://www.apple.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The latest MacBook Air (M5) comes in 4 colors: Sky Blue, Silver, Starlight, and Midnight. Apple’s current MacBook Air page states “Four beautiful colors” and lists these four options. Source: https://www.apple.com/macbook-air/ (checked October 27, 2026). Screenshot: final.png.",
+    "result_text": "FINAL: The latest MacBook Air (M5) comes in 4 colors: Sky Blue, Silver, Starlight, and Midnight. Apple’s current MacBook Air page states “Four beautiful colors” and lists these four options. Source: https://www.apple.com/macbook-air/ (checked October 27, 2026). Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_91/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_91",
+  "elapsed_seconds": 63.96793794631958,
+  "execution_error": null,
+  "proxy_bytes": null
+}

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Apple",
+    "id": "Apple--38",
+    "ques": "Explore accessories for Apple Vision Pro, list at least three accessories.",
+    "web": "https://www.apple.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Three accessories for Apple Vision Pro listed by Apple:\n\n- ZEISS Optical Inserts — from $99.00.\n- Apple Vision Pro Travel Case — $199.00.\n- Apple Vision Pro Battery — $199.00.\n\nSource: Apple’s US Apple Vision Pro Essentials page, viewed October 27, 2026: https://www.apple.com/shop/vision/accessories/apple-vision-pro-essentials\nEvidence: final.png is a 1280 × 723 viewport screenshot showing these three accessories and their listed prices together, with Featured sorting visible.",
+    "result_text": "FINAL: Three accessories for Apple Vision Pro listed by Apple:\n\n- ZEISS Optical Inserts — from $99.00.\n- Apple Vision Pro Travel Case — $199.00.\n- Apple Vision Pro Battery — $199.00.\n\nSource: Apple’s US Apple Vision Pro Essentials page, viewed October 27, 2026: https://www.apple.com/shop/vision/accessories/apple-vision-pro-essentials\nEvidence: final.png is a 1280 × 723 viewport screenshot showing these three accessories and their listed prices together, with Featured sorting visible.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_116/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_116",
+  "elapsed_seconds": 114.20940518379211,
+  "execution_error": null,
+  "proxy_bytes": null
+}

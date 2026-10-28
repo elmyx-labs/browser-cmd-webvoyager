@@ -1,0 +1,4 @@
+[x] Look up the use of modal verbs in grammar section for expressing possibility (e.g., 'might', 'could', 'may') on the Cambridge Dictionary. Evidence: https://dictionary.cambridge.org/grammar/british-grammar/could-may-and-might — “We use could, may and might to express degrees of possibility.”
+[x] Find examples of their usage in sentences on the Cambridge Dictionary. Same source: “The restaurant may close.” / “The restaurant could close.” / “The restaurant might close.”
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the source heading and relevant facts with no popup. final.png: 1280 × 723; heading, guidance, three examples, and explanations visible; no popup; no applicable filters, sorts, or dates.
+[x] Write the result and evidence to ./ANSWER.txt. Includes the usage guidance, all three examples, nuance, source URL and access date.

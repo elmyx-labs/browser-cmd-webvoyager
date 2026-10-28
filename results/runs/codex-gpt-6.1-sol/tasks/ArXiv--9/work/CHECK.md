@@ -1,0 +1,5 @@
+[x] Find the latest research paper about neural networks published on ArXiv. https://arxiv.org/abs/2610.37655 — KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry; abstract describes a neural-network correction.
+[x] Verify it has been submitted within the last week. Paper submission history: [v1] Tue, 27 Oct 2026 17:58:40 UTC; within 21–28 October 2026.
+[x] Check the chosen item is latest among the site's matching results, using submission date. Filtered advanced search (URL in NOTES.md and ANSWER.txt): 325 results, Submission date (newest first), arXiv:2610.37655 is first.
+[x] Save one genuine viewport screenshot as ./final.png, read only this evidence image and shrink to about 1280 px on its long side. final.png is 1280 × 723; search dates, sort, first result title, neural-network excerpt and submission date visible; announcement dismissed.
+[x] Write result, dates, and source evidence to ./ANSWER.txt. Saved with FINAL: first line, paper URL, search URL, and screenshot filename.

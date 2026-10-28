@@ -1,0 +1,9 @@
+{
+  "id": "Huggingface--24",
+  "task": "Search for a model on Hugging Face with an Apache-2.0 license that has received the highest number of likes.",
+  "answer": "FINAL: Qwen/Qwen3.8-27B is the most-liked Apache-2.0 model on Hugging Face, with 18.5k likes displayed on October 27, 2026.\n\nEvidence: Hugging Face's model directory places it first with the apache-2.0 license filter applied and “Most likes” selected. Its model page confirms “License: apache-2.0” and 18.5k likes.\nDirectory: https://huggingface.co/models?license=license:apache-2.0&sort=likes\nModel: https://huggingface.co/Qwen/Qwen3.8-27B\nScreenshot: ./final.png",
+  "screenshots": [
+    "task_551/final.png"
+  ],
+  "raw_screenshot": "task_551/final.png"
+}

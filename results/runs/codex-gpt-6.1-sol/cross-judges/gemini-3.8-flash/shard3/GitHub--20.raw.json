@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210398-yf1VOhBhTmYQ5bjwS9eE",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to open GitHub Copilot's FAQs and find the official answer regarding when Copilot chat can be used on mobile.\n\nThe provided screenshot displays the official FAQ section under the question \"What languages, IDEs, and platforms does GitHub Copilot support?\", which confirms that GitHub Copilot (chat) is currently supported in GitHub Mobile across all plans, detailing the specific features available. The response accurately reflects this information.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Locating Mobile Support**\n\nI've zeroed in on the GitHub Copilot FAQs, specifically aiming to pinpoint the official stance on mobile chat availability. The screenshot confirms that all Copilot plans are supported in GitHub Mobile. This seems to be the critical information the user requested, answering the question of Copilot chat usage on the mobile platform.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Locating Mobile Support**\n\nI've zeroed in on the GitHub Copilot FAQs, specifically aiming to pinpoint the official stance on mobile chat availability. The screenshot confirms that all Copilot plans are supported in GitHub Mobile. This seems to be the critical information the user requested, answering the question of Copilot chat usage on the mobile platform.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EpgKCpUKAWkUfRMGlLblGoRMCtOOoh+SnqJojnJddNd1lgajMdRSqEDW5IpqFX1nu/eZ8fpUT7sJr40Vkrgin4x3AhvQvuMWUgJO2Jm3M0Tol2TGfEjPQeZ3swi36hf1nkRM6IzGs6Me7EpYb2L6CjCDZ7ZY1valrQ3UxENh0kwwzgQ4Mr3WGpeUp0VTbWgHdEJkQEPQbs8YY8bbr8O8V8aUU68LaU0PqkqX2TGBC2uvOGq5g5El837s2A+Io1iw1r5ENtzNSZ0BNOFV+3BMAfGteUTFn+mlIPQxIvW4GT0pXClx7ImhVYPcWoQuz9SCDktzqRPx7Q1hIxkaQQcx7Dnd+cxjAK0VqSTrD8bp1p78UeQt0CZWMW7GRs3F8w0eEwjU6mkg893yoWoXfMKcT4dFgXkTpzml3nHe9zOHWRhYCwYDwv8Z4X1y3atoAiIVOyKRXjEAUZkfVtsm72jtahHY+MvAPnltRAjIuk4Z2nza4/vnPV7PaIUBDr7RXKvurkTXlYLbUzDNeEJrnamfb2sLY9QV/mIwCvs2AN2Lr53F//uwVm/XFZYy+u6LE3n/IIKWPB+wJHPDmRff8f514O6TPNXQo4xOt3s4QTAEUIjr4iAuepha3hC66+qgOO5q69UCH01BR1gT4YbeLMHFsPBofUV4JMl1YBSsbA8IEnoxwCL2tq3n0ETOMTDk3lJC/hBM3aOlJ2chELrInYE1BQNE/3z9pAhjtWR5i2pDYJWGigarbdHelVIcN0AYJhZYA/hEoDQNlQQm+7l/XrJlSh/MKAs/Knr6j3MYDRhEpiVbhaCjbr4HSUa/Vmyt5LG3N71d3gIN0rQMbJOE2ajPUaKv9SQ1SCmnRGOQfpiXvpk5Y/irPV1TSOJDCMONWrpSEAy3FYem1ytyfQiq3oqnt0I5gq0ujdfW+onxzWBWM65vTGe+Wds6AZkzE9w/YaDJzUMyNIFzEgT2a0mQHAhFwqlcVLJtUPNGcQOBVxGIrqpL7SHZAQnUSjYnVx4UFYMsuv2s6q4AheZzPf6zYSDvshOqDPIbE5IuGYcNICLo0+72fdBeChxJHMKYNGVevG9gROcKA8EkPbniEqf6miiElKvNyaUZWfpQlU7vcpOpgz9XqBTKrCAX5GHjn76RYBIq/2eJh/FY3TXH9XdacBy6hehltS4wuGxQMt0hxDA6hayuZQl7m8y8PdobU+ZLD9US75y9q+m5+pe2JHRQgAKoKnqDJcssZOPc/LfEg0CnBKZxHJQMI0trho2CWRUFsSECSKiqkr3cjgBplGOzTWLGmeovjRgrGS2jntCPhdA11EQ2V4swXCPcPkeZiLTqOdQfHgJWojXADvRLusEN+EkMctBGWOvRZrkVW9pBimYEzxc2NpyZx6rV8spdw6eNG0j0KGiiDfeofVROShjQdepiv5SL9o5UqbAlCyiqj9QsfEj8l5q84SWMcPvGLju3DKCD1VCUCFZu1i6tbi+jt2D6Af/9R2JRb4JVLTUeLbvv2btASxtORq0rCeMUoE3pqC56lFZUIieeHgIgCFrj+0ongfCOjA1hbYJyKq+TLF2bUl6kiXXwxZXL8In3ugkIfOeiZUAzs9HXYDozqOIzlKP+uHfKwsssV5DGKRpm13oM878l71ZQMGRc5rlpFofWKvp4zjq8Erh5xCKtjavkuuLs6ymxMpzFYHN4ToqE/IHwGIet/H3284afq2Y9OixdcsGecFwb3pG8FhBJ9ZA=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210398,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 302,
+    "prompt_tokens": 1703,
+    "total_tokens": 2005,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 214,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00240975,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00240975,
+      "upstream_inference_prompt_cost": 0.00127725,
+      "upstream_inference_completions_cost": 0.0011325
+    }
+  },
+  "provider": "Google AI Studio"
+}

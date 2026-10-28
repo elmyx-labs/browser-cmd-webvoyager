@@ -1,0 +1,31 @@
+{
+  "id": "ArXiv--2",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Look up the most recent papers related to 'cs.CL', select one and show its abstract.",
+  "answer": "FINAL: Selected “Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR” by Yuchen Zhang, Haralambos Mouratidis, and Ravi Shekhar (arXiv:2610.35846).\n\nThis is the first paper in arXiv’s most recent cs.CL (Computation and Language) listing for October 27, 2026. The paper was submitted October 26, 2026, at 17:56:22 UTC.\n\nAbstract:\nExpanding multilingual ASR systems to new languages is challenging when adaptation must preserve previously supported languages without replaying source-language training data. We study this problem in connector-based Speech LLMs, where a trainable connector maps speech representations into a frozen large language model. We evaluate target-update construction and merging strategies for adapting the connector while preserving source-language performance. In single-target expansion, target-only fine-tuning and standard TIES merging learn new languages but cause severe source-language forgetting, while SSU-Wanda+TIES gives the best source-preserving trade-off. In multi-target expansion, update merging provides stable source retention, whereas recursive expansion can improve target adaptation under favorable orders but is highly order-sensitive. These results show that multilingual ASR expansion requires balancing target acquisition, source retention, and interactions among target-language updates.\n\nSources:\nLatest cs.CL listing: https://arxiv.org/list/cs.CL/recent\nPaper and abstract: https://arxiv.org/abs/2610.35846\nScreenshot evidence: final.png",
+  "response": "The task was to look up the most recent papers related to `cs.CL`, select one, and show its abstract.\n\nThe provided screenshot shows an arXiv paper page under **Computer Science > Computation and Language**, with the subject listed as **Computation and Language (cs.CL)**. The paper shown is:\n\n**“Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR”**\n\nThe screenshot includes the abstract text, and the result response reproduces that abstract. The submission date shown is **26 Oct 2026**, and the response states it was selected from arXiv’s recent cs.CL listing. There is no contradiction between the screenshot and response.\n\nThe user did not require multiple papers to be listed, only that the most recent papers be looked up, one selected, and its abstract shown. This was completed.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The task was to look up the most recent papers related to `cs.CL`, select one, and show its abstract. The provided screenshot shows an arXiv paper page under **Computer Science > Computation and Language**, with the subject listed as **Comp",
+  "screenshots": [
+    "task_122/final.png"
+  ],
+  "raw_screenshot": "task_122/final.png",
+  "source_result": "task_122",
+  "usage": {
+    "completion_tokens": 384,
+    "prompt_tokens": 1899,
+    "total_tokens": 2283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 191,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.12
+}

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--19",
+    "ques": "Look up the most recently updated Python repository on GitHub that is tagged with 'web scraping' and has over 100 stars.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: DasDigitaleMomentum/searxNcrawl — https://github.com/DasDigitaleMomentum/searxNcrawl\n\nGitHub lists it first under “Recently updated” for topic:web-scraping language:Python stars:>100. It has 182 stars and was updated October 28, 2026 at 7:32 AM EDT. Its repository page confirms the web-scraping topic and Python as its main language (97%).\n\nSearch evidence: https://github.com/search?q=topic%3Aweb-scraping+language%3APython+stars%3A%3E100&type=repositories&s=updated&o=desc\nRepository evidence: https://github.com/DasDigitaleMomentum/searxNcrawl\n\nScreenshot: final.png (1280 × 723). It shows the first result, Python, 182 stars, the update age, and “Recently updated.” GitHub’s search header did not show the applied query, so the topic and star filters are documented in the search URL above rather than visible in the screenshot.",
+    "result_text": "FINAL: DasDigitaleMomentum/searxNcrawl — https://github.com/DasDigitaleMomentum/searxNcrawl\n\nGitHub lists it first under “Recently updated” for topic:web-scraping language:Python stars:>100. It has 182 stars and was updated October 28, 2026 at 7:32 AM EDT. Its repository page confirms the web-scraping topic and Python as its main language (97%).\n\nSearch evidence: https://github.com/search?q=topic%3Aweb-scraping+language%3APython+stars%3A%3E100&type=repositories&s=updated&o=desc\nRepository evidence: https://github.com/DasDigitaleMomentum/searxNcrawl\n\nScreenshot: final.png (1280 × 723). It shows the first result, Python, 182 stars, the update age, and “Recently updated.” GitHub’s search header did not show the applied query, so the topic and star filters are documented in the search URL above rather than visible in the screenshot.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_386/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_386",
+  "elapsed_seconds": 221.02773809432983,
+  "execution_error": null,
+  "proxy_bytes": 19236707
+}

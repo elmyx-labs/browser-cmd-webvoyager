@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Wolfram Alpha",
+    "id": "Wolfram Alpha--8",
+    "ques": "Give 12 lbs of 4-cyanoindole, converted to molar and indicate the percentage of C, H, N.",
+    "web": "https://www.wolframalpha.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: 12 lb of 4-cyanoindole (C₉H₆N₂) corresponds to 38.288 mol. Its elemental composition by mass is C: 76.0%, H: 4.3%, N: 19.7%.\nEvidence: Wolfram|Alpha, “12 lbs 4-cyanoindole,” https://www.wolframalpha.com/input?i=12+lbs+4-cyanoindole (accessed October 27, 2026). The page gives the molar amount and mass percentages directly; molar mass: 142.16 g/mol. Screenshot: final.png.",
+    "result_text": "FINAL: 12 lb of 4-cyanoindole (C₉H₆N₂) corresponds to 38.288 mol. Its elemental composition by mass is C: 76.0%, H: 4.3%, N: 19.7%.\nEvidence: Wolfram|Alpha, “12 lbs 4-cyanoindole,” https://www.wolframalpha.com/input?i=12+lbs+4-cyanoindole (accessed October 27, 2026). The page gives the molar amount and mass percentages directly; molar mass: 142.16 g/mol. Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_577/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_577",
+  "elapsed_seconds": 56.2735378742218,
+  "execution_error": null,
+  "proxy_bytes": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210250-vXWpW54OHAbajZy69iMp",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the screenshot and the response provided:\n\n1. **Price for one year of Coursera Plus**: The screenshot clearly shows under \"Coursera Plus\" with \"Billed Annually\" selected that the price is **$239/year**.\n2. **Discount**: The screenshot displays a badge indicating **Save 40%**.\n3. **3 Companies that work with Coursera**: The response lists Google, IBM, and Microsoft. Per the evaluation rules, content not shown on the screenshot is accepted if not contradicted.\n\nAll requirements of the instruction were met accurately.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Coursera Plus Details**\n\nI'm currently analyzing the provided screenshot to extract the specific pricing and discount information for Coursera Plus, as well as identifying three partner companies. My focus is on the details presented under the \"Coursera Plus\" section, specifically the billing options.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Coursera Plus Details**\n\nI'm currently analyzing the provided screenshot to extract the specific pricing and discount information for Coursera Plus, as well as identifying three partner companies. My focus is on the details presented under the \"Coursera Plus\" section, specifically the billing options.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18KzrLjSzaQZ8AjAQsILZ/a5Ggr1xL9WpwVdwO8MqcAw3j5/FbwOK1LzTIA/qgBBbR2PfAX7LQQuFS1/h73svh/sNuDjDD8J0CuSKzH4/OHLET4HReGD4vpQJqxqkZqjOaS3UyHGAoCGJ+tBnlVp7R8jIb4Gvf2VVdNvbpTiNJfCFYnB2Ly1drb9zWaFVINnYMuFl1+DpN2+tpc0lHSyDnoWKZaIu47Wv8Nht0c+2eEq1GEtHXMDu2z9bkT5sqkr5qXVL3tETmKOP49iOWglX4ndCWye626090FcysTHJY7lXiTj9m1sjWppl4c7wEoE27kyO5/T79KxAp6pdTz7x2JtoiKP0LAlXioyhKh5UrVaLMtbK9cgW1vP5RoJmMNDmlhoF9RrdqrENL1LgAX4oql+0DZ53Z6KMktMsDTziKi3FDTemVU7+bDFWuooCcXkQmFXXjLcQuHf9npln730sB9HCtNPCTbS1AtDpnSok7XFBKpIk5k33FNvZ2rsZq0wZdonNh/LDvIxLDVbQNBARBNnV52VHTT2gKpCGLrTxvh+REIbnVGYTyFgNugCYHxEP/b0eLxuVz6tOBIt8VmvDGkuGfIDDiuGmpvORA02wQIZfx+JE+7nAc/j22sRvZ5wdvPziCOxEzXK8bw8Ij87lPmg4p9AUzR7tKTGeG5HwTIGbyy4DQi0wlXvsPTx3Jg9H6BfTmiwqj4kxi/qv0SfQrZRBwIlr0NrUrz9b7biVnHdcCiDOwAs5vNFTVmlGNb88xbig8gl4FHWPLUiIIT0EGkDMCGetkXtA+uzbMxmCU9KGnEuQAsKHctoqS4wSMggup6Y0rZyu+lf1uZhSYIZmFuWXKoRFI916CFa5uh0U059HPI84UIbHCkNsgqyYExiPpF97WgMr/SHIPzE5r6Y0lkH/TJEOJw2AtJGPxncl20mmTMYprkfrVK+/UVKO2/PkqkRDYK9OymEnSYr9UqFGWJ4Yeb0HkoJDasQe8tmb5f/tRQbV5q/kqYUHmY93c04UKp4uudEgVj4H48rgpcknpxPeihu+G35u4skkQXLGKVrAhJiIa1mZ7W37bCIROAvOIqTC/sj/LbKQ0x4OphRWEMDAeno+hWDrGk4XFxkURwg5pr1AsYJuaCJ91AEZZfxA6r6ymPZXAdgnytwjCX7zJe933iusFN2wnwSZzcE8SCSAPfTkdcss0/DJ6PJnNFxVUGKN8UvqO4dkOsJoyzwU5ROStqYzjkwdmGPR6E38Hm7J3nr1u9MEC+c/U6E/wvJH5909hOODFa9hfLpP+ifO9IgY69pCJZNcRg7Ox3MTZRRkDXocDwKqG73sfYUauxvDbbrWLp5lr6iu6YDw9mntrehQJjh41lNpzdEUjGSYl5sijE0yRDvLQEtlez2nOZIdHOPnlOj5+WVY9jPtqMqpf628PfkZXFkCollZ8Vt0AEYrKWwcQ5WRvrHKVA05HiI+7lkcTV1Yb3M0eCPquj349dHMhfSW3MtrfSt1gMeKOuVQ7CrbqZ/r8sSEm7Bvpr",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210250,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 362,
+    "prompt_tokens": 1730,
+    "total_tokens": 2092,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 240,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002655,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002655,
+      "upstream_inference_prompt_cost": 0.0012975,
+      "upstream_inference_completions_cost": 0.0013575
+    }
+  },
+  "provider": "Google"
+}

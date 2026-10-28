@@ -1,0 +1,41 @@
+{
+  "id": "Allrecipes--21",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Locate a high-rated recipe for gluten-free brownies on Allrecipes with at least 50 reviews. List the main ingredients and the total time required for preparation and cooking.",
+  "answer": "FINAL: Allrecipes’ Gluten-Free Fudge Brownies qualifies with a 4.1/5 rating from 76 ratings and 59 written reviews.\n\nMain ingredients (16 brownies):\n- ⅔ cup gluten-free baking mix\n- ½ cup cornstarch\n- 1 cup white sugar\n- 1 cup packed brown sugar\n- ¾ cup unsweetened cocoa powder\n- 1 teaspoon baking soda\n- 2 eggs, beaten\n- ¾ cup margarine, melted\n\nTotal time: 1 hour — 15 minutes preparation plus 45 minutes cooking.\n\nSource: https://www.allrecipes.com/recipe/127503/gluten-free-fudge-brownies/ (recipe updated January 14, 2022; checked October 27, 2026).\nEvidence: final.png shows the recipe name, 4.1 rating, and 59 reviews together. The recipe page lists the ingredients and Prep Time: 15 mins, Cook Time: 45 mins, Total Time: 1 hr.",
+  "response": "The user requested to locate a high-rated recipe for gluten-free brownies on Allrecipes with at least 50 reviews, and to list its main ingredients as well as the total time required for preparation and cooking.\n\n- The screenshot confirms that the recipe \"Gluten-Free Fudge Brownies\" on Allrecipes has a 4.1-star rating from 76 ratings and 59 reviews (meeting the criterion of at least 50 reviews).\n- The Result Response lists the main ingredients and provides the preparation time (15 mins), cooking time (45 mins), and total time (1 hour). Per guidelines, details not visible in the screenshot are accepted as accurate.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+  "reason_short": "The user requested to locate a high-rated recipe for gluten-free brownies on Allrecipes with at least 50 reviews, and to list its main ingredients as well as the total time required for preparation and cooking. - The screenshot confirms tha",
+  "screenshots": [
+    "task_18/final.png"
+  ],
+  "raw_screenshot": "task_18/final.png",
+  "source_result": "task_18",
+  "usage": {
+    "completion_tokens": 454,
+    "prompt_tokens": 1830,
+    "total_tokens": 2284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 300,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.003075,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.003075,
+      "upstream_inference_prompt_cost": 0.0013725,
+      "upstream_inference_completions_cost": 0.0017025
+    }
+  },
+  "elapsed_seconds": 16.28
+}

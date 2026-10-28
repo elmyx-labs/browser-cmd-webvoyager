@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Booking",
+    "id": "Booking--7",
+    "ques": "Find a hotel room on January 3-6 that is closest to National University of Singapore and costs less than $500",
+    "web": "https://www.booking.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Fragrance Hotel – Ocean View, Standard Double or Twin Room (1 full bed), January 3–6, 2027: US$236 + US$47 taxes and fees = US$283 for all 3 nights, for 2 adults in 1 room. It is Booking.com's first hotel when sorted by “Distance from landmark,” shown as 1 km from National University of Singapore. The rate is non-refundable. I used US dollars and the upcoming January.\nSource: https://www.booking.com/hotel/sg/fragrance-ocean-view.html\nEvidence: final.png shows the dates, Hotels filter, distance sort, room, distance and price.",
+    "result_text": "FINAL: Fragrance Hotel – Ocean View, Standard Double or Twin Room (1 full bed), January 3–6, 2027: US$236 + US$47 taxes and fees = US$283 for all 3 nights, for 2 adults in 1 room. It is Booking.com's first hotel when sorted by “Distance from landmark,” shown as 1 km from National University of Singapore. The rate is non-refundable. I used US dollars and the upcoming January.\nSource: https://www.booking.com/hotel/sg/fragrance-ocean-view.html\nEvidence: final.png shows the dates, Hotels filter, distance sort, room, distance and price.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_208/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_208",
+  "elapsed_seconds": 123.44694924354553,
+  "execution_error": null,
+  "proxy_bytes": null
+}

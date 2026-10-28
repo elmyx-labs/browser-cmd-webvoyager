@@ -1,0 +1,31 @@
+{
+  "id": "GitHub--21",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the Security topic in GitHub Resources and answer the role of GitHub Advanced Security.",
+  "answer": "FINAL: GitHub Advanced Security helps keep code and secrets safe by identifying and fixing vulnerabilities through static code analysis, dependency scanning, and secret scanning.\n\nEvidence: GitHub → Resources → Explore by Topic → Security (https://github.com/resources/articles?topic=security). The Security article “What is application security and how does it work?” (August 31, 2026), under “Next steps to keep your code and secrets secure,” describes this role: https://github.com/resources/articles/what-is-application-security#next-steps-to-keep-your-code-and-secrets-secure\n\nScreenshot: final.png shows the GitHub Advanced Security passage and the article’s Security tag.",
+  "response": "The task was to find the **Security** topic in GitHub Resources and answer the role of **GitHub Advanced Security**.\n\nThe screenshot shows a GitHub Resources article tagged **Security**, and the visible passage states that GitHub Advanced Security is “an all-up solution to keep your code and secrets safe” and that it helps “identify and fix vulnerabilities in your code,” including through **static code analysis, dependency scanning, and secret scanning**.\n\nThe result response accurately summarizes this role and aligns with the screenshot.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find the **Security** topic in GitHub Resources and answer the role of **GitHub Advanced Security**. The screenshot shows a GitHub Resources article tagged **Security**, and the visible passage states that GitHub Advanced Se",
+  "screenshots": [
+    "task_388/final.png"
+  ],
+  "raw_screenshot": "task_388/final.png",
+  "source_result": "task_388",
+  "usage": {
+    "completion_tokens": 279,
+    "prompt_tokens": 1719,
+    "total_tokens": 1998,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 161,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.26
+}

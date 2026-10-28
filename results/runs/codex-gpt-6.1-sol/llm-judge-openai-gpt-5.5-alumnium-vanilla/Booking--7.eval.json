@@ -1,0 +1,31 @@
+{
+  "id": "Booking--7",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a hotel room on January 3-6 that is closest to National University of Singapore and costs less than $500",
+  "answer": "FINAL: Fragrance Hotel – Ocean View, Standard Double or Twin Room (1 full bed), January 3–6, 2027: US$236 + US$47 taxes and fees = US$283 for all 3 nights, for 2 adults in 1 room. It is Booking.com's first hotel when sorted by “Distance from landmark,” shown as 1 km from National University of Singapore. The rate is non-refundable. I used US dollars and the upcoming January.\nSource: https://www.booking.com/hotel/sg/fragrance-ocean-view.html\nEvidence: final.png shows the dates, Hotels filter, distance sort, room, distance and price.",
+  "response": "The task was to find a hotel room for January 3–6 that is closest to the National University of Singapore and costs less than $500.\n\nThe screenshot shows Booking.com search results for National University of Singapore with dates “Sun, Jan 3 — Wed, Jan 6,” occupancy 2 adults, and the results sorted by “Distance from landmark.” A Hotels filter is applied. The first listed property is Fragrance Hotel – Ocean View, shown as 1 km from National University of Singapore, with a Standard Double or Twin Room priced at US$236 plus US$47 taxes and fees, totaling US$283 for 3 nights. This is under $500.\n\nThe result response accurately identifies this property and provides the total price, dates, room type, and distance. Since the listing is first when sorted by distance and meets the price requirement, the task appears to be completed correctly.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find a hotel room for January 3–6 that is closest to the National University of Singapore and costs less than $500. The screenshot shows Booking.com search results for National University of Singapore with dates “Sun, Jan 3 ",
+  "screenshots": [
+    "task_208/final.png"
+  ],
+  "raw_screenshot": "task_208/final.png",
+  "source_result": "task_208",
+  "usage": {
+    "completion_tokens": 615,
+    "prompt_tokens": 1725,
+    "total_tokens": 2340,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 422,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 9.42
+}

@@ -1,0 +1,2 @@
+IMDb: Inception (2010), https://www.imdb.com/title/tt1375666/, viewed October 27, 2026. Exact page words: "IMDb RATING 8.8 /10 2.9M"; "74 Metascore".
+Metacritic: https://www.metacritic.com/movie/inception/?ftag=MCD-06-10aaa1c, viewed October 27, 2026. Exact page words: "Inception", "Metascore", "Generally Favorable", "Based on 42 Critic Reviews", "74". User score is separately listed as 8.8, so the Metacritic score reported is the critic Metascore.

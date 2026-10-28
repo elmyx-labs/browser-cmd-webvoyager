@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Wolfram Alpha",
+    "id": "Wolfram Alpha--35",
+    "ques": "Calculate the determinant of a 6x6 Hilbert matrix.",
+    "web": "https://www.wolframalpha.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The determinant of the 6×6 Hilbert matrix is 1/186313420339200000.\n\nEvidence: WolframAlpha interprets “determinant of 6x6 Hilbert matrix” as |HilbertMatrix[6]| and displays the exact result 1/186313420339200000. Accessed October 27, 2026.\nSource: https://www.wolframalpha.com/input?i=determinant+of+6x6+Hilbert+matrix\nScreenshot: final.png",
+    "result_text": "FINAL: The determinant of the 6×6 Hilbert matrix is 1/186313420339200000.\n\nEvidence: WolframAlpha interprets “determinant of 6x6 Hilbert matrix” as |HilbertMatrix[6]| and displays the exact result 1/186313420339200000. Accessed October 27, 2026.\nSource: https://www.wolframalpha.com/input?i=determinant+of+6x6+Hilbert+matrix\nScreenshot: final.png",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_604/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_604",
+  "elapsed_seconds": 46.926002979278564,
+  "execution_error": null,
+  "proxy_bytes": null
+}

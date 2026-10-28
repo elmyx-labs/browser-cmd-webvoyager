@@ -1,0 +1,31 @@
+{
+  "id": "GitHub--19",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Look up the most recently updated Python repository on GitHub that is tagged with 'web scraping' and has over 100 stars.",
+  "answer": "FINAL: DasDigitaleMomentum/searxNcrawl — https://github.com/DasDigitaleMomentum/searxNcrawl\n\nGitHub lists it first under “Recently updated” for topic:web-scraping language:Python stars:>100. It has 182 stars and was updated October 28, 2026 at 7:32 AM EDT. Its repository page confirms the web-scraping topic and Python as its main language (97%).\n\nSearch evidence: https://github.com/search?q=topic%3Aweb-scraping+language%3APython+stars%3A%3E100&type=repositories&s=updated&o=desc\nRepository evidence: https://github.com/DasDigitaleMomentum/searxNcrawl\n\nScreenshot: final.png (1280 × 723). It shows the first result, Python, 182 stars, the update age, and “Recently updated.” GitHub’s search header did not show the applied query, so the topic and star filters are documented in the search URL above rather than visible in the screenshot.",
+  "response": "The task was to identify the most recently updated GitHub repository that meets all of these criteria:\n\n- Python repository\n- Tagged with “web scraping”\n- Over 100 stars\n- Sorted by most recently updated\n\nThe screenshot shows GitHub repository search results sorted by “Recently updated.” The first listed result is `DasDigitaleMomentum/searxNcrawl`, showing:\n\n- Language: Python\n- Stars: 182, which is over 100\n- Updated: 1 minute ago\n- It is the top result under the “Recently updated” sort\n\nThe screenshot does not visibly show the full search query or the `web-scraping` topic filter for the first result, but the result response provides the search URL using `topic:web-scraping language:Python stars:>100` and states that the repository page confirms the topic. Since this does not contradict the screenshot, it is acceptable to rely on that textual evidence.\n\nTherefore, the provided repository satisfies the requested conditions and appears to be the most recently updated matching result.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to identify the most recently updated GitHub repository that meets all of these criteria: - Python repository - Tagged with “web scraping” - Over 100 stars - Sorted by most recently updated The screenshot shows GitHub repositor",
+  "screenshots": [
+    "task_386/final.png"
+  ],
+  "raw_screenshot": "task_386/final.png",
+  "source_result": "task_386",
+  "usage": {
+    "completion_tokens": 679,
+    "prompt_tokens": 1808,
+    "total_tokens": 2487,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 456,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 8.62
+}

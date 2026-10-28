@@ -1,0 +1,31 @@
+{
+  "id": "Apple--32",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Investigate the trade-in value for an iPhone 13 Pro Max on Apple's website.",
+  "answer": "FINAL: Apple lists an iPhone 13 Pro Max trade-in value of up to $320 USD on its U.S. website, checked October 27, 2026. This is a maximum estimate: the actual credit depends on the device's condition, year and configuration, and on Apple receiving a device matching the description provided. Credit can go toward a qualifying new purchase or an Apple Gift Card.\n\nEvidence: Apple's iPhone Trade-In Values table states “iPhone 13 Pro Max — Up to $320”; the footnote explains the conditions. Source: https://www.apple.com/shop/browse/overlay/tradein_landing/iphone_values (accessed from https://www.apple.com/shop/trade-in). Screenshot: final.png, showing the model, value and footnote together without an open dialog.",
+  "response": "The task was to investigate the trade-in value for an iPhone 13 Pro Max on Apple’s website.\n\nThe screenshot shows Apple’s iPhone trade-in values list, including the row:\n\n- “iPhone 13 Pro Max — Up to $320”\n\nThe screenshot also includes the relevant footnote explaining that trade-in values depend on condition, year, configuration, eligibility, and receipt of a qualifying device, which matches the caveats described in the Result Response.\n\nThe Result Response accurately reports the visible value and appropriately frames it as a maximum estimate rather than a guaranteed amount.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to investigate the trade-in value for an iPhone 13 Pro Max on Apple’s website. The screenshot shows Apple’s iPhone trade-in values list, including the row: - “iPhone 13 Pro Max — Up to $320” The screenshot also includes the rel",
+  "screenshots": [
+    "task_110/final.png"
+  ],
+  "raw_screenshot": "task_110/final.png",
+  "source_result": "task_110",
+  "usage": {
+    "completion_tokens": 231,
+    "prompt_tokens": 1746,
+    "total_tokens": 1977,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 4.05
+}

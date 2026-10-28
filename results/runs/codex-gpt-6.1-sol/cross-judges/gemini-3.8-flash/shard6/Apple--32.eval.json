@@ -1,0 +1,41 @@
+{
+  "id": "Apple--32",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Investigate the trade-in value for an iPhone 13 Pro Max on Apple's website.",
+  "answer": "FINAL: Apple lists an iPhone 13 Pro Max trade-in value of up to $320 USD on its U.S. website, checked October 27, 2026. This is a maximum estimate: the actual credit depends on the device's condition, year and configuration, and on Apple receiving a device matching the description provided. Credit can go toward a qualifying new purchase or an Apple Gift Card.\n\nEvidence: Apple's iPhone Trade-In Values table states “iPhone 13 Pro Max — Up to $320”; the footnote explains the conditions. Source: https://www.apple.com/shop/browse/overlay/tradein_landing/iphone_values (accessed from https://www.apple.com/shop/trade-in). Screenshot: final.png, showing the model, value and footnote together without an open dialog.",
+  "response": "The user requested to investigate the trade-in value for an iPhone 13 Pro Max on Apple's website.\n\nThe provided screenshot displays Apple's official iPhone trade-in values table, which clearly lists \"iPhone 13 Pro Max\" with a value of \"Up to $320\". The Result Response accurately reports this value along with relevant details regarding condition dependencies and footnote terms.\n\nSUCCESS",
+  "reason_short": "The user requested to investigate the trade-in value for an iPhone 13 Pro Max on Apple's website. The provided screenshot displays Apple's official iPhone trade-in values table, which clearly lists \"iPhone 13 Pro Max\" with a value of \"Up to",
+  "screenshots": [
+    "task_110/final.png"
+  ],
+  "raw_screenshot": "task_110/final.png",
+  "source_result": "task_110",
+  "usage": {
+    "completion_tokens": 240,
+    "prompt_tokens": 1763,
+    "total_tokens": 2003,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 157,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00222225,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00222225,
+      "upstream_inference_prompt_cost": 0.00132225,
+      "upstream_inference_completions_cost": 0.0009
+    }
+  },
+  "elapsed_seconds": 4.34
+}

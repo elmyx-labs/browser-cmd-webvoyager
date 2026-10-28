@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210246-sN0jAgntnoK1PVwyH1a0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to browse the booking website for trip inspiration and summarize at least three places mentioned in one of the travel articles.\n\nThe agent browsed a Booking.com travel article (\"Your ultimate ten-day Italy itinerary\") and summarized four places directly featured in the article: Rome, Florence, Cinque Terre, and Venice, including the specific activities and details mentioned. The screenshot confirms the contents and places described.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Discovering Destinations**\n\nI've been exploring Booking.com's travel articles, and \"Your ultimate ten-day\" caught my eye, offering initial inspiration for potential trip ideas.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Discovering Destinations**\n\nI've been exploring Booking.com's travel articles, and \"Your ultimate ten-day\" caught my eye, offering initial inspiration for potential trip ideas.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19CSkQlvtguDDKaa55fHhlDKEPqB04r7Qz2VSSIjiMUxZ5LEpCB24hujkaoJFeTJD8DBisqAg7Kw4ePxi44BOqIylEW0AL4AqecpXU7Xho0YomOatqnWEt5StIPOtCfqx0WONdxXl/enl4e3fpYCrGSXmR/IFPBzXGXicseu1xfWuVLYejYsATIS2MHqLDVXRX7Iu1Ie35Bc8cQBxkgvKojpU5wHVH+kPtcvOXXpK2HM1SEDQKmSAgIN1LPLGcgAEPxAcLuOsZ2lSWWJjePGWtKkeMgMIVIQkL9Ig33a+PTpWq+4aAHQDh6eBlL8KQneexY2Wo5KOzV2qHFkEMW2JG9sMWXcDtb4MTd1Q+fT5uSsy9Jvnq2KmlKwoqUhWX+ssyPYR4USpxHShuqbcomvxwp7TqXWqkUP2YNs8LYefzzSwi0Jx10yU35aa+nYvjf7CVlhmN2LYW3FEMdJJ9N0hHLsNpOjxGU1dmm1ZjRrxTJSTsBc4ISfpgR1ZvZJVBs3EgPAc+bwtyrPgeqhXhVA135qWcN26lkIvZeblBFggk6BygKVenC5qyJIXgJVHoL3vFXdr3TM8ZSboVUuwdmUtoXvlLAmbj5sZ72aBSd7bpWH7T0ny3L6sZX5KukyYSA9AZQ4WA8GzMENX7SE1Lar/RTCeOaqAY92sxbqMdp4aRjXSKpO+aciKLjdCUviXi3Q0VywsfO8NlauoMjzTuG4v47Qfnrt3k/95Fn4Zax66En/3qClEnrpkYH6kyjZGic0erbcUpHRU1fVppYUNa01cdhybf7x85XlAJxVzWOr5HJPmFt1iWhFtID2SDUxhibxac24BLYOs0uqNAvW9IwF38aODeialIZg1DMH35xMyymhwJlFSI96ukObqRBkWjKLv0HRGornq7gxG4+DPcmRHopoXGheHDW+hnakx8aKI0vzkJKKPNgyl4BOvAuGyWk3Pzh3Ee6B4OeM1u3KgczB51l85hqyD7vRthR7iIqOKgkxFEu1iK3M3pp+rtNMDhFGxpjW4kgNZTmHpklUTf1rfyRLll/kKN0xImKWwNgyxU+gRozJlz3AHO5Fk3TCxvrnL8271eOYA8UlAWnk24FZuACBh62wiLAu2Aw/MyqUGIqPhJE97ucyy9icg60cRkkT8Mgsk5XMDvumiu5CSzxHX7z8soGwjy+Ve74SLx0Dn/X6zNs9IC7TmmeRUkzLNeMLw5iznAXYHZgr325w6Vy5NxWVVKsZn8Vhg3PV5LJYwBdR5uXdZaIf1oXRBQKsIt5zEO0bzQy6iSGuXksMI54F1E7UFHoO75fruQordjtBU8pTzYYtP1zfZUF5NDV/Tuls21KVIHV4RISHyINEnhoFMbzNVqI8bWH4mupLS+uEDCPqXML9EadJI+W1HwBMrPNZMLxW6eL0k6IJZuTOZmC6Q9nNLRdbGyRnYqrIoZGaFMdLTSewWz9tq1IAh8i95ntT3cjdgkb/BRy9ogg5Ha0PMm5IoEzOXxFElpJmrghe5UaU4pE5IPddOWQ78tPE7bTn4YWake2DaKyQ1f0TgBiO+pcGhbL3ka81gjZ/mnUYy2GyXOZ8UYfyNMn+gIq2X+aDrXjvg==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210246,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 318,
+    "prompt_tokens": 1830,
+    "total_tokens": 2148,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 224,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002565,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002565,
+      "upstream_inference_prompt_cost": 0.0013725,
+      "upstream_inference_completions_cost": 0.0011925
+    }
+  },
+  "provider": "Google"
+}

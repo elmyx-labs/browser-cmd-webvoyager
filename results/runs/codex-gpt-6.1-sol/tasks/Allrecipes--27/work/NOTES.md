@@ -1,0 +1,7 @@
+Source: https://www.allrecipes.com/recipe/212721/indian-chicken-curry-murgh-kari/
+Read in browser on October 27, 2026.
+Exact title: Indian Chicken Curry (Murgh Kari)
+Exact qualifying values: “4.7”, “(1,292)”, “1,013 Reviews”; review section says “4.7 out of 5” and “1292 Ratings”.
+Exact timing: “Prep Time: 20 mins”, “Cook Time: 40 mins”, “Total Time: 1 hr”, “Servings: 6”.
+Original recipe (1X) ingredients: 2 pounds skinless, boneless chicken breast halves; 2 teaspoons salt; 3 tablespoons cooking oil, or as needed; 1 ½ cups chopped onion; 1 tablespoon minced garlic; 1 ½ teaspoons minced fresh ginger root; 1 tablespoon curry powder; 1 teaspoon each ground cumin, ground turmeric, ground coriander, cayenne pepper; 1 tablespoon water; 1 (15 ounce) can crushed tomatoes; 1 cup plain yogurt; 1 tablespoon chopped fresh cilantro; 1 teaspoon salt; ½ cup water; 1 teaspoon garam masala; 1 tablespoon chopped fresh cilantro; 1 tablespoon fresh lemon juice.
+Method: salt and brown chicken in oil over high heat; set aside. Cook onion, garlic and ginger over medium heat 5–8 minutes. Add curry powder, cumin, turmeric, coriander, cayenne and 1 tablespoon water; stir about 1 minute. Stir in tomatoes, yogurt, 1 tablespoon cilantro and 1 teaspoon salt. Return chicken and juices, add ½ cup water, boil and turn to coat. Sprinkle garam masala and remaining cilantro. Cover and simmer about 20 minutes to at least 165°F (74°C). Finish with lemon juice. Suggested accompaniments are basmati rice or warm naan.

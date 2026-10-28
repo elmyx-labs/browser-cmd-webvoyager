@@ -1,0 +1,4 @@
+[x] Find the Denver Nuggets game that occurred within the last 3 days on ESPN. ESPN https://www.espn.com/nba/recap/_/gameId/401909876 shows “10:00 PM, October 26, 2026”; browser local date is October 28, 2026. Denver team page lists this as latest completed game.
+[x] Show the scores and main highlight. Same recap: “Golden State Warriors” 134, “Denver Nuggets” 114, “Final”; lead paragraph says Yaxel Lendeborg had 31 points and 12 rebounds for Golden State’s first win of the season.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with game name, date, scores and main highlight visible and no overlays. Captured ESPN recap viewport with browser-cmd, resized to 1280×723 using sips, and visually checked final.png as the only evidence image read.
+[x] Write the result and evidence to ./ANSWER.txt. Includes final score, October 26 date, main highlight, ESPN recap URL and final.png evidence.

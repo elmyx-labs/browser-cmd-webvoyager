@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Huggingface",
+    "id": "Huggingface--15",
+    "ques": "Identify the most downloaded models on Hugging face that use the PaddlePaddle library.",
+    "web": "https://huggingface.co/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: PaddlePaddle/PP-Chart2Table is the most downloaded PaddlePaddle model on Hugging Face, with 6,143 downloads last month.\n\nThe top five as checked on October 27, 2026:\n\n| Rank | Model | Downloads last month |\n| --- | --- | ---: |\n| 1 | [PaddlePaddle/PP-Chart2Table](https://huggingface.co/PaddlePaddle/PP-Chart2Table) | 6,143 |\n| 2 | [logasanjeev/indian-id-validator](https://huggingface.co/logasanjeev/indian-id-validator) | 1,118 |\n| 3 | [tieubaoca/pp-ocrv6-medium-rec-vietnamese](https://huggingface.co/tieubaoca/pp-ocrv6-medium-rec-vietnamese) | 233 |\n| 4 | [PaddlePaddle/PP-DocBee2-3B](https://huggingface.co/PaddlePaddle/PP-DocBee2-3B) | 175 |\n| 5 | [Kellenok/PP-OCRv6_manga](https://huggingface.co/Kellenok/PP-OCRv6_manga) | 139 |\n\nEvidence: [Hugging Face model directory](https://huggingface.co/models?library=paddlepaddle&sort=downloads), filtered to the PaddlePaddle library and sorted by “Most downloads.” The linked model pages label the exact counts “Downloads last month”; the directory rounds the first two to 6.14k and 1.12k. I chose the top five because no number was specified. The viewport screenshot is saved as final.png.",
+    "result_text": "FINAL: PaddlePaddle/PP-Chart2Table is the most downloaded PaddlePaddle model on Hugging Face, with 6,143 downloads last month.\n\nThe top five as checked on October 27, 2026:\n\n| Rank | Model | Downloads last month |\n| --- | --- | ---: |\n| 1 | [PaddlePaddle/PP-Chart2Table](https://huggingface.co/PaddlePaddle/PP-Chart2Table) | 6,143 |\n| 2 | [logasanjeev/indian-id-validator](https://huggingface.co/logasanjeev/indian-id-validator) | 1,118 |\n| 3 | [tieubaoca/pp-ocrv6-medium-rec-vietnamese](https://huggingface.co/tieubaoca/pp-ocrv6-medium-rec-vietnamese) | 233 |\n| 4 | [PaddlePaddle/PP-DocBee2-3B](https://huggingface.co/PaddlePaddle/PP-DocBee2-3B) | 175 |\n| 5 | [Kellenok/PP-OCRv6_manga](https://huggingface.co/Kellenok/PP-OCRv6_manga) | 139 |\n\nEvidence: [Hugging Face model directory](https://huggingface.co/models?library=paddlepaddle&sort=downloads), filtered to the PaddlePaddle library and sorted by “Most downloads.” The linked model pages label the exact counts “Downloads last month”; the directory rounds the first two to 6.14k and 1.12k. I chose the top five because no number was specified. The viewport screenshot is saved as final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_542/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_542",
+  "elapsed_seconds": 94.63777089118958,
+  "execution_error": null,
+  "proxy_bytes": null
+}

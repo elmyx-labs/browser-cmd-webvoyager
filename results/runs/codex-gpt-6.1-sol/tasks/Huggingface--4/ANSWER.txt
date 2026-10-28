@@ -1,0 +1,15 @@
+FINAL: Zephyr-7B-β (HuggingFaceH4/zephyr-7b-beta) is an open-source conversational AI model on Hugging Face, trained primarily in English and released under the MIT license.
+
+Main features:
+- 7-billion-parameter GPT-like model fine-tuned from Mistral-7B-v0.1.
+- Trained as a helpful assistant using synthetic dialogue data and Direct Preference Optimization (DPO), including UltraChat and UltraFeedback.
+- Supports conversational text generation through Hugging Face Transformers, with chat templates and system/user messages.
+
+Applications:
+- English-language chatbots and interactive conversational assistants.
+- Chatbots with a specified response style; the model card demonstrates a pirate-style assistant.
+- Research and experimentation with dialogue fine-tuning and preference alignment; the card links the training-code repository and datasets.
+
+Evidence: The model card explicitly states “Language(s) (NLP): Primarily English,” “License: MIT,” and that the model “can be used for chat.” Its description and intended-use example support the features and applications above.
+Source: https://huggingface.co/HuggingFaceH4/zephyr-7b-beta (accessed October 27, 2026).
+Screenshot evidence: final.png shows the model name, assistant purpose, 7B architecture, primarily English language, and MIT license together.

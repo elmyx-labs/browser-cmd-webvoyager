@@ -1,0 +1,41 @@
+{
+  "id": "Huggingface--36",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Summarize all the payment plans and their advantages in huggingface pricing.",
+  "answer": "FINAL: Hugging Face offers three paid subscription plans—PRO, Team and Enterprise—plus free entry-level hardware and usage-based storage and compute services. Prices below were displayed on October 27, 2026.\n\n| Plan | Advertised price | Advantages |\n|---|---|---|\n| PRO Account | $9/month | For individuals: 10× private storage capacity, 2× public storage capacity, $2 in monthly inference credits, and 8× ZeroGPU quota with highest queue priority. Also includes hosting ZeroGPU, Gradio and Docker Spaces; Spaces Dev Mode with SSH/VS Code; personal blog publishing; Dataset Viewer for private datasets; early feature access; and a PRO badge. |\n| Team | $20 per user/month | For growing organizations: SSO via SAML/OIDC; data-location control through Storage Regions; Audit Logs; granular permissions through Resource Groups; repository analytics; advanced authentication and repository-visibility policies; centralized token control and approvals; private Dataset Viewer; and Gradio/Docker Spaces with advanced compute options. All organization members receive the ZeroGPU and Inference Providers PRO benefits. Available through self-service credit-card signup. |\n| Enterprise | $50 per user/month | All Team benefits, plus the highest storage, bandwidth and API rate limits; automated user management through SCIM provisioning; advanced security and access controls; custom onboarding; managed billing with annual commitments; legal/compliance processes; and dedicated support. Contact sales to arrange it. |\n\nAdditional pricing options\n\n• Storage: Public/private repositories cost $12/$18 per TB/month at the base tier, $10/$16 at 50TB+, $9/$14 at 200TB+, and $8/$12 at 500TB+. Advantages: volume discounts, with egress and CDN included at no extra cost. Above 500TB, custom pricing is available through sales.\n• Spaces hardware: CPU Basic (2 vCPU, 16GB RAM) and ZeroGPU are listed as free. CPU Upgrade costs $0.03/hour; paid GPU hardware starts at $0.40/hour for a small Nvidia T4. Advantage: on-demand hardware for sharing ML applications and demos, with larger and custom configurations available.\n• Inference Endpoints: Advertised from $0.033/hour, with CPU, GPU and accelerator configurations. Advantages: dedicated, autoscaling infrastructure for secure, production-ready model deployment with no cold starts.\n\nEvidence: [Hugging Face’s official pricing page](https://huggingface.co/pricing), read October 27, 2026. [final.png](./final.png) is a genuine viewport screenshot showing all three subscription names, prices and benefit lists together, resized to 1280 × 722 pixels. Additional storage, hardware, endpoint and PRO details were read elsewhere on the same pricing page.",
+  "response": "The user requested a summary of all payment plans and their advantages from Hugging Face's pricing page.\n\nThe screenshot displays the three primary paid subscription tiers:\n1. **PRO Account ($9/month)**:\n   - 10× private storage capacity\n   - 2× public storage capacity\n   - $2 of included monthly inference credits\n   - 8× ZeroGPU quota and highest queue priority\n   - Host ZeroGPU, Gradio & Docker Spaces\n   - Spaces Dev Mode\n   - Personal blog publishing\n   - Dataset Viewer for private datasets\n   - PRO badge\n\n2. **Team ($20/month per user)**:\n   - SSO support (SAML & OIDC)\n   - Data location control with Storage Regions\n   - Detailed action reviews with Audit Logs\n   - Granular access control via Resource Groups\n   - Repository usage Analytics\n   - Advanced auth policies and repository visibility controls\n   - Centralized token control and approvals\n   - Dataset Viewer for private datasets\n   - Create Gradio & Docker Spaces with advanced compute options\n   - ZeroGPU and Inference Providers PRO benefits for all members\n\n3. **Enterprise ($50/month per user)**:\n   - All benefits from the Team plan\n   - Highest storage, bandwidth, and API rate limits\n   - Automated user management with SCIM provisioning\n   - Advanced security and access controls\n   - Managed billing with annual commitments\n   - Legal and Compliance processes\n   - Dedicated support\n\nThe provided response accurately and completely summarizes all these plans and their respective advantages, as well as additional usage-based pricing options from the page.\n\nSUCCESS",
+  "reason_short": "The user requested a summary of all payment plans and their advantages from Hugging Face's pricing page. The screenshot displays the three primary paid subscription tiers: 1. **PRO Account ($9/month)**: - 10× private storage capacity - 2× p",
+  "screenshots": [
+    "task_562/final.png"
+  ],
+  "raw_screenshot": "task_562/final.png",
+  "source_result": "task_562",
+  "usage": {
+    "completion_tokens": 732,
+    "prompt_tokens": 2198,
+    "total_tokens": 2930,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 392,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0043935,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0043935,
+      "upstream_inference_prompt_cost": 0.0016485,
+      "upstream_inference_completions_cost": 0.002745
+    }
+  },
+  "elapsed_seconds": 18.71
+}

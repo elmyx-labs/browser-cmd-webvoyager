@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209979-9P2hAGLV3ifSx5Blvpjx",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The screenshot shows Apple's product page for Apple Watch Series 12 with the slogan \"A work of heart.\" The response accurately identifies both the latest model and the slogan directly from the page.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Screenshot Evidence**\n\nI am now focusing on meticulously cross-referencing the screenshot's visual data with the user's query. My aim is to extract specific textual elements from the image that directly address the \"slogan for the latest Apple Watch Series\" request, preparing for a comprehensive evaluation.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Screenshot Evidence**\n\nI am now focusing on meticulously cross-referencing the screenshot's visual data with the user's query. My aim is to extract specific textual elements from the image that directly address the \"slogan for the latest Apple Watch Series\" request, preparing for a comprehensive evaluation.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+Bk8Eln0M8F1QQo4Aut/AKuoMfSyJ0LzY7Ej7GPsnjlsyx2aXYWNZKWhJyCdlbtxi4uYpEKu3hYRpcujwFzev6DUUCkbHKpKtalvwoTYccXIRAZArWYCQT93PrsHixErdMaVP9wGaaV0bxPekOkvoJ7lDWXpCDB74vpbLeh3eFKTMfRPCQ260WzyIAOSE8hn+rVrKNaxjDXH1M6jN7/R8yQM9p8uuyLZjylJSUseETj5gdrEQOtsK5XtQOBuodEEFrbTDdGVdvoOZF+xWcFDqF/iw0D94IxPpDTspgS0kyvuN4qZBbt9g8/kp3PBIbRAfuOzkqBw6mAMViWK8neqJ6HjiYunf0vui1DZy7qF3K0s+jChUqy0xtDMqhGWJ7pphLRBL0OBAPOXivVHshoKGN2nMgS1OA3biR5GJdo/RhnIrT1+pCXHTj9GsIJ1Q4cPQYcGONi0A0QfZgTM6rOlP4j+4i1FXo1X+G/WymXtkxOF+a94aWxoFntMbbsDxZmt3hBBWQOctZYbNfuiZSNcYYLlbsnhUhM969d8Sk35+Y3ng0EXywvrTWMvlVEIi1tl2rsvQRBDOcGTIWWB+4TIpMM3YD7pYQD5hI8s7OSwM03OKACPUFSDHjZ7B5nY9LnYrH54jSUsz+IAkhHXmwzoIwO+XlN8GJ9+ayv3+xEc5e4rBh8D5nua+UOMhfd4uwWCbkF2kKNLzBXVln9D8uqSSeZN9fl9+PSGPnPNkm1MrXaI2ovs7DxLq+2LifCgmpEKFT6CBJPMuX1MGEesUwIZaDqWZJe0wcGpIqShLiknMBdaN/dPxRkhGB0ZfnbMNPzz4RA89/ZFaj42T7No9V19pZvMvpTWFCg+5LyVNlFHRhC7ysNZGJQswKegsGDShJ2nL3mhcpEHyuyq6KmW6yPrfFfzeXS1QCYc6jrYidjDiEEtISNBYYrjZwCfq3lbDFzJubDeUE76FJluMbMqayrfHnhLFB+bLYY/A1oxjExutkIknxVWxgnETSZ25IZHWAwWvJXEt/QXs4ZlD+TC3nSCoV/7mDe6SHytCLY7Y26fZYO4k0Hhk6KRBuADk1sv7UJF+aK/wXqR/qzUNxYsXrr59xc+NMogW6BvDccyNlrv4I5ZShKsbruyTfZNDDuPGWm+S6SeVhRtz5wY9DH/rYS1UhdbLq3/RgXM5vwDMWT0FGRtSoUitmLuYf9mINnXkU8SRWTw9bnzKptdvIh64qvWfx++ObaiTDOqkf4vZVJmxdgQStYSitfeptAwWjM1lMQYGJAv4nppIsDnQix7gqObF6impAV9kaMXNB+He7qEnnD/4YfgZSKVySnqMAhzDRVtt0KuVJeUxKCU+mnCxnGE53ItQgxERb/U5M3ryQGg==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209979,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 229,
+    "prompt_tokens": 1654,
+    "total_tokens": 1883,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 187,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00209925,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00209925,
+      "upstream_inference_prompt_cost": 0.0012405,
+      "upstream_inference_completions_cost": 0.00085875
+    }
+  },
+  "provider": "Google"
+}

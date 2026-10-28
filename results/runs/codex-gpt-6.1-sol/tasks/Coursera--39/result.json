@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--39",
+    "ques": "Find the Space Safety course offered by TUM on Coursera. How many videos are there in module 2? What is the name of each video?",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Module 2, “Introduction Space Safety,” in TUM’s Space Safety course on Coursera contains 6 videos:\n1. Introduction\n2. Space Debris\n3. Mitigation\n4. Measurements\n5. Protection\n6. Atmospheric Re-entry\n\nEvidence: Coursera’s expanded Module 2 content lists “6 videos” and these six titles. The course is offered by Technical University of Munich (TUM).\nSource: https://www.coursera.org/learn/spacesafety (accessed October 27, 2026).\nScreenshot: final.png.",
+    "result_text": "FINAL: Module 2, “Introduction Space Safety,” in TUM’s Space Safety course on Coursera contains 6 videos:\n1. Introduction\n2. Space Debris\n3. Mitigation\n4. Measurements\n5. Protection\n6. Atmospheric Re-entry\n\nEvidence: Coursera’s expanded Module 2 content lists “6 videos” and these six titles. The course is offered by Technical University of Munich (TUM).\nSource: https://www.coursera.org/learn/spacesafety (accessed October 27, 2026).\nScreenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_320/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_320",
+  "elapsed_seconds": 74.60035610198975,
+  "execution_error": null,
+  "proxy_bytes": null
+}

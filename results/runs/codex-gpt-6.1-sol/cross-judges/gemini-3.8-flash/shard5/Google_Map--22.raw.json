@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210429-ibfPSgwbXsIi4RwMj6pR",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find a Best Buy store near zip code 33139. \n\nThe screenshot displays a Best Buy location at 1131 5th St, Miami Beach, FL 33139 (Floor 3 · Fifth and Alton) on Google Maps. The response correctly identifies this store and its address matching the requested zip code.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Locating Best Buy**\n\nI've zeroed in on the Best Buy at 1131 5th St, Miami Beach, FL 33139, as the closest option based on the provided zip code. It's located on Floor 3 at Fifth and Alton, according to Google Maps. This appears to be the most relevant store near 33139.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Locating Best Buy**\n\nI've zeroed in on the Best Buy at 1131 5th St, Miami Beach, FL 33139, as the closest option based on the provided zip code. It's located on Floor 3 at Fifth and Alton, according to Google Maps. This appears to be the most relevant store near 33139.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EvwECvkEAWkUfRO8fkyDU/Uv7V3i1by5NVtBwzyHSkW0SkpO5jln4G+LHk39UF8io4AHhQwGcBKE7dpcF9z8+9t24Nu96RI7duzzfI9jE2khJG/PasD4MSa2Zj/T0f3st6/xt9f7r8cbFtik7pSuX4dQrwiaixSwYWgNNO9LRpX7xDFD3adbXt1s6Rec0CBR9AHLonb0VlXbosoe4fotqlX8iCtsNgs469VAr2Tk228GtptLWE9AwxGwdO890DNeSkPm72CyYATiaT5x+PakGkTZ9nh54fqfub7Ok+ZLJydIqkrT9OnRbx8pRtmRFtLT+V22ZkwLXvotAx6NOhyX2rclsPq2ei5qL22WE6E+gwUJHHQXGLt1WPRnvWjpmneJ0TWQBlh9FMAKnG+GUtFOnkN049vnFqsUiok3Xbu17rRT2aAdzKyGp73piV0+HMMNQRhEx0beK5HvWUXtJaxeABPHJOBgtVzFlifmtWFuAvH1p93X+NekfhjeRPWrMIFRuM46E/1Yd3cK1dHWGuYS+l0sxYyhuDwKhafN2a72yA2hGNEUlKxFl7zfpCkuYJIu/yQWJTol/ci5rtZN2/8O8FpPgQMzVK3zejDjpA5xxISkxZzyGtPdMho487nIVnCHUhrPwI3suesygj0pQ2U4IgYynhgemFDnGFcfNLsZFFqSVPGZoYb1lmY+2rmCxAWB2Y5PltoXWxPu2iWgPWsA9n7EYe0aN5aKZKsfwH0owZs5wIyGS9ocaxCxyX/Ij+BEc53m/hDGyD7credR+dRpPN5/YifMUs18niiEACK0X04hG1ROFe5wsFBeUf71z3xN48bIFjDjZf3R/aNeV94S",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210429,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 207,
+    "prompt_tokens": 1847,
+    "total_tokens": 2054,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0021615,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0021615,
+      "upstream_inference_prompt_cost": 0.00138525,
+      "upstream_inference_completions_cost": 0.00077625
+    }
+  },
+  "provider": "Google AI Studio"
+}

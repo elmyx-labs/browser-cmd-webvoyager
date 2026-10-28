@@ -1,0 +1,4 @@
+Booking.com search, check-in 2027-02-14, check-out 2027-02-21, 2 adults, 0 children, 1 room. Applied filters: Free cancellation; Hotels; Wonderful: 9+. Sort: Top picks for long stays.
+First result: Hôtel Augustin - Astotel, 8th arr., Paris. Exact card words: "Scored 9.0", "Wonderful", "2,070 reviews", "Double Room", "1 full bed", "Free cancellation", "1 week, 2 adults", "€ 1,162", "+€ 77 taxes and fees", "See availability".
+Hotel URL: https://www.booking.com/hotel/fr/saintaugustin.html?checkin=2027-02-14&checkout=2027-02-21&group_adults=2&no_rooms=1&group_children=0
+Hotel availability table confirms the €1,162 option: "Free cancellation before February 13, 2027" and "Pay nothing until February 11, 2027"; +€77 taxes and fees. The cheaper €1,046 option is non-refundable. Hotel address shown: 9 rue Roy, 8th arr., 75008 Paris, France.

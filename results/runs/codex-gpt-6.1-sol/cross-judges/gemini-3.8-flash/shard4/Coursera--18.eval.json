@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--18",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify a Coursera course that teaches JavaScript, which is beginner-friendly and includes a certificate upon completion.",
+  "answer": "FINAL: Programming with JavaScript by Meta on Coursera meets all three requirements.\n\n- Teaches JavaScript: the course lists “Creating simple JavaScript codes” among its learning outcomes.\n- Beginner-friendly: labeled “Beginner level”; Coursera says no prior web development experience is needed.\n- Certificate upon completion: lists a “Shareable certificate,” and its FAQ confirms that learners earn a certificate when they complete the work through certificate enrollment.\n\nSource: https://www.coursera.org/learn/programming-with-javascript\nVerified October 27, 2026. Screenshot: final.png.",
+  "response": "The user requested to identify a Coursera course that teaches JavaScript, is beginner-friendly, and includes a certificate upon completion.\n\nThe provided screenshot and response identify the course \"Programming with JavaScript\" by Meta on Coursera, which clearly shows:\n- Subject: Teaches JavaScript (as shown in the course title, \"What you'll learn\", and \"Tools you'll learn\").\n- Level: \"Beginner level\" recommended experience.\n- Certificate: \"Shareable certificate\" included upon completion.\n\nAll criteria of the instruction have been met.\n\nSUCCESS",
+  "reason_short": "The user requested to identify a Coursera course that teaches JavaScript, is beginner-friendly, and includes a certificate upon completion. The provided screenshot and response identify the course \"Programming with JavaScript\" by Meta on Co",
+  "screenshots": [
+    "task_300/final.png"
+  ],
+  "raw_screenshot": "task_300/final.png",
+  "source_result": "task_300",
+  "usage": {
+    "completion_tokens": 301,
+    "prompt_tokens": 1692,
+    "total_tokens": 1993,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 185,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00239775,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00239775,
+      "upstream_inference_prompt_cost": 0.001269,
+      "upstream_inference_completions_cost": 0.00112875
+    }
+  },
+  "elapsed_seconds": 5.38
+}

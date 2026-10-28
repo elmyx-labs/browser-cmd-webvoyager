@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210115-QAvKEuYvcE0renXTvIuP",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find Customer Service on the Booking.com website, navigate the cancellation questions, and provide the answer to \"how do I know whether my booking has been cancelled\".\n\nThe screenshot confirms the agent successfully reached the Help Center FAQ page titled \"How do I know if my booking was canceled?\". The textual response accurately details the information displayed on the page: after cancelling, an email confirmation should be sent (check inbox and spam/junk folders), and if not received within 24 hours, to contact the property directly.\n\nAll parts of the task have been successfully completed.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Exploring Cancellation Queries**\n\nI've accessed the Booking.com Help Center and am now navigating to their customer service section. My next step is to locate and review questions specifically related to booking cancellations, aiming to find the exact answer to \"how do I know whether my booking has been cancelled.\"\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Exploring Cancellation Queries**\n\nI've accessed the Booking.com Help Center and am now navigating to their customer service section. My next step is to locate and review questions specifically related to booking cancellations, aiming to find the exact answer to \"how do I know whether my booking has been cancelled.\"\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+q+qPbmbDO0Gf0xVeP3hkWn1n77hDGMJyWdyZSB/CJIq8tfDwRxEutiDAtR7X3aoax0MjyUFLv6cRe/VJ5zMTTFfLJIR+FQVqAPl1QmlgT47UZ8DzfnMG835L5NNyIwmzo1r4HynwyRn9vvYyDNSJBfRCPq4pu7c7ImW67ulBEmxrpvTUTxSK9qkFpCmI7T0tLcVzmNxqOK0RiDKhDaav0RiieSCSr+QO5zB0SOx7PoRsKmC24oxZzirejNTeF0X58gEG6lvWsWOLJ3zW/gYdXeQcF32sJcusfSrGyc4R5k2UOo+4yOs3sVAPm4f0LaacS0lxy1LJjZEhIbIhYbT4JHFcKLo+sodW+/aXzVPa1XJ+ajlDf9R4LDAsj70+Et+fvctwU2S27lpaAJtIhgCUeGtBA40sQxdQx2z5r1mXz8apdCTMosXeCEBzRFV8FqHgoyUk9CFkazAMqC680BqVUT3GETe5mH42Jzxc9iZJJtprM149B2WMBTtXobtNMczTsidfyZV0WrKIyX3XqXN97OED+axDVQI98BLMaYCSrufY/gJcGvBLVBMNzNtOEjawULTdM37smyZwoHYM85l+nwvlh/jXVoVJBsyShALfSwpOIqQqln1E5S5OJmte4D9tK8S/AdPukGmU2liYbfn/KtO2lAM3mUYilrTXSvyoBbiSVptYNg+lQw6AjikdpxORpXAuI4GGufUeuIDFb6Qja1TwtTB32gY/3aetOi0Naz8Tq6xg6l0lKrz0Zb2uHOO5CprGJe9z5D7c4DoB91MUjwY20P+xJTyz2JY8VQ+PVf5KFujEAWx0MlzV0qrbAhHcwAhLj7XYLAoEH+TyOm2CILriA7JWX8QwxRmXSuujvnP3H3N+dDDQJUKXqlWco1FNw9yv3ObHT1UBYJOo5YZgOYMvNhMXsw0DCr35GfIoI835kI+xlSI0YSUGqzvkXODrgLy6Pr3fDcl9RLdX3lSZkzHlOOCTPFKg4NZjueo+L1InqHWSI7a85SK24HzSMNOfEdXogNcUJSf5mAMATbWMhWEW5O9cPJBj7zNI+jyFJh4sXqdgp7psGH9d8Q3AMpHvlfU7sRwVDRlYLdrenFn6jfDl5qpLJ8y1k6WgHniasSt9SIUs6XGU8qKCBD0L8hcseeXqNh872hsUTmQO35QruxIwnp4x3K7rRX024YHuwbFnr7Jg5fci3dB7zxn4C83DKXZm7mr/h/qYD457PUxk7iuoe8Boq8fSohfjG1E71AdbFqZG2qXEq/lmQhkkI8kkxZdMGoigsW3sl5myudYT7bkNrV/eJ91nVBSoUYH5hyOkCSH3mFvhpeg/dqd4FmAijbwHmSV+eoNLoHTytqVUwznmkWYpEoCf1g1dbQplTqK+GCBwEVHvzVCKZQFR01120B8wX9HY2HDGDiep4FHVGX9ErtQK0v3j/x0d1wvMxjhkTvpBE8/Ynn64EKVfyfay83erXRCYOoz8m2TjSgjhhpO4sDTdUjuGmSACR4UCOzR2cSVsRonUD/zSwGl7hNu9rhjcY+mkyDDEdLYOe03ac6yoeXobyh0kWjpVl1iEhB35NrIzolIL0vJIuMMk/Pa6K25iSLzt0pw==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210115,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 321,
+    "prompt_tokens": 1741,
+    "total_tokens": 2062,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 201,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0025095,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0025095,
+      "upstream_inference_prompt_cost": 0.00130575,
+      "upstream_inference_completions_cost": 0.00120375
+    }
+  },
+  "provider": "Google"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210222-JYFzZRr2eAtKlcm8RDVP",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the web task instructions, screenshot, and result response:\n\n1. **Location & Dates**: The search was conducted for Paris, France for the exact dates specified (August 18, 2027 – August 20, 2027).\n2. **Filters**: The search applied filters for hotels with customer review ratings of 8.0+ (\"Very Good: 8+\").\n3. **Top Suggestions**: The results were sorted by \"Top reviewed\", and the top three suggestions based on user reviews were correctly identified and detailed:\n   - **Villa-des-Prés** (Rating: 9.6/10)\n   - **Hôtel Confidentiel - Louvre** (Rating: 9.6/10)\n   - **Hôtel Mansart - Esprit de France** (Rating: 9.5/10)\n\nAll instructions have been thoroughly and accurately fulfilled.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching For Hotels**\n\nI am currently processing your request to find hotels in Paris with a customer rating above 8.0 for August 18-20, 2027.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching For Hotels**\n\nI am currently processing your request to find hotels in Paris with a customer rating above 8.0 for August 18-20, 2027.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+gSVptbzav2tjoOidPCCFdrQP46FgLb1Yo/CgfwMLkAbvK8SRED5aEdI32mde+ruWPI0ewwOPvbRV6N938ctrODaCcmj251bBdxH88LF9/Qu2owBE+b7elNtRgT5ySMYxOQ2FAbeSkua7+btHGLRhhNhH4I3leKI1jSl4oro12yskntIZ1yeiopr5+BUcy2CFlaDX/fdy4f5vYlCQug6hD9jawNuU5KDnzyy0nqgEZls42egGiUNl7cv+dCTIQAJRmZwNshRds+0UAlwwTIeoPM/0FXJ0nAr8JZfS7aaXI43940dikubw9zEkOogKCFZxCrHKZO6omx/Itm6cZ/tI5/kpzXCSV0IfgALWlBX36wxPKzyHyjBenec7B1MduG46TAwNVWTCLBlQUICTyfWIypsJwVhwC5I4zIje7u3wPe6Ic4q082f2BTaQqs+a9FhWE50Vw4qi/NBCMq3uNLbNETJ7eaXTLTryL/mEBsZl19wnFT5mL4OfATsFkrldYo9Z7YbTS/GnIgtt40PirxPrQIAq6/6El6M7tpzUzn0DLLk+4YKlE22rNR48rkCO3XmgSGq4JiLo6oni9LTPWd06i9t95CqBHFkzB4NsZRi1RXXIqB6DR2cRotiCXSYl53cqC1eLB/qWptaB2qTwK4T41UmuEZIOaVdMbi5VK7+P3QqQu4itd+k1vZgziq1b/03wsq3ab9Zl7PHPI0tImf43149rL7ed5z8bYFb7KAwTgx+HbvMUxn5VcxHY5V3JwH1eXGfPKBmoYPKil9RTPUUMOgdoR9Beet94fTE6seH7r28nkrOA1456jCktNsw4Gd8V+UsdZV9B7Nmj0m56qWfuCACqn2XORB5RNx5R5I1ITfKS/gXlKY0jFlmXezllIoJmsqfcLaCXhNDIXvLsW6h5D72puVc987U9/ps0mho13pmhLLE+2WvWn6DJQf6x99xGHwUa25JfOM82HJxemvOgVJ9k5PeWQLtpFyB6ZXWPQ6MB9uvpBfmn8noq2t0w0uUQrmvAokfVXb0/ntX726fY6ldA/w4wxz++p/iR2X1T31IUeUkJ5/yQwO/UVv51mULNmJofVZPAFqNFuTYqLmKG/4tgn4QPK3ss0io/yS+ZLJZQwwQqLOeias64dDxJ9WO4x+i9Q6ToQE2AfPe1aK8zS+g6KnHheR63ZT9Y8NL/SvNLsru8XmQXKEqpy8ERNx0SC8XDOBeGv2w241jWvtpv2lMHsNuW1lpPFdO1tiTTvBhghS9TWTg9rgGmasPI6F88VeervMG7kpfsCN91B951raK0ETZjlfbvjbOnZsSaSEZuqKWe6xeU2Uaz7YaMVCv/XTCcSmS4M2CYnb3eQyQapsCB/Og4TxqY/F4lv3AgcXZzYvJQLr21tB1+ljP1HTMusOU1pAUEhiYqdPpf+/TeCdo7btZrnCUgSHlQPARavvXiuf1/ATr0qJKcRUeCRFnetEWtwGHDC5f7c/jBARTYV5rzsj/Ca5SuNKA1qRe+dU5KEGJm0QIWtO5MEjmBklf/4JwBIgK7ChKS2hytca0IjcHc/Bh4Q8+iPB8+/78RVjLoN0VPn/EKSJjRKS3qzwZroDIWd3wtAEigFjeVAkF/+C6c9w1iCbEhJaHMjS86Nn8hD0VwVmNT1oFRnknvnYLWGd8zART/E0Z+f35PbvG4qe0BEljzwwQsCG/2D6/dDnu9TkE+yc5QsTkHZePTHO+eOHDJ3Q1e66VK89VQCJC890Zvvqbpkr2wiOm26gmxxa7Y9VSkqdEDko6+rSujSjlYHmC3xbCX8MYY1CVUPm8lodU1mQJwY0ZGO6rDmEwnehHvkkVOfv54nE0Fy8LML3JCTJ7+Kr7+CePzKzA/baXTczXAT6fc5PZI2vrlWppw3U8ygsixzUXBGPy8gnae8YAfh0fuLYpAKTExyGhNn+KVHZsDNy9NXIGhCob2DF53p2+7lgsvq/66qW9WR2DsGzhg2J+s=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210222,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 579,
+    "prompt_tokens": 2176,
+    "total_tokens": 2755,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 380,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00380325,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00380325,
+      "upstream_inference_prompt_cost": 0.001632,
+      "upstream_inference_completions_cost": 0.00217125
+    }
+  },
+  "provider": "Google"
+}

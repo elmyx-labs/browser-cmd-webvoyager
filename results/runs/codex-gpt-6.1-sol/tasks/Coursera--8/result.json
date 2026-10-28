@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--8",
+    "ques": "Find a free course related to 'R for Data Science' available on Coursera. Scroll to find a course with the Free tag. What language the course is taught in?",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: English. “Data Visualization using Plotnine and ggplot” has the Free tag in Coursera’s results for “R for Data Science,” and its page states “Taught in English” and “Enroll for free.”\nCoursera classifies it as a Guided Project; it teaches Plotnine, a Python visualization library based on R’s ggplot2 package.\nSource: https://www.coursera.org/projects/data-visualization-using-plotnine\nFree-tag search: https://www.coursera.org/search?query=R%20for%20Data%20Science&productTypeDescription=Guided%20Projects\nEvidence: final.png",
+    "result_text": "FINAL: English. “Data Visualization using Plotnine and ggplot” has the Free tag in Coursera’s results for “R for Data Science,” and its page states “Taught in English” and “Enroll for free.”\nCoursera classifies it as a Guided Project; it teaches Plotnine, a Python visualization library based on R’s ggplot2 package.\nSource: https://www.coursera.org/projects/data-visualization-using-plotnine\nFree-tag search: https://www.coursera.org/search?query=R%20for%20Data%20Science&productTypeDescription=Guided%20Projects\nEvidence: final.png",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_3/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_3",
+  "elapsed_seconds": 386.2278573513031,
+  "execution_error": null,
+  "proxy_bytes": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyYPYIMU4W58MAqKwTzj58njEDff",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task required finding an Allrecipes low-carb breakfast recipe with at least 25 reviews, and providing the Nutrition Facts plus total carbohydrate content per serving.\n\nThe result satisfies these requirements:\n\n- The recipe identified is **“Low-Carb Bacon Spinach Egg Cups”** on Allrecipes.\n- It is a low-carb breakfast-style recipe.\n- The screenshot shows **Reviews (90)**, which exceeds the minimum requirement of 25 reviews.\n- The screenshot displays the expanded **Nutrition Facts** panel.\n- The total carbohydrate content is clearly shown as **4 g per serving**, matching the result response.\n- The response includes the full Nutrition Facts information requested.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196269,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 332,
+    "prompt_tokens": 1540,
+    "total_tokens": 1872,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 187,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

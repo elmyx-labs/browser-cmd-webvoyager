@@ -1,0 +1,31 @@
+{
+  "id": "Wolfram Alpha--19",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Standing in the sun from 11:00 am with SPF 5 in Australia. Approximate time to sunburn for each skin type.",
+  "answer": "FINAL: Starting at 11:00 am with SPF 5 in Australia, WolframAlpha estimates these typical times to sunburn:\n\nSkin type I: 1 hour 7 minutes\nSkin type II: 1 hour 21 minutes\nSkin type III: 1 hour 49 minutes\nSkin type IV: 2.5 hours\nSkin type V: 3 hours\nSkin type VI: 5.5 hours\n\nThe calculation uses 11:00 am AEDT on October 28, 2026 and the UV forecast for the center of Australia. These are approximate times under that calculation’s conditions.\nSource: https://www.wolframalpha.com/input?i=sunburn+Australia+11am+SPF+5\nEvidence: final.png shows the input settings and the “Typical time to sunburn” table.",
+  "response": "The task was to determine the approximate time to sunburn for each skin type when standing in the sun from 11:00 am with SPF 5 in Australia.\n\nThe screenshot shows a WolframAlpha result with:\n- Location: Australia\n- Start time: 11:00 am AEDT, Wednesday, October 28, 2026\n- SPF: 5\n- Skin type: all\n\nIt also displays the “Typical time to sunburn” table for skin types I through VI. The Result Response accurately transcribes the values shown in the screenshot:\n\n- Skin type I: 1 hour 7 minutes\n- Skin type II: 1 hour 21 minutes\n- Skin type III: 1 hour 49 minutes\n- Skin type IV: 2.5 hours\n- Skin type V: 3 hours\n- Skin type VI: 5.5 hours\n\nThis directly answers the task and is supported by the screenshot.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to determine the approximate time to sunburn for each skin type when standing in the sun from 11:00 am with SPF 5 in Australia. The screenshot shows a WolframAlpha result with: - Location: Australia - Start time: 11:00 am AEDT,",
+  "screenshots": [
+    "task_588/final.png"
+  ],
+  "raw_screenshot": "task_588/final.png",
+  "source_result": "task_588",
+  "usage": {
+    "completion_tokens": 385,
+    "prompt_tokens": 1764,
+    "total_tokens": 2149,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 179,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.16
+}

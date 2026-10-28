@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ArXiv",
+    "id": "ArXiv--42",
+    "ques": "Find an article published between 1 January 2000 and 1 January 2005 that requires Support Vector Machines in the title and its Journey ref is ACL Workshop.",
+    "web": "https://arxiv.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: “Using a Support-Vector Machine for Japanese-to-English Translation of Tense, Aspect, and Modality” by Masaki Murata, Kiyotaka Uchimoto, Qing Ma, and Hitoshi Isahara (arXiv:cs/0112003).\nPublished in 2001; submitted to arXiv on 5 December 2001, within 1 January 2000–1 January 2005. Journal reference: “ACL Workshop, the Data-Driven Machine Translation, 2001”.\nThe title uses the singular, hyphenated “Support-Vector Machine”; arXiv returns it as the sole result for the requested title phrase and journal reference within the date range.\nSource: https://arxiv.org/abs/cs/0112003\nEvidence: final.png shows the applied title, journal-reference, and date filters, the sort, and the matching article’s title, submission date, and journal reference together.",
+    "result_text": "FINAL: “Using a Support-Vector Machine for Japanese-to-English Translation of Tense, Aspect, and Modality” by Masaki Murata, Kiyotaka Uchimoto, Qing Ma, and Hitoshi Isahara (arXiv:cs/0112003).\nPublished in 2001; submitted to arXiv on 5 December 2001, within 1 January 2000–1 January 2005. Journal reference: “ACL Workshop, the Data-Driven Machine Translation, 2001”.\nThe title uses the singular, hyphenated “Support-Vector Machine”; arXiv returns it as the sole result for the requested title phrase and journal reference within the date range.\nSource: https://arxiv.org/abs/cs/0112003\nEvidence: final.png shows the applied title, journal-reference, and date filters, the sort, and the matching article’s title, submission date, and journal reference together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_1/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_1",
+  "elapsed_seconds": 111.92689824104309,
+  "execution_error": null,
+  "proxy_bytes": null
+}

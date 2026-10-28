@@ -1,0 +1,4 @@
+[x] Search Apple for the accessory Smart Folio for iPad. URL: https://www.apple.com/us/search/Smart-Folio-for-iPad?src=globalnav — “Smart Folio for iPad (A16) – Sky”.
+[x] Check the closest pickup availability next to zip code 90038. Product URL: https://www.apple.com/shop/product/mdeq4zm/a/smart-folio-for-ipad-a16-sky — pickup search 90038 returned “Apple The Grove Los Angeles 2.08 mi Available Today In-Store Pickup”, then Beverly Center at 3.0 mi.
+[x] Save one genuine viewport screenshot as ./final.png, about 1280 px long side, with the item's name and deciding facts visible together and no open dialog. final.png: product name, Sky selection, “Today at Apple The Grove”, and ZIP 90038, 1280 × 723.
+[x] Write the result and evidence to ./ANSWER.txt. Includes chosen product, closest store, distance, availability date, address, source URL, and screenshot reference.

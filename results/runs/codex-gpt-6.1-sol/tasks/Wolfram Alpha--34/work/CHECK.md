@@ -1,0 +1,4 @@
+- [x] Calculate the mass of Jupiter compared to Earth using Wolfram Alpha. https://www.wolframalpha.com/input?i=Jupiter — “mass | 1.898 × 10^27 kg; 317.8 M_ earth”.
+- [x] Find the length of one day on Jupiter. Same URL — “rotation period | 9.925 h (sidereal)”, equivalent to 9 hours 55 minutes 30 seconds.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with Jupiter's name and deciding values visible together. final.png is 1280 × 723, showing “Jupiter (planet)”, mass and rotation period.
+- [x] Write results and evidence to ./ANSWER.txt. Includes result, source URL, access date and final.png evidence.

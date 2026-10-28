@@ -1,0 +1,7 @@
+Cambridge +Plus: https://dictionary.cambridge.org/plus/ — “Word Scramble”, “Play”.
+Game page: https://dictionary.cambridge.org/plus/games/word-scramble — “Word Scramble – A Daily Word Game”; “Can you beat the clock by unscrambling the letters to spell the word?”
+Clicked the game launch link. Its embedded /wordscramble/ document loaded, but browser resource timing showed HTTP 403 for app.js and wordscramble.js. No puzzle content rendered.
+One retry-clean was used. Direct /wordscramble/, /wordscramble and /games/ routes were blocked by security verification. The final game page was also blocked: “Performing security verification”.
+Final evidence screenshot: final.png, resized from a genuine 1440x813 browser viewport to 1280 pixels on the long side.
+A further browser check reached the Word Scramble landing page after a clean retry. Opening its game window showed a security verification inside the /wordscramble/ iframe. Clicked the visible “Verify you are human” checkbox; it changed to “Verifying you are human. This may take a few seconds.” No puzzle had appeared.
+The game iframe returned to “Performing security verification” after its checkbox was clicked; no puzzle appeared. Closed the game lightbox for an unobstructed final viewport screenshot showing “Word Scramble – A Daily Word Game” and its clock/unscrambling instructions. Replaced final.png with that screenshot and rewrote ANSWER.txt to state that the first example could not be reached.

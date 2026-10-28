@@ -1,0 +1,4 @@
+[x] Find a route from Miami to New Orleans. Google Maps: https://www.google.com/maps/dir/?api=1&origin=Miami%2C+FL&destination=New+Orleans%2C+LA&travelmode=driving&hl=en — “via Florida's Tpke and I-10 W”, “12 hr 55 min 864 miles”.
+[x] Provide the detailed route information. Same source, Details expanded: “Follow Florida's Tpke, I-75 N and I-10 W to Cleveland Ave in New Orleans. Take exit 235B from I-10 W”; all maneuver instructions and distances saved in ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the route and deciding facts visible and no dialog over it. final.png shows Miami/New Orleans, Driving, Leave now, 12 hr 55 min, 864 miles, toll and time-zone notices.
+[x] Write the result and its evidence to ./ANSWER.txt. Saved with FINAL: first line, route details, date and Google Maps source.

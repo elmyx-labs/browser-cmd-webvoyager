@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210095-OKnRNMVtV4OPENHBEcEi",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to browse the ArXiv store and find out how many different types of merchandise are available.\n\nBased on the provided screenshot of the official ArXiv store on Bonfire, the available merchandise types across the collections are:\n1. Printed Classic Baseball Cap\n2. Premium Unisex Tee\n3. Premium Long Sleeve Tee\n4. Midweight Pullover Hoodie\n5. Coffee Mug\n6. Large Coffee Mug\n\nThe response accurately identifies these 6 distinct types of merchandise.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Discovering Merchandise**\n\nI'm exploring the arXiv store and have identified six distinct categories of merchandise available for purchase. These include baseball caps and short-sleeve shirts, among other items.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Discovering Merchandise**\n\nI'm exploring the arXiv store and have identified six distinct categories of merchandise available for purchase. These include baseball caps and short-sleeve shirts, among other items.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210095,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 454,
+    "prompt_tokens": 1699,
+    "total_tokens": 2153,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 354,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00297675,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00297675,
+      "upstream_inference_prompt_cost": 0.00127425,
+      "upstream_inference_completions_cost": 0.0017025
+    }
+  },
+  "provider": "Google"
+}

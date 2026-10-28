@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210490-Lymq2VGQVu6tRCG8J1Tk",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find a place to climb within 2 miles of zip code 90028.\n\nThe provided screenshot and response identify **Hollywood Boulders**, a bouldering/rock climbing gym located at 1107 N Bronson Ave. Google Maps verifies that it is approximately 1.1 to 1.2 miles from ZIP code 90028, which is well within the 2-mile requirement.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Locating Climbing Spot**\n\nI've identified Hollywood Boulders, a rock climbing gym situated at 1107 N Bronson Ave, Los Angeles, CA 90038, which falls within the 2-mile radius of the requested 90028 zip code.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Locating Climbing Spot**\n\nI've identified Hollywood Boulders, a rock climbing gym situated at 1107 N Bronson Ave, Los Angeles, CA 90038, which falls within the 2-mile radius of the requested 90028 zip code.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19bZNx70xyhxZEbLxxKIKu0eivwdfCBd+5GIJ0jDNIttARJnvQ6qQjse+cEN3iK2NhMvjzw/ZQOLZxiduJC+bYLJARjMsxzhkA7skhppehiFJz10o8eeghm/IFa7AqfC1eJpyETolJyQjCcNgsEiZvdR7O0i8PVZ3KDH2qv0mSn/41wjowuNQ+25pvaenNUahiJsj3tU8GlWd3zE27wU55AWgAoUrtnlz5/t2lSW5FSPGg2ZixHz8WIcQ4J85bZ/WC3MkJs3ywdeqEF2Y3aSDdce6qFT1AKmUcGC4DFzqsxKy7RlJC1QF3i2dvwOsIvzVgYB3s0BFDpd2IpDbp0E1l4nQaC1hhr9HLmhpQ7meSQKkcqOfG43rjsnCuz872IlYgQh2Sxw/ZbFVE72DhsKtxI91IjSKC6BJiFZgn8wP4osz2gzsw0dl4sBlA2ngOrjtjWpHnF1dX+CAapK7lOJhdKf6TEvXXBirmZJvp+JA4qUm+tmOK77optUXCImWYwLZxmyNlLenIX6mieov2YWeVgi0E5jvcMFWx6Tg2IxQNdc7ZxDlnUuPMcMBG5PaY6W2qEgtTnBO/cGjMXpteABWxwFebis9VJ4iebzb6SwExnrN0anV7gESDXbkril1zIRGu1mB7ZZqJMedLlPqG4ZosHTwbY81sMJW0diYAix99edTed6HpWS9lyMQTZlMk9kvxv+QiTAyxfkdGtdPCreFuFJ9/GDX3yr007sDOp698lPYHWfpBb0haND61kjfklJqto6s+B4V90W5jxBsK8lu/fkfnYY0sUDLE9EOpynzmZ3jtPuFHMZXbzkuQx78v4fxr7psYLe/uMHa77yPBrCq0MG6Hl93MJ7YPK5rr2MQgCa94DyZcBwKvhey5jOpHLZ3xtVq8/VOTbtZwjZgTZqiLRheJMHY6FaxyVhrHB1ZtfyTiL2P1yIq8Cu6q2d+HIYTnJr19wUmG705PHr1S/T8IkduKTAtUASyEWl9Tgc1siB2weGwHU4W7okGm1axhmsY22iABj4LRWDULKQhx2MLC4OZ+Fqp4Ajrhvd9gmKoKo",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210490,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 293,
+    "prompt_tokens": 1973,
+    "total_tokens": 2266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 189,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0025785,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0025785,
+      "upstream_inference_prompt_cost": 0.00147975,
+      "upstream_inference_completions_cost": 0.00109875
+    }
+  },
+  "provider": "Google"
+}

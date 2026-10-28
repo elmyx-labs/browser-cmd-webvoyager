@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Cambridge Dictionary",
+    "id": "Cambridge Dictionary--0",
+    "ques": "Look up the pronunciation and definition of the word \"sustainability\" on the Cambridge Dictionary.",
+    "web": "https://dictionary.cambridge.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Sustainability is an uncountable noun. Cambridge gives the UK pronunciation as /səˌsteɪ.nəˈbɪl.ə.ti/ and the US pronunciation as /səˌsteɪ.nəˈbɪl.ə.t̬i/.\n\nDefinitions:\n1. The quality of being able to continue over a period of time.\n2. In an environmental context, the quality of causing little or no damage to the environment, allowing something to continue for a long time.\n\nSource: Cambridge Dictionary, “sustainability,” https://dictionary.cambridge.org/dictionary/english/sustainability (accessed October 27, 2026).\nEvidence: final.png, a viewport screenshot of the entry showing the word, UK and US pronunciation, and both definitions.",
+    "result_text": "FINAL: Sustainability is an uncountable noun. Cambridge gives the UK pronunciation as /səˌsteɪ.nəˈbɪl.ə.ti/ and the US pronunciation as /səˌsteɪ.nəˈbɪl.ə.t̬i/.\n\nDefinitions:\n1. The quality of being able to continue over a period of time.\n2. In an environmental context, the quality of causing little or no damage to the environment, allowing something to continue for a long time.\n\nSource: Cambridge Dictionary, “sustainability,” https://dictionary.cambridge.org/dictionary/english/sustainability (accessed October 27, 2026).\nEvidence: final.png, a viewport screenshot of the entry showing the word, UK and US pronunciation, and both definitions.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_242/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_242",
+  "elapsed_seconds": 99.88147401809692,
+  "execution_error": null,
+  "proxy_bytes": 16149372
+}

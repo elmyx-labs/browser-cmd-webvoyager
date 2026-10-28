@@ -1,0 +1,9 @@
+{
+  "id": "GitHub--4",
+  "task": "Find a popular JavaScript repository created in the last 30 days on GitHub with a Readme file.",
+  "answer": "FINAL: wheresryan22/anatomy (https://github.com/wheresryan22/anatomy) is a popular JavaScript repository with 21,681 stars and a README.md file, created within the last 30 days as of October 28, 2026.\n\nEvidence: GitHub returns it first with Most stars sorting and the query \"anatomy in:readme language:JavaScript created:2026-09-28..2026-10-28 stars:>100\". The repository's file list explicitly includes README.md.\nSearch: https://github.com/search?q=anatomy+in%3Areadme+language%3AJavaScript+created%3A2026-09-28..2026-10-28+stars%3A%3E100&type=repositories&s=stars&o=desc\nREADME: https://github.com/wheresryan22/anatomy/blob/main/README.md\n\nScreenshot: final.png is a genuine 1280 × 722 viewport capture showing the repository, JavaScript, 21.7k stars, and Most stars sorting. GitHub does not visibly display the applied query on this results page, so the creation-date range and README filter could not be included visibly in the screenshot; they are recorded in the search URL above.",
+  "screenshots": [
+    "task_371/final.png"
+  ],
+  "raw_screenshot": "task_371/final.png"
+}

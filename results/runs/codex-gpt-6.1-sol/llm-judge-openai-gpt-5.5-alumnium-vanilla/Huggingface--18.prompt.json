@@ -1,0 +1,9 @@
+{
+  "id": "Huggingface--18",
+  "task": "Look up TRL's forward modelling in the hugging face documentation on how to add a margin to a loss.",
+  "answer": "FINAL: TRL’s “Reward Modeling” documentation explains this under “Adding a margin to the loss”: add a `margin` column to the dataset. The reward collator automatically passes it through, and the loss is computed accordingly.\n\nThe documented example uses the chosen score minus the rejected score:\n\n```python\ndef add_margin(row):\n    return {\"margin\": row[\"score_chosen\"] - row[\"score_rejected\"]}\n\ndataset = dataset.map(add_margin)\n```\n\nSource: Hugging Face TRL documentation, v0.12.2, viewed October 27, 2026:\nhttps://huggingface.co/docs/trl/v0.12.2/en/reward_trainer#adding-a-margin-to-the-loss\n\nEvidence: final.png shows the section heading, instructions, and code example.",
+  "screenshots": [
+    "task_545/final.png"
+  ],
+  "raw_screenshot": "task_545/final.png"
+}

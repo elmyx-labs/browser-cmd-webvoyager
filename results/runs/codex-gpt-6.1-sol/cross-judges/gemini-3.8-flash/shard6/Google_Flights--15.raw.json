@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210355-bJkfalYUxFWFTXUcd8bf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response:\n\n1. **Route and Dates**: The search was conducted for flights between New York (EWR) and Tokyo Narita (NRT) departing on July 12th, 2027, and returning on July 26th, 2027.\n2. **Non-stop Flights**: Only one non-stop round-trip itinerary is available (operated by United / ANA).\n3. **Prices and Durations**: \n   - The flight durations are clearly provided: outbound is 13 hr 50 min, return is 12 hr 50 min (total 26 hr 40 min).\n   - The price options are accurately compared across fare classes (Basic Economy at $1,544, Economy at $1,804, Economy Plus at $2,416).\n\nAll requirements of the task have been met accurately.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Flight Options**\n\nI'm currently focused on identifying non-stop flight routes from Newark to Tokyo Narita, specifically for the July 12th to July 26th, 2027 period, and comparing their respective prices and total durations.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Flight Options**\n\nI'm currently focused on identifying non-stop flight routes from Newark to Tokyo Narita, specifically for the July 12th to July 26th, 2027 period, and comparing their respective prices and total durations.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19sz6SRkPi6RZ3xI2WWx38OAT0rKh6brUulp2pBH1MpzPC6uvvc0Hw3LOT/hI3HR3JdAoRRPepEhj4zTJA/G04H4G2FXA9qAeW6PYjURMmipCjKS6fsZY2DHgTgy2jRD06/aczXRJicMZU5+m2TODnAL4WmaoRg5pp3HWBwHtWa0FtWECw6FRAgBSiC7eQFMC4oOtZJMpm2/C4n+3qVGAiziMWu1Di4iZacgMCd/t/RZC1ILv+QZvrTj3gxD5nqRf5RSgorsuhRJEe4pqjHy9Ai9edhwVsQ66O+/JJ6+CoY0eRGxe0BL/VykFmN3S6AueEacdzhtLUWINwj3J7EPJJpZnC/HpAy/du7K/vTP0GmEOk+rUmhmTno9xBStXL+19sTewGQXJu2ZW6WZrfpgMjd2cTHZ6aSioIv3jfbjy6jGS6aNeGjDS/O8yPMQS/yc/K3Hlk+1zjg8YAVAB9zUSgyEb6FMkJ/yYqA/6jvARPgmOhruF7DJQzveaWrzwLl5h3g8FQ4kAe7hT0/gehJUM8NBQHpnT+gGqZOnFFsqeh3tyzPsD3XZ4BF+fvughgfw77tWfBQFZzIEc/tX3+uVc4afcXVJRGhWyyI80lTXIm5rymGsWE1xOyxIvtPpCwDPGYmv/m5FoCUiFOYWuPOHkGFnaZmr2r2X2v4dAn9Uj88F6tccGLY4Gbjk0FS4Y0UrPdxKbUbVwMr05KN0oV+/u7LPaaPzwvZxP+q6NSeo+nhFeEH8MsisMA/OuAf9lxS13eOQv8XXMi+rbsaSlU655pCO8yAMwrGgtL/Y1JaddJAxmgcu85yL6QZfsFzM9Y9gD792HIad2i8w4glBDUfJSzDNntNWDEMOHpdg2znX/tqJNrvuQsmYSZoPELSMC47Iio5dmsKEVl8Q8M/j7QWDmHJ+faE9lOt7MCcYsof7r7CwNeN5RzxUbBj+eGGIdkmk29HK4yEtGhLqiY7nP92Yr7xCVXbwAxC9CmkQd2fNKtc5TJq5BG7DTUlP2hXHQU0D2/5dVBM9fTAkX760W/worA8afpS+ggObJEzovy9PlM+4FrVCMtkjZaYU9nxlnbwCISKx83W6bGeBZFj//a0acpeMEPFyXkokn1JhUXGdQpTnkLYFv6sEFKQdNTdVHZT5TmRbuJqyEB8Sd3rdvg+4CwLJ3hRDBHDSd82m8MA68VASRg0ToGfYlKhWyGu4dp0NkBOPI1YzGRWy7WQ9CduO0seI35Q4x/wc377iusPZfKjzKKCCKdz2qnwqfhyT7jZLwIP2Nu8eNpgtObZdoNYEmhYwGIG9ErRTFkEYPSQpw7Wn7w9EmVSBeEkNa2BSl1gn3ugJTX5WUAKgOV0/lLbKSEU8J2G2S7KKAK6i8bWXCOCSCNu6uythtYmMyz/Mp/QX1qLZJylwSEOatzDUzwzpglAyvdyFkTTWPUvKvIbO3QZluZVal1BOT11D+83MVFUDiSIp45c+FfbKn7rY/czyJylHKRrihA7ZzjeIWEG4g7BaOOgqux/X6JyCc4Ow4gXBVRK/nKNeC7uEiYBeiXru081y6jQj3jCZcbNySZQMVzFdFpbfDELmnzOc/2Om77ALPRLSI95bdTHdofQXAKC2GGRPCX5KuShVjr1t3XmYy2T54ksNJJJR/O+rTD9RRLhnXzyOiY9GWIt+EOdgJ4/YzusXnDd50WNN4LiDloJhBj4zDASQng53AePsh+5aUAH1ZnYxba9/r93NkPi0A==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210355,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 553,
+    "prompt_tokens": 2252,
+    "total_tokens": 2805,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 353,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00376275,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00376275,
+      "upstream_inference_prompt_cost": 0.001689,
+      "upstream_inference_completions_cost": 0.00207375
+    }
+  },
+  "provider": "Google"
+}

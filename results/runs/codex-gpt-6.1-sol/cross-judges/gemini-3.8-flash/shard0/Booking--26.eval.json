@@ -1,0 +1,41 @@
+{
+  "id": "Booking--26",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Check Booking.com for a 3-star hotel or higher in Paris with a guest rating above 8.0 and available parking for dates July 20-23, 2027.",
+  "answer": "FINAL: Best Western Plus La Demeure meets the requested criteria on Booking.com: a 4-star hotel in Paris with a guest score of 8.7/10, available for July 20–23, 2027 (3 nights; search for 2 adults, 1 room). Booking.com lists nearby public parking in a parking garage; reservation is needed, charges may apply, and spaces are subject to availability.\n\nEvidence: final.png shows the hotel, four stars, 8.7 score, available room, dates, and applied Hotels, Very Good: 8+, Parking, and 3/4/5-star filters; sort is Booking.com's “Our top picks.” The property page confirms: “Public parking is available at a location nearby (reservation is needed) and charges may apply.”\nSource: https://www.booking.com/hotel/fr/lademeure_paris.html?checkin=2027-07-20&checkout=2027-07-23&group_adults=2&no_rooms=1&group_children=0\nFiltered search: https://www.booking.com/searchresults.html?ss=Paris&dest_id=-1456928&dest_type=city&checkin=2027-07-20&checkout=2027-07-23&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Breview_score%3D80%3Bhotelfacility%3D2%3Bclass%3D3%3Bclass%3D4%3Bclass%3D5",
+  "response": "Based on the provided screenshot and response:\n\n1. **Destination & Dates**: The search was conducted for Paris for the dates Tue, Jul 20 – Fri, Jul 23, 2027.\n2. **Criteria & Filters Applied**:\n   - **Property rating**: 3 stars or higher (the hotel selected, Best Western Plus La Demeure, is a 4-star property).\n   - **Guest rating**: Above 8.0 (the hotel has an 8.7 rating, with the \"Very Good: 8+\" filter active).\n   - **Parking**: The \"Parking\" filter is actively applied, and property parking details were verified.\n   - **Accommodation type**: Hotel.\n\nThe task requirements were fully met and documented.\n\nSUCCESS",
+  "reason_short": "Based on the provided screenshot and response: 1. **Destination & Dates**: The search was conducted for Paris for the dates Tue, Jul 20 – Fri, Jul 23, 2027. 2. **Criteria & Filters Applied**: - **Property rating**: 3 stars or higher (the ho",
+  "screenshots": [
+    "task_224/final.png"
+  ],
+  "raw_screenshot": "task_224/final.png",
+  "source_result": "task_224",
+  "usage": {
+    "completion_tokens": 544,
+    "prompt_tokens": 1994,
+    "total_tokens": 2538,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 379,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0035355,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0035355,
+      "upstream_inference_prompt_cost": 0.0014955,
+      "upstream_inference_completions_cost": 0.00204
+    }
+  },
+  "elapsed_seconds": 17.8
+}

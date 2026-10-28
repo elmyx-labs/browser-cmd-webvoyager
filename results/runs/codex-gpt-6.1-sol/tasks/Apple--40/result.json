@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Apple",
+    "id": "Apple--40",
+    "ques": "Find information on Apple website, and tell me the device weight of Apple Vision Pro and list 5 Built-in Apps it supports.",
+    "web": "https://www.apple.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Apple Vision Pro (M5) weighs 750–800 grams (26.4–28.2 ounces), including the Light Seal and counterbalanced Dual Knit Band; weight varies by configuration. The separate battery weighs 353 grams.\nFive built-in apps: App Store, Encounter Dinosaurs, Files, Freeform, and Keynote.\nSource: Apple Vision Pro Technical Specifications — https://www.apple.com/apple-vision-pro/specs/ (accessed October 27, 2026).\nEvidence: final.png.",
+    "result_text": "FINAL: Apple Vision Pro (M5) weighs 750–800 grams (26.4–28.2 ounces), including the Light Seal and counterbalanced Dual Knit Band; weight varies by configuration. The separate battery weighs 353 grams.\nFive built-in apps: App Store, Encounter Dinosaurs, Files, Freeform, and Keynote.\nSource: Apple Vision Pro Technical Specifications — https://www.apple.com/apple-vision-pro/specs/ (accessed October 27, 2026).\nEvidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_118/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_118",
+  "elapsed_seconds": 85.98450469970703,
+  "execution_error": null,
+  "proxy_bytes": null
+}

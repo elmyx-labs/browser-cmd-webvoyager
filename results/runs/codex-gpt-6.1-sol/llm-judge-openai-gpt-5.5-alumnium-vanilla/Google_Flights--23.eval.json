@@ -1,0 +1,31 @@
+{
+  "id": "Google Flights--23",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a one-way flight from Mumbai to Vancouver on July 28, 2027, filtering the results to show only 1-stop flights.",
+  "answer": "FINAL: Searched Google Flights for one-way flights from Mumbai (BOM) to Vancouver (YVR) on July 28, 2027, with “1 stop or fewer” applied. After expanding “View more flights”, all 53 returned itineraries were labeled “1 stop”; none were nonstop. “Nonstop only” was disabled even with “Any number of stops” selected.\nLimitation: Google Flights provides no exact “1 stop only” filter in Stops or All filters. “1 stop or fewer” is the available setting and permits nonstop flights in general.\nExample result: Philippine Airlines, 7:15 AM–4:55 PM, 22 hr 10 min total, with a 3 hr 10 min layover in Manila, for RSD 86,289.\nEvidence: final.png shows the one-way route, July 28 date, selected filter, and four top results marked “1 stop”. The expanded browser results contained 53 distinct flight labels, all stating “1 stop flight”.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhoqEgoyMDI3LTA3LTI4KAFqDAgDEggvbS8wNHZtcHIMCAMSCC9tLzA4MGgyQAFIAXABggELCP___________wGYAQI&tfu=EgYIABABGAA",
+  "response": "The screenshot shows Google Flights with:\n\n- Trip type set to **One way**\n- Route: **Mumbai → Vancouver**\n- Date: **Wed, Jul 28**; the provided response/source indicates this is **July 28, 2027**\n- Stops filter applied as **“1 stop or fewer”**\n- Visible results all labeled **“1 stop”**\n\nThe response also states that after expanding the results, all returned itineraries were labeled **1 stop**, and explains that Google Flights does not provide an exact “1 stop only” filter—only “1 stop or fewer.” Since no nonstop flights appeared and the displayed results are 1-stop flights, this satisfies the practical intent of filtering to show only 1-stop flights.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The screenshot shows Google Flights with: - Trip type set to **One way** - Route: **Mumbai → Vancouver** - Date: **Wed, Jul 28**; the provided response/source indicates this is **July 28, 2027** - Stops filter applied as **“1 stop or fewer”",
+  "screenshots": [
+    "task_429/final.png"
+  ],
+  "raw_screenshot": "task_429/final.png",
+  "source_result": "task_429",
+  "usage": {
+    "completion_tokens": 637,
+    "prompt_tokens": 1886,
+    "total_tokens": 2523,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 473,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 10.06
+}

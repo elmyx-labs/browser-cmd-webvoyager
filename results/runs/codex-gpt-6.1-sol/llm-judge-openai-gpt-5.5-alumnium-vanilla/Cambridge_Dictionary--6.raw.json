@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdycO3bC5n1FYJA7F4ajKHjvT7S4X",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to search Cambridge Dictionary for “sustainability” and report the Chinese and French translations.\n\nThe screenshot shows the Cambridge Dictionary “Translations of sustainability” section. It includes:\n\n- Chinese Traditional: “可持續性, （可）持續性，永續性…”\n- Chinese Simplified: “可持续性, （可）持续性，永续性…”\n- French: “durabilité, viabilité…”\n\nThe Result Response accurately reports these translations, including both Simplified and Traditional Chinese forms and the French terms. It aligns with the screenshot and completes the requested task.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196516,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 289,
+    "prompt_tokens": 1707,
+    "total_tokens": 1996,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 154,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

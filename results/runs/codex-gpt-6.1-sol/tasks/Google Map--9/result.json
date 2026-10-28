@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--9",
+    "ques": "Find the art gallery that is nearest to Los Angeles Hindu Temple.",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Honor Fraser Gallery, at 2622 S La Cienega Blvd, Los Angeles, is the nearest art gallery to Los Angeles Hindu Temple (2626 S La Cienega Blvd). Google Maps shows a 33-foot, 1-minute walk between them via La Cienega Boulevard.\n\nEvidence: final.png shows both places, their addresses, and the walking distance. The gallery's official contact page confirms its address: https://honorfraser.com/contact/\nGoogle Maps walking directions: https://www.google.com/maps/dir/Los+Angeles+Hindu+Temple,+2626+S+La+Cienega+Blvd,+Los+Angeles,+CA+90034,+United+States/Honor+Fraser+Gallery,+2622+S+La+Cienega+Blvd,+Los+Angeles,+CA+90034,+United+States/@34.0345837,-118.3798954,17z/am=t/data=!4m14!4m13!1m5!1m1!1s0x80c2b90162883a3b:0x1761bc8d9d94265!2m2!1d-118.3771958!2d34.0345456!1m5!1m1!1s0x80c2b97627794b15:0x46af764a3e696dd5!2m2!1d-118.3774955!2d34.03462!3e2?hl=en",
+    "result_text": "FINAL: Honor Fraser Gallery, at 2622 S La Cienega Blvd, Los Angeles, is the nearest art gallery to Los Angeles Hindu Temple (2626 S La Cienega Blvd). Google Maps shows a 33-foot, 1-minute walk between them via La Cienega Boulevard.\n\nEvidence: final.png shows both places, their addresses, and the walking distance. The gallery's official contact page confirms its address: https://honorfraser.com/contact/\nGoogle Maps walking directions: https://www.google.com/maps/dir/Los+Angeles+Hindu+Temple,+2626+S+La+Cienega+Blvd,+Los+Angeles,+CA+90034,+United+States/Honor+Fraser+Gallery,+2622+S+La+Cienega+Blvd,+Los+Angeles,+CA+90034,+United+States/@34.0345837,-118.3798954,17z/am=t/data=!4m14!4m13!1m5!1m1!1s0x80c2b90162883a3b:0x1761bc8d9d94265!2m2!1d-118.3771958!2d34.0345456!1m5!1m1!1s0x80c2b97627794b15:0x46af764a3e696dd5!2m2!1d-118.3774955!2d34.03462!3e2?hl=en",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_457/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_457",
+  "elapsed_seconds": 119.60925316810608,
+  "execution_error": null,
+  "proxy_bytes": null
+}

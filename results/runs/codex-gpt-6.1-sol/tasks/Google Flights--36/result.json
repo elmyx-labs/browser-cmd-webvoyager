@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Flights",
+    "id": "Google Flights--36",
+    "ques": "Search for round-trip flights from Helsinki to New Delhi, departing on July 28, 2027, and returning on August 4, 2027, and filter the results to show only flights under $1000.",
+    "web": "https://www.google.com/travel/flights/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Searched Google Flights for round-trip flights from Helsinki (HEL) to New Delhi (DEL), departing July 28, 2027 and returning August 4, 2027, for 1 adult in Economy. Applied a maximum price of $999 USD, strictly under $1,000. Visible results include Lufthansa City Airlines/Lufthansa from $723 round trip and nonstop Finnair from $988 round trip. Evidence: final.png shows the route, dates, applied “up to $999” filter and fares. Source: https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTA3LTI4agcIARIDSEVMcgcIARIDREVMGh4SCjIwMjctMDgtMDRqBwgBEgNERUxyBwgBEgNIRUxAAUgBYOcHcAGCAQsI____________AZgBAQ&tfu=EgoIABAAGAAgASgC&curr=USD",
+    "result_text": "FINAL: Searched Google Flights for round-trip flights from Helsinki (HEL) to New Delhi (DEL), departing July 28, 2027 and returning August 4, 2027, for 1 adult in Economy. Applied a maximum price of $999 USD, strictly under $1,000. Visible results include Lufthansa City Airlines/Lufthansa from $723 round trip and nonstop Finnair from $988 round trip. Evidence: final.png shows the route, dates, applied “up to $999” filter and fares. Source: https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTA3LTI4agcIARIDSEVMcgcIARIDREVMGh4SCjIwMjctMDgtMDRqBwgBEgNERUxyBwgBEgNIRUxAAUgBYOcHcAGCAQsI____________AZgBAQ&tfu=EgoIABAAGAAgASgC&curr=USD",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_442/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_442",
+  "elapsed_seconds": 224.21989679336548,
+  "execution_error": null,
+  "proxy_bytes": null
+}

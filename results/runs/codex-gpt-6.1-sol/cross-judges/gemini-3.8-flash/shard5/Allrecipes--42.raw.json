@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209921-dWKTJhM8yLGqYcasEkZK",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find a recipe for banana bread on Allrecipes that has more than 200 reviews and a rating of at least 4.0 stars.\n\nThe provided screenshot and response show \"Janet's Rich Banana Bread\" on Allrecipes with a rating of 4.8 stars and 8,333 reviews, which clearly satisfies all the specified conditions.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Banana Bread Recipe**\n\nI've identified a promising candidate, Janet's Rich Banana Bread, on Allrecipes. The breadcrumbs confirm its category, and I'm now verifying the review count and star rating against the specified criteria.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Banana Bread Recipe**\n\nI've identified a promising candidate, Janet's Rich Banana Bread, on Allrecipes. The breadcrumbs confirm its category, and I'm now verifying the review count and star rating against the specified criteria.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/w8PktsefT+tiajGXXEXdJSPoI+Tf4wYvRZlmK2FKKgLJ78Wi3N45v6bFub8xDaqHZfPWJyn/rvtHcsfXxf9A4j+Z7ZpKeqferbHv2AgzFW76+DqjytpfQVH07Rvx7GJLqXlGFbysQm1I++wxPv6zdDoCu1gAH2kgzxlfkC+u+VAlbp3AQhOXiPRivdM1URjqRNt4ReCFPZJJ4DZ9zKK6gGrkV26Ua90ZlEfOTq08P+66IY0yWfB26H6Vbed5uqBUfkdBUhR/9u33yIV2hAtDQje6sRmqZj0vkp3ml27qds67+cemgbAEhubuyrXLiQvMxGfXXfMBTZxhfP174aIbta0tLXeUflNk7VMnCQzVr1VysrPfyTrLqbVElK0wGuYVunnpplnpT2JY+xyq7oyRtkkINviBrVB22DbN87UhES99F3ccwKo3ZgAOGAiQQDR46SrvrwteUSBpTcVjOfrRABYg42zCAUOnfnknb0yVrANzjzgF+57kACtKkZsKlVCsomhwNsGeMybTsYv5+pN0567UhSv0FIXbOF177WCfFq8Wej8NXfrXVehmszfW+imgBZl58oICWvxJa0J3wjqjZrkH6xzDn9flguBQurga8Myopn95+F2//vFLhljqmczBUvyf1oQ034aeCjX457N1Nxlq/0N94nESyTIeSXg/erYdkCzhCzu7RBWDKrFJoUDXcZGX3yx4GPcoMFSgbNLVWn+Ig4eNYlDjhbGiFGhk7U7botZ5Hw0WEZEmLZuOHWdHvRg31eQNDn8hwMUT2IGMv18UiHYLFoN0wX795z/tns8/7hEARgWYt+8hWSabygfiFbS4HWB/IjQYmqJBiER4fkNrCb9yDMe6kMD66eK7Mt2IswZE48IeNzspg7rbQKLAGyayRP5+nQ+uoP3H4Ekokv0dbd3k3sRZUg+GYUHI+D7ZqB4LGWRjr5QgRnQkCAZ5WVMTS4A6HGso5u+0OwlgR1NyGxmGeNOELh6W3Z6iBS3MbfvmK2ldQOe/FZckdUmgxL+FVGhNVqju9/V6nf+W/v/aAe8PalAaasIznmX0sN+fW4wnCQuJoc/zco/ZCk3ldLHlwSwiucFlVVL8PdRg/gqNHncaBV1UFRHgh7PdkBp9leSrRmbkVuHNlGUxTj5pmGsknovpnCiV8DWsxweB/XwWZNRjPSf6YP+0LD2OhAbTzO3+11ZsPTLMKp+t1MyhjxIadBmgZscY6ZRmlf+WDgSvugxgyn90dMXDz/Mb3o/Eajc41fW8wSuqpyctZDedODLTyuoHctNGcZCtbpTIFa7j+bQ/uFza8NQpTtIEo",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209921,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 318,
+    "prompt_tokens": 1696,
+    "total_tokens": 2014,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 238,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0024645,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0024645,
+      "upstream_inference_prompt_cost": 0.001272,
+      "upstream_inference_completions_cost": 0.0011925
+    }
+  },
+  "provider": "Google"
+}

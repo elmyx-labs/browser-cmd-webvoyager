@@ -1,0 +1,3 @@
+[x] Search for a parking garage near Thalia Hall in Chicago that isn't open 24 hours. Google Maps Impark listing and route URLs in ANSWER.txt: “Parking garage”, “1640 W Jackson Blvd”, weekdays “5:30 AM–12 AM”, Saturday “7 AM–4 PM”, Sunday “Closed”; route 2.0 miles, 10 min driving from Thalia Hall.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the name and deciding facts together. final.png: garage name, category, Chicago address, expanded weekly hours; no applied filters or dates required by task.
+[x] Write result and evidence to ./ANSWER.txt. Includes result, hours, distance, source URLs and final.png evidence.

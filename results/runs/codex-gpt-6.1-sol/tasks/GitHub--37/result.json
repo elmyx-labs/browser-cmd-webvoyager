@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--37",
+    "ques": "List the 3 features mentioned in GitHub's Copilot product page.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: GitHub’s Copilot product page highlights these three features:\n\n1. Go beyond one-size-fits-all — Choose leading LLMs based on speed, accuracy, or cost.\n2. Use your agents, your way — Use GitHub Copilot, custom agents, or third-party agents.\n3. Stay in your flow — Use Copilot in GitHub, your IDE, the CLI, project tools, chat apps, and custom MCP servers.\n\nSource: https://github.com/features/copilot (viewed October 28, 2026).\nEvidence: final.png shows all three feature cards together.",
+    "result_text": "FINAL: GitHub’s Copilot product page highlights these three features:\n\n1. Go beyond one-size-fits-all — Choose leading LLMs based on speed, accuracy, or cost.\n2. Use your agents, your way — Use GitHub Copilot, custom agents, or third-party agents.\n3. Stay in your flow — Use Copilot in GitHub, your IDE, the CLI, project tools, chat apps, and custom MCP servers.\n\nSource: https://github.com/features/copilot (viewed October 28, 2026).\nEvidence: final.png shows all three feature cards together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_404/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_404",
+  "elapsed_seconds": 103.84705924987793,
+  "execution_error": null,
+  "proxy_bytes": 8356841
+}

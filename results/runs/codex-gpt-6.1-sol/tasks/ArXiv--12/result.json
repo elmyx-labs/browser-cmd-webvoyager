@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ArXiv",
+    "id": "ArXiv--12",
+    "ques": "Find store in arXiv Help, tell me how many styles of arXiv Logo Shirt are available?",
+    "web": "https://arxiv.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The arXiv Logo Shirt is available in 3 styles: Premium Unisex Tee, Premium Long Sleeve Tee, and Midweight Pullover Hoodie. Evidence: arXiv’s official store, linked from arXiv Help’s Branded Merchandise page, lists all three under “arXiv Logo Shirt”: https://www.bonfire.com/store/arxiv-official/ (checked October 27, 2026). Screenshot: final.png.",
+    "result_text": "FINAL: The arXiv Logo Shirt is available in 3 styles: Premium Unisex Tee, Premium Long Sleeve Tee, and Midweight Pullover Hoodie. Evidence: arXiv’s official store, linked from arXiv Help’s Branded Merchandise page, lists all three under “arXiv Logo Shirt”: https://www.bonfire.com/store/arxiv-official/ (checked October 27, 2026). Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_132/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_132",
+  "elapsed_seconds": 123.48119926452637,
+  "execution_error": null,
+  "proxy_bytes": null
+}

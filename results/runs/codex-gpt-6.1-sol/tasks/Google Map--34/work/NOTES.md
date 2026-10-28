@@ -1,0 +1,4 @@
+Google Maps place listing: Cherry Creek Trail; “Hiking area”; “2250 15th St, Denver, CO 80202, United States”.
+Place URL: https://www.google.com/maps/place/Cherry+Creek+Trail/@39.7215906,-105.4683358,10z/data=!4m10!1m2!2m1!1shiking+trails+near+80202!3m6!1s0x876c79004b025565:0xd938536cfbda1921!8m2!3d39.7546673!4d-105.0078932!15sChhoaWtpbmcgdHJhaWxzIG5lYXIgODAyMDJaGiIYaGlraW5nIHRyYWlscyBuZWFyIDgwMjAykgELaGlraW5nX2FyZWGaASRDaGREU1VoTk1HOW5TMFZQYVhscGIwTkRiemhJYWpKblJSQULgAQD6AQQISBAV!16s%2Fg%2F11wr47jpx8?hl=en
+Google Maps walking directions: origin input “Denver, CO 80202, USA”; destination input “Cherry Creek Trail, 2250 15th St, Denver, CO 80202, United States”; “Walking 14 min 0.6 mile via 16th St/16th St Mall”. Route URL recorded in ANSWER.txt.
+Dismissed trip notification and moved pointer to blank space before final viewport capture.

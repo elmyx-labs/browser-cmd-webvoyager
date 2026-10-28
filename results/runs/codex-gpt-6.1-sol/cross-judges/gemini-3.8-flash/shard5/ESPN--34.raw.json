@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210284-rhyQoGwA39o7EQR1RaHN",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to visit ESPN to view the Philadelphia 76ers' latest injuries. \n\nThe provided screenshot shows the ESPN website on the \"Philadelphia 76ers Injuries\" page, displaying the latest injury reports for the team (Tacko Fall, Jabari Walker, Dominick Barlow, and Ariel Hukporti). The result response accurately lists and details each of these entries shown on the page.\n\nTherefore, the task has been fully and successfully completed.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Checking Injury Reports**\n\nI've successfully navigated to ESPN and located the Philadelphia 76ers' injury report. The current information indicates Tacko Fall is out with a quadriceps issue, with a specific date of October 27th associated with this status.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Checking Injury Reports**\n\nI've successfully navigated to ESPN and located the Philadelphia 76ers' injury report. The current information indicates Tacko Fall is out with a quadriceps issue, with a specific date of October 27th associated with this status.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18GQ/ZFE3/GG1EKsooOv+3QC87McOdQmdQJVAoI5rvrZOLkeGJtorQ0FJmcrCvD8fiUC6miRRyOxDovgwS/XQEcdrM0A2HXFOfc5A/cgy1wYrkEZ1s4Y/u+EzsyR9P6T7IXDM4OOgxsol1fnNGCKvXes/9ywWcatRPdyfpkWSrrbpNB0H29/yhO5rtKbLnfjEZ2IjsqYY4u4Lq0mp8B9Cv6fYOr3SJqWawDD+zA3XBDca2wSD4Ds7CZ4wdbix6l8ukdsWvJqNnZkV1DwbCMLNh0EJu1O1GpEA6u7tNZyWVgrGcW52awF3ZQJxZS/GWlYOz3Q6o1qjFBR93UrfSXSvKz7rk8W2vqwU7Xdr/MEpji9Cn/6DXj7S+9npjfDF/6xJlNEkl1Naj8R+aghDOtZrOTkJgQ7Q79UD9ZlrS6s3l/g+xKO7xD+mvqNu2Rb3datIW35MMpcHVZY51XqZQKJYGfFM3uimeZEtUJvJ4SAh+Efxl844FFKSwf9KWKm84XOn7NtVztIJMrJvoVugj8AVzHVb4/SBhrUwLnogVoH1DUuPG59pXs+8Zg2iHR12ACd+2lJ0LNvmZfmeWrCns1g0HfajOVpm8QKPd7yFCL+rySaY2einKwAolvq8nGi6RDHXQlzqeNcB0yzXnCwuU1EdBfc4Muzayi9LChQLDVBnH6PD2U78HfQFGmmv80fwMvwoq55DgOPVHMZkocHIRz4hGhoS51WvfF377uB6nCVIVOuIWUQCBeb705G8NmAwWoc0dA/vcqyO8Q/1ORqVfphDSt+Yn/Grkw99i7y9vMmYyXCQ9WkgJ/tocQnQB13kbG+8xHZGhxtC6g9bI8E7311Z1Lbfa5EfhXtUr5w6pLOiNKxLlAKvDlyte8ejNGkH2dgmjrEqPIzn6YHaW+Xj1U33sihPfal/vwUrO++pyY5ldapJex2NTELNDi5ovOMgZVKji42hraO64qzheT8YFp7VmMzAsFKOuwjCo953z1TheHGo6BfyUvAxaNp3EEuFnDFzn7",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210284,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 245,
+    "prompt_tokens": 1752,
+    "total_tokens": 1997,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 147,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00223275,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00223275,
+      "upstream_inference_prompt_cost": 0.001314,
+      "upstream_inference_completions_cost": 0.00091875
+    }
+  },
+  "provider": "Google"
+}

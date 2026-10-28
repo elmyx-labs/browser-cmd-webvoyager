@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210448-LrOKM2Rsy56WsLGcPCL4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested the name of the Hilton hotel closest to Pittsburgh Airport and the walking time from that hotel to the nearest supermarket.\n\n1. **Closest Hilton Hotel**: The response correctly identified **Hilton Garden Inn Pittsburgh Airport** (9600 University Blvd, Moon Township).\n2. **Walking Time to Nearest Supermarket**: The response provided the walking time to the closest supermarket, Pittsburgh Area Commissary (8 minutes / 0.4 miles), confirmed by the Google Maps screenshot showing walking directions, as well as an alternative public supermarket (Walmart Supercenter, 26 minutes).\n\nAll requirements were met accurately.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Locating Hilton Hotel**\n\nI've identified the Hilton Garden Inn Pittsburgh Airport as the closest Hilton property to PIT. My next step is to ascertain the walking time to the nearest supermarket from this specific location.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Locating Hilton Hotel**\n\nI've identified the Hilton Garden Inn Pittsburgh Airport as the closest Hilton property to PIT. My next step is to ascertain the walking time to the nearest supermarket from this specific location.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18wrvEiGe+VzmPV8+z0KC7x2+9sh4e5DfmZj/ho8+yDXtxFdE/yu0kH0PTStRSESexlDKh5jHx7gEU4aIPgbg97D2UmTyt5gmw0K9tAA9a04LWXankdw6WB3sWDdSSYxsxmD9iMUld6SMVUwjCtnVMrBU4P/K+PbIGdkYgKmEhcPyP5H2jjhQNGUITMycuNJSV/fIuMG22mUNcBHTD1GlxjS3suXmLWWQUNpi9Z9cdeZ9mdjApch5QSF60F4xP0WMn8nTSti4pa6VtpGWetRvxACwUbd4qJIP3TcxIvwMLknRCSkWhLn7ha/2N1iNGNAvPnHUlQfFV9SkXWOKVU5tnOaGUK2ZFsjhLDjiJXZwvegdiYOgvLJU6b1Wb7KVEDUT2Ij8eD4n6jTj+NtW8Qki0OK/5N94mfOrurS6nZ6Kt+/+rD2wCLNvnH/vTbyjd2R3IjbYn4WrzLvfHblkf1p5rwcqYzQQtziHVK8krlrvP8/hDHc0S1pTGnbgUpZckb3+jq/zGpMFuyf1n6/90ek+QfDyDdy0ZC7IX34Hkq6eS/82FSR7fyi1KeZasAG62nDIAIgaUpp55uSncUIrl92I/GW9JC39yU4KaQT+5Re5ha2wW+38gtEltBJ7ebckCj3w1v/Yx5rUiHLYTXy50fz9aYtsrqnl5d4vAa/2J4YxDlqWczebznDtF4dbLzONnfaM/tfmnQ5Ic5Ot9ywiYJLeHZmZvPHPes4zDrywvzIAop0j2CrMyHeoF9zPSQjWT8EQ97aOcTm74bqgb6lA7Wlis0aGvWX5Tytzk12BcDr0hv+HuleH43gnvA+I0PjxxHeXnA332Fgkr87DUNV6EAJYD0Y6VkOPld2vfYgWUmv2jmjy6awM15endFxG9LVKfDgjLPdwtS8DMwLX4MYsYtpx+EdPbFYBAlL58zporS0TpOEUruUNPHkFIojSQS9eSTTgrR49LuxGuRAM5VEzzqpNifpVjpvn52/3xVJdbJaDazk059/Iw55OvSAOvHuiS5ZKPsysOKnEA7WQ5a2DWp4o7uXxWFutDbgu6zNDs1LUlB7F5J43q2whHonPGn+LYil5qyJdkwZgAHJTtVdQ64e0qZO0ly/HqvPIJfOsKPFeVama3AgrjX7PV1zy7Kn7A+770ZTDoFE9s/cWvblBWju9AZtQ4qm6oKH26aafIRDU1Tx2GvmMtQTSavqFKDYEDSb13ahccbRgRQmGkwmdz0fQzGtSUzSujdOnDWhbnKLq/+mboMQtWbuAXdkUZBgmWh0rnExhN1sIdCtwQ85pVJJKVyYr7yH8ybHX4oPC5a/Z4TdCPVeN/AhflU2ANBJTd3K04tvB+RjArrQMnHsfjoxStM3nJQNgVELJZHe/0clOXRWHWcJAM8L4t+TztLZhaTNYrkksyIwf7Hxzcaxm1tNn0zUHt+HFw3fXlDAWacMVY8OHwIuIaoN/G8g868fkjKj/x9ye+4hxH+aKLi5jBT2AG9wQ1svawiR18kpyOXKDDu4vWdcALwFrQaVMJwFzWdQot1aN6bXAAdTpf+ku9z4EfD4zx2ngw5XG9WjHYpeZTjG5+y+Ilox+ke8C3+Fea1jlgfyltaUD/DUbVM1wo7a3UObGz433fgMahLHXVpPiMoxg9XVlicBgEOlE/edihZc53KaSPi6n8BUbioE3IQVEfjaaMniC+TJgzZlrpNmBOMeNo89KEBUeWIXr/KgnPSJyQ06mOvbMroWHac73a+ms97YV6VM9inWuxK5eHvp62ojBZ/tBkWyx7HlwcEP2u+Lj72EE5vSXNoOOVGumUv",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210448,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 373,
+    "prompt_tokens": 2008,
+    "total_tokens": 2381,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 246,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00290475,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00290475,
+      "upstream_inference_prompt_cost": 0.001506,
+      "upstream_inference_completions_cost": 0.00139875
+    }
+  },
+  "provider": "Google"
+}

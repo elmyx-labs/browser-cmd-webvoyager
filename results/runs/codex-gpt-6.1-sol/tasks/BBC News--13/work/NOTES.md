@@ -1,0 +1,10 @@
+BBC News homepage, https://www.bbc.com/news/, checked 27 October 2026; linked recent Trump economy, campaign and Comey reports.
+https://www.bbc.com/news/articles/cwvg0ddz1z77o — 14 hours ago. “Economic growth is holding up, unemployment remains low and the stock market is near record highs.” Growth 2.2%; unemployment 4.2%; annual hourly earnings +3%, consumer prices +3.7%. Main point: voters' cost-of-living frustration before midterms despite solid headline economy.
+https://www.bbc.com/news/articles/ckly0xqjnlwvo — 8 hours ago. Prosecutors took steps to charge Comey with leaking national defence information; third attempt to bring charges. Alleged disclosure to NYT in October 2016. Comey denies wrongdoing; legal team filed motion to dismiss. Report distinguishes criminal information from grand-jury indictment.
+https://www.bbc.com/news/videos/cv0ldjez8z32o — 6 hours ago. Trump and Obama campaigning for Republican and Democratic candidates; parties seeking turnout boost in midterms.
+Web search used: https://www.google.com/search?q=Trump+news+October+27+2026&tbm=nws (no site operator).
+https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections — Published 27 Oct 2026. Read full rendered article. Trump said he would respect next week's midterm results “if they’re honest”. The elections are November 3. Article reports DOJ pressure on Washington to review roughly 400 alleged noncitizens; state says some records outdated. Allegations must be attributed rather than treated as proven.
+BBC economy JSON-LD datePublished and dateModified both 2026-10-27T06:01:11.546Z.
+Reuters AI page refused with DataDome 401 and again after retry-clean; excluded from summary. PBS page did not render readable text; excluded from summary.
+BBC campaign report JSON-LD uploadDate: 2026-10-27T13:59:22.921Z; visible publication label “6 hours ago”.
+Final evidence: BBC campaign report viewport scrolled to 440px; headline, campaign summary, and relative publication date visible together. Screenshot saved as final.png, resized from 1440x813 to 1280x723 without cropping or content changes.

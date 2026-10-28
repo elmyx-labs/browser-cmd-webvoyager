@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209909-R8WP1JR8jWExoVFJ8oZP",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response:\n\n1. **Website and Recipe**: The recipe found is \"Cauliflower Pizza Crust\" on Allrecipes.\n2. **Rating**: The recipe has a rating of 4.2 out of 5 stars (from 295 ratings), which satisfies the requirement of at least 4 stars.\n3. **Preparation Time**: The prep time is 15 minutes, which is under the 30-minute threshold.\n4. **Calories per Serving**: The response provides the nutritional information of 59 calories per serving.\n\nAll criteria from the instruction have been completely and accurately fulfilled.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Recipe Search Criteria**\n\nI'm focusing on finding a cauliflower pizza crust recipe on Allrecipes. I need to filter for recipes with a preparation time under 30 minutes and a rating of at least 4 stars. Also, I must ensure that the recipe includes the number of calories per serving. I'm actively assessing the screenshot data to ensure the specified criteria are met.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Recipe Search Criteria**\n\nI'm focusing on finding a cauliflower pizza crust recipe on Allrecipes. I need to filter for recipes with a preparation time under 30 minutes and a rating of at least 4 stars. Also, I must ensure that the recipe includes the number of calories per serving. I'm actively assessing the screenshot data to ensure the specified criteria are met.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EooKCocKAWkUfRNOgJWbCIHfec/R4QUoD6KoD15bZv5WIejPTC6eh1nO/sixaJAocxaFYk9RQz8J6vnlZOBU1qs2mNCl3rOmwtTuNAe6F2SXYo0fRKf/D1jfhbz/UmL6l5mbpoMR6v1InqXmUrJomNKxPb+fGXfr2lWosxkF6B2nv5iRPmMjR75+9f1KtddmCEAyvVsTYV59GpnZYXO4owp2SSXusX7cHpoS67dS7E6kos8ksSaoawnrXUbd4BTU6DxhqI85kQtsYfrptro1E1uQufp1RHct56MJty7wDu/iMkcFnPB8Eap+iMHWY7EfaRG6VJHiqnCEwDmxWWa+vHcQojWZZMoRYGJWgrIz1TDQGMBrxSnTsE3ND6lFA7twvv1M47tCUsD2TibdrfW5q90xAMMuRTh3lsibYko7Nn+8pbw7SEiPfBJPnczsBI7Jv/nznb6NAES281wGK7hZvmt6tnAHFe2yV5JupaQh9nsIQe51G8p7gjd9zNNaLaXIueCk9NWRZlF5MTIgwIe/3cg48sxuqiL7exNTsHlvC+FvlRD9M70nbAdwKmoQKNAnUqYu9fFTMqNg+fgN7qDRGqQXgAYtnYQ3MHhR0HbeCYPiG4xfS3oNfv84dpzBNYq5SO19Ff1KQFR52CYvjAdPt95XuLdj3+dRorN4lvSDWH3Ily0DtMgxM+eVC+bQbBaKbtNcDEY7WIHNFve+d1651GPN273/fJhzRKWeqtO0xW6bJgtqDZsHGCyTM6n06qr3qnv00pDq4uuaqaGjQ9p4jdYnLcnuKpH+kt6noaQeVvboPlTXSLWjCN/tlJ22/sEbeFSLzjcXNZJn0xNCkrPYUCjF5Lgy7pLoS1TpzUcM99X1dcDL/fOD7Zw/mLeqMZQZ10hTQFIgfGkPKSRvs4Q68m685Jfq88b4xSk8EquuNHwP5nHoVW7pN1axaghcYH5M30/GS3dzdbUbtmRqAVUVttuDSYEnXIaAWkHAhaZYKSXJEt6oW8QS6uaO6vsbRhXcTqblDFEUOYO7YWLHD5nPAMl73X0zL34mJJpH0+KF49Dz4XMT6R10At/7zR+0tOZJdXvswEm+J0lTG3+JYZvm+AnwaMNt/Ko545ySWoqHqegv8lMQOduWn3lCf1T9MljZqwQ0hh7KOkn1SQTio6HIq6mnWO3hcJrtRrBdDHUM5IKLICnr7J6udAhkkdzMvgZuVJJLCzNKlwIycTVcDdn8L/xdLv56QToQbpwtDFxbTskRgsr8OI9/Hl7IulQeDwcmv07dYyy1DTWkqIepElMns4+2CVISDnfXirntoyFT5+8GTql43dfbfw800S8w9bWXz41QezeMBEC7T5zdicDp4k3TzWgXTck8YssMMB3U6fb0dQuoLLdLLCF9iSEL730QwpwRZRbMqqDwSYN1NN3yrOOr1b7sY+j8GGp1cjSXvgnB3zy3iLo5PU5HgODbtLfTPCkb1HklEA0Res4wRzZT/w1m86RNYJ7GDuDBG/HrYvgnC3gH+9/UpiA4ZZ8NvrCavCaAaPNMJANI3hhEYaALhwhD6rKt7FFspp6Adb0dO7PQZnT0MB+Gve6E0xdI5/xgM2uQCG3gd4eMHAXcFcaNutHhLy4T/dGbFhbG6CEmGuifeDHXXjPuxmpMIQSdbXAfmCzZl8gsrE9OiTg2sCMmBC9T/5WnW+KpvEW+puEyKVd052yeaCvI0V9acgkS",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209909,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 416,
+    "prompt_tokens": 1776,
+    "total_tokens": 2192,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 281,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002892,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002892,
+      "upstream_inference_prompt_cost": 0.001332,
+      "upstream_inference_completions_cost": 0.00156
+    }
+  },
+  "provider": "Google AI Studio"
+}

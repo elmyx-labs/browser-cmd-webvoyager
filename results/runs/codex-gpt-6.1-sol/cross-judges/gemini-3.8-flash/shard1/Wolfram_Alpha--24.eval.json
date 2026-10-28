@@ -1,0 +1,41 @@
+{
+  "id": "Wolfram Alpha--24",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Solve the differential equation y''(t) - 2y'(t) + 10y(t) = 0 and display its general solution.",
+  "answer": "FINAL: The general solution is y(t) = e^t[C₁ sin(3t) + C₂ cos(3t)], where C₁ and C₂ are arbitrary constants. WolframAlpha displays this result for y''(t) − 2y'(t) + 10y(t) = 0. Source: https://www.wolframalpha.com/input?i=solve+y%27%27%28t%29+-+2y%27%28t%29+%2B+10y%28t%29+%3D+0 . Evidence: final.png.",
+  "response": "The task asks to solve the differential equation $y''(t) - 2y'(t) + 10y(t) = 0$ and display its general solution.\n\nBased on the provided screenshot from WolframAlpha:\n- The input interpretation confirms the differential equation: $y''(t) - 2y'(t) + 10y(t) = 0$.\n- The result displays the general solution: $y(t) = c_1 e^t \\sin(3t) + c_2 e^t \\cos(3t)$.\n\nThe Result Response accurately presents this solution as $y(t) = e^t[C_1 \\sin(3t) + C_2 \\cos(3t)]$.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+  "reason_short": "The task asks to solve the differential equation $y''(t) - 2y'(t) + 10y(t) = 0$ and display its general solution. Based on the provided screenshot from WolframAlpha: - The input interpretation confirms the differential equation: $y''(t) - 2",
+  "screenshots": [
+    "task_593/final.png"
+  ],
+  "raw_screenshot": "task_593/final.png",
+  "source_result": "task_593",
+  "usage": {
+    "completion_tokens": 461,
+    "prompt_tokens": 1732,
+    "total_tokens": 2193,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 288,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00302775,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00302775,
+      "upstream_inference_prompt_cost": 0.001299,
+      "upstream_inference_completions_cost": 0.00172875
+    }
+  },
+  "elapsed_seconds": 8.41
+}

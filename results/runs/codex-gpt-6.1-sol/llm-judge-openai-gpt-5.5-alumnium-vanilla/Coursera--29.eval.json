@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--29",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Browse the Coursera website and find the price required for one year of Coursera Plus. How much is the discount? Then list 3 companies that work with Coursera.",
+  "answer": "FINAL: One year of Coursera Plus costs $239, with an advertised 40% discount (“Save 40%”). Three companies that work with Coursera are Google, IBM, and Microsoft.\n\nEvidence: https://www.coursera.org/courseraplus — the Coursera Plus pricing card with “Billed Annually” selected shows “$239/year” and “Save 40%”; the page’s “Learn from 350+ leading universities and companies” section lists Google, IBM, and Microsoft. Checked October 27, 2026. Screenshot: final.png.",
+  "response": "The task required three pieces of information from Coursera:\n\n1. The price for one year of Coursera Plus  \n2. The amount of the discount  \n3. Three companies that work with Coursera  \n\nThe screenshot clearly shows the Coursera Plus pricing card with **Billed Annually** selected, listing **$239/year** and a badge saying **“Save 40%.”** This supports the reported annual price and discount.\n\nThe screenshot does not show the “companies that work with Coursera” section, but the result response states that the Coursera page lists **Google, IBM, and Microsoft**. Per the evaluation instruction, when response content is not visible in the screenshot, we may accept it unless contradicted by the screenshot. There is no contradiction.\n\nTherefore, the result response satisfies all parts of the task.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The task required three pieces of information from Coursera: 1. The price for one year of Coursera Plus 2. The amount of the discount 3. Three companies that work with Coursera The screenshot clearly shows the Coursera Plus pricing card wit",
+  "screenshots": [
+    "task_310/final.png"
+  ],
+  "raw_screenshot": "task_310/final.png",
+  "source_result": "task_310",
+  "usage": {
+    "completion_tokens": 309,
+    "prompt_tokens": 1718,
+    "total_tokens": 2027,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.26
+}

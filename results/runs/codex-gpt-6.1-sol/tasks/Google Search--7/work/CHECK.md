@@ -1,0 +1,3 @@
+[x] Find the software requirements for iPhones that support AirDrop's ability to continue transmitting over the web when out of range. Apple Support https://support.apple.com/en-us/118723: iOS 17.1 introduces the ability; “Content continues to transfer over the internet when you step out of AirDrop range”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and deciding facts together without overlays. final.png is a 1280x723 viewport screenshot showing iOS 17.1, AirDrop, and the statement together. No filters, sorts, or dates apply to this software-requirements question.
+[x] Write the result and its evidence to ./ANSWER.txt. Saved with source URL and screenshot reference.

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210344-x4HE4QB6r1GIrrtmVeZC",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a planned driving journey from San Francisco International Airport to Union Square.\n\nThe screenshot shows Google Maps configured for driving between the two specified locations:\n- **Origin:** San Francisco International Airport\n- **Destination:** Union Square, San Francisco, CA, USA\n- **Mode of travel:** Driving\n- **Route details:** via US-101 N, taking approximately 40 minutes (14.7 miles), with step-by-step directions displayed and accurately reported in the response.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Charting the Itinerary**\n\nOkay, I've got the origin as SFO and the destination locked in as Union Square. Now, I'm going to start figuring out the best route, considering traffic and potential tolls. I'll need to figure out which roadways are optimal to create an efficient journey.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Charting the Itinerary**\n\nOkay, I've got the origin as SFO and the destination locked in as Union Square. Now, I'm going to start figuring out the best route, considering traffic and potential tolls. I'll need to figure out which roadways are optimal to create an efficient journey.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EowICokIAWkUfRMMX/PTmQu9XsBtJ+OkAaf71v4j5jaXyzdZfM1rM3o4FwRdFMJibbaXMxorVXlng56y/QNdc+EkUlbvedTzfb8MK7gbHZCUa9NFD/UvjJnvwrmBq3uwqtzKGcds92qS1/PPVhizumbSUXM4OS/VqjXs9M83z0+8Ej8tw3T8jVrot4YVpX3VbftSn5OJBw6G+a0nvcbPOaNMwZc/ng6ZhOC2cs2k7xFoMY4B/9EvKnbgIDGzasCZvaoK1QBOozrWxsJjwnHqNmruPxNsXfW6dji+HJnpYjiEMT3/Nj5CKOnidkrGg+Qz/wrGknRIpwFF4prvPIlvqfoeUVeqRWsTpn0LZb+PpvPMHp5/m3FQcwJlHLreevu88eCJBLTX5RZTweBFpOZjeh10Vjd08SXXdcsrgLyLC+KDP9NbFgu5pmIShfGh4uY76lN9hyave/qyge82NEZHd2KwgdoYMMLol6Tk9tcU2ap49h0hC+fRm7xYg4ChJXqEqnBCpRSQdjk5YhV/H/yfBT9sRKSGMvMJh3CC0PwH+LSnozPuaLWTSlk6p3xnu12dnKEfO+qJxG8DOkfgcDKjxwNWxZDRpRUqVUnTsV/c49iNDzsJZVgACzU8Mu6QGmC+7Y57Uv2ymAaaUa2cw8Ucr7N4+m8KqcO+uiRHJduliF+6jnU2jRpmcTC/Tbp+dRWA9FQ4jwdJMqI5UzISetfTG33sXKHzrHduOxDQ1GB6b4cQ4Kr3OmLS/I+KC7wX4pcwit73zkFBKXiEKkkGvPGz9KzRaKs++pUciTMkSSp2UB+3XJdWg9GGQrlVxP7e3UKsBXRsxcTolXCC6lqXgCFc+niW2UZ6WccVVYebG2Lq9Kbbf/X12/YLk7BITnvXgJeZxniVXtJYdKgyv/JHJOgprmGwLp5A4Y63q4uQ4PV1mRXpWCXTGo2l0wi4teZGgTRkYfGS9NX2MjWVLczXfNF0uc33MtAmi1F++/pQbpGMhhVz//GcTdzdn2/LGWq7uisio/lzF9UfkKa24gnQlOmQn+ACD6vmrsW5TE4SjDYrOccUv/EqFuK80TjxrmvORrM93jNZQpge21oijehPmnyme9GmI4ZwD/5E9TXjjIYdhzOh+WdEG5pKZoORs28s78tn1wW9fVBAFKHWI/QrCaTrnj+1WzVPP6uQNidexKJUG0kPaqDCXgr8E18pLW4ypM7R/pmk4Zmpc8DJJl4PPAW/5gDjFVByRZf+ATopmi+O+P5bmOzcRQbiaOA8Z4pH3udZOhjQfMBbk0PF3zjC1JSl5slVUWYm9eSoNy2w/TCs5LsviV93mBel/Wyq6zG/vJ9S/OflCzYfLi0cLn9t9fPJs7jLjMIZdxQBROgc6IvyQw==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210344,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 326,
+    "prompt_tokens": 1816,
+    "total_tokens": 2142,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 210,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0025845,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0025845,
+      "upstream_inference_prompt_cost": 0.001362,
+      "upstream_inference_completions_cost": 0.0012225
+    }
+  },
+  "provider": "Google AI Studio"
+}

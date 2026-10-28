@@ -1,0 +1,4 @@
+Booking.com search for Rio de Janeiro, check-in 2027-07-01, checkout 2027-07-07, 2 adults, 1 room, Hotels applied.
+URL: https://www.booking.com/searchresults.html?ss=Rio+de+Janeiro&dest_id=-666610&dest_type=city&checkin=2027-07-01&checkout=2027-07-07&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204
+Expanded Brands: Windsor 15; ibis 7; Rede Mirador 5; Novotel 4; ibis Budget 3; Wyndham Hotels & Resorts 2; Mercure 2; Hilton Hotels & Resorts 2; Nacional Inn 2; Promenade 2; Intercity Hoteis 2; Andrade Hoteis 2; Days Inn by Wyndham 1; Courtyard by Marriott 1; JW Marriott Hotels & Resorts 1; Residence Inn 1; B&B Hotels 1; Vila Gale 1; Pestana Hotel & Resorts 1; Rede Atlântico 1.
+Exact visible search status: Rio de Janeiro: 169 properties found. Applied filters: Hotels. Sorted by: Our top picks.

@@ -1,0 +1,31 @@
+{
+  "id": "GitHub--15",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Locate a repository on GitHub related to 'quantum computing' that has been updated within the last week and has at least 50 stars. Provide a brief description of the project.",
+  "answer": "FINAL: JanLahmann/Fun-with-Quantum — https://github.com/JanLahmann/Fun-with-Quantum\nA project that teaches quantum computing through games and Qiskit-based Jupyter notebooks exploring superposition, interference and entanglement.\nVerified October 28, 2026: 56 stars; latest commit October 28, 2026 at 03:44 EDT, within the last week (October 21–28).\nGitHub search used stars:>=50 and pushed:2026-10-21..2026-10-28, sorted by Recently updated: https://github.com/search?q=%22quantum+computing%22+stars%3A%3E%3D50+pushed%3A2026-10-21..2026-10-28&type=repositories&s=updated&o=desc\nEvidence: final.png shows the repository name, 56 stars and “Updated 3 hours ago.” GitHub did not visibly render the applied query/date filters on the results page.",
+  "response": "The task was to find a GitHub repository related to “quantum computing” that:\n\n1. Has been updated within the last week.\n2. Has at least 50 stars.\n3. Includes a brief project description.\n\nThe result identifies **JanLahmann/Fun-with-Quantum**.\n\nFrom the screenshot:\n- The repository name is visible: **JanLahmann/Fun-with-Quantum**.\n- It is clearly related to quantum computing, with the description mentioning “Quantum games” and “quantum computing.”\n- It has **56 stars**, satisfying the “at least 50 stars” requirement.\n- It was **updated 3 hours ago**, which is within the last week.\n- The response provides a brief description of the project.\n\nThe provided result therefore satisfies all parts of the task.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The task was to find a GitHub repository related to “quantum computing” that: 1. Has been updated within the last week. 2. Has at least 50 stars. 3. Includes a brief project description. The result identifies **JanLahmann/Fun-with-Quantum**",
+  "screenshots": [
+    "task_382/final.png"
+  ],
+  "raw_screenshot": "task_382/final.png",
+  "source_result": "task_382",
+  "usage": {
+    "completion_tokens": 381,
+    "prompt_tokens": 1815,
+    "total_tokens": 2196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 203,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.32
+}

@@ -1,0 +1,3 @@
+[x] Identify the available storage options for the latest iPad Pro on the Apple website. https://www.apple.com/ipad-pro/ identifies M5; https://www.apple.com/ipad-pro/specs/ lists “256GB”, “512GB”, “1TB”, “2TB” under “Capacity” for both models.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and storage options visible together and no overlay. final.png is 1280 × 723 and shows “iPad Pro”, both model names, and all capacity values.
+[x] Write the result and its evidence to ./ANSWER.txt with first line FINAL:. ANSWER.txt contains the result, source URL, check date, and screenshot reference.

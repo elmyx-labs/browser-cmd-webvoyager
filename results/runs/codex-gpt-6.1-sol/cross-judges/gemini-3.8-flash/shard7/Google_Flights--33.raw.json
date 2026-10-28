@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210315-W64I0HUB6cXJglQvGuFx",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**Reasons for Evaluation:**\n\n1. **Parameters Verification:** The search was correctly executed on Google Flights for a one-way economy flight from Shanghai to Vancouver on July 27, 2027 (Tuesday, July 27, 2027).\n2. **Comparison by Emissions:** The results in the screenshot are sorted by emissions, clearly showing multiple options along with their carbon dioxide emissions (`kg CO₂e`).\n3. **Response Accuracy:** The result response accurately lists and compares the flight options based on their carbon dioxide emissions, identifying the lowest emitting flight (Air Canada nonstop with 487 kg CO₂e) and contrasting it with alternative options.\n\n**Verdict:** SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Flight Options**\n\nI'm currently reviewing the initial flight search parameters. The focus remains on a one-way journey from Shanghai to Vancouver for one adult in Economy class on July 27, 2027. My next step will be to examine the screenshot for specific flight details and begin the carbon emissions comparison.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Flight Options**\n\nI'm currently reviewing the initial flight search parameters. The focus remains on a one-way journey from Shanghai to Vancouver for one adult in Economy class on July 27, 2027. My next step will be to examine the screenshot for specific flight details and begin the carbon emissions comparison.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210315,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 540,
+    "prompt_tokens": 2210,
+    "total_tokens": 2750,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 395,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0036825,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0036825,
+      "upstream_inference_prompt_cost": 0.0016575,
+      "upstream_inference_completions_cost": 0.002025
+    }
+  },
+  "provider": "Google"
+}

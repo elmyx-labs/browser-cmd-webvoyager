@@ -1,0 +1,41 @@
+{
+  "id": "Huggingface--11",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify the latest updated image to video model available on Huggingface and summarize its main features.",
+  "answer": "FINAL: The latest updated Hugging Face Image-to-Video listing is Dime-Dime-Baby-AI/Dime-Dime-Baby-AI-Video-Generator, checked October 27, 2026.\n\nEvidence: It ranks first with the Image-to-Video filter and “Recently updated” sort, showing “Updated about 8 hours ago.” Its latest commit is October 27, 2026 at 15:41:30 UTC.\n\nMain features, according to its model card:\n• Uses one photo of a person or pet to replace the central character in a preloaded quinceañera video, preserving the scene, camera movement and timing.\n• Offers Original/person and Pet templates; 5- or 9-second videos.\n• Outputs horizontal 16:9 MP4 with the original clip’s party sound; Lite is 480p, while Standard, HD and Ultra are 720p.\n• Runs in a browser without prompts or a reference-video upload; advertised generation time is about 2–5 minutes.\n\nAvailability: The Hugging Face repository contains only a model card and .gitattributes, with no downloadable model weights, and links to an external service. Hugging Face reports no Inference Provider deployment.\n\nSources:\nhttps://huggingface.co/models?pipeline_tag=image-to-video&sort=modified\nhttps://huggingface.co/Dime-Dime-Baby-AI/Dime-Dime-Baby-AI-Video-Generator\nhttps://huggingface.co/Dime-Dime-Baby-AI/Dime-Dime-Baby-AI-Video-Generator/commits/main\nhttps://huggingface.co/Dime-Dime-Baby-AI/Dime-Dime-Baby-AI-Video-Generator/tree/main\n\nScreenshot evidence: final.png shows the active Image-to-Video filter, Recently updated sort, and the first result’s name and update age.",
+  "response": "### Evaluation Rationale\n\nThe user requested identifying the latest updated image-to-video model on Hugging Face and summarizing its primary features. The screenshot confirms the search with the \"Image-to-Video\" task filter sorted by \"Recently updated,\" clearly displaying `Dime-Dime-Baby-AI/Dime-Dime-Baby-AI-Video-Generator` at the top. The response accurately identifies this model, provides detailed information on its capabilities and specifications from the model card, and notes its availability status. All parts of the task were completed accurately.\n\n### Verdict\nSUCCESS",
+  "reason_short": "### Evaluation Rationale The user requested identifying the latest updated image-to-video model on Hugging Face and summarizing its primary features. The screenshot confirms the search with the \"Image-to-Video\" task filter sorted by \"Recent",
+  "screenshots": [
+    "task_538/final.png"
+  ],
+  "raw_screenshot": "task_538/final.png",
+  "source_result": "task_538",
+  "usage": {
+    "completion_tokens": 308,
+    "prompt_tokens": 2017,
+    "total_tokens": 2325,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 187,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00266775,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00266775,
+      "upstream_inference_prompt_cost": 0.00151275,
+      "upstream_inference_completions_cost": 0.001155
+    }
+  },
+  "elapsed_seconds": 8.53
+}

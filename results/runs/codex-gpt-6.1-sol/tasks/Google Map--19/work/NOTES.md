@@ -1,0 +1,10 @@
+Hotel: Hilton Garden Inn Pittsburgh Airport, 9600 University Blvd, Moon Township, PA 15108. Google Maps hotel details state this address. Maps hotel-near-airport query shows Hilton Garden Inn, DoubleTree, Hilton Garden Inn South-Robinson Mall and Homewood Suites. https://www.google.com/maps/search/Hilton+hotels+near+Pittsburgh+International+Airport/?hl=en
+External hotel distance listing: https://pitinternationalairport.com/pittsburgh-international-airport-hotels/ lists Hilton Garden Inn 1.42 KM, Hampton Inn 2 KM, DoubleTree 2.1 KM; Hilton Garden Inn is closest of those.
+Nearby supermarket search (centered on hotel): ALDI at 2830 Gracy Center Way Ste.100 (40.517798,-80.217141) versus Giant Eagle 5990 University Blvd #4 (40.5218713,-80.2200465). https://www.google.com/maps/search/supermarket/@40.5021725,-80.2996564,13z/data=!3m1!4b1!4m7!2m6!3m5!2sHilton+Garden+Inn+Pittsburgh+Airport,+9600+University+Blvd,+Moon+Township,+PA+15108,+United+States!3s0x88345c52e07a6425:0x744bbf2af57f829d!4m2!1d-80.2234387!2d40.5020566?hl=en
+Walmart Supercenter at 7500 University Boulevard, near ALDI, needs comparison too.
+Google Maps walk hotel to ALDI: 31 min, 1.3 miles via University Blvd.
+Google Maps walk hotel to Walmart: 26 min, 1.2 miles via University Blvd. Walmart is at 40.5155477,-80.224147, nearer than ALDI and Giant Eagle. Grocery store search also shows Pittsburgh Area Commissary much closer at 40.5016018,-80.2184894.
+Google Maps walk hotel to Pittsburgh Area Commissary: 8 min, 0.4 mile via Soldiers Ln; alternative 9 min 0.4 mile via University Blvd/Soldiers Ln. Both marked restricted usage or private roads.
+https://corp.commissaries.com/shopping/store-locations/pittsburgh-area read with browser-cmd pages: “100% Military ID check is in effect.”
+https://www.walmart.com/store/4644-moon-township-pa read with browser-cmd pages: Services include “Grocery.”
+https://pitinternationalairport.com/pittsburgh-international-airport-hotels/ read with browser-cmd pages find=nearest: Hilton Garden Inn 1.42 KM / 0.88 Miles, Hampton Inn 2 KM / 1.25 Miles, DoubleTree 2.1 KM / 1.31 Miles.

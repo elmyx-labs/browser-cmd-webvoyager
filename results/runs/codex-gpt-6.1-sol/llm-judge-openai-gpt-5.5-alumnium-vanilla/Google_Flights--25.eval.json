@@ -1,0 +1,31 @@
+{
+  "id": "Google Flights--25",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a one-way business class flight from Buenos Aires to Amsterdam on July 10, 2027, and provide the details of the flight with the shortest duration.",
+  "answer": "FINAL: The shortest one-way business-class flight from Buenos Aires to Amsterdam on July 10, 2027 is KLM KL 702, nonstop, taking 13 hours 5 minutes.\n\nDeparts: Ezeiza International Airport (EZE), Buenos Aires, at 3:05 PM on Saturday, July 10, 2027.\nArrives: Amsterdam Airport Schiphol (AMS) at 9:10 AM on Sunday, July 11, 2027. All times are local.\nCabin and aircraft: Business Class, Boeing 777; individual suite.\nDisplayed fare: RSD 458,838 for 1 adult, one way, including required taxes and fees.\n\nEvidence: Google Flights was set to One way, Business, Buenos Aires → Amsterdam, July 10, 2027 and sorted by duration. KL 702 appeared first, with its details expanded. Screenshot: final.png.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI3LTA3LTEwag0IAxIJL20vMDFseTVtcgsIAxIHL20vMGszcEABSANwAYIBCwj___________8BmAEC&tfu=EgYIBRAAGAA",
+  "response": "The task was to find a one-way business class flight from Buenos Aires to Amsterdam on July 10, 2027, and provide details for the shortest-duration option.\n\nThe screenshot shows Google Flights configured for:\n- One way\n- 1 passenger\n- Business class\n- Buenos Aires to Amsterdam\n- Date: Sat, Jul 10\n- Sorted by duration\n\nThe first listed flight is:\n- KLM KL 702\n- Departing 3:05 PM from Ezeiza International Airport (EZE)\n- Arriving 9:10 AM +1 at Amsterdam Airport Schiphol (AMS)\n- Travel time: 13 hr 5 min\n- Nonstop/overnight\n- Business Class, Boeing 777\n- Fare: RSD 458,838\n\nThe result response accurately reports these details and identifies it as the shortest-duration flight shown.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find a one-way business class flight from Buenos Aires to Amsterdam on July 10, 2027, and provide details for the shortest-duration option. The screenshot shows Google Flights configured for: - One way - 1 passenger - Busine",
+  "screenshots": [
+    "task_431/final.png"
+  ],
+  "raw_screenshot": "task_431/final.png",
+  "source_result": "task_431",
+  "usage": {
+    "completion_tokens": 337,
+    "prompt_tokens": 1857,
+    "total_tokens": 2194,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 147,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.0
+}

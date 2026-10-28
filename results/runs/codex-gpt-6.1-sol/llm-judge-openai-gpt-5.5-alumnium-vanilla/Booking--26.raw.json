@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdycFFiJv8WYJ6n5MXoUgFaLlnhGn",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to check Booking.com for a hotel in Paris for July 20–23, 2027 that meets all of these criteria:\n\n- 3-star hotel or higher\n- Guest rating above 8.0\n- Available parking\n- Available for the specified dates\n\nThe screenshot shows a Booking.com search for Paris with dates Tue, Jul 20 – Fri, Jul 23 and filters applied for Hotels, Very Good: 8+, Parking, and property rating. The displayed result, Best Western Plus La Demeure, is shown as a 4-star hotel with a guest rating of 8.7, and the listing shows availability/pricing for 3 nights. The result response also states that the property page confirms nearby public parking is available, though reservation is needed and charges may apply.\n\nThis satisfies the requested criteria: it is above 3 stars, rated above 8.0, available for the dates, and has parking listed.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196507,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 616,
+    "prompt_tokens": 1935,
+    "total_tokens": 2551,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 409,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

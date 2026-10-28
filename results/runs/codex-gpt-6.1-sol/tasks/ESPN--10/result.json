@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ESPN",
+    "id": "ESPN--10",
+    "ques": "Check ESPN for the score and a brief recap of the latest college football championship game.",
+    "web": "https://www.espn.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Indiana beat Miami 27–21 in the latest College Football Playoff National Championship, played January 19, 2026, at Hard Rock Stadium in Miami Gardens, Florida. Indiana finished 16–0 and won its first national title. Fernando Mendoza's 12-yard touchdown run on fourth-and-4 in the fourth quarter helped hold off Miami, and Jamari Sharpe's late interception sealed the win.\n\nSource: ESPN/AP game recap, updated January 20, 2026: https://www.espn.com/college-football/recap/_/gameId/401769076\nEvidence: final.png, a viewport screenshot of the ESPN recap.",
+    "result_text": "FINAL: Indiana beat Miami 27–21 in the latest College Football Playoff National Championship, played January 19, 2026, at Hard Rock Stadium in Miami Gardens, Florida. Indiana finished 16–0 and won its first national title. Fernando Mendoza's 12-yard touchdown run on fourth-and-4 in the fourth quarter helped hold off Miami, and Jamari Sharpe's late interception sealed the win.\n\nSource: ESPN/AP game recap, updated January 20, 2026: https://www.espn.com/college-football/recap/_/gameId/401769076\nEvidence: final.png, a viewport screenshot of the ESPN recap.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_333/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_333",
+  "elapsed_seconds": 161.0244860649109,
+  "execution_error": null,
+  "proxy_bytes": 40919999
+}

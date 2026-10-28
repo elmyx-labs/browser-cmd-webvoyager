@@ -1,0 +1,8 @@
+FINAL: On arXiv, searching the Journal reference field for CVPR 2023 returned 54 results; CVPR2023 returned 9 results, respectively. Both searches included all dates and cross-listed papers (checked October 27, 2026).
+
+Evidence: arXiv displayed “Showing 1–50 of 54 results” for journal_ref=CVPR 2023 and “Showing 1–9 of 9 results” for journal_ref=CVPR2023.
+
+CVPR 2023 source: https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=CVPR+2023&terms-0-field=journal_ref&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first
+CVPR2023 source: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=CVPR2023&terms-0-field=journal_ref&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first
+
+Screenshot: final.png shows the CVPR2023 journal-reference query and its 9-result count.

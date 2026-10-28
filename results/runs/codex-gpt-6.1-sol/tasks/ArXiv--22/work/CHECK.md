@@ -1,0 +1,4 @@
+[x] Locate the ArXiv Help section. https://info.arxiv.org/help/index.html — “arXiv Help Contents”; “Subscribe to E-Mail Listings”.
+[x] Find instructions on how to subscribe to daily listing emails for new submissions in a specific category. https://info.arxiv.org/help/subscribe.html — “Subscribe to daily listing emails”; “To: q-fin@arxiv.org”, “Subject: subscribe John Smith”, “add RM” for Risk Management (q-fin.RM).
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the relevant name and facts together. final.png is 1280 × 723 and shows the heading, plain ASCII requirement, category instructions, and Risk Management example. No overlay is present.
+[x] Write the result and evidence to ./ANSWER.txt. Saved the instructions, source and Help URLs, and final.png evidence reference.

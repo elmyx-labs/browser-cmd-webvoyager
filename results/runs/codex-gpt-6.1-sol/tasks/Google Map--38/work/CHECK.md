@@ -1,0 +1,3 @@
+- [x] Search for bicycle parking near the Empire State Building on Google Maps; record the location and proximity evidence. Google Maps place: “Bike Parking”, “Bicycle rack”, “104 W 38th St”; route: “8 min (0.3 mile)” from Empire State Building. URLs in NOTES.md and ANSWER.txt.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the result and deciding facts visible and no overlays. final.png is 1280×723 and shows the walking route, both locations, and address.
+- [x] Write ./ANSWER.txt with the result and evidence; first line starts FINAL:.

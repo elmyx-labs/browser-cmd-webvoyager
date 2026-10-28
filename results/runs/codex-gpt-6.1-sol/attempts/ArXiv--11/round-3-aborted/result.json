@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ArXiv",
+    "id": "ArXiv--11",
+    "ques": "For Non-English submissions, do I need to provide a multi-language abstract, if need, answer the separator between the multiple abstracts.",
+    "web": "https://arxiv.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: No multilingual abstract or separator is specified in arXiv’s current guidance. For a non-English submission, you must provide a full English version of the paper, placed first; an English abstract alone is insufficient. The full-English-version policy took effect February 11, 2026.\nEvidence: “Non-English submissions,” https://info.arxiv.org/help/faq/multilang.html ; “Abstract: required,” https://info.arxiv.org/help/prep.html#abstract-required ; policy effective date, https://blog.arxiv.org/2026/01/13/non-english-paper-submission-guidelines/ . Screenshot: final.png.",
+    "result_text": "FINAL: No multilingual abstract or separator is specified in arXiv’s current guidance. For a non-English submission, you must provide a full English version of the paper, placed first; an English abstract alone is insufficient. The full-English-version policy took effect February 11, 2026.\nEvidence: “Non-English submissions,” https://info.arxiv.org/help/faq/multilang.html ; “Abstract: required,” https://info.arxiv.org/help/prep.html#abstract-required ; policy effective date, https://blog.arxiv.org/2026/01/13/non-english-paper-submission-guidelines/ . Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_2/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_2",
+  "elapsed_seconds": 183.3791811466217,
+  "execution_error": null,
+  "proxy_bytes": null
+}

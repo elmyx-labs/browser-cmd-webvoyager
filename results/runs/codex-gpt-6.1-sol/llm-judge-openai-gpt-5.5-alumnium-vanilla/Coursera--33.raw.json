@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdydPS4qjiYrfi5WF4vDMvhuQuc9H",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find a beginner-level Coursera course related to “Internet of Things (IoT)” with a high rating, and provide the course name, instructor’s name, and a brief summary of skills taught.\n\nThe screenshot shows a Coursera course titled **“IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies”**, which is clearly related to IoT. It lists the instructor as **Jong-Moon Chung**, shows the course is **Beginner level**, and displays a **4.7 rating from 1,510 reviews**, which reasonably qualifies as a high rating.\n\nThe result response provides:\n- Course name\n- Instructor name\n- Beginner level and rating\n- A brief skills summary, including IoT architecture, Wi-Fi, Bluetooth, cloud computing, and AWS EC2\n\nThis satisfies all parts of the task.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196579,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 298,
+    "prompt_tokens": 1794,
+    "total_tokens": 2092,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

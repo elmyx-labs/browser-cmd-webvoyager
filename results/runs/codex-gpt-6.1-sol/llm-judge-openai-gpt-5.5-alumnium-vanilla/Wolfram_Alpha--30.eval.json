@@ -1,0 +1,31 @@
+{
+  "id": "Wolfram Alpha--30",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Calculate the estimated time to sunburn for different skin types when exposed to the sun at 1:00 pm with SPF 1 in Brazil.",
+  "answer": "FINAL: At 1:00 pm (UTC−03) in Brazil with SPF 1, WolframAlpha estimates time to sunburn as follows: skin type I — 13 minutes; II — 17 minutes; III — 25 minutes; IV — 33 minutes; V — 48 minutes; VI — 3.5 hours.\n\nThe calculation uses October 27, 2026 (the task date) and WolframAlpha's location “Brazil,” with its UV forecast for the center of Brazil. The displayed input information confirms all skin types, Brazil, 1:00 pm UTC−03, and SPF 1. The “Typical time to sunburn” table supplies the estimates.\n\nSource: https://www.wolframalpha.com/input?i=sunburn&assumption=%7B%22FS%22%7D+-%3E+%7B%7B%22TimeToSunburn%22%2C+%22tb%22%7D%2C+%7B%22TimeToSunburn%22%2C+%22SPF%22%7D%7D&assumption=%7B%22F%22%2C+%22TimeToSunburn%22%2C+%22place%22%7D+-%3E%22Brazil%22&assumption=%7B%22FP%22%2C+%22TimeToSunburn%22%2C+%22SST%22%7D+-%3E+%22ST16%22&assumption=%7B%22C%22%2C+%22sunburn%22%7D+-%3E+%7B%22Formula%22%2C+%22dflt%22%7D&assumption=%7B%22F%22%2C+%22TimeToSunburn%22%2C+%22start%22%7D+-%3E%2227+Oct+2026+1%3A00+pm%22&assumption=%7B%22F%22%2C+%22TimeToSunburn%22%2C+%22SPF%22%7D+-%3E%221%22\nEvidence: final.png.",
+  "response": "The task was to calculate estimated time to sunburn for different skin types at 1:00 pm in Brazil with SPF 1.\n\nThe screenshot shows WolframAlpha input information confirming:\n\n- Skin type: all\n- Location: Brazil\n- Start time: 1:00 pm UTC−03\n- SPF: 1\n\nIt also shows the “Typical time to sunburn” table with:\n\n- Skin type I: 13 min\n- Skin type II: 17 min\n- Skin type III: 25 min\n- Skin type IV: 33 min\n- Skin type V: 48 min\n- Skin type VI: 3.5 h\n\nThe result response accurately reports these values and aligns with the screenshot. The requested calculation was completed for all skin types.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to calculate estimated time to sunburn for different skin types at 1:00 pm in Brazil with SPF 1. The screenshot shows WolframAlpha input information confirming: - Skin type: all - Location: Brazil - Start time: 1:00 pm UTC−03 -",
+  "screenshots": [
+    "task_599/final.png"
+  ],
+  "raw_screenshot": "task_599/final.png",
+  "source_result": "task_599",
+  "usage": {
+    "completion_tokens": 592,
+    "prompt_tokens": 2076,
+    "total_tokens": 2668,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 419,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.93
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Google Flights--16",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the cheapest one-way flight from New York to Tokyo departing on January 15, 2027, and provide the airline and total flight duration.",
+  "answer": "FINAL: Air India has the cheapest one-way flight shown on Google Flights from New York to Tokyo departing January 15, 2027: US$407 per adult in economy, with a total duration of 29 hours 55 minutes. It flies from JFK to Haneda (HND) with one stop in New Delhi (DEL).\nEvidence: final.png shows Google Flights’ Cheapest tab, results sorted by price, the January 15 departure, and the Air India result with its price and duration.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhopEgoyMDI3LTAxLTE1ag0IAxIJL20vMDJfMjg2cgwIAxIIL20vMDdkZmtAAUgBcAGCAQsI____________AZgBAg&tfu=EgoIAhAAGAAgAigB&curr=USD",
+  "response": "The task was to find the cheapest one-way flight from New York to Tokyo departing January 15, 2027, and provide the airline and total flight duration.\n\nThe screenshot shows Google Flights set to:\n\n- One way\n- New York → Tokyo\n- Date: Fri, Jan 15\n- Cheapest tab selected\n- Results sorted by price\n\nThe lowest listed fare is:\n\n- Airline: Air India\n- Price: $407\n- Total duration: 29 hr 55 min\n- Route: JFK → HND, 1 stop in DEL\n\nThe result response accurately reports the cheapest airline and the total flight duration shown in the screenshot.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find the cheapest one-way flight from New York to Tokyo departing January 15, 2027, and provide the airline and total flight duration. The screenshot shows Google Flights set to: - One way - New York → Tokyo - Date: Fri, Jan",
+  "screenshots": [
+    "task_423/final.png"
+  ],
+  "raw_screenshot": "task_423/final.png",
+  "source_result": "task_423",
+  "usage": {
+    "completion_tokens": 353,
+    "prompt_tokens": 1782,
+    "total_tokens": 2135,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 208,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.33
+}

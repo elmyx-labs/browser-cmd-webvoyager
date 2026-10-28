@@ -1,0 +1,41 @@
+{
+  "id": "Booking--28",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a hotel in Dubai with a swimming pool, for a week-long stay from June 22 to June 29, 2027.",
+  "answer": "FINAL: The First Collection Waterfront, Dubai, a Tribute Portfolio Hotel — a hotel in Dubai with a year-round outdoor swimming pool — is available for June 22–29, 2027 (7 nights).\n\nBooking.com showed RSD 31,802 plus RSD 10,160 in taxes and fees for 2 adults in 1 room for the week. The property is on Marasi Drive, Dubai.\n\nEvidence: https://www.booking.com/hotel/ae/the-first-collection-waterfront.html lists the outdoor swimming pool. The Booking.com search results had Hotels and Swimming pool filters applied, check-in 2027-06-22 and check-out 2027-06-29, and the hotel card showed “1 week, 2 adults.” The saved viewport screenshot, final.png, shows the hotel name, dates, filters, and price together.",
+  "response": "**Evaluation:**\n\nThe search was conducted for Dubai with the dates set from Tuesday, June 22 to Tuesday, June 29, 2027 (a one-week stay). The filters for \"Hotels\" and \"Swimming pool\" were actively applied. A qualifying hotel (\"The First Collection Waterfront, Dubai, a Tribute Portfolio Hotel\") was successfully identified with full pricing and availability details provided.\n\n**Verdict:** SUCCESS",
+  "reason_short": "**Evaluation:** The search was conducted for Dubai with the dates set from Tuesday, June 22 to Tuesday, June 29, 2027 (a one-week stay). The filters for \"Hotels\" and \"Swimming pool\" were actively applied. A qualifying hotel (\"The First Coll",
+  "screenshots": [
+    "task_226/final.png"
+  ],
+  "raw_screenshot": "task_226/final.png",
+  "source_result": "task_226",
+  "usage": {
+    "completion_tokens": 317,
+    "prompt_tokens": 1797,
+    "total_tokens": 2114,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 228,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0025365,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0025365,
+      "upstream_inference_prompt_cost": 0.00134775,
+      "upstream_inference_completions_cost": 0.00118875
+    }
+  },
+  "elapsed_seconds": 10.59
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210023-Z9zgftvwtLPWzRKGlMyj",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested the device weight of Apple Vision Pro from the Apple website and a list of 5 built-in apps it supports.\n\nBased on the screenshot of the Apple Vision Pro Tech Specs page:\n- **Device Weight:** 26.4–28.2 ounces (750–800 grams).\n- **Built-in Apps:** Listed apps include App Store, Encounter Dinosaurs, Files, Freeform, Keynote, Mail, Messages, Mindfulness, Music, Notes, Passwords, and Photos.\n\nThe result response correctly provides the device weight and lists 5 built-in apps (App Store, Encounter Dinosaurs, Files, Freeform, Keynote).\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Gathering Product Details**\n\nI've successfully extracted the weight for the Apple Vision Pro as 750–800 grams. I'm currently compiling the list of its supported built-in applications.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Gathering Product Details**\n\nI've successfully extracted the weight for the Apple Vision Pro as 750–800 grams. I'm currently compiling the list of its supported built-in applications.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18+ZllaZS92Ual/8zTxLKQQ8/VBNN62ku+zbivV4XtgRKk79vVs76MGdwUOZx8tUTjuzoQuo6ixsMaEuOLcJbkTJXJ0o50xJIugz3IK2ZuBNWpdBCHQoQtGET10CAsBaAGPa3mMsUFIgEnhKIt1PbQDkO4EbKKbMmiKGcnPDvhcXUItimGXhRoQ70QqE1yEyhfwkOOfbw2seh88FK7oypnLonBPDtm7C+2EqEAZpCGPgMfm3yMKgjp/64ZHNNhzf009WVWtHOVJy5dtKV76PUuUCadtXqzS4SQOVVDo6FLFyV3HIjP/N8s6SFYRajIXr41cQC99PT14q4Ymu9aJv0J1fpvZmA9xkip/swe2tgj+4apNHXrW6asafD5wEILTQ8Jzy4YJB+EfsTYciORgMY+FISTuyQlLS2e7KmBgHox72e5hZnI4KJOgUJiD+XSx9rw/66BZ/xnxZFQwTmRdqICshEwmm+Nunne+wQ+PBpe5vsorF7nG1h/vZQIFnL40IyoAwZBR/OebKv4FzveMWcaVoqx/MmG6VYmex890XiQrqRajWZE5ML8X/NE9MoWD1A7XdD3DxRbC9kDlCpY9Xg5DoVZ2g2fVk7T//RExa3xJcf8RNj6QCNvkscVNSFj3TFIYqNpgwVdrMlW6gwE2DQJ+TqtWHszjRFXWGhtvj5ztiq8E41G1gu1JRkHcfE43WwIcZBWrmPfKTg7TJTgzU+HpfsnHzhqiyxRHAPozNb89ljaFSAGzLfai2kUL538Pe6bOznYUsY5VU0x83PsnbYm6tAvTMQWONMCN/Mbdl1DnYsTkUbhtERgFs8sGPLClExVvXSG5WEclU7OGl9x/ZSRMXl4Yj+6RX5SoYHWQxkgoPfM/fGDx3wKHjK5kkvggRDNESEZE1Hp4VrSNtIASz+imenW1AcvizUjBziiKIYAVg0VxF417yD+cPwTRwa8FdxpE89jwqzpZ2Aw5qnFxr837ZZHMVeaUnhxbYRnPk47PzwKK2568hO3FZlwTF1ZeEjmvZq+aphfwwEAqEPgA3qwko05A4MxjKDM81Q==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210023,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 314,
+    "prompt_tokens": 1691,
+    "total_tokens": 2005,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 169,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00244575,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00244575,
+      "upstream_inference_prompt_cost": 0.00126825,
+      "upstream_inference_completions_cost": 0.0011775
+    }
+  },
+  "provider": "Google"
+}

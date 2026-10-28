@@ -1,0 +1,3 @@
+- [x] Look for the color options available for the newest iMac. https://www.apple.com/imac/ identifies “New iMac M6 chip”; https://www.apple.com/imac/specs/ lists “Blue, Purple, Pink, Orange, Yellow, Green, Silver”.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and deciding facts together without overlays. final.png is 1280×723 and shows iMac, Tech Specs, Colors, the seven color names, and Apple M6 chip.
+- [x] Write the result and its evidence to ./ANSWER.txt. Includes the seven colors, model, source URLs, checked date, and final.png.

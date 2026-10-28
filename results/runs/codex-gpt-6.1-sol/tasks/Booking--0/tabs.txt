@@ -1,0 +1,9 @@
+## session of the actor
+No tab is kept.
+<browser trusted="no">
+ t1 ok https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaMEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALTh4TXBsACAdICJGE3NWJhM2RmLWUwZjMtNDIwOS1iMDkwLTNiMmQzMjZjOTJiYtgCAeACAQ&aid=304142&checkin=2026-12-25&checkout=2026-12-26&dest_id=137&dest_type=country&group_adults=2&req_adults=2&no_rooms=1&broad_search_to_sr=1&nflt=ht_id%3D204&selected_currency=USD — Booking.com: Hotels in Mexico. Book your hotel now!
+ t2 ok https://www.booking.com/searchresults.html?label=gen173nr-10CAQoggJCDGhvdGVsXzI5NzUyN0gzWARowQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AsSIhNcGwAIB0gIkYmM4MjMzODctYTU0Yi00ZTU1LThiY2YtZjE2NDVmOGI3NDFj2AIB4AIB&aid=304142&ss=Valladolid%2C+Yucat%C3%A1n+%28Yucatan+Peninsula+Mexico%29%2C+Mexico&ssne=Saly+Portudal&ssne_untouched=Saly+Portudal&lang=en-us&dest_id=-1707433&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=44818d626a9801f9&checkin=2026-12-25&checkout=2026-12-26&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204&order=price — Booking.com: Hotels in Valladolid. Book your hotel now!
+*t3 ok https://www.booking.com/searchresults.html?ss=Hotel+San+Clemente&dest_id=2975270&dest_type=hotel&checkin=2026-12-25&checkout=2026-12-26&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&nflt=ht_id%3D204 — Booking.com: Hotels in Valladolid. Book your hotel now!
+Not any session's; `tab use N` borrows one:
+ 1 51EBB481 chrome://settings/help — Settings - About Chrome
+</browser>

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210236-X7G8eikKQON2vO666oWv",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and task instructions:\n\n- The task was to find the scores and main highlight of the Milwaukee Bucks game that took place within the last 2 days on ESPN.\n- The screenshot displays ESPN's NBA game page for the Milwaukee Bucks vs. Indiana Pacers with the final score (Milwaukee Bucks 110, Indiana Pacers 102) and the game recap headline/highlight (\"Herro has 23 points and 10 rebounds as the Bucks beat the Pacers 110-102 for first win of the season...\").\n- The result response accurately details the score, date, and main highlight corresponding to the ESPN page shown.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Game Data**\n\nI'm focused on extracting the final score and the primary highlight from the recent Pacers-Bucks game on ESPN. The screenshot confirms the teams involved.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Game Data**\n\nI'm focused on extracting the final score and the primary highlight from the recent Pacers-Bucks game on ESPN. The screenshot confirms the teams involved.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210236,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 503,
+    "prompt_tokens": 1702,
+    "total_tokens": 2205,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 361,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00316275,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00316275,
+      "upstream_inference_prompt_cost": 0.0012765,
+      "upstream_inference_completions_cost": 0.00188625
+    }
+  },
+  "provider": "Google"
+}

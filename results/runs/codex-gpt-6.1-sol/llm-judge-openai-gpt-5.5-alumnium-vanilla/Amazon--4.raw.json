@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyZnUbDP1KVzIQTrsvGKQj2cqbjf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find a used Nintendo Switch Lite on Amazon, apply the “Used - Good” filter, and report the cheapest “Used - Good” option.\n\nThe screenshot shows:\n- Product: **Nintendo Switch Lite - Yellow**\n- Filter applied: **Filter (1)** with the displayed offer being **Used - Good**\n- Sorting: **price + delivery: low to high**\n- Cheapest visible Used - Good offer: **$138.00**\n- Seller: **Chummy LLC**\n- Delivery: **$110.65**\n- Condition notes are shown and match the response.\n\nThe Result Response accurately reports the visible cheapest “Used - Good” offer and includes the seller and delivery details. There is no contradiction between the screenshot and the response.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196355,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 679,
+    "prompt_tokens": 2107,
+    "total_tokens": 2786,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

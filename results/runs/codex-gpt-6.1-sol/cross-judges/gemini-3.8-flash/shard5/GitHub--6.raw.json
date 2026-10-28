@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210297-pCQgnvavk38w93eQHUVw",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested an open-source cryptocurrency wallet project updated within the past 30 days and its top three contributors. \n\nThe provided response identifies the repository `BlueWallet/BlueWallet`, confirms recent update activity in October 2026, and accurately lists the top three contributors (`marcosrdz`, `GladosBlueWallet`, and `Overtorment`) as verified by the GitHub insights screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Search Parameters**\n\nI am currently analyzing the feasibility of the request, specifically focusing on refining the search criteria for \"cryptocurrency wallet\" projects to ensure recency of updates within the last 30 days. My next steps involve identifying robust open-source repositories and subsequently pinpointing the top three contributors.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Search Parameters**\n\nI am currently analyzing the feasibility of the request, specifically focusing on refining the search criteria for \"cryptocurrency wallet\" projects to ensure recency of updates within the last 30 days. My next steps involve identifying robust open-source repositories and subsequently pinpointing the top three contributors.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+g1PnWB7UYJ4HyKl+AiWmt2uQ93cEjsknMj2Tl26YgrHv1DCYo5JohEEoWazPUgj4Vb0QdG+9P5sQaWmywpvXJXTJOjrWfVCSfQDGK56RsVhUifVdS15GA0vwxST0ij3JdwbZOiqb7NP8TIK6iRLcaBa7hhL7692vS0fp0lsfqUpmqsr4dEY1PK0YaM7p0F3lQRF0Lw8VPqtsg2VCOt7DvohZmwI2AizGvFOuDF3XB3oh2r0t002/6cVwGJNW9QXMW2gsDIzIpatlnqMmIQfJzT3mBb2vXUVNepuQOJTJSfwzE0n09SR4qGEgQ4k4kAWuOM5cTG3/Fgt+dsI5xgZKpiOM1ivZOoIoy8X4D0coR28NqYjtCQk1YYUYBMVxN/OAvYTFLJVyN2CUeTxOF44vy2gmIkQDgrrkR4z4SFe2Is0Q6d7vReSeRnsmPvP2E0GPvDpVKJTjs3ckK5cukgezlpyalR3N1ZDS4CEQeCjmH6VVvbMWRUHbwAfKWDY1pKLbQwo6gWiKqyzUFLjiYr7EN+cMfc3Dti7B7cLM4C+NFCnPiSrUkl5Zh3SgIFBPlVpNdT6tZacidC3d+gpQllfsOanV3m7sQjt/c4HI+sAaCur9YwiCC0OcwZtyqfTCuVfhHZLziavMHmLfVGOZpjTjA03QICIwSmBd9UwX/7Ulk7PDrNPZQW7hnCiJh1ep++bhR34PTousa8A6oln/yQ4ahLrPoQTDHif7NPNvKeeVF2omW0iQSny4ISe3MegcaxKQ+HQgV3cMANhBeATx7MW2K053aLz9K9lgnAr5cEf37VHURvQ3YGDBrS+WxL2Q1rPkUZqDhfA0m8X6U3fiKq+vacui+6IyAqnzGxZHswURYC0rPRlxlx+wb9LwWdZYGOrJ0clMwuspX/GI3GC/xhNikEIXmaYbso2a67dQP1Sn2Lc4I3UxdMpvBHo3+Y4oiyHyN3rfohW1DAAPJQks92XpRR+tXkfgL8m5eZnmekjeWV333l6JCJ45gQav8cIRybnZ8piCyB6hq4A8A1As3HOJqKYiOR4UdKAoi1joeOrYS2TpGF/SbLN0fyNcC0bO1XhAip+/MQjgEhZnWEJCzLwDflENOJSoG0pcaGUc7WAu/8FulVKfgusOZewiqfrijFdhUH3xnkKNUsRrxZX3LHzqx4KkwbtgIcklAfzCqoRXU7sxxr27pGASQ2te2g6WYbxzbA0pa/Lewv8p25f/2pucRngTguj8d4tisYyCtrkvgmGxdvhD+Nqx1gDhcmktXhPGJE0xWvG3T4BA9BF4wE+HEErnMjc7UtgAnsrmusU8MF/aUQSq/DQ9dlCuD627nHIYrWsFcpedAqyi570VpaYGpygFsosK2xpDmCvKhe873MHmrQ1xT2pdqXCo2QZGaw8PjJRgNlEiOUHcj9mUAMHBGuRCOQhrZgx4lNnDO2gzXiv5tE0+TMWvypYYeCA==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210297,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 311,
+    "prompt_tokens": 1868,
+    "total_tokens": 2179,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 224,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00256725,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00256725,
+      "upstream_inference_prompt_cost": 0.001401,
+      "upstream_inference_completions_cost": 0.00116625
+    }
+  },
+  "provider": "Google"
+}

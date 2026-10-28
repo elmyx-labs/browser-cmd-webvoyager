@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210489-7j7B4YPvaFp1a7u4vaUC",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### Evaluation\n\nThe user requested a list of the top 5 highest-grossing animated movies sorted by box office earnings. \n\nThe screenshot confirms the Wikipedia ranking of highest-grossing animated films sorted by worldwide gross in descending order:\n1. *Ne Zha 2* ($2,217,758,382)\n2. *Zootopia 2* ($1,870,309,291)\n3. *Inside Out 2* ($1,698,863,816)\n4. *The Lion King* ($1,662,020,819)\n5. *Frozen II* ($1,451,651,316)\n\nThe text response accurately reflects the data displayed in the source table.\n\n### Verdict\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Web Task Performance**\n\nI'm reviewing the web task results. It appears the initial retrieval has yielded incomplete data for the top 5 animated movies. I'm now focusing on the accuracy and completeness of the earnings figures and the sorting logic presented.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Web Task Performance**\n\nI'm reviewing the web task results. It appears the initial retrieval has yielded incomplete data for the top 5 animated movies. I'm now focusing on the accuracy and completeness of the earnings figures and the sorting logic presented.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+GvouCV/Q52VVm0TiNFn81h95HLeWP5/fYPti4bePTmDQSZoxuMP1+y0WARLu7sSE550aTNburXA/kT39AjWx3T95AZ05JH1JD1NnSc+CLv5YtdLptN88H4m75RMYAl9eYOzM8k6wwdEibXboIucg2BpCUOt/Jgu966rJpSOyI8i+4OKn8a6p1azDoEmj9niCP3SNwsassHtintgw0NUerDlO7INaNhmwZMkRftNG5wA80xot8SgeGdhzl49u7IdUUvsL+6AMFRhOEdn4cDPFgIAwp9qu5Hay71xKbFdqmHfrQiL9SMpvluD2i8BgNmY1n+25aA92xG+kt61qO7RU9hRFD+KusdfwJiKzTKGt7ILP04HSWMKGQM2pqutKilTCy0++wdzJ3NijijIFBajrPi92bAkQU5rHVMXEb92fBXJR6rPMqHQXwd72xvjJ+rMEuGsd0gNtL0SUL0ETXY2f9eLDg7sCuR8et0aD+krHnvl/HgIrbgkzuciDD709X8UbrzZb+IcBx/zizZDPN0y5cFGa0UoV20PLD3qOOTxBXI6dk9611Ju2QjxEGbMWM5GClr5C5k5SGvKu7YlgMnIpg26wpsY2+/Z6nOQqMGGS5FHCn//JvKWYKtbOCcGK4V0KmViVAMlXjn4isN5qDtZ6FDdiBAzv0yRctNLifWi2dTwa+Irmed2WoWR9kKx7yWqEdGsb+yvjYps8q0cJefDijQhYmVI96uu+spKT4JtHhMAJPNOcDUOkbZdk0O41+CNkS2UV2w41esZeeCsJFnNLkCMob8Ga1zdv1zmn+mKYIGqRO1d+poeV+nJ593Nr3HbVTyqR4mpyS6H2zUH73fYkrqiDH8TeyzWtk0VojAHnXqpW0WFW/vYhOxfxV9tJQaWvOcuvegY1FDJJUFccEhBgpF/To5mwVIjpsYBZf6x86qqn1Qdaz2qaFiQH37lN7Mm8Q6nTLHo3E12lE70rn8qmSFuya1Ope3fCUJblvyrISvUnvFWfxmNN5hJqvT9A8gsL5pg3SX2tftKMRgBUFuCTxseJsVnedabZRFa6mplL2wcSEapGviMRaFp4odJLlhK6hLiVRLhQHR3UJNhusr2vOOidH4MA29QGTZY4MtfYNrT9Nb3ti3ogiPIze0JEAuXiuyuPK4LzTGy4IMGqfkVc+Cvqn6eYbLdQqJzCCGbhyD51l6mUnpe+Ih7RUuMOqCupSrHux9uhWtl8PV8CShQ9yqTejWjIVqsXrm749IvokbCddQCKF41/1iWv7HhHs7rqrY2xEe2ThkMT6sh2dnjb+nHJZi5x+40BgUisXpLsjjrjf0gYBfLVAggpKL0A12L8s9/wuyiu4yp2Z1s7E1W8L46RJCXMAt48Y11pywPhiTcl5zI/iHV8k0eaanPYnyAKBQB59oO0jYVfTV531hppjcjukS9c4L/e863cE7HHXuL4JjInzbrxyICO2Cts7FH6lioclW8690V2K4FsJYPZ0ERlIomxnQeHLcvdoZQnlgts7NPW/n/mFbxMH4xEMdLnLPgUPJnH7N17BzuxR4qYBnQFq4AXkE+FQwBnPRaf0NkyLaPam3lPsHN4IClR+zDt7El+Guma6wjfEGKdF5fHwA1Fl5brd6uLF93hv8odgN+1FE/MoGNRmqxDSKIOUhio+qt1jqAd8+SwsDZSLD7MryGwsgi64TR7+sqE8QI6gv1e27jhn/IngoGG31vx9ek+c+rqGiKFXH801X54g86dk7EBNaZYgIvqIZuRX4GTUoyGAyGnKamGh39feguwP3y7TW/EsQjTmDiUeaOjNFSZr1fmoyUes/NKY9lV1L0Ykrx3JtKSwwk/NblkjhvoA2BDapifgCQG0zpTpr99eMbE/Ee8dcpvho1hM5ZGhz17CFuKe6t1Xmtu8KVPODK5b9j7vXXzqPgzd9v+5Z+JuHRN0Mw==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210489,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 616,
+    "prompt_tokens": 1883,
+    "total_tokens": 2499,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 430,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00372225,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00372225,
+      "upstream_inference_prompt_cost": 0.00141225,
+      "upstream_inference_completions_cost": 0.00231
+    }
+  },
+  "provider": "Google"
+}

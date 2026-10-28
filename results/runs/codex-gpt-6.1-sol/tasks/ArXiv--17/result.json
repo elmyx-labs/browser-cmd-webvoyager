@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ArXiv",
+    "id": "ArXiv--17",
+    "ques": "Find the paper 'GPT-4 Technical Report', when was v3 submitted?",
+    "web": "https://arxiv.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Version 3 of “GPT-4 Technical Report” was submitted on Monday, 27 March 2023 at 17:46:54 UTC.\nEvidence: arXiv’s Submission history states “[v3] Mon, 27 Mar 2023 17:46:54 UTC (4,016 KB)”.\nSource: https://arxiv.org/abs/2303.08774v3\nScreenshot: final.png",
+    "result_text": "FINAL: Version 3 of “GPT-4 Technical Report” was submitted on Monday, 27 March 2023 at 17:46:54 UTC.\nEvidence: arXiv’s Submission history states “[v3] Mon, 27 Mar 2023 17:46:54 UTC (4,016 KB)”.\nSource: https://arxiv.org/abs/2303.08774v3\nScreenshot: final.png",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_137/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_137",
+  "elapsed_seconds": 100.71242594718933,
+  "execution_error": null,
+  "proxy_bytes": null
+}

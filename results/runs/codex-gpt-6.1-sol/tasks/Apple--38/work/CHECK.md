@@ -1,0 +1,3 @@
+[x] Explore accessories for Apple Vision Pro, list at least three accessories. URL: https://www.apple.com/shop/vision/accessories/apple-vision-pro-essentials — “ZEISS Optical Inserts”, “Apple Vision Pro Travel Case”, “Apple Vision Pro Battery”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with accessory names and deciding facts visible and no overlay. final.png is 1280×723 and shows the three names and prices, with Sort By: Featured and the filter controls visible; no pop-up or open dialog.
+[x] Write the result and evidence to ./ANSWER.txt. Contains the three accessories, prices, source URL, observation date and final.png evidence reference.

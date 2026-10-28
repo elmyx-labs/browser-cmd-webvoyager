@@ -1,0 +1,31 @@
+{
+  "id": "GitHub--0",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for an open-source project related to 'climate change data visualization' on GitHub and report the project with the most stars.",
+  "answer": "FINAL: resource-watch/resource-watch (Resource Watch) — 73 stars, the highest-starred result in GitHub's repository search for “climate change data visualization,” sorted by Most stars, checked October 28, 2026. It is MIT-licensed and visualizes data about climate change and other global challenges.\nProject: https://github.com/resource-watch/resource-watch\nEvidence: https://github.com/search?q=climate+change+data+visualization&type=repositories&s=stars&o=desc (543 results; Resource Watch ranked first with 73 stars). Screenshot: final.png.",
+  "response": "The task was to search GitHub for an open-source project related to “climate change data visualization” and report the project with the most stars.\n\nThe screenshot shows GitHub repository search results for that query, sorted by “Most stars.” The top result is **resource-watch/resource-watch**, with **73 stars**, and its description is related to visualizing data about climate change and global challenges. The Result Response reports the same repository, star count, and provides the GitHub link. It also states the project is MIT-licensed, which supports the open-source requirement.\n\nTherefore, the task was completed as instructed.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The task was to search GitHub for an open-source project related to “climate change data visualization” and report the project with the most stars. The screenshot shows GitHub repository search results for that query, sorted by “Most stars.",
+  "screenshots": [
+    "task_367/final.png"
+  ],
+  "raw_screenshot": "task_367/final.png",
+  "source_result": "task_367",
+  "usage": {
+    "completion_tokens": 363,
+    "prompt_tokens": 1712,
+    "total_tokens": 2075,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 225,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.67
+}

@@ -1,0 +1,4 @@
+- [x] Weight lose for a male with current weight 90 kg, 40 year old, 175 cm. WolframAlpha input information says "male", "40 years", "175 cm", "90 kg" at https://www.wolframalpha.com/input?i=weight+loss+male+90+kg+40+years+old+175+cm+1500+calories+per+day+lose+17+kg
+- [x] If he intakes 1500 calories every day, how long will it take to lose 17 kg. Same URL: "intake 1500 Cal/d for 3 months 6 days to lose 17 kg with a sedentary activity level".
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with inputs and answer visible together. final.png is 1280 x 723, showing input information, sedentary selection, regimen duration, and progress graph; no dialog or cookie banner.
+- [x] Write ./ANSWER.txt with result and evidence. Written with source URL, result, inputs, sedentary assumption, and final.png reference.

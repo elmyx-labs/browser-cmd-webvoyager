@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Flights",
+    "id": "Google Flights--25",
+    "ques": "Find a one-way business class flight from Buenos Aires to Amsterdam on July 10, 2027, and provide the details of the flight with the shortest duration.",
+    "web": "https://www.google.com/travel/flights/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The shortest one-way business-class flight from Buenos Aires to Amsterdam on July 10, 2027 is KLM KL 702, nonstop, taking 13 hours 5 minutes.\n\nDeparts: Ezeiza International Airport (EZE), Buenos Aires, at 3:05 PM on Saturday, July 10, 2027.\nArrives: Amsterdam Airport Schiphol (AMS) at 9:10 AM on Sunday, July 11, 2027. All times are local.\nCabin and aircraft: Business Class, Boeing 777; individual suite.\nDisplayed fare: RSD 458,838 for 1 adult, one way, including required taxes and fees.\n\nEvidence: Google Flights was set to One way, Business, Buenos Aires → Amsterdam, July 10, 2027 and sorted by duration. KL 702 appeared first, with its details expanded. Screenshot: final.png.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI3LTA3LTEwag0IAxIJL20vMDFseTVtcgsIAxIHL20vMGszcEABSANwAYIBCwj___________8BmAEC&tfu=EgYIBRAAGAA",
+    "result_text": "FINAL: The shortest one-way business-class flight from Buenos Aires to Amsterdam on July 10, 2027 is KLM KL 702, nonstop, taking 13 hours 5 minutes.\n\nDeparts: Ezeiza International Airport (EZE), Buenos Aires, at 3:05 PM on Saturday, July 10, 2027.\nArrives: Amsterdam Airport Schiphol (AMS) at 9:10 AM on Sunday, July 11, 2027. All times are local.\nCabin and aircraft: Business Class, Boeing 777; individual suite.\nDisplayed fare: RSD 458,838 for 1 adult, one way, including required taxes and fees.\n\nEvidence: Google Flights was set to One way, Business, Buenos Aires → Amsterdam, July 10, 2027 and sorted by duration. KL 702 appeared first, with its details expanded. Screenshot: final.png.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI3LTA3LTEwag0IAxIJL20vMDFseTVtcgsIAxIHL20vMGszcEABSANwAYIBCwj___________8BmAEC&tfu=EgYIBRAAGAA",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_431/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_431",
+  "elapsed_seconds": 125.21796774864197,
+  "execution_error": null,
+  "proxy_bytes": null
+}

@@ -1,0 +1,12 @@
+Booking.com search, checked October 27, 2026. London, December 25–29, 2026, 4 nights, 2 adults, 1 room, USD. Hotels filter, Price (lowest first).
+URL: https://www.booking.com/searchresults.html?dest_id=-2601889&dest_type=city&checkin=2026-12-25&checkout=2026-12-29&group_adults=2&no_rooms=1&group_children=0&selected_currency=USD&nflt=ht_id%3D204&order=price
+Exact text: Central Hotel Golders Green / Standard Twin Room / 2 twin beds / 4 nights, 2 adults / US$295 / +US$59 taxes and fees.
+Exact text: City View Hotel - Roman Road Market / Tower Hamlets, London / Standard Double Room / 1 full bed / 4 nights, 2 adults / US$353 / Includes taxes and fees / Scored 5.0 / 474 reviews.
+Exact text: MSM Arena Hotel / Brent, London / Standard Double Room / 1 full bed / 4 nights, 2 adults / US$355 / Includes taxes and fees / Scored 6.9 / 1,015 reviews.
+Exact text: Hotel 261 / Hammersmith and Fulham, London / Small Double Room / 1 full bed / 4 nights, 2 adults / US$359 / Includes taxes and fees / Scored 6.5 / 906 reviews.
+Lowest hotel result exceeds US$250 total before taxes. Green Rooms US$296 is two male dormitory beds, excluded from private-room alternatives.
+Budget-restricted search URL: https://www.booking.com/searchresults.html?dest_id=-2601889&dest_type=city&checkin=2026-12-25&checkout=2026-12-29&group_adults=2&no_rooms=1&group_children=0&selected_currency=USD&nflt=ht_id%3D204%3Bprice%3DUSD-min-62-1&order=price
+Booking rounded the visible budget slider to US$40–US$70/night. Page settled to "London: 1 property found", Green Rooms (male dorm beds US$296 total). Followed by "Properties around London These properties match your search but are outside London."
+Ramada London North, Barnet, 16.6 km from London; Double Room, 1 king bed; 4 nights, 2 adults; US$238 Includes taxes and fees. 6.2/10 (3,663 reviews).
+Old Oak Tree Inn, Hounslow, 18.1 km from London; Standard Twin Room with Shared Bathroom, 2 twin beds; 4 nights, 2 adults; US$229 +US$18 taxes and fees = US$247. 2.5/10 (158 reviews). No sign-in requirement shown.
+Final visible London results after Double bed filter: City View Hotel - Roman Road Market US$353; Hotel 261 US$358 (updated from earlier US$359); City View Hotel Roman Road US$368. All say "4 nights, 2 adults" and "Includes taxes and fees". Final screenshot contains all three alongside dates, occupancy and applied filters; Pelican and Wanstead also visible but not recommended at their conditional members-only prices.

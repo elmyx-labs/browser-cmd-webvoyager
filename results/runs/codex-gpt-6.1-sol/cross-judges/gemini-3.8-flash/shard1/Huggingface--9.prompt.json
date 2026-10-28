@@ -1,0 +1,9 @@
+{
+  "id": "Huggingface--9",
+  "task": "Find the most download machine translation model on Huggingface which focuses on English and Japanese (en-ja) and report the evaluation metrics stated for it.",
+  "answer": "FINAL: staka/fugumt-en-ja (FuguMT) is the most-downloaded model focused on English → Japanese (en-ja), with 4,700 downloads last month, checked October 27, 2026.\n\nThe model card explicitly states source language en and target language ja. Its reported evaluation is BLEU 32.7 on 500 randomly selected Tatoeba sentences, using sacrebleu --tokenize ja-mecab.\n\nModel card: https://huggingface.co/staka/fugumt-en-ja\n\nSelection evidence: I checked the Translation list filtered for English and Japanese, sorted by Most downloads, with no name search, and inspected the higher-ranked candidates' cards for their focus and direction.\nRanking: https://huggingface.co/models?pipeline_tag=translation&language=ja,en&sort=downloads\n\nHigher-download models specializing in this language pair have the reverse direction:\n- Helsinki-NLP/opus-mt-ja-en: 26,115 downloads; source ja, target en. https://huggingface.co/Helsinki-NLP/opus-mt-ja-en\n- lmg-anon/vntl-llama3-8b-v2-gguf: 25,071 downloads; its stated purpose is translating Japanese visual novels to English. https://huggingface.co/lmg-anon/vntl-llama3-8b-v2-gguf\n- sugoitoolkit/Sugoi-14B-Ultra-GGUF: 6,386 downloads; its stated ideal use and system prompt are Japanese → English. https://huggingface.co/sugoitoolkit/Sugoi-14B-Ultra-GGUF\n\nThe other higher-ranked entries cover many language pairs or evaluate translation quality; their cards do not establish an en-ja specialization. FuguMT is the highest-ranked model with an explicit English → Japanese focus.\n\nEvidence image: final.png shows FuguMT's name, source/target languages, download count and evaluation facts together.",
+  "screenshots": [
+    "task_537/final.png"
+  ],
+  "raw_screenshot": "task_537/final.png"
+}

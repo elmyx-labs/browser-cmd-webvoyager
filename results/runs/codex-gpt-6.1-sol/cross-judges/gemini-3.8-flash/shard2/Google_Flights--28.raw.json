@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210410-WmIFKEXLc76Tw7e3ljdi",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response:\n\n1. **Route & Dates**: The search correctly configured a round-trip flight from Seattle to Paris, departing Tuesday, July 27, 2027, and returning Sunday, August 1, 2027.\n2. **Stops Constraint**: The \"1 stop or fewer\" filter was enabled.\n3. **Price/Best Option**: The flights were sorted by price under the \"Cheapest\" tab, identifying the lowest-priced option: Condor via Frankfurt (FRA) for $1,204 round-trip.\n4. The response accurately details the flight timings, airline, layover details, and total cost matching the evidence.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Flight Options**\n\nOkay, I'm zeroing in on the flight parameters. Seattle to Paris, July 27th to August 1st, single stop maximum. I'm focusing on those hard data points to filter the search. The next step will be comparing prices and itineraries.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Flight Options**\n\nOkay, I'm zeroing in on the flight parameters. Seattle to Paris, July 27th to August 1st, single stop maximum. I'm focusing on those hard data points to filter the search. The next step will be comparing prices and itineraries.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EqwKCqkKAWkUfRMaxnR0+8sjTHPGeVIuHXh5RcRVW8x5YQBm5ol7wB4KoQbCBgR8MsksX1Ps2mG2HXeCuQVTh40c/UE2oED+J0vOjU4CJJjjxIdF0YpM+QtfBAUpTyBBLQ3ox0MBC0/A68sKjTnkynOlmbhmZtOSG5l0xnp90jjyaIyGfrvarBrxGWM1ou2Ka9CTyh2mSBOr3dqT76xFjBls2ZUQAVSRaJKjWjd+XlwLpOXHx+4k3XEoTKkCwhjIY1xlu4oqdkz9Vbi8MxcodPTIi0co8p+wvHMajRJK9qAzh8H0WLm/vEDLwrNFZSTiS4tO38GTkNv9POPDGj49zoPYVuYj2kcBey+EygpEA4E7wQ3l5ljaThC6BX94ZlV9eK9h7/d5Aeswh5Qd3Iui3AKhGcES1yJCEX/phG4UwJw6K4KLS85D6JsXVDjD9jJg/KNuyybrY3/WGvN/Cq4HNVW7vXHo7aVXTEb0+buIwtA3H2805OhkxVUD+BTNk7Bi+khfwkm8WEsF0vpw2KBKlYL3IUb4iSW/hH87zq4mgsfWVtnNAOaZRxFU9cxuf65gTCLCdG8MOPby9Cek2n0YTdI8PKAMY9QLvdJu5mnTzKmv8hKsOS5ZGA8xX6dFxFQOJQMXkl6+BCFwD6/XC9X/p+/BN0tY6TyLF1c5N6cBUmHBsIdiAB300LY8+7hkh7eZ6k4xshD/eyS7Irj17OYlbSmqXlPHKkOCVusXMh8FGRSLsQJoGrYduTEje0SbO5c9Sf+OhHgVHgM9AgmLP+KcrzDlY2YsDHzOzDi2A6nbi1YDOwOlL0pzr+d5UR/WeyyevKT+JmyBFG4Ui1yZytDPGXT7kg+MzZo3YYsfWGro84i8uuc+BSQxmwXgkB0F5tFvBShwnDhAV7Yzep80D8Pxiqdl2lCLDHESbhMsYCQqffhDr6MLUtU2wTBDaUxndLZ/v75RTUYctMjtgH3HJuyKRpZVsMwRlVO2/ToWBUSWg9cruA2GaSTd6hrZ3+14Mo+HZbvOkhb70bEnc6rJe67yb2CPnCy0ZC1ReO3oHe2OXOoL6HJBi1ZYnMRZYueTDpS2mKnaht4p0XKVCZFnT6ZACLOLcfLG+eEJwkAdTNXhFecB27DcmpuTavmkH3LZuiCdTkg0LzzCN64WCUGbJYTdhmvUeRt+zJdAv5TlQzm8D7MMm0Mi8pWaSlqxMz4K28UTRYrF6I/zOzccZYIaSgBe9lLfVDgWSIF37coOL+yMNFKTDB9CQdUAfAbLxM1Fonpf+bsYbz4mUmJKjDdmhjY+YRhR0OsZ5O84XGUDKOOri/Ch2IfWFgaQ6Kw+gSwnvTl4tfDA/uBynI0mI29SKC7wDk64+lfyTpWdX+vcAAasXTdTQwOIG9pvhuZggbZDGtAltHkwlQYiBQJaXcZVrsqVXqYRqvFlNcA/ik5oKDLLo/uLg+xQL1BWnNFxyWfjomzVUgNEB4UrM+ayOSpsf22wn4Qes1dCZ68sRmaUYLaU7rpTulTbVrdCGlpFKqaEWs8TusAg8OnSQvdKtkwSQr/vxOUNyibenEqJiDs1NXGR5HCyMLsP+XBNb90uXx2flwjtb3Qg/ETbqH+YBpkurW+oHkz7/U1WCz2U7r8b104hMqGKft8dNjieTY+NCBkevEZx6hg5eNm1rrMfh0amU0k7ngP7IKmZiKcZacguiAe0nxiGoPVeQs03qKNTDlH0taOWHdj9WAuHZHocwUfWbSvwmQpeuznzR/FNwDba3Tro5Q==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210410,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 501,
+    "prompt_tokens": 2356,
+    "total_tokens": 2857,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 350,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00364575,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00364575,
+      "upstream_inference_prompt_cost": 0.001767,
+      "upstream_inference_completions_cost": 0.00187875
+    }
+  },
+  "provider": "Google AI Studio"
+}

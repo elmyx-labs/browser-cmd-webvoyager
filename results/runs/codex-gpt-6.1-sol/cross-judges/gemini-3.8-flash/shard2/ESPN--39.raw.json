@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210328-0WGum4Ics0abKQUI5sow",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the screenshot provided, the task required checking the New York Jets Depth Chart on ESPN and identifying players with injury designations listed in the \"2ND\" position column.\n\nScanning the \"2ND\" column across Offense, Defense, and Special Teams:\n- **LT**: Max Mitchell (`Q`)\n- **LDE**: Joseph Ossai (`Q`)\n- **SLB**: Kiko Mauigoa (`IR`)\n\nThe result response correctly and completely identified these three players and their corresponding injury designations.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Depth Chart Data**\n\nI'm focused on the \"2ND\" column of the New York Jets depth chart on ESPN. The goal is to isolate and identify any players specifically listed as \"injured\" within that particular column.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Depth Chart Data**\n\nI'm focused on the \"2ND\" column of the New York Jets depth chart on ESPN. The goal is to isolate and identify any players specifically listed as \"injured\" within that particular column.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210328,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 533,
+    "prompt_tokens": 1741,
+    "total_tokens": 2274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 426,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0033045,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0033045,
+      "upstream_inference_prompt_cost": 0.00130575,
+      "upstream_inference_completions_cost": 0.00199875
+    }
+  },
+  "provider": "Google AI Studio"
+}

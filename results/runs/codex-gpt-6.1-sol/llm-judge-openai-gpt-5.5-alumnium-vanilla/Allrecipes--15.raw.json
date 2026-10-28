@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyWvNRchpHG88py3wxyq8Xlv23Ww",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to choose an Allrecipes dessert recipe that:\n\n1. Has a prep time under 30 minutes  \n2. Includes chocolate as an ingredient  \n3. Has a user rating of 4 stars or higher  \n4. Provides the recipe name, ingredients list, and step-by-step instructions  \n\nThe screenshot shows the Allrecipes page for **“Chocolate Walnut Fudge.”** It is categorized under desserts, has a **prep time of 10 minutes**, a **rating of 4.2**, and the ingredients include **semisweet chocolate chips**. The screenshot also displays the full ingredients list and four directions, which are reflected accurately in the result response.\n\nAll required information was provided: recipe name, ingredients, and step-by-step instructions.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196177,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 281,
+    "prompt_tokens": 1592,
+    "total_tokens": 1873,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

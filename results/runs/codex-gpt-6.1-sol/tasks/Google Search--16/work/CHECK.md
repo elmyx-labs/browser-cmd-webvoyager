@@ -1,0 +1,4 @@
+[x] How many members are there in the OpenAI community on Reddit? https://www.reddit.com/r/ChatGPTPro/ — Related Subreddits: r/OpenAI, 2,893,490 members.
+[x] What is the hottest news right now? Use Reddit's Hot sort. https://www.reddit.com/r/OpenAI/hot/?feedViewType=compactView — Hot; leading post How big a deal is this? by u/Puzzleheaded-King584, 5h ago, 373 votes, 173 comments.
+[blocked] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with community name, member count, Hot sort, and leading news visible together; no overlays. Saved genuine 1280x723 viewport showing r/OpenAI, Hot, leading post title/time/votes/comments and no overlay. Total membership cannot appear together: main sidebar shows weekly activity; membership is on the separate related-community sidebar cited above.
+[x] Write ./ANSWER.txt with result, date, and evidence sources. Written with first line FINAL:.

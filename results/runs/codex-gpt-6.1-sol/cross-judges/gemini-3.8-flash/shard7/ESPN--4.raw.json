@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210198-Fepl8J9oORPx1z0l156W",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the screenshot and the provided response:\n\n1. The user requested to check ESPN for the final scores of NBA games played yesterday.\n2. The screenshot shows ESPN's NBA Scoreboard for Tuesday, October 27, 2026, displaying four completed games:\n   - Brooklyn Nets 124 vs. Boston Celtics 125 (FINAL/OT)\n   - Detroit Pistons 97 vs. New York Knicks 111 (FINAL)\n   - Sacramento Kings 103 vs. San Antonio Spurs 130 (FINAL)\n   - Portland Trail Blazers 136 vs. Los Angeles Lakers 129 (FINAL)\n3. The response accurately details each of the final scores matching the information displayed on the page.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Game Scores**\n\nI'm focusing on extracting the final scores from yesterday's NBA games as displayed on the ESPN page. I've identified the date and have begun parsing the Nets vs. Celtics game, noting the overtime result and final scores for both teams.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Game Scores**\n\nI'm focusing on extracting the final scores from yesterday's NBA games as displayed on the ESPN page. I've identified the date and have begun parsing the Nets vs. Celtics game, noting the overtime result and final scores for both teams.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18OY75DL+1zT5FxxmDji652fcLIjX52ClsxRue5XEMCYT/5CkcTZf6hC4SW9uc8O2U1FW1gU7XHIyEw/OHI7WU/IJXfCEvuTwxXqGlIUv7mUfLdFgyoTnlSmVN5Xo4SMUP6BB38Q9zbHZVVCdOPiXYI/FMfMOisOkJF3AuYtYurc12FOCekpHwkBA7f77js07/nX9HF8YtCXoWVZhUOZOavy162/ju37d35Lc54+utDlzaUofL9hYWlt5rGGIkny+o8G/yrXCI92PAoCZcqg+flaGQUF8r8H1uifNUey7T9yEBFEQ0fl26o01txOvqcLkoL+eOzog9AkZ48n2AbdxvdWSpYhmXPDlFKrRi9C/EFt+dpKOpWiiifj30iyAc3Lsq23IDXh0lBZkOlxaXmMppfYeBpFm3JCXTq5Y/BMKm6/jgy2fROqo0KenbBZzYd0+s5r6Cy34bmsXSq+4Y1O/1Q85MiL4DuNM/2iZw0vSgeBLgOBQtHGpvPHywRMJ6QpjTvQJ2uPvhXkm4UVS+6ddhZQgDrdDeOhBuwGJzoNNVcVUHcmGeoffYCp2EQxGvp/T5pwVtY+B+aV02trCnp8TcpKMxvC9xElxDSFBwsAZKEMvZ38iZdIPK3N8R8H8ETeYqzLQRtkM0rjHX9OlHqyCS8n5idkvRLff5U5wCtpN3cfEC7m14lca0/WGSGbIpD/rKOIkv0IfkBf3QICZa0IcUGYZultEuPRayu3Gmg+Rq/ds8WqrJFoFW4FwAkLllx1Cam1wYgcRlj2hKE7+TuteY7VwqH6psB3RGPsDHfvU3Hcr09yqWaU9b0v2jFR3cRuIjCBlm8VwUMxi0HFCMvK2OmG+87B9v8Xkgc5YbRmTdIy3f67p/scRQkKHj3CBoDo68YzgK5v8Dgc+AaQ7IcJY3onRlTpsIR4ySrzsuMCyvnZwg0uJU772j3vVQFJ5icczqv8B9EeBVdsF8gG/shBbHvZVTYmB8M41A3mskOoq7sic9Fx1IQ+pjFLL1eW1cY4NOJBPYJawyj/HDKC5ENMTLz0ZtJEG7q4qTRJO9pm0PlRp97fa6pUiuW9cTaifAmdCdiW0gOmc8Xd47WklK2C8+VgCoflB5TNxhy4kHFZtwHOJqD+CYqoUOQrZKvbCJOnajOBJU7q77sFddK00SO9gnTO4eBx0I6zXYUYZcYH/KKwWb7BrfIxBTdPWvP7ANvSFxVVW738FaXVm8oEQL/iuxgvleZpEhVaiVV8njq/PsETTdz0AvxANtQKmS/zZ85+/LNFYhyNLQahJZUoaei89eJyIPsCtKySS2TpmXO+bRn7tkAplV/MVy8Sciv7PgTandl7tUnM0J7/PUZRvk8LC9eHFgJYgUOWu8/4sLe",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210198,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 417,
+    "prompt_tokens": 1726,
+    "total_tokens": 2143,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 251,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00285825,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00285825,
+      "upstream_inference_prompt_cost": 0.0012945,
+      "upstream_inference_completions_cost": 0.00156375
+    }
+  },
+  "provider": "Google"
+}

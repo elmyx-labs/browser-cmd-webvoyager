@@ -1,0 +1,3 @@
+[x] Visit the Athletics calendar for the date of the next earliest game. — https://www.bbc.com/sport/athletics/calendar/2026-11; November 2026 selected, “Sunday 1 November”, “New York City Marathon”. October’s only listed event was 11 October, before the current date of 27 October 2026.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the event name and deciding date with no overlay. — final.png is 1280 × 723 and shows November 2026 selected, “Sun 01 Nov” and “New York City Marathon”.
+[x] Write the result and its evidence to ./ANSWER.txt. — FINAL line includes date, event, source URL and screenshot filename.

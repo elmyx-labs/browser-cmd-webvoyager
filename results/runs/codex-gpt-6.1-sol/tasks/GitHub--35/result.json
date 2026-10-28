@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--35",
+    "ques": "Check the latest release version of React and the date it was published on GitHub.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: React’s latest GitHub release is v19.3.1, published October 14, 2026. The release page displays “19.3.1 (October 14th, 2026)” with the “Latest” badge. Source: https://github.com/react/react/releases/tag/v19.3.1 . Evidence: final.png.",
+    "result_text": "FINAL: React’s latest GitHub release is v19.3.1, published October 14, 2026. The release page displays “19.3.1 (October 14th, 2026)” with the “Latest” badge. Source: https://github.com/react/react/releases/tag/v19.3.1 . Evidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_402/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_402",
+  "elapsed_seconds": 234.36713790893555,
+  "execution_error": null,
+  "proxy_bytes": 15534168
+}

@@ -1,0 +1,4 @@
+2026-10-27: Amazon filtered search https://www.amazon.com/s?k=women%27s+golf+polos&rh=p_n_pt_nav_size_women_size%3A2475480011%2Cp_36%3A5000-7500&s=price-asc-rank shows “42 results”, “Price: Low to High”, M selected (aria-pressed=true), “Price $50 – $75”, and first result “adidas Women's Ultimate365 Printed Golf Polo Shirt” at “$50.13”.
+Product https://www.amazon.com/dp/B0CQF88T4W showed “Medium” checked, “Collegiate Green $50.13” checked. Clicked Add to cart once. Amazon confirmed “Added to cart”.
+Cart https://www.amazon.com/cart showed “Amazon Subtotal (1 item): $50.13”, “adidas Women's Standard Ultimate365 Printed Polo Shirt, Collegiate Green”, “Size: Medium”, “Color: Collegiate Green”, “Quantity is 1”.
+final.png is a genuine viewport screenshot of the filtered search with result, applied filters, sort, and cart sidebar together. It was proportionally resized from 1440 × 1400 to 1280 × 1244; this is the only evidence image read.

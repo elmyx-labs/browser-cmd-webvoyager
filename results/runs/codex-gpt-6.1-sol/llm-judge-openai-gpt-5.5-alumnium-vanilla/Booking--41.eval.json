@@ -1,0 +1,31 @@
+{
+  "id": "Booking--41",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Browse Booking's homepage to find out which company it belongs to.",
+  "answer": "FINAL: Booking.com belongs to Booking Holdings Inc. The Booking.com homepage footer states: “Booking.com is part of Booking Holdings Inc.” Source: https://www.booking.com/ (viewed October 27, 2026). Evidence: final.png.",
+  "response": "The task was to browse Booking’s homepage and identify which company Booking.com belongs to.\n\nThe screenshot shows the Booking.com homepage footer, where it states: “Booking.com is part of Booking Holdings Inc., the world leader in online travel and related services.” The result response correctly reports that Booking.com belongs to Booking Holdings Inc.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to browse Booking’s homepage and identify which company Booking.com belongs to. The screenshot shows the Booking.com homepage footer, where it states: “Booking.com is part of Booking Holdings Inc., the world leader in online tr",
+  "screenshots": [
+    "task_239/final.png"
+  ],
+  "raw_screenshot": "task_239/final.png",
+  "source_result": "task_239",
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1628,
+    "total_tokens": 1752,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 47,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 3.71
+}

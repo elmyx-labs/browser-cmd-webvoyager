@@ -1,0 +1,4 @@
+[x] Find a one-way business class flight from Buenos Aires to Amsterdam on July 10, 2027. Google Flights source URL in NOTES.md and ANSWER.txt; “One way”, “Business”, “Buenos Aires”, “Amsterdam”; URL date 2027-07-10.
+[x] Provide the details of the flight with the shortest duration (sort by duration). “Sorted by duration”; first result KLM; expanded “Business Class”, “KL 702”, “Travel time: 13 hr 5 min”, 3:05 PM EZE → 9:10 AM+1 AMS.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing flight facts and applied dates, filters and sort without a dialog. Captured viewport at scroll 0, 1440×813, resized proportionally to 1280×723.
+[x] Write the result and its evidence to ./ANSWER.txt. Includes exact date, next-day arrival, cabin, aircraft, fare, source URL and final.png.

@@ -1,0 +1,6 @@
+- [x] Search for a hotel in Toronto. Booking.com source URL in NOTES.md and ANSWER.txt; "Riu Plaza Toronto", "Entertainment District, Toronto".
+- [x] Fitness center filter and hotel match. Same source: applied "Fitness center" filter; Riu Plaza Toronto is the first result.
+- [x] Rating of 8+ filter and hotel match. Same source: applied "Very Good: 8+" filter and "Scored 8.8", "Excellent", "3,083 reviews".
+- [x] Available for a two-night stay from July 5 to July 7, 2027, with dates visible. Same source: checkin=2027-07-05, checkout=2027-07-07; "Mon, Jul 5 — Wed, Jul 7", "2 nights, 2 adults", "Deluxe King Room", "Current price RSD 51,678", "See availability".
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing hotel's name and deciding facts, filters and dates without overlays. Saved and read final.png, 1280 × 723; only evidence image read.
+- [x] Write result and evidence to ./ANSWER.txt. Written, first line begins FINAL: and includes hotel, dates, facts, price; sources and screenshot stated below.

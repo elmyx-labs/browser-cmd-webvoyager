@@ -1,0 +1,14 @@
+FINAL: To change Oh My Zsh’s theme to agnoster, set ZSH_THEME=agnoster in ~/.zshrc, save the file, then restart your terminal or run exec zsh.
+
+1. Open ~/.zshrc in a text editor and replace the existing ZSH_THEME setting with:
+   ZSH_THEME=agnoster
+   Keep it before the line that sources Oh My Zsh.
+2. Save the file and restart your terminal, or run:
+   exec zsh
+3. For agnoster’s special characters, install a Powerline-patched font and use it as your terminal font.
+
+Evidence:
+- Settings wiki, with the exact agnoster example: https://github.com/ohmyzsh/ohmyzsh/wiki/Settings#zsh_theme
+- Themes wiki, with the ~/.zshrc placement instructions and agnoster font setup: https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster
+- FAQ, with restart instructions: https://github.com/ohmyzsh/ohmyzsh/wiki/FAQ#how-do-i-reload-the-zshrc-file
+- final.png shows the Settings wiki’s ZSH_THEME=agnoster example.

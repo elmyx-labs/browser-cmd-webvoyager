@@ -1,0 +1,31 @@
+{
+  "id": "Allrecipes--14",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a recipe that includes \"chicken breast\" and \"quinoa\" with preparation time under 30 minutes on Allrecipes.",
+  "answer": "FINAL: Air Fryer Pesto Chicken Quinoa Bowl on Allrecipes.\nPrep time: 10 minutes, under 30 minutes. Ingredients include 1 pound skinless, boneless chicken breasts and 2 cups cooked quinoa. The recipe lists 10 minutes cooking and 20 minutes total using cooked quinoa.\nRecipe: https://www.allrecipes.com/air-fryer-pesto-chicken-quinoa-bowl-recipe-11691482\nEvidence: final.png — a viewport screenshot of Allrecipes' print view showing the recipe name, preparation time and both ingredients together.\nScreenshot source: https://www.allrecipes.com/air-fryer-pesto-chicken-quinoa-bowl-recipe-11691482?print=",
+  "response": "The task was to find an Allrecipes recipe that includes both “chicken breast” and “quinoa” and has a preparation time under 30 minutes.\n\nThe screenshot shows an Allrecipes print view for **“Air Fryer Pesto Chicken Quinoa Bowl.”** It clearly lists:\n\n- **Prep Time:** 10 mins, which is under 30 minutes.\n- Ingredients include **“1 pound skinless, boneless chicken breasts”**\n- Ingredients include **“2 cups cooked quinoa”**\n\nThis satisfies all requirements: the recipe is on Allrecipes, includes chicken breast and quinoa, and the prep time is under 30 minutes.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find an Allrecipes recipe that includes both “chicken breast” and “quinoa” and has a preparation time under 30 minutes. The screenshot shows an Allrecipes print view for **“Air Fryer Pesto Chicken Quinoa Bowl.”** It clearly ",
+  "screenshots": [
+    "task_13/final.png"
+  ],
+  "raw_screenshot": "task_13/final.png",
+  "source_result": "task_13",
+  "usage": {
+    "completion_tokens": 284,
+    "prompt_tokens": 1976,
+    "total_tokens": 2260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 140,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 4.89
+}

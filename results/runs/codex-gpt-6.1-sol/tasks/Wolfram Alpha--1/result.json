@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Wolfram Alpha",
+    "id": "Wolfram Alpha--1",
+    "ques": "Give a constraint on the set of inequalities for the inner region of the pentagram.",
+    "web": "https://www.wolframalpha.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The constraint is a > 0, where a is the distance between vertices with offset two.\n\nEvidence: Wolfram|Alpha’s “pentagram | variable constraints” result states “a > 0”; its expanded definition identifies a as the “distance between vertices with offset two.” Accessed October 27, 2026.\nSource: https://www.wolframalpha.com/input?i=pentagram+variable+constraints\nScreenshot: final.png",
+    "result_text": "FINAL: The constraint is a > 0, where a is the distance between vertices with offset two.\n\nEvidence: Wolfram|Alpha’s “pentagram | variable constraints” result states “a > 0”; its expanded definition identifies a as the “distance between vertices with offset two.” Accessed October 27, 2026.\nSource: https://www.wolframalpha.com/input?i=pentagram+variable+constraints\nScreenshot: final.png",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_570/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_570",
+  "elapsed_seconds": 83.09230899810791,
+  "execution_error": null,
+  "proxy_bytes": null
+}

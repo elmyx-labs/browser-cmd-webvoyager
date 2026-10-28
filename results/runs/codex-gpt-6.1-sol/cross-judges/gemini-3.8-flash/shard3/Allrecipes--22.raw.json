@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209901-ffo7fmqQ0mjOWNPBrTW2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a healthy avocado salad recipe from Allrecipes that meets the following criteria:\n1. Preparation time of less than 20 minutes.\n2. More than 30 user reviews.\n3. Inclusion of nutritional information per serving.\n\nBased on the screenshot and the result response:\n- The recipe found is \"Cucumber and Avocado Salad\" on Allrecipes.\n- The preparation time is 15 minutes (less than 20 minutes).\n- It has 230 reviews (more than 30).\n- Detailed nutritional information per serving is provided in the textual response.\n\nAll criteria specified in the instruction have been satisfied.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Seeking Avocado Salad Recipes**\n\nI'm now focusing my search on Allrecipes for a healthy avocado salad. I'm prioritizing recipes with quick prep times (under 20 minutes) and ensuring there are at least 30 user reviews to gauge quality. I also need to find the nutritional information per serving.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Seeking Avocado Salad Recipes**\n\nI'm now focusing my search on Allrecipes for a healthy avocado salad. I'm prioritizing recipes with quick prep times (under 20 minutes) and ensuring there are at least 30 user reviews to gauge quality. I also need to find the nutritional information per serving.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209901,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 502,
+    "prompt_tokens": 1867,
+    "total_tokens": 2369,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 364,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00328275,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00328275,
+      "upstream_inference_prompt_cost": 0.00140025,
+      "upstream_inference_completions_cost": 0.0018825
+    }
+  },
+  "provider": "Google AI Studio"
+}

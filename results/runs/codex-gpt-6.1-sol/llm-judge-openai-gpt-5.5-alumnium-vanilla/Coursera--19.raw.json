@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdydRNwuF32qYtkJBNi3DKtAGzixA",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to identify a Coursera course introducing Psychology and provide:\n\n- Course name\n- Instructor’s name\n- Institution offering it\n- Approximate completion time\n\nThe screenshot shows the Coursera page for **“Introduction to Psychology”**, offered by **Yale**, with **Instructor: Paul Bloom**. It also shows the schedule estimate as **“2 weeks at 10 hours a week,”** which reasonably translates to approximately **20 hours** total.\n\nThe result response accurately reports all required details:\n- Course: **Introduction to Psychology**\n- Instructor: **Paul Bloom**\n- Institution: **Yale University**\n- Approximate completion time: **20 hours**\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196581,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 230,
+    "prompt_tokens": 1677,
+    "total_tokens": 1907,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

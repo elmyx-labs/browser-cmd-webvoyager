@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdydtozdZfW3Zbdj8hgNCGj1BG2xt",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The result appears to satisfy the task.\n\nThe user asked: “If I start using Copilot Individual, how much US dollars will it cost per year and what features does it have?”\n\nThe screenshot shows GitHub Copilot pricing for individuals, with the paid “Pro” plan listed at **$10 USD per user/month**. The response correctly converts that to **$120 per year** if paid monthly for 12 months. It also explains that GitHub now presents individual Copilot options as Free, Pro, Pro+, and Max rather than a single “Copilot Individual” plan, and treats **Pro** as the relevant entry-level paid individual plan.\n\nThe listed features in the response are broadly consistent with the screenshot and additional cited GitHub pages. The screenshot directly supports key Pro features such as:\n\n- Access to medium-complexity models\n- Unlimited code completion and next-edit suggestions\n- Access to third-party agents like Claude Code and Codex\n- 1,500 monthly AI credits\n\nThe response includes further feature details not visible in the screenshot, but according to the evaluation rules, information in the response that is not contradicted by the screenshot can be accepted.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196609,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 763,
+    "prompt_tokens": 2328,
+    "total_tokens": 3091,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

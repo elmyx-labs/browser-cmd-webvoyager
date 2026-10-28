@@ -1,0 +1,8 @@
+[x] Identify a hotel in Tokyo — Imperial Hotel Tokyo; “Chiyoda, Tokyo (Ginza)”. https://www.booking.com/hotel/jp/imperial-tokyo.html
+[x] with a spa and wellness center — property page: “Wellness Spa and wellness center, Massage, Sauna, Fitness center”; applied search filter “Spa and wellness center”. Same property URL.
+[x] rated 9 or above — “9.2”, “Wonderful”, “3,072 reviews”. Same property URL and final.png.
+[x] with availability for a five-night stay starting on June 20, 2027 (June 20–25, 2027) — calendar selected June 20 and June 25, 2027; search URL checkin=2027-06-20&checkout=2027-06-25; Imperial Hotel Tokyo result says “5 nights, 2 adults”, “Tower Building Standard Twin”, “See availability”; room inventory available on property page.
+[x] Check if free cancellation is offered — result “Free cancellation”; property availability table “Free cancellation before June 19, 2027 • Pay nothing until June 17, 2027”. Same property URL.
+[x] Save one genuine viewport screenshot as ./final.png, about 1280 px long side, showing name, deciding facts, applied dates and filters, no overlays — final.png is 1280 x 723, resized from browser viewport; shows hotel, score, spa/9+/hotel/free-cancellation filters, June 20–25 dates, 5 nights and free cancellation.
+[x] Write result and evidence to ./ANSWER.txt — saved with FINAL: first line, dates, source links and screenshot reference.
+Search source: https://www.booking.com/searchresults.html?ss=Tokyo&dest_id=-246227&dest_type=city&checkin=2027-06-20&checkout=2027-06-25&group_adults=2&no_rooms=1&group_children=0&nflt=fc%3D2%3Breview_score%3D90%3Bhotelfacility%3D54%3Bht_id%3D204

@@ -1,0 +1,31 @@
+{
+  "id": "Google Flights--6",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a flight on December 19 and return on December 26 from Tel Aviv to Venice and Select First Class.",
+  "answer": "FINAL: Searched Google Flights for a round trip from Tel Aviv-Yafo to Venice, departing December 19, 2026 and returning December 26, 2026, with First selected. The displayed Air France option is labeled “First Class + Business Class”: TLV–VCE via Paris (CDG), 3:55 PM–11:15 PM, 8 hr 20 min, from RSD 873,949 round trip. Evidence: final.png and https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI2LTEyLTE5agwIAxIIL20vMDdxenZyDAgDEggvbS8wN19wZhooEgoyMDI2LTEyLTI2agwIAxIIL20vMDdfcGZyDAgDEggvbS8wN3F6dkABSARwAYIBCwj___________8BmAEB",
+  "response": "The screenshot shows Google Flights with:\n\n- Trip type: **Round trip**\n- Origin: **Tel Aviv-Yafo**\n- Destination: **Venice**\n- Departure date: **Sat, Dec 19**\n- Return date: **Sat, Dec 26**\n- Cabin class: **First**\n- A displayed flight option under departing flights, labeled **“First Class + Business Class”**\n\nThis matches the task instruction to search for a flight from Tel Aviv to Venice departing December 19 and returning December 26, with First Class selected. The response also accurately describes the visible search result.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The screenshot shows Google Flights with: - Trip type: **Round trip** - Origin: **Tel Aviv-Yafo** - Destination: **Venice** - Departure date: **Sat, Dec 19** - Return date: **Sat, Dec 26** - Cabin class: **First** - A displayed flight optio",
+  "screenshots": [
+    "task_413/final.png"
+  ],
+  "raw_screenshot": "task_413/final.png",
+  "source_result": "task_413",
+  "usage": {
+    "completion_tokens": 335,
+    "prompt_tokens": 1789,
+    "total_tokens": 2124,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 200,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.43
+}

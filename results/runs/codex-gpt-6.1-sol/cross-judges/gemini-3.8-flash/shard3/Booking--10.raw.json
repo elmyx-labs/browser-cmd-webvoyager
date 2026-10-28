@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210126-ZGvbvfuwpUgQyLvcI0YZ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response, the evaluation is as follows:\n\n1. **Location and Hotel**: The search is conducted for Paris, finding \"Hôtel Augustin – Astotel\", a well-reviewed hotel with a score of 9.0/10 (\"Wonderful\") from 2,070 reviews.\n2. **Dates & Occupancy**: The search parameters are set for Sun, Feb 14 – Sun, Feb 21, 2027 (Valentine's Day week) for 2 adults (1 room).\n3. **Suitability & Cancellation**: A Double Room with 1 full bed is selected, clearly indicating \"Free cancellation\".\n\nAll criteria specified in the instruction have been met.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching Paris Hotels**\n\nI've begun by identifying potential hotels that fit the \"well-reviewed\" criterion. Hôtel Augustin - Astotel is currently under consideration. My next step is to confirm availability and cancellation policies for Valentine's Day week.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching Paris Hotels**\n\nI've begun by identifying potential hotels that fit the \"well-reviewed\" criterion. Hôtel Augustin - Astotel is currently under consideration. My next step is to confirm availability and cancellation policies for Valentine's Day week.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210126,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 530,
+    "prompt_tokens": 2028,
+    "total_tokens": 2558,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 376,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0035085,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0035085,
+      "upstream_inference_prompt_cost": 0.001521,
+      "upstream_inference_completions_cost": 0.0019875
+    }
+  },
+  "provider": "Google"
+}

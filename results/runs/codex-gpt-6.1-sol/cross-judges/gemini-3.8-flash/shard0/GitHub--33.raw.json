@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210437-QfQjewe1iQ4st4fAcbYz",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**Rationale:** The user requested locating Customer Stories on GitHub and listing two stories shown on the page. The screenshot displays GitHub Customer Stories, featuring GM and AstraZeneca, which were accurately identified and listed in the response.\n\n**Verdict:** SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Task Progress**\n\nI'm currently reviewing the identified customer stories to ensure they directly address the prompt's requirement of being found on the GitHub page and subsequently listed. The initial findings for GM and AstraZeneca seem promising in this regard.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Task Progress**\n\nI'm currently reviewing the identified customer stories to ensure they directly address the prompt's requirement of being found on the GitHub page and subsequently listed. The initial findings for GM and AstraZeneca seem promising in this regard.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+Xxdk0gU4HKQMLCEMVlhKg4EHzL2x03XXFLmSnnuQNEY3LCteRYcNSQTkOSX+6qxuGiTvkN8QAP5m8bOCCr2U+s9MjYHc4V15FQEbYdLodc05D0klmgNQJfLzhcew43Y7v570hxaNznuClz88jWhbPAiGor1Mn5APz9cdqTrdM7eg9EMOjdNYH2x6AVDoIwQDUeWEMqAsHIxxlpRy48n7OxdMcXoi8ch6y0kVGKQcW+U8QieCpuo7UWcXrw01b6HmwMNnaHS1duhU90LUkgxr3NFxV+5PW5ZohQN6LAUCj4paGJF6aOs5fV8fPDTpdUAqNfX4V1LZZ+9eD4jFkXWzE0/waygJHe+DDwQ01ii19xXYucyki7jTJ81J3sPYesxc3JdW/fHNI6xKDui3Ap4ukiZpsUiRAbMDmEx2ugiJqmhNLFoTi5p3VRztUyFeUUAmwPNaV1MdcxSMQ36Z1qRxxrEPKoF6o1+1J/sUMUSLVMcv/rGv3L5697vp4b8TFHLV4i5sm+b1f4i8K8+uz5kObGFiPqmKlNvvehw/Go7U1G/D93sDpYHglNCQj283JY6+siT0ZvjQ7Dwe/gNxHeIZJGJiFCbjhd/vi7XCHS7Lo4jMj6ia9EEkKHlo1q1yvqOzaQLSmYykUhCFGew3yEFFsJ1EdUPrKAklFmH0coZa/yjONRiQ4aBAR6/bqwkx4BdwDjZKv6cJZegtkzpmDXey2eM7FQmuFosFdgYGnTxKSTMrY4FfiSDvpc+exHoR1vcsmbsanZocqlgB9rurh1AX744KVBFq+5SF/1WW1YULgLfse9L5Prf0enP9zcFPoHmxJ0uFBOhU4gL55RIM6+XZ9Iw2lrjYaGkGijebwUU6yDvk3wHfaZmCPHj3Df4aX7Ul7unPGKm9LhJRkgYUE+H+zsIv6H0giTFyVzSFHT8Pnz8nMPDvpR9ruy3IxlQii8YcOKTleqpkpjGomi6zpUzbok0iO5wZlOI0a6T1FbcekFK6/WlSW+ovHBpdJ3J2uyvImv2WtsI4443d/v1uoLRwojD+TRN8Ylmhzl12Q2geD3uYavdFebsYqS1P3FBQskM7+d68XyyG5FgzO121+88+JIwx9MkGwS/F8P4yePfgPkdvEhzOfVb3Vu0BfcMNdYUi6w9TEUmfX6LadS5xCZej+Hi5azaxz1DyxHgS0UyXdVr72EkHjjs8sIwzUeI5F1EV7a4eOtAj0JPgWKnmLExhYBINsXRUeG4g+OLEAChjr6FdugFbKJ6iNvFJZRt6Zi2eHs2HV/26si2Dgo7QIDbAd6PWfqpdc5HhfvhJJntvNQ6z2tV80XWXeUwPxBF7WkMlkcXysbYAiDt1TQ8cJUYnXfiors7UGOoREAkw0PkYfIArlsFJ08faLG3hr+aD80qAOoC+fIpEOFXSoz03Buey3wGV75VRyJMBKZ3FJ5vSyDx68NyxWD9GohGw7xkyXNFLdX8kgTuvxfnlowU0X2yCPWoXurr+tv7HFoQPvMDCROYv8WRkzV6tHorM/xJGxNdkHlBe8TBSRW3QxZ1lFR5a+J12Jmcz8fQhOHbNfRxoDnp4Rrc312Pc1aByQRpWWZkTk/GjRpDkAhr439fRI8RM2xEcwDTWQCIfz2RLD4k7eFBvQudFHB3f2G31OM/ckjKpAtMNWsjfzpJ3v/75XGLSzM4YFlzdh7qMkFhhWnZtBTWa97AJcWWe+IHsgEx+n62NCQcbKe+a7MburQPsqh5SYs5JL0sfQ4Nuwa4FqV9KwsYZwVbj956LA2ycDb2vKxHWBBCUmXH4wAMoCBQBDT9XuEegtmKxYWWkkqDtzT/dWbuZkuMHXtDnSYiKD8/n53L7XrJJ0pBQK+CcxlJMv4Hv35kWC6MA/S3CMlNlYtG9YIbjsZt4r8nAi",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210437,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 283,
+    "prompt_tokens": 1684,
+    "total_tokens": 1967,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 236,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00232425,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00232425,
+      "upstream_inference_prompt_cost": 0.001263,
+      "upstream_inference_completions_cost": 0.00106125
+    }
+  },
+  "provider": "Google"
+}

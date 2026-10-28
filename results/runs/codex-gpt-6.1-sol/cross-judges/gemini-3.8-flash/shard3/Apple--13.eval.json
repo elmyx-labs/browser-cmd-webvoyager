@@ -1,0 +1,41 @@
+{
+  "id": "Apple--13",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "How many colors does the latest MacBook Air come in?",
+  "answer": "FINAL: The latest MacBook Air (M5) comes in 4 colors: Sky Blue, Silver, Starlight, and Midnight. Apple’s current MacBook Air page states “Four beautiful colors” and lists these four options. Source: https://www.apple.com/macbook-air/ (checked October 27, 2026). Screenshot: final.png.",
+  "response": "The task instruction asks how many colors the latest MacBook Air comes in. \n\nThe screenshot of Apple's MacBook Air page confirms \"Four beautiful colors will have you on cloud nine\" with four color swatches shown. The result response accurately answers that it comes in 4 colors and lists them.\n\nSUCCESS",
+  "reason_short": "The task instruction asks how many colors the latest MacBook Air comes in. The screenshot of Apple's MacBook Air page confirms \"Four beautiful colors will have you on cloud nine\" with four color swatches shown. The result response accuratel",
+  "screenshots": [
+    "task_91/final.png"
+  ],
+  "raw_screenshot": "task_91/final.png",
+  "source_result": "task_91",
+  "usage": {
+    "completion_tokens": 268,
+    "prompt_tokens": 1652,
+    "total_tokens": 1920,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 206,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002244,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002244,
+      "upstream_inference_prompt_cost": 0.001239,
+      "upstream_inference_completions_cost": 0.001005
+    }
+  },
+  "elapsed_seconds": 15.71
+}

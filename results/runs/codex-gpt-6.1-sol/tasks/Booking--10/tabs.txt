@@ -1,0 +1,6 @@
+## session of the actor
+No tab is kept.
+<browser trusted="no">
+*t1 ok https://www.booking.com/searchresults.html?label=mkt123sc-f61094ae-1e39-419c-a81a-260970b85d92&aid=304142&ss=Paris%2C+Ile+de+France%2C+France&efdco=1&lang=en-us&src=index&dest_id=-1456928&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=04bc8f7c8ef13b97a82250f8d3351539&checkin=2027-02-14&checkout=2027-02-21&group_adults=2&no_rooms=1&group_children=0&nflt=fc%3D2%3Bht_id%3D204%3Breview_score%3D90&selected_currency=EUR — Booking.com: Hotels in Paris. Book your hotel now!
+ t2 ok https://www.booking.com/hotel/fr/saintaugustin.html — Hôtel Augustin - Astotel, Paris (updated prices 2027)
+</browser>

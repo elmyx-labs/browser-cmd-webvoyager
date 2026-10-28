@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210171-8pnHvNEJIQ69lBhSmHRb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "### Evaluation\n\nThe user requested a hotel search in Berlin for a three-night stay from July 15 to July 18, 2027, for one adult, requiring the total price in both USD and CNY. \n\nThe screenshot verifies the search parameters on Booking.com for Berlin across the specified dates and single-adult occupancy. The selected property, \"Hotel Berlin, Berlin, a member of Radisson Individuals,\" shows a total of CNY 2,395 for the three-night stay. The response supplies this exact figure along with the corresponding USD rate ($359) gathered from the USD query. All criteria specified in the instruction were met.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Task Success**\n\nMy current thoughts are focused on assessing how well I executed the hotel search task. I'm reviewing the provided details to determine if all user requirements, including dates, location, and currency conversions, were met accurately.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Task Success**\n\nMy current thoughts are focused on assessing how well I executed the hotel search task. I'm reviewing the provided details to determine if all user requirements, including dates, location, and currency conversions, were met accurately.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210171,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 485,
+    "prompt_tokens": 1917,
+    "total_tokens": 2402,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 344,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0032565,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0032565,
+      "upstream_inference_prompt_cost": 0.00143775,
+      "upstream_inference_completions_cost": 0.00181875
+    }
+  },
+  "provider": "Google"
+}

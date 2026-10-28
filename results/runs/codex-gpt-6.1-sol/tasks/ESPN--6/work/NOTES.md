@@ -1,0 +1,4 @@
+ESPN Lakers 2026-27 regular-season schedule: completed games through October 25 are Golden State, LA Clippers and Utah; Boston meetings are upcoming January 7 and February 2. https://www.espn.com/nba/team/schedule/_/name/lal/los-angeles-lakers
+ESPN Lakers 2025-26 schedule: "Sun, Feb 22 | vs Boston | L111-89"; previous Boston meeting December 5. https://www.espn.com/nba/team/schedule/_/name/lal/season/2026/seasontype/2
+ESPN game page: "Celtics 111-89 Lakers (Feb 22, 2026) Final Score"; "Jaylen Brown had 32 points" and points leaders Brown 32, Doncic 25. https://www.espn.com/nba/game/_/gameId/401810678/celtics-lakers
+Later schedules confirm no newer Lakers-Celtics meeting: 2026 postseason opponents were Houston and Oklahoma City; 2026-27 preseason opponents were Sacramento, Golden State and Denver. https://www.espn.com/nba/team/schedule/_/name/lal/season/2026/seasontype/3 and https://www.espn.com/nba/team/schedule/_/name/lal/season/2027/seasontype/1

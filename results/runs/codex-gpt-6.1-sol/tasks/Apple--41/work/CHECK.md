@@ -1,0 +1,4 @@
+- [x] How much does it cost to buy an ipad mini with 128GB storage and Wi-Fi + Cellular connectivity? — https://www.apple.com/shop/buy-ipad/ipad-mini/128gb-midnight-wifi-cellular-standard-glass; summary: “iPad mini Wi‑Fi + Cellular 128GB with standard glass - Midnight”, “One-time payment $849.00”.
+- [x] no engraving, no apple pencil, no smart folio, no apple trade-in — same URL; checked “No engraving”, “No Apple Pencil”, “No trade-in”. No Smart Folio offered or added; summary is the device alone.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and deciding values together without overlays. — final.png is the 1280×723 viewport image; name, 128GB, Wi-Fi + Cellular, and $849.00 visible.
+- [x] Write ./ANSWER.txt with the result and evidence. — ANSWER.txt written with price, source, date, availability, and final.png evidence.

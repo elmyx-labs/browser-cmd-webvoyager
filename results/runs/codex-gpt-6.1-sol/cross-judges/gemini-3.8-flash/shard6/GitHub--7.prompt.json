@@ -1,0 +1,9 @@
+{
+  "id": "GitHub--7",
+  "task": "Find the official GitHub repository for ALBERT and show me what files the repo changed in the most recent commit.",
+  "answer": "FINAL: ALBERT’s official GitHub repository is google-research/albert: https://github.com/google-research/albert\n\nThe most recent commit on master is b772393d3dae115b493258ce8e37c17b2cc62100, committed by albert-copybara on April 12, 2023: “Replace deprecated tf.contrib.data.map_and_batch(...) with tf.data.experimental.map_and_batch(...).”\n\nIt changed exactly two files:\n- classifier_utils.py — 1 addition, 2 deletions.\n- squad_utils.py — 1 addition, 2 deletions.\n\nBoth files remove the contrib_data import and replace the deprecated map_and_batch call. Total: 2 additions and 4 deletions.\n\nEvidence: https://github.com/google-research/albert/commit/b772393d3dae115b493258ce8e37c17b2cc62100 ; screenshot: final.png. The repository homepage identifies this as its latest commit. Google Research’s official announcement links directly to the repository: https://research.google/blog/albert-a-lite-bert-for-self-supervised-learning-of-language-representations/",
+  "screenshots": [
+    "task_374/final.png"
+  ],
+  "raw_screenshot": "task_374/final.png"
+}

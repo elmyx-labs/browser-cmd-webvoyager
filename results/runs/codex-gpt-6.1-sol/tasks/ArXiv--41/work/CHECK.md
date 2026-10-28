@@ -1,0 +1,4 @@
+- [x] Find the button to share arxiv non-profit store and follow the QR code to share the shop. https://www.bonfire.com/store/arxiv-official/ — “Share this store” > “QR Code”; decoded QR URL followed, as recorded in NOTES.md.
+- [x] Add arXiv Forever short sleeve (XL) to your cart. https://www.bonfire.com/cart/ — “Your cart”, “arXiv Forever”, “Premium Unisex Tee”, “XL”, quantity “1”.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and deciding facts with no overlay. final.png, 1280 × 723 cart viewport.
+- [x] Write the result and evidence to ./ANSWER.txt. ANSWER.txt starts with FINAL: and records both completed actions and evidence.

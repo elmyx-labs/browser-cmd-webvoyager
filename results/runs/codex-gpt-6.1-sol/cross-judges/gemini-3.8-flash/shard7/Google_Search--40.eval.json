@@ -1,0 +1,41 @@
+{
+  "id": "Google Search--40",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Look up the elevation of Mount Kilimanjaro on Google Search.",
+  "answer": "FINAL: Mount Kilimanjaro’s elevation is 5,895 metres (19,341 feet) above sea level, at Uhuru Peak.\nEvidence: Google Search results for “Mount Kilimanjaro elevation” show this height in the AI Overview and the Wikipedia result. Viewed October 27, 2026.\nSource: https://www.google.com/search?q=Mount+Kilimanjaro+elevation&source=hp&sei=NzDharvpFKaDxc8P-77riQk\nScreenshot: final.png",
+  "response": "The task instructed to look up the elevation of Mount Kilimanjaro on Google Search. \n\nThe provided screenshot shows a Google Search query for \"Mount Kilimanjaro elevation\", clearly displaying the elevation as 5,895 meters (19,341 feet) at Uhuru Peak. The text response accurately reflects this information.\n\nSUCCESS",
+  "reason_short": "The task instructed to look up the elevation of Mount Kilimanjaro on Google Search. The provided screenshot shows a Google Search query for \"Mount Kilimanjaro elevation\", clearly displaying the elevation as 5,895 meters (19,341 feet) at Uhu",
+  "screenshots": [
+    "task_527/final.png"
+  ],
+  "raw_screenshot": "task_527/final.png",
+  "source_result": "task_527",
+  "usage": {
+    "completion_tokens": 232,
+    "prompt_tokens": 1696,
+    "total_tokens": 1928,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 162,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002142,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002142,
+      "upstream_inference_prompt_cost": 0.001272,
+      "upstream_inference_completions_cost": 0.00087
+    }
+  },
+  "elapsed_seconds": 7.87
+}

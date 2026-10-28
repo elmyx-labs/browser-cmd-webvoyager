@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdycGhFZRnlrp99h2dBqNGZz67fhy",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find a **resort, not a hotel, in Bali**, for dates **July 20–25, 2027**, and check for any **tour or cultural experiences**.\n\nThe screenshot shows Booking.com search results for **Bali** with dates set to **Tue, Jul 20 – Sun, Jul 25**, for **2 adults, 1 room**, and the **“Resorts”** filter is applied. The listed property, **Bali Tropic Resort & Spa - CHSE Certified**, appears under this filtered resort search and shows availability for **5 nights, 2 adults**, with a displayed total price.\n\nThe result response further details:\n- Check-in and check-out dates/times.\n- Room type and pricing.\n- That the property is categorized as a resort.\n- Tour/cultural offerings including a **local culture tour/class**, **Balinese cultural shows**, **cooking classes**, **bike tours**, and a **tour desk**.\n\nAlthough the screenshot itself does not show the cultural/tour details, the response includes them, and per the evaluation rules, information in the response that is not contradicted by the screenshot can be accepted.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196508,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 508,
+    "prompt_tokens": 2025,
+    "total_tokens": 2533,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 254,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

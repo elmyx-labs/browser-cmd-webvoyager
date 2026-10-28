@@ -1,0 +1,6 @@
+- [x] Search for an Italian-style meatball recipe on Allrecipes. Selected "Chef John's Italian Meatballs" from the site's Italian meatballs search: https://www.allrecipes.com/recipe/220854/chef-johns-italian-meatballs/
+- [x] Verify that it has more than 100 reviews. Recipe shows "1,967 Reviews" at the URL above.
+- [x] Detail the type of meat used. Ingredients show "1 pound ground beef" and "1 pound ground pork" at the URL above.
+- [x] Detail the overall cooking time required. Time card shows "Total Time: 2 hrs 15 mins" at the URL above.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the recipe name and deciding facts together without overlays. Saved final.png at 1280 x 1200; title, reviews, meat description, and time card share the viewport. Closed the modal with Escape and verified title unobstructed. No filters, sorts, or date constraints applied.
+- [x] Write the result and evidence to ./ANSWER.txt.

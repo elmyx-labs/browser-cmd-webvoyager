@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Cambridge Dictionary",
+    "id": "Cambridge Dictionary--36",
+    "ques": "Search for guidelines on using indirect speech in English, with examples of how to change direct speech to indirect speech, on the Cambridge Dictionary.",
+    "web": "https://dictionary.cambridge.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Cambridge Dictionary’s English Grammar Today guide “Reported speech: indirect speech” provides the requested guidelines and direct-to-indirect examples.\n\nSource: https://dictionary.cambridge.org/grammar/british-grammar/reported-speech-indirect-speech?q=indirect+speech\nAccessed 27 October 2026.\n\nKey guidelines:\n• Statements: use a reporting clause followed by a clause with optional “that”.\n• Yes/no questions: introduce the reported question with “if” or “whether” and use statement word order (subject + verb).\n• Wh-questions: retain the wh-word, use statement word order, and omit the question mark.\n• Commands: use a reporting verb with a to-infinitive; negative commands can use “not to”.\n• Tenses often move back: present simple → past simple; present continuous → past continuous; present perfect and past simple → past perfect; will → would. Past perfect stays unchanged. Backshift is unnecessary when the information remains true or relevant, or the event has not happened yet.\n• Adjust pronouns to match the speaker and listener. Adjust time/place expressions when needed: here → there; tomorrow → the next/following day; now → then.\n\nCambridge examples:\n• ‘I’m tired,’ I said. → I told them (that) I was tired.\n• ‘Are you ready?’ the nurse asked Joel. → The nurse asked Joel if/whether he was ready.\n• ‘Who are you?’ she asked. → She asked me who I was.\n• ‘Leave at once!’ they ordered. → They ordered us to leave at once.\n\nEvidence: final.png shows the Cambridge guide’s title and its opening table comparing direct and indirect statements, questions and commands.",
+    "result_text": "FINAL: Cambridge Dictionary’s English Grammar Today guide “Reported speech: indirect speech” provides the requested guidelines and direct-to-indirect examples.\n\nSource: https://dictionary.cambridge.org/grammar/british-grammar/reported-speech-indirect-speech?q=indirect+speech\nAccessed 27 October 2026.\n\nKey guidelines:\n• Statements: use a reporting clause followed by a clause with optional “that”.\n• Yes/no questions: introduce the reported question with “if” or “whether” and use statement word order (subject + verb).\n• Wh-questions: retain the wh-word, use statement word order, and omit the question mark.\n• Commands: use a reporting verb with a to-infinitive; negative commands can use “not to”.\n• Tenses often move back: present simple → past simple; present continuous → past continuous; present perfect and past simple → past perfect; will → would. Past perfect stays unchanged. Backshift is unnecessary when the information remains true or relevant, or the event has not happened yet.\n• Adjust pronouns to match the speaker and listener. Adjust time/place expressions when needed: here → there; tomorrow → the next/following day; now → then.\n\nCambridge examples:\n• ‘I’m tired,’ I said. → I told them (that) I was tired.\n• ‘Are you ready?’ the nurse asked Joel. → The nurse asked Joel if/whether he was ready.\n• ‘Who are you?’ she asked. → She asked me who I was.\n• ‘Leave at once!’ they ordered. → They ordered us to leave at once.\n\nEvidence: final.png shows the Cambridge guide’s title and its opening table comparing direct and indirect statements, questions and commands.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_277/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_277",
+  "elapsed_seconds": 115.3085470199585,
+  "execution_error": null,
+  "proxy_bytes": 18579516
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210609-67GaXmwP4IqaYEkNZjzo",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task asks to identify which character in the decimal Unicode range 8900 to 8920 looks like a snowflake.\n\nThe response correctly identifies decimal 8903 (Unicode U+22C7, `⋇` / DIVISION TIMES), and the accompanying Wolfram|Alpha screenshot clearly displays this character, its decimal encoding (8903), name, and snowflake-like visual form.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching for Snowflake Characters**\n\nI'm currently examining Unicode characters in the decimal range 8900 through 8920. My focus is specifically on identifying any within this block that visually resemble a snowflake.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching for Snowflake Characters**\n\nI'm currently examining Unicode characters in the decimal range 8900 through 8920. My focus is specifically on identifying any within this block that visually resemble a snowflake.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210609,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 681,
+    "prompt_tokens": 1686,
+    "total_tokens": 2367,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 592,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00381825,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00381825,
+      "upstream_inference_prompt_cost": 0.0012645,
+      "upstream_inference_completions_cost": 0.00255375
+    }
+  },
+  "provider": "Google"
+}

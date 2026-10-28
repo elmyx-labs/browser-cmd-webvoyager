@@ -1,0 +1,31 @@
+{
+  "id": "Apple--27",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "On Apple's website, check if the HomePod mini in store is available in multiple colors and list them.",
+  "answer": "FINAL: Yes. Apple’s online store lists HomePod mini 2 in five colors: White, Pink, Blue, Green, and Midnight. As checked October 27, 2026, it is available for pre-order, with availability starting October 30. Evidence: the product page’s “Color” choices at https://www.apple.com/shop/buy-homepod/homepod-mini and final.png.",
+  "response": "The screenshot shows Apple’s HomePod mini 2 product page with a “Color” section listing five selectable color options: White, Pink, Blue, Green, and Midnight. The result response correctly states that it is available in multiple colors and lists those colors accurately. Extra details about pre-order timing do not conflict with the screenshot.\n\nVerdict: SUCCESS",
+  "reason_short": "The screenshot shows Apple’s HomePod mini 2 product page with a “Color” section listing five selectable color options: White, Pink, Blue, Green, and Midnight. The result response correctly states that it is available in multiple colors and ",
+  "screenshots": [
+    "task_105/final.png"
+  ],
+  "raw_screenshot": "task_105/final.png",
+  "source_result": "task_105",
+  "usage": {
+    "completion_tokens": 206,
+    "prompt_tokens": 1666,
+    "total_tokens": 1872,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 127,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 4.22
+}

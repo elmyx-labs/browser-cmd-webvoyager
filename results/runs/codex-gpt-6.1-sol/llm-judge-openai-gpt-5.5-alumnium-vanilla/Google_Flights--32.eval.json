@@ -1,0 +1,31 @@
+{
+  "id": "Google Flights--32",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for round-trip flights from Stockholm to Toronto, departing on July 3, 2027, and returning on July 10, 2027, and sort the results to find the shortest total travel time.",
+  "answer": "FINAL: Searched Google Flights for a round trip from Stockholm to Toronto, departing July 3, 2027 and returning July 10, 2027, and applied “Sorted by duration.” The first departing result is Scandinavian Airlines: Stockholm Arlanda (ARN) 11:00 AM → Toronto Pearson (YYZ) 3:40 PM on July 3, total travel time 10 hr 40 min, with one stop in Copenhagen (50 min layover). The displayed round-trip fare is RSD 112,100 for one adult in Economy.\nEvidence: final.png shows the route, round-trip dates, duration sort, and first result. Source: https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI3LTA3LTAzagwIAxIIL20vMDZteHNyDAgDEggvbS8waDdoNhooEgoyMDI3LTA3LTEwagwIAxIIL20vMGg3aDZyDAgDEggvbS8wNm14c0ABSAFwAYIBCwj___________8BmAEB&tfu=EgYIBRAAGAA",
+  "response": "The screenshot shows Google Flights with:\n\n- Trip type set to **Round trip**\n- Origin: **Stockholm**\n- Destination: **Toronto**\n- Departure date: **Sat, Jul 3**\n- Return date: **Sat, Jul 10**\n- Results displayed under **Departing flights**\n- Sorting set to **“Sorted by duration”**\n- The top result is Scandinavian Airlines, **11:00 AM – 3:40 PM**, duration **10 hr 40 min**, 1 stop, fare **RSD 112,100 round trip**\n\nThis matches the requested route, dates, and sorting by shortest duration. While the screenshot only shows the departing flight list rather than a fully selected round-trip itinerary with return flight details, the task primarily asked to search and sort the results, which is shown.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The screenshot shows Google Flights with: - Trip type set to **Round trip** - Origin: **Stockholm** - Destination: **Toronto** - Departure date: **Sat, Jul 3** - Return date: **Sat, Jul 10** - Results displayed under **Departing flights** -",
+  "screenshots": [
+    "task_438/final.png"
+  ],
+  "raw_screenshot": "task_438/final.png",
+  "source_result": "task_438",
+  "usage": {
+    "completion_tokens": 692,
+    "prompt_tokens": 1853,
+    "total_tokens": 2545,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 10.21
+}

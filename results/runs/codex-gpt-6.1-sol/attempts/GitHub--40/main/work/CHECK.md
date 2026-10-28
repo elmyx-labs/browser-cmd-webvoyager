@@ -1,0 +1,4 @@
+- [x] Select Sign up on the GitHub homepage. Selected https://github.com/ header link “Sign up”; opened https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home.
+- [blocked] See if email 'test123@gmail.com' already exists. Sign-up returned HTTP 403 and “Access is temporarily restricted”; clean retry, /signup, /join and the homepage email form could not reach email validation.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side. Saved 1280×723 screenshot of the restriction at https://github.com/signup?source=form-home-signup&user_email=test123%40gmail.com. Email validation evidence was unavailable because of the restriction.
+- [x] Write the result and evidence to ./ANSWER.txt.

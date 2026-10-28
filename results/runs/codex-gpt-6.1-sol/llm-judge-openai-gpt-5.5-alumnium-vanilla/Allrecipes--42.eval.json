@@ -1,0 +1,31 @@
+{
+  "id": "Allrecipes--42",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a recipe for banana bread with more than 200 reviews and a rating of at least 4.0 stars on Allrecipes.",
+  "answer": "FINAL: Janet's Rich Banana Bread on Allrecipes has a 4.8/5 rating and 8,333 reviews, meeting both requirements (at least 4.0 stars and more than 200 reviews).\nSource: https://www.allrecipes.com/recipe/17066/janets-rich-banana-bread/\nVerified October 27, 2026. Evidence: final.png shows the recipe name, rating, and review count together.",
+  "response": "The task was to find an Allrecipes banana bread recipe with more than 200 reviews and a rating of at least 4.0 stars.\n\nThe screenshot shows the Allrecipes page for **“Janet’s Rich Banana Bread.”** It displays a rating of **4.8 stars** and **8,333 reviews**, which satisfies both requirements: the rating is above 4.0 and the review count is well over 200. The result response accurately identifies the recipe and the relevant rating/review information shown in the screenshot.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find an Allrecipes banana bread recipe with more than 200 reviews and a rating of at least 4.0 stars. The screenshot shows the Allrecipes page for **“Janet’s Rich Banana Bread.”** It displays a rating of **4.8 stars** and **",
+  "screenshots": [
+    "task_37/final.png"
+  ],
+  "raw_screenshot": "task_37/final.png",
+  "source_result": "task_37",
+  "usage": {
+    "completion_tokens": 224,
+    "prompt_tokens": 1682,
+    "total_tokens": 1906,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 4.8
+}

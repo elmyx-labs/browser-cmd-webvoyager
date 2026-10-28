@@ -1,0 +1,4 @@
+Google Maps search: bus stops in Alanson, MI.
+Result: Alanson (Alanson EZ-Mart).
+Exact listing words: “Stop ID: ALA”; “Bus station”; “Alanson, MI 49706, United States”; “C6Q5+VM Alanson, Michigan, USA”; “Buses”; “Indian Trails”.
+URL: https://www.google.com/maps/place/Alanson+(Alanson+EZ-Mart)/@45.4397526,-84.7934027,17z/data=!3m1!4b1!4m6!3m5!1s0x4d357efc7f0ab687:0x8a2ce3ad3d6149a8!8m2!3d45.4397489!4d-84.7908278!16s%2Fg%2F11g0hm_hg4?hl=en

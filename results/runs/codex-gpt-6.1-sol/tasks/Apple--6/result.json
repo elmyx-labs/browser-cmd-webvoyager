@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Apple",
+    "id": "Apple--6",
+    "ques": "Find AirPods on Apple and how many types are currently available.",
+    "web": "https://www.apple.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Apple currently offers 4 AirPods options: AirPods 5 ($129), AirPods 5 with Wireless Charging Case ($149), AirPods Pro 3 ($249), and AirPods Max 2 ($549).\n\nVerified October 27, 2026 on Apple’s United States website: https://www.apple.com/airpods/\nEvidence: the “Compare AirPods models” section lists all four options, each with a price and Buy button. The count includes both AirPods 5 versions. Screenshot: final.png.",
+    "result_text": "FINAL: Apple currently offers 4 AirPods options: AirPods 5 ($129), AirPods 5 with Wireless Charging Case ($149), AirPods Pro 3 ($249), and AirPods Max 2 ($549).\n\nVerified October 27, 2026 on Apple’s United States website: https://www.apple.com/airpods/\nEvidence: the “Compare AirPods models” section lists all four options, each with a price and Buy button. The count includes both AirPods 5 versions. Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_86/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_86",
+  "elapsed_seconds": 58.57961702346802,
+  "execution_error": null,
+  "proxy_bytes": null
+}

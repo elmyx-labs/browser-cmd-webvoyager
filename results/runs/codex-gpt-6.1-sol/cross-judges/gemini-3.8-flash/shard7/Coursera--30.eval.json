@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--30",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Locate the course 'Modern Art & Ideas' on Coursera offered by The Museum of Modern Art. Find out the percentage (rounded) of 3-star ratings in the reviews and note which star level has the lowest percentage.",
+  "answer": "FINAL: For Modern Art & Ideas by The Museum of Modern Art, 3-star ratings account for 2% (rounded from 2.42%). The lowest percentage is 2-star ratings at 0.63% (1-star: 0.65%).\nSource: https://www.coursera.org/learn/modern-art-ideas/reviews — Overall rating breakdown, viewed October 27, 2026. All Learners, All Stars; default sort: Most Helpful; no date filter applied.\nEvidence: final.png.",
+  "response": "Based on the provided screenshot and task instructions, the evaluation is as follows:\n\n1. **Course Location**: The course \"Modern Art & Ideas\" offered by MoMA (The Museum of Modern Art) on Coursera was successfully located.\n2. **3-Star Rating Percentage**: The review breakdown shows 3 stars at 2.42%, which correctly rounds to 2%.\n3. **Lowest Percentage Star Level**: The ratings show 5 stars (83.11%), 4 stars (13.16%), 3 stars (2.42%), 2 stars (0.63%), and 1 star (0.65%). Thus, the lowest percentage is correctly identified as 2 stars.\n\nAll criteria specified in the instruction have been accurately met.\n\nSUCCESS",
+  "reason_short": "Based on the provided screenshot and task instructions, the evaluation is as follows: 1. **Course Location**: The course \"Modern Art & Ideas\" offered by MoMA (The Museum of Modern Art) on Coursera was successfully located. 2. **3-Star Ratin",
+  "screenshots": [
+    "task_311/final.png"
+  ],
+  "raw_screenshot": "task_311/final.png",
+  "source_result": "task_311",
+  "usage": {
+    "completion_tokens": 423,
+    "prompt_tokens": 1727,
+    "total_tokens": 2150,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 257,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0028815,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0028815,
+      "upstream_inference_prompt_cost": 0.00129525,
+      "upstream_inference_completions_cost": 0.00158625
+    }
+  },
+  "elapsed_seconds": 4.56
+}

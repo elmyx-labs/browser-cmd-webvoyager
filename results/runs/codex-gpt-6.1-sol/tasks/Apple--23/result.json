@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Apple",
+    "id": "Apple--23",
+    "ques": "Determine the price difference between the latest series of Apple Watch and Apple Watch SE on the Apple website.",
+    "web": "https://www.apple.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The latest Apple Watch Series 12 starts at $399, while Apple Watch SE 3 starts at $249—a $150 USD difference, with Series 12 costing more. These are Apple’s U.S. starting prices as viewed on October 27, 2026.\nSource: https://www.apple.com/watch/ — “Explore the lineup.” Evidence: final.png shows both model names and starting prices together.",
+    "result_text": "FINAL: The latest Apple Watch Series 12 starts at $399, while Apple Watch SE 3 starts at $249—a $150 USD difference, with Series 12 costing more. These are Apple’s U.S. starting prices as viewed on October 27, 2026.\nSource: https://www.apple.com/watch/ — “Explore the lineup.” Evidence: final.png shows both model names and starting prices together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_101/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_101",
+  "elapsed_seconds": 48.17017698287964,
+  "execution_error": null,
+  "proxy_bytes": null
+}

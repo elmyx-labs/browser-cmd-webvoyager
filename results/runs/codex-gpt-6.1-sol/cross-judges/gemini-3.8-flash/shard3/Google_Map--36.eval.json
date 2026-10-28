@@ -1,0 +1,41 @@
+{
+  "id": "Google Map--36",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify 5 restaurants serving pizza near the 30309 zip code and rank them by their ratings.",
+  "answer": "FINAL: Five restaurants serving pizza near Atlanta ZIP code 30309, ranked by Google Maps rating (out of 5), checked October 27, 2026:\n\nRank | Restaurant | Rating | Google reviews | Address\n1 | Varasano's Pizzeria - Buckhead | 4.9 | 3,200 | 2171 Peachtree Rd NE, Unit 100\n2 (tie) | Antico Pizza Napoletana | 4.6 | 6,592 | 1093 Hemphill Ave NW\n2 (tie) | Varuni Napoli | 4.6 | 1,531 | 1540 Monroe Dr NE\n4 (tie) | Atwoods Pizza Cafe | 4.5 | 1,114 | 817 W Peachtree St NW, Ste A105\n4 (tie) | Night Owl Pizza- Midtown | 4.5 | 1,344 | 708 Spring St NW\n\nSelected from Google Maps results for “pizza near 30309,” then ranked by star rating; equal ratings share a rank. Maps labels four as pizza restaurants and describes Varuni Napoli as a “Busy spot for Neapolitan pizza.”\n\nSource: https://www.google.com/maps/search/pizza+near+30309/?hl=en\nEvidence: final.png shows all five restaurant names, ratings, review counts and addresses alongside the search query.",
+  "response": "The search results for pizza restaurants near ZIP code 30309 were located on Google Maps. Five restaurants were extracted and correctly ranked in descending order based on their user ratings (4.9, 4.6, 4.6, 4.5, 4.5), fulfilling all task requirements.\n\nSUCCESS",
+  "reason_short": "The search results for pizza restaurants near ZIP code 30309 were located on Google Maps. Five restaurants were extracted and correctly ranked in descending order based on their user ratings (4.9, 4.6, 4.6, 4.5, 4.5), fulfilling all task re",
+  "screenshots": [
+    "task_483/final.png"
+  ],
+  "raw_screenshot": "task_483/final.png",
+  "source_result": "task_483",
+  "usage": {
+    "completion_tokens": 521,
+    "prompt_tokens": 1870,
+    "total_tokens": 2391,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 453,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00335625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00335625,
+      "upstream_inference_prompt_cost": 0.0014025,
+      "upstream_inference_completions_cost": 0.00195375
+    }
+  },
+  "elapsed_seconds": 7.01
+}

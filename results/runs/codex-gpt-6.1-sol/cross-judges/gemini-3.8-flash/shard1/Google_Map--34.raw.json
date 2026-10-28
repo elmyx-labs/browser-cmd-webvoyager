@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210555-a3gQwHX4T88h5KWKbPb7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find a hiking trail within 2 miles of zip code 80202. \n\nThe provided screenshot and response show a clear route from Denver, CO 80202 to the Cherry Creek Trail (located at 2250 15th St, Denver, CO 80202), with a distance of approximately 0.6 miles, which is well within the 2-mile requirement. Therefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Trail Proximity**\n\nI'm currently processing the proximity of suggested hiking trails to the specified zip code, 80202. Initial results indicate Cherry Creek Trail is a viable option, situated a mere 0.6 miles away. Further examination of route data is underway to confirm this.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Trail Proximity**\n\nI'm currently processing the proximity of suggested hiking trails to the specified zip code, 80202. Initial results indicate Cherry Creek Trail is a viable option, situated a mere 0.6 miles away. Further examination of route data is underway to confirm this.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19nM52So5uOfRyLHJJUlo1HbnCaxpKzdht8kXHs0X4lP7SlFlfnAccipITA/YZgCasO3apYPHz2MlCnPClOSsA2nqItQg1wIUkxyNnxWJqLPdtpt3UJ3kq40c0jVVuGtaQwcVcbBGSD/u5YGtw9GCyNQXgCzA4wgoyVF09pGQ9aWD6RICYnqX2BYzGrpxr8SFQR/iD+d9RqT+iIaYYch4GQdxj2OZn74jiDH1d6vmpQq2oms4z5imCOqOKN4kMKu6lkuO9YksBCma910/AiLwNN7KgM7UjLXuQgOE3nICZLzlzkTRgFmXvhIeqEyvNqLRQy6CL283FLp5xCYWY0kTDR0r1HuFGE/eHemiwoN6kmwshpeJAU7Wk4vSgITWICY3kAhacxRUjbTwRsM9pXIu9vL3Ls6X/DP9hDj+/BqPEY2Gxot/nq4fqmDp3d7vZjT0vbB8ym0r95wXPBBy3LYRf+o8p/+5ApS1lUw5XjEGna1ieJ/MJtfTizYeMAuMVLfeZ3jXh7iOxOok666ChPlfEOJcxCRrRmgCmnM6r5bDcAc7t8wbl3R8GqHHSOZl6Eo4I2qmvmoaWcuoM8YvZPkD6oMM3kbaNFL6q5qp7b4bnZWOSZQmY8OZ+kWL8FrO6Rqx0vxZM10yIrjR+Wrfi4/Pt1eHrffpq4uA+KdLjh6DOateAvM+bna+cS+lju6sI8c8dO2Tf+yRtxnzYlJ1GmEvgqV3FNnxElRLFwcTywefI/RB09KgMmYJ1NUNwTSnIdn5fPx2yDX7tcG8QjANqxumH1n0qp64nyl7graU7apqNhgXFgpKhVSt3r9u7EtTzTMl4HvUd4xnV/BaMxYH7Gz8BMlHfUYCbpTwE=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210555,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 250,
+    "prompt_tokens": 1977,
+    "total_tokens": 2227,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 145,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00242025,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00242025,
+      "upstream_inference_prompt_cost": 0.00148275,
+      "upstream_inference_completions_cost": 0.0009375
+    }
+  },
+  "provider": "Google"
+}

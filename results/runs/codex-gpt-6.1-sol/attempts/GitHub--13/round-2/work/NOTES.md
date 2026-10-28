@@ -1,0 +1,4 @@
+GitHub Trending, https://github.com/trending, Date range: Today; listed order begins JetBrains/thinkrail, elayadesign/ai-design-skills, obra/superpowers, HKUDS/DeepTutor. Browser pages for these four did not contain machine-learning in available text.
+Machine Learning topic, https://github.com/topics/machine-learning, offers sorting by Most stars, Fewest stars, Most forks, Fewest forks, Recently updated, Least recently updated; no Trending sort.
+All fourteen entries on GitHub Trending Today were checked in listed order through their GitHub repository pages; none contained machine-learning in available page text.
+https://github.com/topics/machine-learning: first article “tensorflow / tensorflow”, “An Open Source Machine Learning Framework for Everyone”, “Sort: Most stars”, “201k”. Star span title “201,272”, aria-label “201272 users starred this repository”. Browser date October 28, 2026.

@@ -1,0 +1,6 @@
+[x] Identify the top scorer in the NBA from the latest completed game. ESPN summary records for all nine October 26 games verify actual finish order: https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909876 has final play "End of Game", wallclock2026-10-27T04:30:35Z; next latest40190987503:31:07Z, all other seven earlier (see ANSWER.txt). https://www.espn.com/nba/game/_/gameId/401909876 shows "GAME LEADERS", GS Points 31 Y. Lendeborg, DEN Points 21 D. DeRozan. October 27 scoreboard games all live/upcoming.
+[x] Note down the points scored. ESPN game page above: "Points 31 Y. Lendeborg"; profile recent games: Mon 10/26, PTS31.
+[x] Note down the team they play for. https://www.espn.com/nba/player/_/id/5175737/yaxel-lendeborg: "Golden State Warriors".
+[x] Note down their position on the team. ESPN profile above: "Forward".
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the name and deciding facts together with dates visible and no overlay. final.png is 1280×1111, profile name/team/position and recent-games Mon10/26 row PTS31 visible; 2026-27 season visible.
+[x] Write result and evidence to ./ANSWER.txt. Saved with FINAL first line, result, dates, source URLs, and screenshot reference.

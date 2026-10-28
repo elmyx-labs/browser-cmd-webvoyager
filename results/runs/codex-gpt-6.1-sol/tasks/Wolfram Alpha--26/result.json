@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Wolfram Alpha",
+    "id": "Wolfram Alpha--26",
+    "ques": "Convert 15 kilograms of sulfuric acid to moles and display the percentage composition of H, S, and O by weight.",
+    "web": "https://www.wolframalpha.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: 15 kilograms of sulfuric acid (H₂SO₄) is approximately 153 mol. Its composition by weight is H: 2.1%, S: 32.7%, and O: 65.2%.\n\nEvidence: WolframAlpha's “15 kg of sulfuric acid” result shows “molar amount | 153 mol” and the elemental percentages under “Mass composition for 15 kg.” Viewed October 27, 2026.\nSource: https://www.wolframalpha.com/input?i=15+kg+sulfuric+acid\nScreenshot: ./final.png",
+    "result_text": "FINAL: 15 kilograms of sulfuric acid (H₂SO₄) is approximately 153 mol. Its composition by weight is H: 2.1%, S: 32.7%, and O: 65.2%.\n\nEvidence: WolframAlpha's “15 kg of sulfuric acid” result shows “molar amount | 153 mol” and the elemental percentages under “Mass composition for 15 kg.” Viewed October 27, 2026.\nSource: https://www.wolframalpha.com/input?i=15+kg+sulfuric+acid\nScreenshot: ./final.png",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_595/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_595",
+  "elapsed_seconds": 81.75509810447693,
+  "execution_error": null,
+  "proxy_bytes": null
+}

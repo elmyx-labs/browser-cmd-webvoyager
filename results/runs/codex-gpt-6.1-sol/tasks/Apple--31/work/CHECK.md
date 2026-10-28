@@ -1,0 +1,3 @@
+- [x] On Apple's website, what is the slogan for the latest Apple Watch Series. https://www.apple.com/apple-watch-series-12/ — Apple Watch Series 12, “A work of heart.”
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with item's name and slogan visible together and no overlay. final.png (1280 × 723), product name and “A work of heart.” visible.
+- [x] Write final answer and evidence to ./ANSWER.txt, first line FINAL:.

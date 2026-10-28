@@ -1,0 +1,31 @@
+{
+  "id": "Google Map--28",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the search settings for Google Map, what options are shown on that page?",
+  "answer": "FINAL: In Google Maps, open Menu → Search settings. This opens Google’s Search Settings page, with two sections:\n\n• Privacy & Safety: Search customisation (On), SafeSearch (Blurring on), and Parental controls on Family Link.\n• Other settings: Language and region; Dark theme (Device default); Results in a new window (Off); Spoken answers (On); Auto-complete with trending searches (On).\n\nSource: https://www.google.com/preferences?hl=en (opened from Google Maps). Evidence: final.png shows the Other settings section and its displayed values. Observed 27 October 2026; no settings changed.",
+  "response": "The task was to find Google Maps’ “Search settings” page and report what options are shown there.\n\nThe result shows the Google Search settings page opened from Google Maps, with the left navigation containing “Privacy & Safety” and “Other settings.” The screenshot specifically confirms the “Other settings” page, showing:\n\n- Language and region\n- Dark theme — Device default\n- Results in a new window — Off\n- Spoken answers — On\n- Auto-complete with trending searches — On\n\nThe result response also reports the “Privacy & Safety” options as:\n\n- Search customisation — On\n- SafeSearch — Blurring on\n- Parental controls on Family Link\n\nAlthough the screenshot only visually confirms the “Other settings” section, the response provides the remaining options, and per the evaluation instruction, content not shown in the screenshot can be accepted if stated in the response.\n\nOverall, the requested page was found and the options shown on it were reported.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find Google Maps’ “Search settings” page and report what options are shown there. The result shows the Google Search settings page opened from Google Maps, with the left navigation containing “Privacy & Safety” and “Other se",
+  "screenshots": [
+    "task_475/final.png"
+  ],
+  "raw_screenshot": "task_475/final.png",
+  "source_result": "task_475",
+  "usage": {
+    "completion_tokens": 437,
+    "prompt_tokens": 1710,
+    "total_tokens": 2147,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 231,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.23
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210392-dY2IL801v3PoYb0vY2Ge",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to check the NHL Standings for the 2025-26 season on ESPN to identify the top and bottom teams in the Eastern and Western Conferences, as well as the top and bottom teams across each division.\n\nBased on the provided screenshot of the ESPN \"NHL Standings 2025-26\" page (Division view):\n- **Eastern Conference**:\n  - Atlantic: Top team is Buffalo Sabres (109 pts), bottom team is Toronto Maple Leafs (78 pts).\n  - Metropolitan: Top team is Carolina Hurricanes (113 pts), bottom team is New York Rangers (77 pts).\n  - Overall Eastern Conference: Carolina Hurricanes (top) and New York Rangers (bottom).\n- **Western Conference**:\n  - Central: Top team is Colorado Avalanche (121 pts), bottom team is Chicago Blackhawks (72 pts).\n  - Pacific: Top team is Vegas Golden Knights (95 pts), bottom team is Vancouver Canucks (58 pts).\n  - Overall Western Conference: Colorado Avalanche (top) and Vancouver Canucks (bottom).\n\nThe result response accurately reports all required information corresponding directly to the standings in the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Checking NHL Standings**\n\nI'm now focused on the NHL standings for the 2025-26 season on ESPN. I'm taking a look at the Eastern and Western Conference, checking which teams are leading and lagging. I'm also going to see what's happening within each division.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Checking NHL Standings**\n\nI'm now focused on the NHL standings for the 2025-26 season on ESPN. I'm taking a look at the Eastern and Western Conference, checking which teams are leading and lagging. I'm also going to see what's happening within each division.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210392,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 642,
+    "prompt_tokens": 2075,
+    "total_tokens": 2717,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 391,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00396375,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00396375,
+      "upstream_inference_prompt_cost": 0.00155625,
+      "upstream_inference_completions_cost": 0.0024075
+    }
+  },
+  "provider": "Google AI Studio"
+}

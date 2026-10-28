@@ -1,0 +1,9 @@
+- [x] Search for a seafood paella recipe on Allrecipes. Search https://www.allrecipes.com/search?q=seafood+paella led to Spanish Paella: https://www.allrecipes.com/recipe/12728/paella-i/.
+- [x] Minimum of 4.5 stars rating. Recipe shows “4.7”; review section confirms “4.7 out of 5”.
+- [x] At least 50 reviews. Recipe shows “124 Reviews” (separate from “178 Ratings”).
+- [x] Recipe includes shrimp and mussels. Description names both; ingredients list “12 large shrimp, peeled and deveined” and “1 pound mussels, cleaned and debearded”.
+- [x] Provide the ingredients. All 1X ingredients from recipe transcribed in ANSWER.txt.
+- [x] Provide total time. Recipe states “Total Time: 1 hr 30 mins”.
+- [x] Provide an overview of preparation steps. Four directions summarized in ANSWER.txt.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with recipe name and qualifying facts in view and no overlay. Closed the dialog and video using their close buttons. Saved 1440x813 viewport at scroll 90, resized proportionally to 1280x723, and visually verified final.png. Title, 4.7 rating, 124 Reviews, and seafood description are readable together. No filters, sort, or date constraint requested or applied.
+- [x] Write final answer to ./ANSWER.txt. Source, dates, qualifying evidence, full ingredients, timing, and preparation overview included.

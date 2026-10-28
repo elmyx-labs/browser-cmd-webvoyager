@@ -1,0 +1,41 @@
+{
+  "id": "Booking--5",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search a hotel with free WiFi and air conditioning in Bali from October 1 to October 4, 2027.",
+  "answer": "FINAL: Adhi Jaya Hotel in Kuta, Bali matches: check-in October 1, 2027, check-out October 4, 2027 (3 nights), with free WiFi and air conditioning.\n\nBooking.com shows a Superior Double or Twin Room for the search's default 2 adults and 1 room. Its hotel listing explicitly includes “Free Wifi” and “Air conditioning.”\n\nSource: https://www.booking.com/hotel/id/adhi-jaya.html\nEvidence: final.png shows Adhi Jaya Hotel in the Bali results with the dates and the applied Hotels, Free Wifi, and Air conditioning filters visible; sort is Our top picks. The search URL confirms checkin=2027-10-01 and checkout=2027-10-04.",
+  "response": "**Evaluation:**\n\nThe search was conducted on Booking.com for Bali with the specified dates (October 1 to October 4, 2027). The required filters for \"Free Wifi\", \"Air conditioning\", and \"Hotels\" were applied, successfully displaying eligible properties such as the Adhi Jaya Hotel. All criteria of the task were met.\n\n**Verdict:** SUCCESS",
+  "reason_short": "**Evaluation:** The search was conducted on Booking.com for Bali with the specified dates (October 1 to October 4, 2027). The required filters for \"Free Wifi\", \"Air conditioning\", and \"Hotels\" were applied, successfully displaying eligible ",
+  "screenshots": [
+    "task_207/final.png"
+  ],
+  "raw_screenshot": "task_207/final.png",
+  "source_result": "task_207",
+  "usage": {
+    "completion_tokens": 275,
+    "prompt_tokens": 1762,
+    "total_tokens": 2037,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 197,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00235275,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00235275,
+      "upstream_inference_prompt_cost": 0.0013215,
+      "upstream_inference_completions_cost": 0.00103125
+    }
+  },
+  "elapsed_seconds": 5.19
+}

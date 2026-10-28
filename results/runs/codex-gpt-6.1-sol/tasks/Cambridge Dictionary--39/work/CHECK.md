@@ -1,0 +1,3 @@
+- [x] Try the Word Scramble game in the Plus section, just the first example. https://dictionary.cambridge.org/plus/games/word-scramble — SHRINK; “to become smaller, or to make something smaller”; Score: 15 after retry.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the result without overlays. final.png is a 1280 × 681 viewport capture of the game result, with no unrelated overlay covering it.
+- [x] Write ./ANSWER.txt with the result and its evidence.

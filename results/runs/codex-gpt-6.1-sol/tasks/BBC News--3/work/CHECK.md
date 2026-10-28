@@ -1,0 +1,5 @@
+[x] Check the leaderboard for Golf's DP World Tour in the SPORT section. URL: https://www.bbc.com/sport/golf/european-tour/leaderboard; selected tab reads “DP World Tour”.
+[x] What was the name of the most recent tournament. Same URL: “Genesis Championship”; “21 - 25 October 2026”.
+[x] How many teams have a Total of -10 strokes. Same URL: table header “Player”, “Total”; seven rows at -10: Jorge Campillo, Antoine Rozner, Sang-Hun Shin, Casey Jarvis, Ryan Fox, Filippo Celli, Si-Woo Kim. All tied rank 4, followed by rank 11 at -9.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing tournament name and deciding totals together, with filters, sorts and dates visible and no overlay. final.png: 1280x1000; selected DP World Tour, tournament name and date, all seven -10 rows and adjacent -11 and -9 totals visible. Default rank order visible.
+[x] Write final result and evidence to ./ANSWER.txt. First line begins “FINAL:”; tournament, date, count, individual player clarification, source URL and screenshot stated.

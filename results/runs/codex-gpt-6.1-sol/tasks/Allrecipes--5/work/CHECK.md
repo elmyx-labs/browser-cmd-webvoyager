@@ -1,0 +1,5 @@
+[x] Search for a popular Pasta Sauce on https://www.allrecipes.com/. Searched https://www.allrecipes.com/search?q=pasta+sauce and selected the related recipe under “Pasta Sauces”.
+[x] More than 1000 reviews and a rating above 4 stars. https://www.allrecipes.com/recipe/158140/spaghetti-sauce-with-ground-beef/ shows “Homemade Spaghetti Sauce with Ground Beef”, “4.7” and “1,178 Reviews”.
+[x] Create a shopping list of ingredients for this recipe. ANSWER.txt transcribes all 11 ingredients from “Original recipe (1X) yields 8 servings” at the selected URL.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with recipe name and deciding values together and no overlay. final.png is the 1280×723 viewport screenshot showing the complete title, 4.7 and 1,178 Reviews; no filters, sorts or date restrictions applied.
+[x] Write result and evidence to ./ANSWER.txt, first line FINAL:. Includes qualifying result, review/rating distinction, source URL, verification date and shopping list.

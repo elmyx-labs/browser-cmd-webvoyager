@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyfNBlXJfVCvF4YcXSWTUNmDefNX",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The screenshot shows Google Flights with:\n\n- Trip type set to **One way**\n- Route: **Mumbai → Vancouver**\n- Date: **Wed, Jul 28**; the provided response/source indicates this is **July 28, 2027**\n- Stops filter applied as **“1 stop or fewer”**\n- Visible results all labeled **“1 stop”**\n\nThe response also states that after expanding the results, all returned itineraries were labeled **1 stop**, and explains that Google Flights does not provide an exact “1 stop only” filter—only “1 stop or fewer.” Since no nonstop flights appeared and the displayed results are 1-stop flights, this satisfies the practical intent of filtering to show only 1-stop flights.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196701,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 637,
+    "prompt_tokens": 1886,
+    "total_tokens": 2523,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 473,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

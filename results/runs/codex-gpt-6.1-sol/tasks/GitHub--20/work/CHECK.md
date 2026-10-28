@@ -1,0 +1,3 @@
+[x] Open GitHub Copilot's FAQs to find the official answer to when Copilot chat can be used on mobile. — https://github.com/features/copilot, General FAQ: “All plans are supported in GitHub Copilot in GitHub Mobile.”
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and facts together and no overlay. — final.png is 1280×723 and shows the expanded platform-support question and mobile-plan facts together.
+[x] Write the result and its evidence to ./ANSWER.txt. — ANSWER.txt begins FINAL: and includes the official FAQ URL, access date, and screenshot reference.

@@ -1,0 +1,5 @@
+- [x] Locate an open-source conversational AI model on Hugging Face. https://huggingface.co/HuggingFaceH4/zephyr-7b-beta — "Model Card for Zephyr 7B β"; "License: MIT".
+- [x] Verify that the model is trained in English. Same source — "Language(s) (NLP): Primarily English".
+- [x] List its main features and applications. Same source — "A 7B parameter GPT-like model", "Direct Preference Optimization (DPO)", "trained to act as helpful assistants", "the model can be used for chat"; Transformers system/user chat example. Listed in ANSWER.txt.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the model name and deciding facts together with no overlay. final.png is 1280×723; model card name, assistant purpose, architecture, English and MIT appear together. Screenshot taken at scrollY=430 on the source page; no filters, sorting or date restrictions apply to this model-card result. Only final.png was read as an image.
+- [x] Write the result and evidence to ./ANSWER.txt, beginning with FINAL:. Source URL, access date and final.png included.

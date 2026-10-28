@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--2",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Look for the trending Python repositories on GitHub with most stars.",
+  "answer": "FINAL: github/spec-kit has the most total stars among GitHub's trending Python repositories for Today, checked October 28, 2026.\n\nTop three by total stars:\n1. github/spec-kit — 143,471 stars; 386 stars today. https://github.com/github/spec-kit\n2. TauricResearch/TradingAgents — 117,608 stars; 727 stars today. https://github.com/TauricResearch/TradingAgents\n3. debpalash/VoiceStudio — 92,190 stars; 1,831 stars today. https://github.com/debpalash/VoiceStudio\n\nI chose the Today range and ranked the listed repositories by their displayed total stars. VoiceStudio leads by stars gained today.\nSource: https://github.com/trending/python?since=daily — Language: Python; Date range: Today. Screenshot evidence: final.png.",
+  "response": "The user requested to look for the trending Python repositories on GitHub with the most stars. \n\nThe screenshot shows GitHub's Trending page filtered by `Language: Python` and `Date range: Today`. \nAmong the listed repositories:\n- `github / spec-kit` has 143,471 stars (the highest total stars on the list).\n- `TauricResearch / TradingAgents` has 117,608 stars.\n- `debpalash / VoiceStudio` has 92,190 stars (and the most stars gained today: 1,831 stars).\n\nThe result response correctly identifies these repositories, their star counts, and answers the prompt accurately based on the evidence.\n\nSUCCESS",
+  "reason_short": "The user requested to look for the trending Python repositories on GitHub with the most stars. The screenshot shows GitHub's Trending page filtered by `Language: Python` and `Date range: Today`. Among the listed repositories: - `github / sp",
+  "screenshots": [
+    "task_369/final.png"
+  ],
+  "raw_screenshot": "task_369/final.png",
+  "source_result": "task_369",
+  "usage": {
+    "completion_tokens": 647,
+    "prompt_tokens": 1772,
+    "total_tokens": 2419,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 489,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00375525,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00375525,
+      "upstream_inference_prompt_cost": 0.001329,
+      "upstream_inference_completions_cost": 0.00242625
+    }
+  },
+  "elapsed_seconds": 7.55
+}

@@ -1,0 +1,14 @@
+FINAL: Text Embeddings Inference (TEI) is a toolkit for efficiently deploying and serving open-source text embedding models. Its main strengths are:
+
+- Easier deployment: no model graph compilation step is required.
+- Lightweight, fast startup: small Docker images and rapid boot times suit serverless deployment; Safetensors weight loading also speeds startup.
+- Efficient inference: token-based dynamic batching improves resource utilization, while optimized transformer code uses Flash Attention, Candle, and cuBLASLt.
+- Production observability: distributed tracing through OpenTelemetry and exported Prometheus metrics help monitor the service.
+- Support for popular embedding models: the documentation names FlagEmbedding, Ember, GTE, and E5.
+
+Evidence: Hugging Face's official TEI documentation source, introduction and “Key Features,” read in the browser on October 27, 2026:
+https://github.com/huggingface/text-embeddings-inference/blob/main/docs/source/en/index.md
+
+The Hugging Face Docs website returned HTTP 429, including after a clean retry and direct documentation paths. The summary therefore uses the official documentation source in Hugging Face's GitHub repository.
+
+Screenshot: final.png shows the toolkit's name, introduction, and all six documented key features together.

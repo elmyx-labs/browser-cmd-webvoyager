@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyffKURTwgcTlYD3ncSWfRizh2lB",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to show a list of comedy movies sorted by user ratings and provide the Top 5 movies.\n\nThe screenshot shows IMDb Advanced Title Search with the filters **Movie** and **Comedy** applied, and the results are sorted by **User rating** in descending order. The visible top results match the Result Response:\n\n1. *La Herencia de los Ramírez* — 10  \n2. *Dark plague birds. Funny filming* — 10  \n3. *Fantasy Football* — 9.9  \n4. *Om Ka Hari* — 9.8  \n5. *Tails California* — 9.8  \n\nThe response accurately lists the Top 5 shown in the screenshot and includes ratings and vote counts. No minimum vote count was requested, so using IMDb’s default/user-rating sort without a vote threshold is acceptable.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196719,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 322,
+    "prompt_tokens": 2166,
+    "total_tokens": 2488,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 134,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

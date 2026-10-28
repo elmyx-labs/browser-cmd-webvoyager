@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--15",
+    "ques": "Locate a repository on GitHub related to 'quantum computing' that has been updated within the last week and has at least 50 stars. Provide a brief description of the project.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: JanLahmann/Fun-with-Quantum — https://github.com/JanLahmann/Fun-with-Quantum\nA project that teaches quantum computing through games and Qiskit-based Jupyter notebooks exploring superposition, interference and entanglement.\nVerified October 28, 2026: 56 stars; latest commit October 28, 2026 at 03:44 EDT, within the last week (October 21–28).\nGitHub search used stars:>=50 and pushed:2026-10-21..2026-10-28, sorted by Recently updated: https://github.com/search?q=%22quantum+computing%22+stars%3A%3E%3D50+pushed%3A2026-10-21..2026-10-28&type=repositories&s=updated&o=desc\nEvidence: final.png shows the repository name, 56 stars and “Updated 3 hours ago.” GitHub did not visibly render the applied query/date filters on the results page.",
+    "result_text": "FINAL: JanLahmann/Fun-with-Quantum — https://github.com/JanLahmann/Fun-with-Quantum\nA project that teaches quantum computing through games and Qiskit-based Jupyter notebooks exploring superposition, interference and entanglement.\nVerified October 28, 2026: 56 stars; latest commit October 28, 2026 at 03:44 EDT, within the last week (October 21–28).\nGitHub search used stars:>=50 and pushed:2026-10-21..2026-10-28, sorted by Recently updated: https://github.com/search?q=%22quantum+computing%22+stars%3A%3E%3D50+pushed%3A2026-10-21..2026-10-28&type=repositories&s=updated&o=desc\nEvidence: final.png shows the repository name, 56 stars and “Updated 3 hours ago.” GitHub did not visibly render the applied query/date filters on the results page.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_382/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_382",
+  "elapsed_seconds": 214.73725485801697,
+  "execution_error": null,
+  "proxy_bytes": 19023033
+}

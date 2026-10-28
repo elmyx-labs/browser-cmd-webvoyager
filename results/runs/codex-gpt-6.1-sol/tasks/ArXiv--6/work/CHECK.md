@@ -1,0 +1,3 @@
+- [x] How many figures and tables are in the paper "On the Sentence Embeddings from Pre-trained Language Models"? https://arxiv.org/html/2011.05864v1 — captions Figure 1, Figure 2; Tables 1–8, including "Table 7: Flow hyperparameters" and "Table 8: Results with different random seeds".
+- [blocked] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the paper name and deciding facts together. Saved genuine viewport final.png at 1280 × 723 showing Tables 7–8, with no pop-up or announcement covering it. The title and both complete counts could not be displayed together in one viewport.
+- [x] Write the result and evidence to ./ANSWER.txt. Saved result, source URL, and screenshot limitation.

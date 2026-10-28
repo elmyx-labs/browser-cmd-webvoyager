@@ -1,0 +1,4 @@
+[x] Check ESPN NCAAM standings currently for America East Conference. URL: https://www.espn.com/mens-college-basketball/standings/_/group/1; page heading “Am. East Men's College Basketball Standings - 2025-26”; filters Am. East and 2025-26.
+[x] Identify teams with equal wins and losses and record deciding values. All nine conference and overall W-L records inspected (NOTES.md); none has wins equal to losses. New Hampshire Wildcats and Bryant Bulldogs each have conference W-L 5-11.
+[x] Save one genuine viewport screenshot as ./final.png, about 1280 px long side, showing names, values and filters without overlays. final.png is the browser viewport proportionally shrunk to 1280x723, visually read and verified.
+[x] Write result and evidence to ./ANSWER.txt. Includes result, displayed season, check date, ESPN URL, and final.png evidence.

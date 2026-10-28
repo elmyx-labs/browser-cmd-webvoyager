@@ -1,0 +1,4 @@
+[x] Retrieve an example of a pre-trained language model in natural language processing. https://huggingface.co/google-t5/t5-small — "Model type: Language model"; "The model is pre-trained on the Colossal Clean Crawled Corpus (C4)".
+[x] Identify the tasks it is specifically designed for, like translation or text summarization. Same model card, Uses — "machine translation, document summarization, question answering, and classification tasks (e.g., sentiment analysis)"; regression by predicting numbers as strings.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and decisive facts visible together and no overlays. final.png is 1280 × 723; T5-Small, language-model type and Uses are visible. No filters, sorts or date constraints were requested or applied.
+[x] Write the result and its evidence to ./ANSWER.txt. Written with model, tasks, pre-training evidence and source URL.

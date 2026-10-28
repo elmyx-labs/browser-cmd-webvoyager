@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210143-AxxPoOwvw3r3YP6KsSvS",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a search for a hotel in Toronto with a fitness center and a rating of 8+, available for a two-night stay from July 5 to July 7, 2027.\n\nThe screenshot and final response demonstrate that:\n1. Destination was set to Toronto.\n2. Dates were set to Mon, Jul 5 – Wed, Jul 7 (2027).\n3. The filters for \"Hotels\", \"Very Good: 8+\", and \"Fitness center\" were applied.\n4. A matching available hotel (\"Riu Plaza Toronto\" with an 8.8 rating) was identified with available room options.\n\nAll requirements have been met.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Confirming Destination Details**\n\nI've confirmed the destination is indeed Toronto, with 66 properties identified. My focus now is on refining these results based on the other criteria.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Confirming Destination Details**\n\nI've confirmed the destination is indeed Toronto, with 66 properties identified. My focus now is on refining these results based on the other criteria.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19Xn24uQJAj3ZaHArUifavpR2SEqkIq+kdxjnwJqxCY9/muTgHRyjMMWQQaw70UbLMyDKUmLaG//bf7/Y+Gw7PK9mxFNewXpmB4dt9cRDLi+pnzwXzLQrpBy0QETmMOohA1glTP5oMYANvCk4Y7f9MlEFXkBsLFz23yNSg85WRLaL5jXGMDFDqECkXCJyF02oNS6X1hcZ6V1BdZozbsfO0YzOT4oBeNsq+Ac/RimUmzhr/qDs0UYeUxvObtv6X1kctg03uFP45pKPdloTx1P8lvRT6HMkPUveh5plWJ0TiIBtBYs4kDiblxSIoBiQbQnzLOCy+P8y1Z0aSvY+YwZH1+OT854ruomO/aNut7+E2cExKGSE97fXgnPvnu+qE9To6ugya/iFmtplDc5UN9zH4Dktxjz/5DJaUP95c2ABwldefQr+TSzaUyATuV4ZNm/vIX5k9jIp6jdaxxnK5pagrYKN2LZncoMNiGBLMhb2ldq97mFyEOHLv/evhBPQ7ol2RaL0pkDT46e9xUmOsYEvppiWmRYSfKpqXO25XBKCu2NXUgZU7tZnr2tbg9VqdQMSPyX4xWJR4AqTF+Lgssn5DMYaBk7Fkt8SRCSV4efsMxYseOjpzpJNQ0Nd+SsoEeUYPvJcAqfEIsPm+TKO2LyvKeMkiw8SKMCbfHwvthrizRC114mkokFfmD2aqipTh4/9SnqUYnVR2ORf6H4IcWKoJD5uaq53GNo9263oJNjOYmU82BWxO0WSb/M/OM68OPxsAGw5gsWC1HYR7eLmySwberIpcfz/qLbvAn8ZMdZv3iah+RoMLUZTv7Q6SLI1oIGt8W47HRsqMPYYh/K6Nys1KbOgz68DeHhT2Yx3etEDB35onplDjVDWNv+0apuhKqBj32SP3sNfei22QyYKYdx6HoWpu8zxh5YnWfa3StfixBZVHppn/VD0pFYRMnETlc44lkPRxUT5r/EH/xu4wbKHiIqFyXLr3cr9o01M3eaI4oscTfH7vxQyPJCNxcYK8E7TyXeBScGK9E+k03BAb+6QEZGVgLBOosrB+VgFx93r02NFL0l6V3GuKYHU/BMmuhESRAGicXcRjsL3B/CHT6QabE5ev8xgFLZc4bxyfXv+oGcrA2bQbdyslbrVMHZzin3U/aYb3ieDcn1njgqTeCYeqi2dJhvMDglXP/Vfq+FiAQCIw3GAf8jTv7kvFTZpQewNnsX8T5Qosrz1PrWoUvQJQ6/wAzsBlq88Igv5PmjKZUZLMpKtNiCthiAUgtYJ9Xf6MuBPA6axRGr5GVyMpTfBbhb6L2pqpIBFdEMy/qzZpGx6ZAgpuzPcWYQasKiVchDAU6cnCH7fz+JcEw05OCDtijjrzIKMTu8hcrav+4A++sFwJM5XZbPNsMGfk6N6Ln2yKYNtVTCp2rkpxKbk+Biw0KV0V0FhlpKyQdmk9D9K8lF7s91w==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210143,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 396,
+    "prompt_tokens": 1925,
+    "total_tokens": 2321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 249,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00292875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00292875,
+      "upstream_inference_prompt_cost": 0.00144375,
+      "upstream_inference_completions_cost": 0.001485
+    }
+  },
+  "provider": "Google"
+}

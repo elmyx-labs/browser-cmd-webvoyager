@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--18",
+    "ques": "Identify and report the most popular (in terms of stars) open-source image processing tool on GitHub.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: OpenCV (opencv/opencv) is the most-starred open-source image-processing tool, with approximately 91,400 GitHub stars as of October 28, 2026.\n\nEvidence: GitHub’s Image processing topic page, with Language set to All and Sort set to Most stars, ranks OpenCV first at 91.4k stars. Its repository identifies it as the “Open Source Computer Vision Library” and lists an Apache-2.0 license.\n\nRanking: https://github.com/topics/image-processing?o=desc&s=stars\nRepository and license: https://github.com/opencv/opencv\nScreenshot: final.png",
+    "result_text": "FINAL: OpenCV (opencv/opencv) is the most-starred open-source image-processing tool, with approximately 91,400 GitHub stars as of October 28, 2026.\n\nEvidence: GitHub’s Image processing topic page, with Language set to All and Sort set to Most stars, ranks OpenCV first at 91.4k stars. Its repository identifies it as the “Open Source Computer Vision Library” and lists an Apache-2.0 license.\n\nRanking: https://github.com/topics/image-processing?o=desc&s=stars\nRepository and license: https://github.com/opencv/opencv\nScreenshot: final.png",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_385/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_385",
+  "elapsed_seconds": 76.96173596382141,
+  "execution_error": null,
+  "proxy_bytes": 8730669
+}

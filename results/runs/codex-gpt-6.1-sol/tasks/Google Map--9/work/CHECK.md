@@ -1,0 +1,3 @@
+[x] Find the art gallery that is nearest to Los Angeles Hindu Temple. Google Maps nearby art galleries and walking route: Honor Fraser Gallery, 2622 S La Cienega Blvd; temple at 2626; "1 min (33 ft)". URL in ANSWER.txt; official address https://honorfraser.com/contact/ says "2622 S. LA CIENEGA BLVD".
+[x] Save one genuine screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side, showing the item's name and deciding facts together. final.png is a 1280 px viewport screenshot of Maps walking directions; both names, addresses, distance and walking mode visible; no open dialog or overlay.
+[x] Write the result and its evidence to ./ANSWER.txt. Written with FINAL: first line, result, distance and source URLs.

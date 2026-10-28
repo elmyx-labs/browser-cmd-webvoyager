@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210625-SjIJydSWaOiiQM9UwbQK",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user asked for the approximate Heart Rate Reserve (HRR) of a 50-year-old man with a resting heart rate of 60 bpm.\n\nThe screenshot of Wolfram|Alpha shows:\n- Resting heart rate: 60 bpm\n- Gender: male\n- Age: 50 years\n- Karvonen heart rate reserve formula result: 110 bpm\n\nThe textual response accurately states 110 bpm along with the formula and values used.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Calculating Heart Rate Reserve**\n\nI'm refining the calculation for heart rate reserve. My current focus is on confirming the established formula and applying it accurately to the specific parameters provided. The estimate is coming into clearer focus.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Calculating Heart Rate Reserve**\n\nI'm refining the calculation for heart rate reserve. My current focus is on confirming the established formula and applying it accurately to the specific parameters provided. The estimate is coming into clearer focus.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+yRcdyXEGDis6iKJoLG7dl+OVOgLq5T3t2YjHxtqSvZWvh0Uwvr+lIlFZIyH8bZ/yPAOaKU0pg8RTkBybRLH+LYpjqgF7HZV3aWBllH6TfNX0hTcYxRNCvWVcJiIs2qf1nLSscvKewguTVLzLDM36KNPW2lqR6YGjmtRtMeykqUWSJbBIx1FzIBNbOA1UCVbNl+JToTB2vYYX+/IIYvw1R5TPKXF7L0bmWJ38Ie8GAgAAU4aIVPRtbwU2XEMNtcq2qDvkrtAM+Auk79VpvEpk9OVufNmLEVmw8O3yqzXtUShcA24SuiofInaBE1qC+oRo0hrKxzPzmZsOxB6jYqg+vcghfm6FnP4OdcOPIBhKZczbqJAdveseXHtIpoGrXRhw0+Lx7L533X4sUcfh4ZbaEaa/dt4l9ldPPjFTdrHbHN68GkVFz3slbGZNOctwabv79JgzSjZRt3fNXtuGmAi1ObhpXJnwPgO+BxFwqQNAdpNI82nEnoMeNokFCB2IUfZZ1aHlBscGsfDi++eg7NsOS7z9HR3zu93AhpJzWX0HFKqlTr1+Wjn3LdUlcm5VSgKyIhJTU+gfFemOP4j7/HX63ZELjqAC1uJdtzYbv/jaqQY8hgKhE/CCctzyLlniQWwbKLDb7QUxMb2NQYavr9m7vX5THUw0kzzT0SwEb7EbFSX+lk9QBdCG09pxPgMUMWxkhSgw7QsAbHgbzibe/VJ0B/ft1v06kXv6mjjug6899hiIBj5mzAmWCQCy7/bl5i6rSOixy4YS1hpjWsFo/N7a3OdXsb+HjeKh8XbKSrV7am17SXpbkcM9cVycrTfgqpQOnYDwFHXNRNwEvQspk9OzeDKZ4tpAQuBUhnI49Xeqo9knU9wLH12acP21dGez6l7W/mi2aNGzSBU2MZ7DlZg3mRcwzCR3pUnpXMHNCKZEliiwEQgyZorFdZJuBA5LL2DP/i6YVP6/7j7HQGWmQTt3T9Xw6XI0iKWO8ad0Z8YasyRYIap/gl3y4/L0kRXoOBmH8etV98pGYkfK0vvNu4221bkofij//wqwaxCdL8FRddmavLLM1KokizvTDQ9ahDl4HV7UihENYWbHU2H+VMy8pDbbFNjSQnd7YRjSsc8exaBjjwU3qCM5JnmRvSXZoMbFKpILVPYC7p9u0CmcR52VWKNRObbYS6GiJ/zn5ORzd03pI/OE0tAKK9b99wu5C2anivFSixdtI8YrmwNadzSKrZIq8oGfGD+JjuTCgITwRh5msLL2vt9HxJorzcavi7u4//+ykW/KaGq057GQu1KLN6BRGIPWnBbN9B1mRgSFd5hA=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210625,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 314,
+    "prompt_tokens": 1723,
+    "total_tokens": 2037,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 211,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00246975,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00246975,
+      "upstream_inference_prompt_cost": 0.00129225,
+      "upstream_inference_completions_cost": 0.0011775
+    }
+  },
+  "provider": "Google"
+}

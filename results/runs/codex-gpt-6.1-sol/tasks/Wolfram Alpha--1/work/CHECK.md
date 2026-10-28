@@ -1,0 +1,3 @@
+- [x] Give a constraint on the set of inequalities for the inner region of the pentagram. https://www.wolframalpha.com/input?i=pentagram+variable+constraints — “pentagram | variable constraints”; “a>0”; “a: distance between vertices with offset two.”
+- [x] Save one genuine screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side, with the item's name and deciding values in view. final.png is the resized viewport showing the above result and definition, without a pop-up, banner or open dialog over it.
+- [x] Write the result and its evidence to ./ANSWER.txt. Written with result, source URL, access date and screenshot reference.

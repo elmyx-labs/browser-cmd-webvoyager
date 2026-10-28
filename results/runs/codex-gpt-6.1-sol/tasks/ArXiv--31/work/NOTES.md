@@ -1,0 +1,7 @@
+Search: https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=%22Graph+Neural+Networks%22&terms-0-field=abstract&classification-physics_archives=all&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2024-01-01&date-to_date=2024-01-03&date-date_type=submitted_date_first&abstracts=show&size=50&order=-announced_date_first
+Search words: Showing 1–3 of 3 results; from 2024-01-01 to 2024-01-03; AND abstract="Graph Neural Networks". Original submission date selected.
+Date range help: lower bound of From date and upper bound of To date are used.
+https://arxiv.org/abs/2401.01384 — Strong Transitivity Relations and Graph Neural Networks — Submitted on 1 Jan 2024; Yassin Mohamadi, Mostafa Haghir Chehreghani (2 authors). Abstract contains Graph Neural Networks.
+https://arxiv.org/abs/2401.00755 — Saliency-Aware Regularized Graph Neural Network — Submitted on 1 Jan 2024; Wenjie Pei, Weina Xu, Zongze Wu, Weichao Li, Jinfan Wang, Guangming Lu, Xiangrong Wang (7 authors). Abstract contains graph neural networks.
+https://arxiv.org/abs/2401.00713 — Graph Neural Networks in Intelligent Transportation Systems: Advances, Applications and Trends — Submitted on 1 Jan 2024 (v1); Hourun Li, Yusheng Zhao, Zhengyang Mao, Yifang Qin, Zhiping Xiao, Jiaqi Feng, Yiyang Gu, Wei Ju, Xiao Luo, Ming Zhang (10 authors). Abstract contains Graph Neural Networks.
+Result: 2 papers have more than five authors.

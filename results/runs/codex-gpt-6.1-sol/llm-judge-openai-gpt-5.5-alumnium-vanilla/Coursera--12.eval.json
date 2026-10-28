@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--12",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Look for a Coursera course (not Specialization) that teaches Java programming basics.",
+  "answer": "FINAL: Java Programming for Beginners by IBM is a Coursera course, not a Specialization. It is beginner level and teaches Java basics including data types, variables, operators, control flow, arrays, and strings.\nSource: https://www.coursera.org/learn/java-for-programming-beginners\nEvidence: final.png shows the course title, course designation, beginner level, and learning topics together.",
+  "response": "The task was to find a Coursera course, specifically not a Specialization, that teaches Java programming basics.\n\nThe provided screenshot shows a Coursera page for **“Java Programming for Beginners”** by IBM / IBM Skills Network. It is presented as a **course** page, with wording such as “This course is part of multiple programs,” and the URL in the response is a `/learn/` Coursera course URL rather than a Specialization URL. The page also shows it is **Beginner level** and includes Java fundamentals such as data types, variables, operators, control flow statements, arrays, strings, and setting up a Java environment.\n\nThis matches the task requirements.\n\n**Verdict: SUCCESS**",
+  "reason_short": "The task was to find a Coursera course, specifically not a Specialization, that teaches Java programming basics. The provided screenshot shows a Coursera page for **“Java Programming for Beginners”** by IBM / IBM Skills Network. It is prese",
+  "screenshots": [
+    "task_295/final.png"
+  ],
+  "raw_screenshot": "task_295/final.png",
+  "source_result": "task_295",
+  "usage": {
+    "completion_tokens": 301,
+    "prompt_tokens": 1999,
+    "total_tokens": 2300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 149,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.21
+}

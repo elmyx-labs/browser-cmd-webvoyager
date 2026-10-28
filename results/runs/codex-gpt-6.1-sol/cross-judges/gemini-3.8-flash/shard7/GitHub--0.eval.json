@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--0",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for an open-source project related to 'climate change data visualization' on GitHub and report the project with the most stars.",
+  "answer": "FINAL: resource-watch/resource-watch (Resource Watch) — 73 stars, the highest-starred result in GitHub's repository search for “climate change data visualization,” sorted by Most stars, checked October 28, 2026. It is MIT-licensed and visualizes data about climate change and other global challenges.\nProject: https://github.com/resource-watch/resource-watch\nEvidence: https://github.com/search?q=climate+change+data+visualization&type=repositories&s=stars&o=desc (543 results; Resource Watch ranked first with 73 stars). Screenshot: final.png.",
+  "response": "Based on the screenshot and the provided response:\n\n1. The user searched GitHub for repositories related to \"climate change data visualization\" sorted by \"Most stars\".\n2. The search results show that `resource-watch/resource-watch` ranks first with 73 stars.\n3. The response accurately reports this open-source project, its details, and star count.\n\nThe task has been successfully accomplished.\n\nSUCCESS",
+  "reason_short": "Based on the screenshot and the provided response: 1. The user searched GitHub for repositories related to \"climate change data visualization\" sorted by \"Most stars\". 2. The search results show that `resource-watch/resource-watch` ranks fir",
+  "screenshots": [
+    "task_367/final.png"
+  ],
+  "raw_screenshot": "task_367/final.png",
+  "source_result": "task_367",
+  "usage": {
+    "completion_tokens": 356,
+    "prompt_tokens": 1726,
+    "total_tokens": 2082,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 269,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0026295,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0026295,
+      "upstream_inference_prompt_cost": 0.0012945,
+      "upstream_inference_completions_cost": 0.001335
+    }
+  },
+  "elapsed_seconds": 4.72
+}

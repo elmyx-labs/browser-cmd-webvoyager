@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--22",
+    "ques": "Find an open-source repository on GitHub focused on natural language processing in Ruby, updated within the last week.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: roman-haidarov/static_embeddings — https://github.com/roman-haidarov/static_embeddings\n\nAn open-source Ruby NLP library for fast local text embeddings, tagged “nlp” and “ruby” and released under the MIT license. Its latest commit, 9b3b25c, is dated October 28, 2026 at 03:12 UTC (“8 hours ago”), within the last week as of October 28, 2026. The repository describes itself as “Fast local static text embeddings for Ruby using mmap-backed model files.”\n\nEvidence: the repository page shows the name, Ruby description, NLP topic, MIT license, and recent commit together in final.png. GitHub search also returned it with topic:nlp language:Ruby license:mit pushed:2026-10-21..2026-10-28, sorted by Recently updated:\nhttps://github.com/search?q=topic%3Anlp+language%3ARuby+license%3Amit+pushed%3A2026-10-21..2026-10-28&type=repositories&s=updated&o=desc",
+    "result_text": "FINAL: roman-haidarov/static_embeddings — https://github.com/roman-haidarov/static_embeddings\n\nAn open-source Ruby NLP library for fast local text embeddings, tagged “nlp” and “ruby” and released under the MIT license. Its latest commit, 9b3b25c, is dated October 28, 2026 at 03:12 UTC (“8 hours ago”), within the last week as of October 28, 2026. The repository describes itself as “Fast local static text embeddings for Ruby using mmap-backed model files.”\n\nEvidence: the repository page shows the name, Ruby description, NLP topic, MIT license, and recent commit together in final.png. GitHub search also returned it with topic:nlp language:Ruby license:mit pushed:2026-10-21..2026-10-28, sorted by Recently updated:\nhttps://github.com/search?q=topic%3Anlp+language%3ARuby+license%3Amit+pushed%3A2026-10-21..2026-10-28&type=repositories&s=updated&o=desc",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_389/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_389",
+  "elapsed_seconds": 186.84714484214783,
+  "execution_error": null,
+  "proxy_bytes": 8265886
+}

@@ -1,0 +1,9 @@
+{
+  "id": "Huggingface--31",
+  "task": "Identify the latest machine learning model on Huggingface that specializes in detecting fake news, including the date of its last update.",
+  "answer": "FINAL: abir71/bangla-fake-news-bert is the most recently updated fake-news detection model found on Hugging Face, last updated October 27, 2026 at 18:25:54 UTC.\n\nEvidence: It ranks first in the fake-news results sorted by “Recently updated” (https://huggingface.co/models?sort=modified&search=fake-news), and also first under the fake-news-detection tag with the same sort (https://huggingface.co/models?sort=modified&other=fake-news-detection). The listing's update timestamp is “Tue, 27 Oct 2026 18:25:54 GMT.” Its model card identifies it as a fine-tuned Bangla BERT classifier that estimates whether a Bangla news article is fake or authentic: https://huggingface.co/abir71/bangla-fake-news-bert.\n\nScreenshot: final.png shows the name filter, Recently updated sort, and leading model with its update age.",
+  "screenshots": [
+    "task_558/final.png"
+  ],
+  "raw_screenshot": "task_558/final.png"
+}

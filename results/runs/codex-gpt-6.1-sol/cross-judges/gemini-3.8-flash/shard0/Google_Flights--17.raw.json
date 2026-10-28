@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210458-XtCVQ602TtXRtdvYgB74",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find the cheapest round-trip flight from New York to Paris departing on June 27, 2027, and returning on July 10, 2027.\n\nThe screenshot confirms a Google Flights search with the exact route (New York to Paris) and dates (Sun, Jun 27 – Sat, Jul 10). The results are sorted by price under the \"Cheapest\" tab, showing the lowest fare is a TAP Air Portugal flight for $774 round trip. The result response accurately provides all required details, including price, airline, route, and flight itinerary.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching Cheapest Flights**\n\nI'm focused on pinpointing the most economical round-trip airfare from New York to Paris, with a departure on June 27, 2027, and a return set for July 10, 2027. My analysis of the provided data confirms these parameters.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching Cheapest Flights**\n\nI'm focused on pinpointing the most economical round-trip airfare from New York to Paris, with a departure on June 27, 2027, and a return set for July 10, 2027. My analysis of the provided data confirms these parameters.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18uVDbH75IumqonEMsjyWY7RHEPasvoyNZuGqA92FwMXIx3uT8iOOHrKGY3jEcOSNLYH+eLXyvIyQiWk47mOr37CmTVCelcdxbDGMroNKvTbKcb6NI32oQtc3Hc786VFyLnHsCQunYHxh5Wvp2fLqV4t+MkDrsHAekvcSQCYpPHYPcw7nxtrPPyXQiE0svkk7fZRdGju3KetXwPHG16w06eLOBDtjoEtoBvUrxYVZynDx9aixIu2/w1onZNriS5vGIAgcrSrvmOJ6+JXbLHA7LFjs5APovQ4lfqGj8/snwHYEJ9jyTmm2XAgNi/g9FEq8W1T6xCQvaFPUWRJCkxbGYvgU+zRpc68LSzcp8U0MVaqeEtXPUUwaloXJj+jvnTKqwus+JBgXdtQWhkMHBYspkCqeuIw6yNWhRMCo2XqXUBUQlwFgNC3i5qWOZzG13TYiZeK7hZmMl605XsrORkX+70yL1mgW00Z9RphuJb5iqgdj7r8v+e6ezFgMDsI9S/7XjiR/J18MgzOxBcxP/sS3Mp62F0Ou07VLVOkHoUrxzpmVtDKlGNQBwhb+R1sT+FSsaJ+u66B/3tAVgeXdZ8TOcs3LpWAL2eqYNt8p0QiweR2gMXqI7yQu1ltZJfY80CuED2zQtNEXZKwUMRmmaYbBywUpATuFmk4pw3rhnAdKQE5opQJdnjwvawE4W2SBYtLWrNiTCxLRVlSkhdHe1s8Mi5U2ErV2bC+j0mldH6EGNgPe3rlzucHIftCjuxQo5+UCHC/AGOdIRnWr/tc1fUbxiT0rkObPCXANd1qYeswlTW+LKE8P/aoL4BkjOscJV0z1+b/bYLtW9aJGUKW4/W8m3xE5FXz5j8NYyHsG6jElJbITLcfA5ai62h8UhQZtg5yyQMEAlFn7yFvQS/+TipsmyXdoEMkaf4x02rlmHoY9I2SMoXDuEidZg0iTxRG23MhJp0NpXiKGMwKEpgSv3HJIn8f2hR3n4pTs6NJIeTRDemsIi6z44TxjL8DfcXylNxws1uIVSOr5YSEDiv0kBlAR3Az22xVIUfgCIBrLOwSzNyqKunbnLnrM9qgjZmrp4Pe5lzIIXGnGjfjmXN2t/S2Cel0xkF7ntoMfzVYzpoorE+8bVINhq9RzmL4fmGBa0oyToCxTHTXobCRI47Rqsu",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210458,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 348,
+    "prompt_tokens": 2063,
+    "total_tokens": 2411,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 216,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00285225,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00285225,
+      "upstream_inference_prompt_cost": 0.00154725,
+      "upstream_inference_completions_cost": 0.001305
+    }
+  },
+  "provider": "Google"
+}

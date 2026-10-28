@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Allrecipes",
+    "id": "Allrecipes--41",
+    "ques": "List 3 recommended dinner recipes in the Allrecipes Dinners section.",
+    "web": "https://www.allrecipes.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Three recommended dinner recipes featured in Allrecipes’ Dinner Recipes section:\n1. Easy Oven Pulled Pork — https://www.allrecipes.com/recipe/285153/easy-oven-pulled-pork/\n2. Hearty Ground Beef Chili — https://www.allrecipes.com/recipe/273990/hearty-ground-beef-chili/\n3. Easy and Delicious Chicken and Rice Casserole — https://www.allrecipes.com/recipe/8895/easy-and-delicious-chicken-and-rice-casserole/\n\nEvidence: All three appear together on the Dinner Recipes page, with 5, 7, and 540 ratings, respectively: https://www.allrecipes.com/recipes/17562/dinner/\nVerified October 27, 2026. Screenshot: final.png.",
+    "result_text": "FINAL: Three recommended dinner recipes featured in Allrecipes’ Dinner Recipes section:\n1. Easy Oven Pulled Pork — https://www.allrecipes.com/recipe/285153/easy-oven-pulled-pork/\n2. Hearty Ground Beef Chili — https://www.allrecipes.com/recipe/273990/hearty-ground-beef-chili/\n3. Easy and Delicious Chicken and Rice Casserole — https://www.allrecipes.com/recipe/8895/easy-and-delicious-chicken-and-rice-casserole/\n\nEvidence: All three appear together on the Dinner Recipes page, with 5, 7, and 540 ratings, respectively: https://www.allrecipes.com/recipes/17562/dinner/\nVerified October 27, 2026. Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_36/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_36",
+  "elapsed_seconds": 62.71815276145935,
+  "execution_error": null,
+  "proxy_bytes": 9589838
+}

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Allrecipes",
+    "id": "Allrecipes--31",
+    "ques": "Search for a seafood paella recipe on Allrecipes with a minimum of 4.5 stars rating and at least 50 reviews. The recipe should include shrimp and mussels. Provide the ingredients, total time, and an overview of the preparation steps.",
+    "web": "https://www.allrecipes.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Spanish Paella by Christine L on Allrecipes meets the requirements: 4.7/5 stars, 178 ratings and 124 written reviews, with both shrimp and mussels.\n\nSource: https://www.allrecipes.com/recipe/12728/paella-i/ (checked October 27, 2026; recipe updated September 11, 2026).\n\nTotal time: 1 hour 30 minutes (45 minutes prep, 45 minutes cooking). Serves 6.\n\nIngredients (original 1X recipe):\n- 4 tablespoons olive oil\n- 1 onion, chopped\n- 2 cloves garlic, minced\n- 1 red bell pepper, chopped\n- 4 ounces Spanish chorizo, casing removed and diced into ¼-inch pieces\n- 2 skinless, boneless chicken breast halves, cut into 1-inch cubes\n- 1 (12-ounce) package uncooked Arborio rice\n- 5 cups chicken broth\n- ½ cup white wine\n- 1 sprig fresh thyme\n- 1 pinch saffron\n- Salt and ground black pepper, to taste\n- 2 squid, cleaned and cut into 1-inch pieces\n- 2 tomatoes, seeded and chopped\n- ½ cup frozen green peas\n- 12 large shrimp, peeled and deveined\n- 1 pound mussels, cleaned and debearded\n- ¼ cup chopped Italian flat-leaf parsley\n- 8 lemon slices, for garnish\n\nPreparation overview:\n1. In a large paella pan, sauté the onion, garlic and bell pepper in olive oil. Add chorizo, chicken and rice; cook 2–3 minutes.\n2. Add 3½ cups broth, wine, thyme, saffron, salt and pepper. Bring to a boil, then simmer for 15 minutes, stirring occasionally. Continue cooking until the rice is done, adding broth as needed.\n3. Stir in squid, tomatoes and peas; cook 2 minutes. Arrange shrimp and mussels on top, cover with foil and cook for 3–5 minutes.\n4. Remove foil, sprinkle with parsley and serve with lemon garnish.\n\nEvidence: final.png is a readable viewport screenshot of the Allrecipes recipe page, showing “Spanish Paella,” the 4.7-star rating, 124 Reviews, and the description naming mussels and shrimp together. No video or dialog covers these facts.",
+    "result_text": "FINAL: Spanish Paella by Christine L on Allrecipes meets the requirements: 4.7/5 stars, 178 ratings and 124 written reviews, with both shrimp and mussels.\n\nSource: https://www.allrecipes.com/recipe/12728/paella-i/ (checked October 27, 2026; recipe updated September 11, 2026).\n\nTotal time: 1 hour 30 minutes (45 minutes prep, 45 minutes cooking). Serves 6.\n\nIngredients (original 1X recipe):\n- 4 tablespoons olive oil\n- 1 onion, chopped\n- 2 cloves garlic, minced\n- 1 red bell pepper, chopped\n- 4 ounces Spanish chorizo, casing removed and diced into ¼-inch pieces\n- 2 skinless, boneless chicken breast halves, cut into 1-inch cubes\n- 1 (12-ounce) package uncooked Arborio rice\n- 5 cups chicken broth\n- ½ cup white wine\n- 1 sprig fresh thyme\n- 1 pinch saffron\n- Salt and ground black pepper, to taste\n- 2 squid, cleaned and cut into 1-inch pieces\n- 2 tomatoes, seeded and chopped\n- ½ cup frozen green peas\n- 12 large shrimp, peeled and deveined\n- 1 pound mussels, cleaned and debearded\n- ¼ cup chopped Italian flat-leaf parsley\n- 8 lemon slices, for garnish\n\nPreparation overview:\n1. In a large paella pan, sauté the onion, garlic and bell pepper in olive oil. Add chorizo, chicken and rice; cook 2–3 minutes.\n2. Add 3½ cups broth, wine, thyme, saffron, salt and pepper. Bring to a boil, then simmer for 15 minutes, stirring occasionally. Continue cooking until the rice is done, adding broth as needed.\n3. Stir in squid, tomatoes and peas; cook 2 minutes. Arrange shrimp and mussels on top, cover with foil and cook for 3–5 minutes.\n4. Remove foil, sprinkle with parsley and serve with lemon garnish.\n\nEvidence: final.png is a readable viewport screenshot of the Allrecipes recipe page, showing “Spanish Paella,” the 4.7-star rating, 124 Reviews, and the description naming mussels and shrimp together. No video or dialog covers these facts.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_26/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_26",
+  "elapsed_seconds": 153.20401191711426,
+  "execution_error": null,
+  "proxy_bytes": 36546059
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--15",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Locate a repository on GitHub related to 'quantum computing' that has been updated within the last week and has at least 50 stars. Provide a brief description of the project.",
+  "answer": "FINAL: JanLahmann/Fun-with-Quantum — https://github.com/JanLahmann/Fun-with-Quantum\nA project that teaches quantum computing through games and Qiskit-based Jupyter notebooks exploring superposition, interference and entanglement.\nVerified October 28, 2026: 56 stars; latest commit October 28, 2026 at 03:44 EDT, within the last week (October 21–28).\nGitHub search used stars:>=50 and pushed:2026-10-21..2026-10-28, sorted by Recently updated: https://github.com/search?q=%22quantum+computing%22+stars%3A%3E%3D50+pushed%3A2026-10-21..2026-10-28&type=repositories&s=updated&o=desc\nEvidence: final.png shows the repository name, 56 stars and “Updated 3 hours ago.” GitHub did not visibly render the applied query/date filters on the results page.",
+  "response": "**Evaluation:**\n\nThe search results in the screenshot confirm the repository `JanLahmann/Fun-with-Quantum` has 56 stars and was updated 3 hours ago, meeting the criteria of having at least 50 stars and being updated within the last week. The repository topic directly relates to quantum computing, and a concise description was provided in the response.\n\n**Verdict:** SUCCESS",
+  "reason_short": "**Evaluation:** The search results in the screenshot confirm the repository `JanLahmann/Fun-with-Quantum` has 56 stars and was updated 3 hours ago, meeting the criteria of having at least 50 stars and being updated within the last week. The",
+  "screenshots": [
+    "task_382/final.png"
+  ],
+  "raw_screenshot": "task_382/final.png",
+  "source_result": "task_382",
+  "usage": {
+    "completion_tokens": 327,
+    "prompt_tokens": 1846,
+    "total_tokens": 2173,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 247,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00261075,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00261075,
+      "upstream_inference_prompt_cost": 0.0013845,
+      "upstream_inference_completions_cost": 0.00122625
+    }
+  },
+  "elapsed_seconds": 5.33
+}

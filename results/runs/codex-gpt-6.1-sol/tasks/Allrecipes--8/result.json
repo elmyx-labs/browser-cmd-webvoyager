@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Allrecipes",
+    "id": "Allrecipes--8",
+    "ques": "Search for a recipe for Beef Wellington on Allrecipes that has at least 200 reviews and an average rating of 4.5 stars or higher. List the main ingredients required for the dish.",
+    "web": "https://www.allrecipes.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Beef Wellington by Marla on Allrecipes meets both requirements: 4.7 out of 5 stars and 250 reviews (365 ratings).\n\nMain ingredients (8 servings):\n- 2½ lb beef tenderloin\n- 6 tbsp butter total\n- 1 onion, chopped\n- ½ cup fresh mushrooms, sliced\n- 2 oz liver pâté\n- Salt and pepper\n- 17.5 oz frozen puff pastry, thawed\n- 1 large egg yolk, beaten\n- 10.5 oz beef broth and 2 tbsp red wine for the sauce\n\nSource: https://www.allrecipes.com/recipe/16899/beef-wellington/\nEvidence: final.png shows the recipe name, 4.7-star rating, and 250 reviews.",
+    "result_text": "FINAL: Beef Wellington by Marla on Allrecipes meets both requirements: 4.7 out of 5 stars and 250 reviews (365 ratings).\n\nMain ingredients (8 servings):\n- 2½ lb beef tenderloin\n- 6 tbsp butter total\n- 1 onion, chopped\n- ½ cup fresh mushrooms, sliced\n- 2 oz liver pâté\n- Salt and pepper\n- 17.5 oz frozen puff pastry, thawed\n- 1 large egg yolk, beaten\n- 10.5 oz beef broth and 2 tbsp red wine for the sauce\n\nSource: https://www.allrecipes.com/recipe/16899/beef-wellington/\nEvidence: final.png shows the recipe name, 4.7-star rating, and 250 reviews.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_7/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_7",
+  "elapsed_seconds": 73.04067826271057,
+  "execution_error": null,
+  "proxy_bytes": 4165319
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ArXiv--11",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "For Non-English submissions, do I need to provide a multi-language abstract, if need, answer the separator between the multiple abstracts.",
+  "answer": "FINAL: arXiv’s current guidance does not state a requirement for a multilingual abstract or specify a separator between abstracts. It requires an English version of the entire paper, placed first, followed by the non-English version; an English abstract alone is insufficient. This policy took effect on February 11, 2026.\n\nSources: arXiv’s “Non-English submissions” page (https://info.arxiv.org/help/faq/multilang.html), its “Abstract: required” metadata instructions (https://info.arxiv.org/help/prep.html), and its policy update (https://blog.arxiv.org/2026/01/13/non-english-paper-submission-guidelines/).\nScreenshot evidence: final.png shows the current non-English submission guidance and English-first requirement.",
+  "response": "The result response directly answers the task:\n\n- It addresses whether a multilingual/multi-language abstract is required for non-English submissions: **No, arXiv does not state such a requirement.**\n- It addresses the conditional separator question: since a multilingual abstract is not required and no separator is specified, **there is no separator to provide.**\n- The screenshot supports the key policy point that arXiv requires an **English version of the entire paper first**, followed by the non-English version, rather than merely an English translated abstract.\n\nThe response also provides relevant source references and does not conflict with the screenshot.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The result response directly answers the task: - It addresses whether a multilingual/multi-language abstract is required for non-English submissions: **No, arXiv does not state such a requirement.** - It addresses the conditional separator ",
+  "screenshots": [
+    "task_2/final.png"
+  ],
+  "raw_screenshot": "task_2/final.png",
+  "source_result": "task_2",
+  "usage": {
+    "completion_tokens": 649,
+    "prompt_tokens": 1746,
+    "total_tokens": 2395,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 512,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 10.91
+}

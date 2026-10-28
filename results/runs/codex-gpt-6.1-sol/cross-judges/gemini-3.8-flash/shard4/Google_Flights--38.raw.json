@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210378-QCOpsrs5vWqfBBeUT4QL",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**Evaluation:**\n\n1. **Origin & Destination:** The search was set from Oslo to Dubai (including DXB and nearby SHJ), matching the request.\n2. **Date & Cabin Class:** Set for Economy class departing on Thursday, July 8, 2027 (`2027-07-08`).\n3. **Stops Filter:** Filter applied for \"2 stops or fewer\" (no more than two layovers).\n4. **Comparison & Options:** The response thoroughly compares prices and flight durations (highlighting the fastest nonstop option with Emirates, balanced 1-stop options like Qatar Airways, and budget self-transfer options), along with exhaustive tables detailing itineraries, airlines, layover airports, duration, and prices in NOK.\n\nEverything requested by the instruction has been completely and accurately fulfilled.\n\n**Verdict:**\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Flight Options**\n\nI'm currently processing the flight data, focusing on economy class options from Oslo to Dubai for July 8, 2027. My aim is to filter these for itineraries with a maximum of two layovers, while simultaneously comparing both price points and overall travel durations.\n\n**Evaluating Flight Selections**\n\nI'm now evaluating the flight options from Oslo to Dubai on July 8, 2027. I'm prioritizing those with a maximum of two stops, closely examining the balance between price and travel time, with a particular focus on nonstop and single-stop itineraries.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Flight Options**\n\nI'm currently processing the flight data, focusing on economy class options from Oslo to Dubai for July 8, 2027. My aim is to filter these for itineraries with a maximum of two layovers, while simultaneously comparing both price points and overall travel durations.\n\n**Evaluating Flight Selections**\n\nI'm now evaluating the flight options from Oslo to Dubai on July 8, 2027. I'm prioritizing those with a maximum of two stops, closely examining the balance between price and travel time, with a particular focus on nonstop and single-stop itineraries.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210378,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 648,
+    "prompt_tokens": 20276,
+    "total_tokens": 20924,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 471,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.017637,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.017637,
+      "upstream_inference_prompt_cost": 0.015207,
+      "upstream_inference_completions_cost": 0.00243
+    }
+  },
+  "provider": "Google"
+}

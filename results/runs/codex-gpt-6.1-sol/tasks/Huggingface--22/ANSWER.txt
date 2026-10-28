@@ -1,0 +1,17 @@
+FINAL: Convert a saved Hugging Face Transformers PyTorch model to TensorFlow by loading it with TFAutoModel.from_pretrained(..., from_pt=True).
+
+The documentation gives these steps:
+1. Save the PyTorch model and its tokenizer to the same directory:
+   tokenizer.save_pretrained(save_directory)
+   model.save_pretrained(save_directory)
+2. Import the TensorFlow model class and reload the tokenizer:
+   from transformers import AutoTokenizer, TFAutoModel
+   tokenizer = AutoTokenizer.from_pretrained(save_directory)
+3. Load the saved PyTorch weights into the TensorFlow model:
+   model = TFAutoModel.from_pretrained(save_directory, from_pt=True)
+
+The from_pt=True argument tells the TensorFlow loader to load PyTorch weights.
+
+Evidence: Hugging Face Transformers v4.12.0 documentation, “Quick tour” → “Under the hood: pretrained models” → “Using the model.” The page explicitly presents the save_pretrained calls followed by the TFAutoModel call with from_pt=True.
+Source: https://huggingface.co/transformers/v4.12.0/quicktour.html#using-the-model
+Screenshot: final.png

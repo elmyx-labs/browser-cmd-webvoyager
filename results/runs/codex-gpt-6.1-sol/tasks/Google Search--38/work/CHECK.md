@@ -1,0 +1,4 @@
+[x] Search for the next visible solar eclipse in North America and its expected date. https://www.timeanddate.com/eclipse/list.html?region=north-america&type=solar — “Next 11 Solar Eclipses in North America”, first “2 Aug 2027”; NASA confirms partial visibility in eastern Canada and northern Maine.
+[x] What about the one after that. Same filtered list: next “26 Jan 2028”; https://www.timeanddate.com/eclipse/solar/2028-january-26 — “Regions seeing, at least, a partial eclipse” includes “South/East North America”.
+[x] Save one genuine viewport screenshot as ./final.png, only evidence image read, shrunk to about 1280 px long side, with names and deciding facts visible and no overlay. final.png is 1280x723 and shows both dates, years, regions, and filters.
+[x] Write result and evidence to ./ANSWER.txt. Completed with dates, visibility and source URLs.

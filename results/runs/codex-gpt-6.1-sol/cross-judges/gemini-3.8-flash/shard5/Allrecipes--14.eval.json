@@ -1,0 +1,41 @@
+{
+  "id": "Allrecipes--14",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a recipe that includes \"chicken breast\" and \"quinoa\" with preparation time under 30 minutes on Allrecipes.",
+  "answer": "FINAL: Air Fryer Pesto Chicken Quinoa Bowl on Allrecipes.\nPrep time: 10 minutes, under 30 minutes. Ingredients include 1 pound skinless, boneless chicken breasts and 2 cups cooked quinoa. The recipe lists 10 minutes cooking and 20 minutes total using cooked quinoa.\nRecipe: https://www.allrecipes.com/air-fryer-pesto-chicken-quinoa-bowl-recipe-11691482\nEvidence: final.png — a viewport screenshot of Allrecipes' print view showing the recipe name, preparation time and both ingredients together.\nScreenshot source: https://www.allrecipes.com/air-fryer-pesto-chicken-quinoa-bowl-recipe-11691482?print=",
+  "response": "Based on the provided screenshot and response:\n\n1. **Website**: The search was conducted on Allrecipes (`allrecipes.com`).\n2. **Ingredients**: The recipe, \"Air Fryer Pesto Chicken Quinoa Bowl\", includes both \"chicken breast\" (\"1 pound skinless, boneless chicken breasts\") and \"quinoa\" (\"2 cups cooked quinoa\").\n3. **Preparation Time**: The prep time is explicitly listed as 10 minutes (with a total time of 20 minutes), which is under the requested 30-minute threshold.\n\nAll criteria of the instruction have been successfully fulfilled.\n\nSUCCESS",
+  "reason_short": "Based on the provided screenshot and response: 1. **Website**: The search was conducted on Allrecipes (`allrecipes.com`). 2. **Ingredients**: The recipe, \"Air Fryer Pesto Chicken Quinoa Bowl\", includes both \"chicken breast\" (\"1 pound skinle",
+  "screenshots": [
+    "task_13/final.png"
+  ],
+  "raw_screenshot": "task_13/final.png",
+  "source_result": "task_13",
+  "usage": {
+    "completion_tokens": 325,
+    "prompt_tokens": 1739,
+    "total_tokens": 2064,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 196,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002523,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002523,
+      "upstream_inference_prompt_cost": 0.00130425,
+      "upstream_inference_completions_cost": 0.00121875
+    }
+  },
+  "elapsed_seconds": 5.31
+}

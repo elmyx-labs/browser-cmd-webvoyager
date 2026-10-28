@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--32",
+    "ques": "Discover the latest C# repository on GitHub related to 'game development' and having over 150 stars, and describe its main features.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Revolutionary-Games/Thrive — https://github.com/Revolutionary-Games/Thrive\n\nInterpreting “latest” as GitHub’s “Recently updated” sort, Thrive is the first result for game development language:C# stars:>150. On October 28, 2026, GitHub showed C#, 3,796 stars and “Updated 2 hours ago.” It is the main development repository for the evolution game Thrive.\n\nMain features:\n- A C# game built with Godot, with configurable simulation parameters.\n- Microbe survival gameplay: gather nutrients, manage energy, compete with other cells and reproduce.\n- A cell editor for changing organelles, physical traits and species behavior.\n- An evolving ecosystem, with competing species, population changes and migration between environmental patches.\n- Cell colonies that share resources and enable progression to multicellular life.\n\nEvidence: GitHub’s filtered, sorted results: https://github.com/search?q=game+development+language%3AC%23+stars%3A%3E150&type=repositories&s=updated&o=desc ; repository README: https://github.com/Revolutionary-Games/Thrive#readme ; official gameplay documentation: https://wiki.revolutionarygamesstudio.com/wiki/Help_And_Tips . Screenshot: final.png.\n\nScreenshot limitation: GitHub’s header displays “Search” rather than the active query. The screenshot shows the repository, C#, star count, update age and sort; the exact filters are recorded in the search URL above.",
+    "result_text": "FINAL: Revolutionary-Games/Thrive — https://github.com/Revolutionary-Games/Thrive\n\nInterpreting “latest” as GitHub’s “Recently updated” sort, Thrive is the first result for game development language:C# stars:>150. On October 28, 2026, GitHub showed C#, 3,796 stars and “Updated 2 hours ago.” It is the main development repository for the evolution game Thrive.\n\nMain features:\n- A C# game built with Godot, with configurable simulation parameters.\n- Microbe survival gameplay: gather nutrients, manage energy, compete with other cells and reproduce.\n- A cell editor for changing organelles, physical traits and species behavior.\n- An evolving ecosystem, with competing species, population changes and migration between environmental patches.\n- Cell colonies that share resources and enable progression to multicellular life.\n\nEvidence: GitHub’s filtered, sorted results: https://github.com/search?q=game+development+language%3AC%23+stars%3A%3E150&type=repositories&s=updated&o=desc ; repository README: https://github.com/Revolutionary-Games/Thrive#readme ; official gameplay documentation: https://wiki.revolutionarygamesstudio.com/wiki/Help_And_Tips . Screenshot: final.png.\n\nScreenshot limitation: GitHub’s header displays “Search” rather than the active query. The screenshot shows the repository, C#, star count, update age and sort; the exact filters are recorded in the search URL above.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_399/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_399",
+  "elapsed_seconds": 268.1878921985626,
+  "execution_error": null,
+  "proxy_bytes": 16104426
+}

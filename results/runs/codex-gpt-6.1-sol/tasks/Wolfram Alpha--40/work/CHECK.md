@@ -1,0 +1,3 @@
+[x] Approximate amount of fat burned by a 28yo, 172cm tall, 70kg woman running for 30min at a pace of 6min/mile. WolframAlpha input URL in NOTES.md: input information confirms all constraints; “fat burned | 0.078 kg (kilograms)”.
+[x] Save one genuine screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side, viewport with inputs and result visible. Saved 1280×723 viewport screenshot showing running, all six inputs and metabolic properties; no overlay dialog.
+[x] Write result and its evidence to ./ANSWER.txt. First line states approximately 78 g (0.078 kg); source URL, access date and evidence filename included.

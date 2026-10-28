@@ -1,0 +1,5 @@
+Repository: https://github.com/JanLahmann/Fun-with-Quantum
+Observed: "Star (56)"; latest commit a409c9b; relative-time datetime="2026-10-28T07:44:27.000Z", title="Oct 28, 2026, 3:44 AM EDT".
+README: "Quantum computing taught through games: Jupyter notebooks, written with Qiskit" and mentions superposition, interference and entanglement.
+Search source: https://github.com/search?q=%22quantum+computing%22+stars%3A%3E%3D50+pushed%3A2026-10-21..2026-10-28&type=repositories&s=updated&o=desc
+Observed selected result: "JanLahmann/Fun-with-Quantum", "56", "Updated 3 hours ago". Sort: "Recently updated". Query in page's h1 includes "quantum computing" stars:>=50 pushed:2026-10-21..2026-10-28, but h1 uses sr-only so query/date filters aren't rendered visibly. Tried advanced search and clean retry; the results page still hides query. Screenshot final.png faithfully shows repository name, description, stars and relative update, and sort. No screenshot editing except proportional shrinking to 1280 pixels.

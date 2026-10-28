@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210113-ZkDiLumNVYiPxsSGLNmn",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the screenshot and the provided response:\n\n1. **Location**: The hotel found is in Paris (Excelsior Batignolles, located in the 17th arrondissement of Paris).\n2. **Review Score**: The hotel has a review score of 8.3 (\"Very Good\"), which is 8 or higher.\n3. **Free Wi-Fi**: The \"Free Wifi\" filter is applied and confirmed.\n4. **Availability**: The search specifies dates from Tue, Jan 5 to Sun, Jan 10, 2027 (a 5-night stay starting January 5, 2027), and shows available rooms for this period.\n\nAll criteria specified in the instruction have been successfully satisfied.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Filtering Hotels**\n\nI'm now focusing on refining the hotel search to meet all criteria: a Paris location, a review score of 8+, free Wi-Fi, and availability for January 5th to 10th, 2027.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Filtering Hotels**\n\nI'm now focusing on refining the hotel search to meet all criteria: a Paris location, a review score of 8+, free Wi-Fi, and availability for January 5th to 10th, 2027.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18TLAJeVxbh52uFFYbAdUrpuIIbQ0IBu/58zOxu8Ze13aIp0nciHpq3iZhMsacLL2SMT1fmRaoOOf/UjAImMVXoUsV3posFZhWoSRdc4rU9ZzgYY8e2Sc3hA9tk2uruWQfGz+sQLAfzxzNNdN+asdBN/5MOv/j6sc8SB/Q3rLTUn2hS9BmHyNb/WtaGNQS9OIO1ZLkUPC8wvunX2WlRzvFCcyg+uy+T8cldE6YlwsMPgYM0n+/oncZS53O35O7hB0XJT3OcsnaKO1s+2NRyk0qXCSzrdFliirGL+tmoU3Y11gIFKMpY3xnwK1WvVBZMPsPVQBov1FKzrjBj1/HMlbSxkPu7aLdk8jA3zjvprTLL44n0a/FrhVFA7R8jCEvKY/65fHza1vy3v8zQQQUrG+V10SrNa3bAHAKdlmX301aqfqGiwLasY13E27t1tGeR4JfdHv7C4rPCpVOi8SK7M+375WZvEgRQgifaWEmaGG33zTMl3AmbvBZu2iQKu2SWe8Ax5jD6rTMqPqkSHmA1KiksT06NTdFmAtjDsKvEQKO6pfo+ke7t4youKR93eQMYfNuGyq9bhFODJwny/PR0ONmLHnT+iMFW8Wn4QwQO62tj/M2p919PYkQ+wcHlglKDRu4wzV5CCaTbq5X6oSqlPraEzqsuLyBJY0A1NwBKNt1yXB0mKCKdo4JcoE6eVkjFitPuQuhU7wsASddbu1Nbq63MzUQ12dlmnQQJ32CmevIsmOlbkBiPAvI3VPRjVfSESx1DJaEUDkm9D/rpWZ9LfXzaCC/8/fXlC4wayJFtPgcVOiI5pC63evpKGodI5JWff38rFrtQDLVBGprFaFhNR1BMb9avBtnZ1aXf2JWcg7C475w/Yxh54PjMqdjYkXmIt/lx7nYSOhFlfmwKhCOqeBz3+TalJmx/xvJ/SdaJ4f8JYU9CQW+xU1tV2VnIifCkPJk452uooy2dCbSCTrxjkowoTRT98ZwPUjBzva3J+OBim1b7FYP8SWirv8fH9gCaZjh4D3ssfEb/MNX3D3OPae3IYH7JImoq2Iwcs2uhXOHu6s7DYz7ZORbHAykHe5tPsEby0ER8L4FKgh4nIxv28/heJcfdFcOv/xZtq2Wrgt24yv52a3hjZNZZyQ+pvsP/jzUzWFARaCsufa2OeziLu81+KTgdVfONc7ApLyui09etyV/E28dA6gHU9s5jcHzg5yXcNS6qJOSJKux8znMVkG6ewsG9mF0HQIcpWiYeZZ50sOEiRwCrVD7zhHjQf9ROMe1Ln9MqMcSsr8UR9tVhJ/w7lsFptudRDqrTFj6FshCoidkxaHNF/DtSXuUuxb70tmdkgLBTuycvryiGYuXDh/lKeJ0/nmYYzYqQnLh+zNcoL5VErU6JKGH595pa1lmbIlMoSol8/mcOn/qXGIvrtV9tITs=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210113,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 439,
+    "prompt_tokens": 1995,
+    "total_tokens": 2434,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 282,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0031425,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0031425,
+      "upstream_inference_prompt_cost": 0.00149625,
+      "upstream_inference_completions_cost": 0.00164625
+    }
+  },
+  "provider": "Google"
+}

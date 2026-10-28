@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Wolfram Alpha",
+    "id": "Wolfram Alpha--40",
+    "ques": "Approximate amount of fat burned by a 28yo, 172cm tall, 70kg woman running for 30min at a pace of 6min/mile.",
+    "web": "https://www.wolframalpha.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Approximately 78 g (0.078 kg) of fat burned.\n\nWolframAlpha's running calculation shows “fat burned | 0.078 kg” for a 28-year-old woman, 172 cm tall and weighing 70 kg, running for 30 minutes at 6 min/mile. The page labels its results as estimates based on CDC standards.\n\nSource (accessed October 27, 2026): https://www.wolframalpha.com/input?i=fat+burned+running+30+minutes+at+6+minutes+per+mile%2C+female+age+28%2C+height+172+cm%2C+weight+70+kg\nEvidence: final.png shows all the inputs and the fat-burned result together.",
+    "result_text": "FINAL: Approximately 78 g (0.078 kg) of fat burned.\n\nWolframAlpha's running calculation shows “fat burned | 0.078 kg” for a 28-year-old woman, 172 cm tall and weighing 70 kg, running for 30 minutes at 6 min/mile. The page labels its results as estimates based on CDC standards.\n\nSource (accessed October 27, 2026): https://www.wolframalpha.com/input?i=fat+burned+running+30+minutes+at+6+minutes+per+mile%2C+female+age+28%2C+height+172+cm%2C+weight+70+kg\nEvidence: final.png shows all the inputs and the fat-burned result together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_609/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_609",
+  "elapsed_seconds": 82.139230966568,
+  "execution_error": null,
+  "proxy_bytes": null
+}

@@ -1,0 +1,4 @@
+- [x] Search for the course 'Exploring Quantum Physics' on Coursera, offered by the University of Maryland, College Park. https://www.coursera.org/search?query=Exploring%20Quantum%20Physics — “Exploring Quantum Physics, offered by University of Maryland, College Park, COURSE”; confirmed on course page https://www.coursera.org/learn/quantum-physics.
+- [x] Identify the percentage (rounded) of 5-star ratings in the reviews. https://www.coursera.org/learn/quantum-physics/reviews — “5 stars”, “61.33%”; rounded: 61%.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the course name and deciding facts without overlays. final.png shows “Exploring Quantum Physics” and “5 stars 61.33%”, with All Learners / All Stars / Most Helpful visible.
+- [x] Write the result and evidence to ./ANSWER.txt. ANSWER.txt begins FINAL: and states 61%, the displayed 61.33%, the source URL, access date, and evidence filename.

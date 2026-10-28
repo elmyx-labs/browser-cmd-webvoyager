@@ -1,0 +1,31 @@
+{
+  "id": "Booking--5",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search a hotel with free WiFi and air conditioning in Bali from October 1 to October 4, 2027.",
+  "answer": "FINAL: Adhi Jaya Hotel in Kuta, Bali matches: check-in October 1, 2027, check-out October 4, 2027 (3 nights), with free WiFi and air conditioning.\n\nBooking.com shows a Superior Double or Twin Room for the search's default 2 adults and 1 room. Its hotel listing explicitly includes “Free Wifi” and “Air conditioning.”\n\nSource: https://www.booking.com/hotel/id/adhi-jaya.html\nEvidence: final.png shows Adhi Jaya Hotel in the Bali results with the dates and the applied Hotels, Free Wifi, and Air conditioning filters visible; sort is Our top picks. The search URL confirms checkin=2027-10-01 and checkout=2027-10-04.",
+  "response": "The task was to search for a hotel in Bali for October 1–4, 2027 with free WiFi and air conditioning.\n\nThe screenshot shows Booking.com search results for Bali with dates displayed as Fri, Oct 1 to Mon, Oct 4, and the result response states the URL confirms the year is 2027. The visible filters include “Free Wifi,” “Hotels,” and “Air conditioning,” which aligns with the requested criteria. The displayed hotel result is Adhi Jaya Hotel in Kuta, Bali, with availability shown for 3 nights and 2 adults.\n\nThe result response also identifies Adhi Jaya Hotel as matching the criteria and states that the hotel listing includes free WiFi and air conditioning.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to search for a hotel in Bali for October 1–4, 2027 with free WiFi and air conditioning. The screenshot shows Booking.com search results for Bali with dates displayed as Fri, Oct 1 to Mon, Oct 4, and the result response states ",
+  "screenshots": [
+    "task_207/final.png"
+  ],
+  "raw_screenshot": "task_207/final.png",
+  "source_result": "task_207",
+  "usage": {
+    "completion_tokens": 361,
+    "prompt_tokens": 1746,
+    "total_tokens": 2107,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 201,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.83
+}

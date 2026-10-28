@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209970-8ZMaucDtagIoDKIoR8a6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the screenshot of Apple's 14-inch MacBook Pro customization page, the **Keyboard** section clearly specifies: **\"Choose from 20 languages\"**. \n\nThe result response correctly identifies and states that there are 20 different keyboard options available.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Investigating Keyboard Options**\n\nI'm currently examining the available keyboard configurations for the 14-inch MacBook Pro on Apple's site, noting the \"U.S.\" option as the current default.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Investigating Keyboard Options**\n\nI'm currently examining the available keyboard configurations for the 14-inch MacBook Pro on Apple's site, noting the \"U.S.\" option as the current default.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+hERxs/EFByUMwosB2Nug0LopXbNneBJ2PU8fKdV3SRsjHaorne2vPh3rBwuwBrN5iRX15qtYAxEh8xiHj6O4hplop6ZQW64UFvZpY8uE+5kgsFXmrHut+gZsR6sUfM80Nlx41Qk36utQzKcqGpYJFx/wjMrC/Il6xtnsd5gG39IYU5Yh6Lm7QozPX31bbPwq3p7g5suaU8wqVAs5RZev2N++hSbxfowlODPawh8GqPkMOw5zw4M41rUNZv2zrBNheSkS6cGDDjZ2hFmFze4+/CDX6xiFhxrPhn1K5fJsdTopGX3QyzxkMBQwqBqqk9x49kDRvXVDnYhjWIzPHzUcj0Kb/e6YrjWpOrYUch+bcnU/lEQX3mNJhenivoJWW9NchRWqI+cgF8rvRjTNaTr2e48wHHSTVUJdqxo335P+rBgR8bqE6K2lFvor/ZDcKx97H5HTha7pAGCo3nSKjjhRnbi++BoDGhY3AOKXIYE+CmvRca1GeBHTzMVGDzTKBWXCIG1nHsV1Q7vUNv2FENl4qm/kBfn3SGxn95TGm9KEszT8L+eMdTYqWWsZ1NrQ5SgW2s6CNYmlRe25BTqFMUA1REEI2FgSkmL6RsVFwWIPJ843TfTj/Fx0QDoQaBfWVwVQvOEh6pyTrCEMowR7q3hK2OU2ANaFPqr3hVSnLhBc4KMSETHJfN+VVJd9n/w7juLTfSv/R1veIvA1ZbN1kzjmHCwhYU0MgIr7p/yWYjkA+b7KiyHeBIS931I363zIkSur2bJvrRnODq3wvwX5mBQ50JS55cirlH/j2paJaUHEcaZ0syzqTKMqFjA0nzNKFkDJf/dJviN/mm8kYvMprzTkmNiPW+vdMCYZbndPKk1FbvAe/LEUffpu1LKRpyq/jYOyfHinqsVw1aVNvDTMOtnecpkWVNo6WQmZlJD6mgXkvEId+hpbdTPSpQUQb7xpXh18ywqUgFA9zcHNX4mbi/w9oJpTvtOfHvAE2oO9DwCYwhN+SvtVnE3oQVu0L/Vkk+VryoQ5ISMpz5LCBm0QAz7bLPHd25wch0BmaKO5qu9nOB2dGxs9mXr9jAERO0YLxgN145bmZJemtG8j1X7JuLXeTAneLAmP7/Rnacgk75exr0QLYyOr3PcOjsBtGcKYmIBGu3CZDWAoyLTPEHDj3HLC28+Mu8wwT69ZysRssi9UCywcYzzTxrnmPo7oFaVmm3D/5cw==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209970,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 230,
+    "prompt_tokens": 1703,
+    "total_tokens": 1933,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 172,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00213975,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00213975,
+      "upstream_inference_prompt_cost": 0.00127725,
+      "upstream_inference_completions_cost": 0.0008625
+    }
+  },
+  "provider": "Google"
+}

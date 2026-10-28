@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210004-AO0KJSgJuBfaAv1ahUwZ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested the maximum video recording resolution supported by the latest iPad mini from the Apple website. \n\nThe provided screenshot displays the Tech Specs page for the iPad mini on Apple's website, clearly listing under \"Video Recording\":\n- \"4K video recording at 24 fps, 25 fps, 30 fps, or 60 fps\"\n\nThe Result Response accurately identifies this maximum resolution as 4K (at up to 60 fps) and includes the specific details directly from the page.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Locating Technical Specs**\n\nI'm currently navigating the Apple website, specifically the iPad mini tech specs page. I've found the video recording section and it indicates \"4K video recording\". This confirms the maximum resolution, at least that's what's immediately clear. I need to verify that information by cross-referencing with other available data.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Locating Technical Specs**\n\nI'm currently navigating the Apple website, specifically the iPad mini tech specs page. I've found the video recording section and it indicates \"4K video recording\". This confirms the maximum resolution, at least that's what's immediately clear. I need to verify that information by cross-referencing with other available data.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "ErkICrYIAWkUfRPvA+UcppfzdkgwOkFdvaeCdTIiwa6ccDfeX1HqWH5ZbqMJa1XbquAOZ85s7l/Mcr74e+YesMbh69kBLJVvemQOtU14cw2JP3/6y7Z6cKHjkMfNvB+mWxO4miOgZRuVmzrIM27sfFm+mZioC/BA+dc2jiAu0vC9GvD+243fQMOUIgSVOMoCwD3tpKrR3vcgrofpdb8ymN9xKBgtXMSzacs+ZOwbFmjAujpvXDxudqEly8QNLAMTN3/usCk0/6ghvKHaCOHufhkYyLdwEV3TZWH3UdZYpCiB9etmnyb6lwItOcy+LodmRE2VjFA1eVB552TX0CHQHxt2JVgG05f6P4n5C/obsx2+L8x9iXIGAeL3aILxvrf7ATPh6utUSy3lRIcLv70J/JJgrgyXnA9pGoknTZAGhdTuGShOfnDpO/yb63t5izOGCqGUwBbRBuIBhMAJufpiHlH4oxfbqUytA5RYa1335sq6RkQVh8/SdsffBkOXhZl/dmLOlEGMwT0OB6w/iWpApkANOySMtsycXXz5UY0ieJ+PIhYqPorMF9sXDhFRtn5LJP7Zw7b4TZXXcQTWwkGK7JLSnIM3onlofKAnsgkbEvY28hBaWN2/rHASy9Lb5r1yGb+P/33AepHvtWxHTm9SVwm15tMc6R+8Kx6v3VpN+jlG111ci0zqxmy+yXBh3ekT5+ub/yJpfuSRMSGeSOUuvN+Eca5RL2Xru7aFf/R68JvLa+BUlkJHrUup8tLYkOKSyrmZQHird4PjJ+k/TnNj0jmMDsHARRaYik16ci+7Bq5XMDT03wdb36+3G5oVrBK0fj749Nod9Dih+qbn2B/mMv42orr7c1LtJY4VDIYhPX1k+7c1oEYiH5Ml3JKduK1lKfbK8bTciMx0TeoDO/reyeWfS59jw6IkHY3ijaUhYAIxMOux2iT41uOIz0k8J3C0UzLfL8phB16ke5OOrewAbSYPxjdwp2vqXUhdEmIXQIH5U+YSUUjwzFPXic/8PKZqyLp0CIJdU2Bx/hNWC8c2JQQGmQJelLv4RfsSjXvmMtJTEM10VS8XrRHD0J3iCx3DswqUOhLYz/WPR2mYpOb7CXhILCb95T9ZOvzAWiI3Us2GOay7PPwzytM/62wlX/pOOlRGnGXgwDplTqgJk+Q3k1lc93BPqN3xFn+Js53onpDg8F5NVHTKqXvbPGyJyV9AqaGlY4b0vJJcZ6Lf8k5TzOnVSaB2Y96GyNWjgUuv+Kilmwd2+fE7oLpIPgg8ciVx8HospVzj/3ElsVf9dlyqhwa5sidn0KKUHBuNFmAuVwImWpv2TAfiWbuTrXG28GTD3eL4AcBrTqYpoPmhyO4ZMA2GnSGOu9zlFdAjC/3tSGE1eqkcv718w+QEsT4mX266HRefDZ31LBHd8RPAm7w4qP7vKCqb+85kPyUC+w==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210004,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 351,
+    "prompt_tokens": 1677,
+    "total_tokens": 2028,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 242,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002574,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002574,
+      "upstream_inference_prompt_cost": 0.00125775,
+      "upstream_inference_completions_cost": 0.00131625
+    }
+  },
+  "provider": "Google AI Studio"
+}

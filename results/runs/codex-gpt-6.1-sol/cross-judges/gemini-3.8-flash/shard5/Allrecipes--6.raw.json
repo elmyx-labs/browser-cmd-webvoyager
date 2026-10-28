@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209889-RBX5diHe0RW24RJwbpQR",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the instruction, the user asked to search for a vegetarian lasagna recipe with at least a four-star rating and over 500 reviews.\n\nThe provided screenshot and response show the \"Artichoke Spinach Lasagna\" on Allrecipes:\n- **Vegetarian Lasagna**: It is a lasagna made with artichokes, spinach, vegetable broth, cheeses, and pasta sauce (contains no meat).\n- **Rating**: 4.6 out of 5 stars (meets the requirement of at least 4 stars).\n- **Reviews**: 1,287 reviews (meets the requirement of over 500 reviews).\n\nAll requirements of the task have been successfully met.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Lasagna Recipes**\n\nI've successfully identified an Artichoke Spinach Lasagna from Allrecipes that meets the four-star rating and review count criteria. I'm now confirming its suitability for a vegetarian diet, as my primary search parameter.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Lasagna Recipes**\n\nI've successfully identified an Artichoke Spinach Lasagna from Allrecipes that meets the four-star rating and review count criteria. I'm now confirming its suitability for a vegetarian diet, as my primary search parameter.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/UeH/PtYRHwxjU97OC4cp6QlSnzPJDx44Cf2nCkB31bd8DmrUY1KY2+H8KgDLLzyIGIx4dXJ4+h64yXP/ydr7vENbExhxHOlDPqlnaG8ARDJJM3cHWYdnYXnFpwPGq+x7UaIOwaS+Acli77USCp+Ou1wTVvfZeghBQ/n88+vIxmlUX5ClJ5+IqQtwo1hB8vxoP+2cICE0VCzbQLY09BYrnYfFpSml6mr8/cKfOoVjINZ3AuEf7eGGXJ9aH8mxkIkI03j6xiSCuLYSIRLvTvWlOhqCJeXNTKUBIL57EomQJA4mj1eHIqCRVvxZRGmJGEkHgV5N0JMnQhhuaCuHNU5Rxj1ELQzPXC9dv5lItT7K5T6driUtoJqZvRw8MhQs5YsQpNGh0Vvt/ha8YcyiNo9R1amIb7oMmQsH1ZdTv6X3ooSWwP5skls9Go5D6+4ZkKqwgPgjaxdfFWJn1dtqIRJN5arW87cQ0JNHbRYK2GY1KL9tDmifNpgtQNNSUpeU60VpxoojYn1FUOKsIQJJfzOWkPE0NG4c9+JIFGFLmxn5S8g/VVoTQ0HGA3OYni6HrxLekMqweXKr829L2jmarrAfO66xVoZKQo7R4HqxAgiT1ebv8c/2gqkKY9xon7P26BkHXCtqaS2rLpmBOJiT1B8a3q/7mUI9DYJPQDC7gxvNxVo+R+WZS+jUY1CSWgScpt5p1Ls9mnYl34XtlNN7L2NfJeQD7a1vfxLbuQsI+rDilVu32Xk40idiclFMClIhvKZrg4tgT9/ZeZr1gm4kn0pb41YtkzFus3pPjHS/G41hQiy3yz1yMC9Qgh7XNofvS6ZIX42TBumUq8qK4v3vt/1jMrqof49Gb9sYdVmivwOg0JSrC+bNz1y/exgUIX2/ANeCAO4MtndoLEs6lZ6CSrlAtQl65y7MTEsSGxYryMwe0yxWtHiXaV3O06aIyNwEm06lTtdMyUs+s63sj5wlRrDeUUS37vy0qcCirx2B+T84m3FFWe7rJXrDF5mCF7TPbqT/srqCcJwGZyQn99viwIsPz0XOjOXHUDU48ZkW+2++TbhOAcCcscKdWAuw5N+UQpMbDEOm5O0YmfaB+NsfFA9nJIOPzvdmvLwDaUgDMokV6my2Awvqwy33+gTD4MhX3X0ZWdjEY+HcWXYuPndsnlYRQBo9S35tyGADr/SoTjruOo/KdH6ElS1WMj9la1pGnE4sd0gX6R6iJVxGJbGMcsrjJBW69DFX9FQPrPdLxm9vXnR3TJQZ9LF9wogkC6zRatD4+UWsTEyIgaoSeaaHQebXh3bmRBJPyAgLgA+OKm98AwDK//lFqXOSx9LHdAyvoY4Ykfbhg9V1fT1SXw29DrX0VAnbkdQEoyHoY3rDP4Jr0bfU8qyNenedMYr2WTC/7EY2Mw6Fls6UdcqJg8zi3n7w38LkO0PHc1Usf0qHRwrk1QTm5Kogs6Kipbe0sFIGHG0OtsVejsCzA322cpQOJjJ9N0W2heWFeXemgYSplCf8/2pJxLndBR2mVXRodNBzA+e46wtI5rBhHgbM3Wg/pj4sj0HAKgvkgo44OWIHK7l3xQEkUffVS8gpW8iMxCC2u3g==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209889,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 393,
+    "prompt_tokens": 1716,
+    "total_tokens": 2109,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 248,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00276075,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00276075,
+      "upstream_inference_prompt_cost": 0.001287,
+      "upstream_inference_completions_cost": 0.00147375
+    }
+  },
+  "provider": "Google"
+}

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Wolfram Alpha",
+    "id": "Wolfram Alpha--14",
+    "ques": "Compare the total Calories: whopper vs baconator vs big mac. Assume that each serving of food is 300g.",
+    "web": "https://www.wolframalpha.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: For equal 300 g servings, the Baconator has the most total Calories (902 Cal), followed by the Big Mac (730 Cal), then the Whopper (657 Cal).\n\nWolframAlpha’s “Average result” table:\n- Burger King Whopper: 657 dietary Calories\n- Wendy’s Old Fashioned Baconator Burger: 902 dietary Calories\n- McDonald’s Big Mac: 730 dietary Calories\n\nThe Baconator has 245 more Calories than the Whopper and 172 more than the Big Mac. The Big Mac has 73 more than the Whopper.\n\nEvidence: WolframAlpha, viewed October 27, 2026. Each row explicitly shows 300 grams. These are the site’s average results under its displayed “any type” assumptions for the Whopper and Big Mac.\nhttps://www.wolframalpha.com/input?i=calories+300g+whopper+vs+300g+baconator+vs+300g+big+mac\nScreenshot: final.png (1280 × 723 viewport capture).",
+    "result_text": "FINAL: For equal 300 g servings, the Baconator has the most total Calories (902 Cal), followed by the Big Mac (730 Cal), then the Whopper (657 Cal).\n\nWolframAlpha’s “Average result” table:\n- Burger King Whopper: 657 dietary Calories\n- Wendy’s Old Fashioned Baconator Burger: 902 dietary Calories\n- McDonald’s Big Mac: 730 dietary Calories\n\nThe Baconator has 245 more Calories than the Whopper and 172 more than the Big Mac. The Big Mac has 73 more than the Whopper.\n\nEvidence: WolframAlpha, viewed October 27, 2026. Each row explicitly shows 300 grams. These are the site’s average results under its displayed “any type” assumptions for the Whopper and Big Mac.\nhttps://www.wolframalpha.com/input?i=calories+300g+whopper+vs+300g+baconator+vs+300g+big+mac\nScreenshot: final.png (1280 × 723 viewport capture).",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_583/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_583",
+  "elapsed_seconds": 80.84530305862427,
+  "execution_error": null,
+  "proxy_bytes": null
+}

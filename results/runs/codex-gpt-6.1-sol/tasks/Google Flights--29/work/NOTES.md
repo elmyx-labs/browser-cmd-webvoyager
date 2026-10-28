@@ -1,0 +1,4 @@
+Google Flights search, July 5–15, 2027; 1 adult economy, USD, nonstop only. One departing result: Lufthansa MEX–FRA, 7:50 PM–2:50 PM+1, 11 hr, from $1,468 round trip. One returning result: Lufthansa FRA–MEX, 1:30 PM–5:30 PM, 12 hr, from $1,468 round trip.
+Search URL: https://www.google.com/travel/flights/search?tfs=CBwQAholEgoyMDI3LTA3LTA1KABqDAgDEggvbS8wNHNxanIHCAESA0ZSQRolEgoyMDI3LTA3LTE1KABqBwgBEgNGUkFyDAgDEggvbS8wNHNxakABSAFwAYIBCwj___________8BmAEB&tfu=EgYIABAAGAA&curr=USD
+Selected itinerary: same two nonstop flights. Exact page words: "Economy Light $1,467", "Economy Comfort $1,644", "1 free carry-on", "No checked bags" (Light), "1st checked bag free" (Comfort). Lowest total price $1,467. Dates Mon, Jul 5 and Thu, Jul 15. Total flying time calculated as 11 + 12 = 23 hours.
+Booking URL is preserved in ANSWER.txt.

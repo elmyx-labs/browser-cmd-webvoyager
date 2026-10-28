@@ -1,0 +1,3 @@
+Source: https://www.apple.com/apple-music/ (Apple > Entertainment menu > Apple Music), viewed 27 October 2026.
+Main image captions: Listening Experience — “Olivia Rodrigo”; Exclusive Content — “Live at Apple Music Radio / Die On This Hill / by SIENNA SPIRO”.
+Page image alternative descriptions: Olivia Rodrigo album cover and iPhone album screen; Sienna Spiro singing into microphone; lyrics from “All of Me” by Nao; Apple Music Sing iPhone playing “ILY” by Kapo and Myke Towers; shared listening iPhone playing “Sapphire” by Ed Sheeran; Shazam iPhone showing “APT” by ROSÉ and Bruno Mars. Expanded Sing, Shared Listening, and Shazam cards in browser and confirmed those images loaded.

@@ -1,0 +1,31 @@
+{
+  "id": "Booking--37",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a resort (not hotel) in Bali, detailing the available dates between July 20, 2027, and July 25, 2027, and checking any provided tour or cultural experiences.",
+  "answer": "FINAL: Bali Tropic Resort & Spa - CHSE Certified in Nusa Dua, Bali is available for July 20–25, 2027 (five nights), for 2 adults in 1 room. Booking.com lists it under the Resorts filter and the “All resorts” category.\n\nAvailable stay: check in Tuesday, July 20, 2027; stay the nights of July 20, 21, 22, 23 and 24; check out Sunday, July 25. Check-in starts at 3 PM and checkout is by noon.\n\nA Deluxe Double or Twin Room was RSD 70,375 total for five nights, including breakfast, taxes and fees, with a non-refundable rate. A refundable option was RSD 71,070 total, with free cancellation before July 15, 2027 and no payment until July 13, 2027. Prices were displayed in Serbian dinars.\n\nTours and culture: the resort lists a tour or class about local culture and Balinese cultural shows. Cooking classes and bike tours are listed for an additional charge, and there is a tour desk. Scuba diving and white-water rafting can also be arranged. The listing does not provide an activity timetable for July 20–25, 2027.\n\nSources:\nBooking.com resort-filtered search, with July 20–25, 2027 applied: https://www.booking.com/searchresults.html?ss=Bali&dest_id=835&dest_type=region&checkin=2027-07-20&checkout=2027-07-25&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D206\nBooking.com property availability, description, activities and house rules: https://www.booking.com/hotel/id/bali-tropic-resort-spa.html?checkin=2027-07-20&checkout=2027-07-25&group_adults=2&no_rooms=1&group_children=0\nEvidence image: final.png.",
+  "response": "The task was to find a **resort, not a hotel, in Bali**, for dates **July 20–25, 2027**, and check for any **tour or cultural experiences**.\n\nThe screenshot shows Booking.com search results for **Bali** with dates set to **Tue, Jul 20 – Sun, Jul 25**, for **2 adults, 1 room**, and the **“Resorts”** filter is applied. The listed property, **Bali Tropic Resort & Spa - CHSE Certified**, appears under this filtered resort search and shows availability for **5 nights, 2 adults**, with a displayed total price.\n\nThe result response further details:\n- Check-in and check-out dates/times.\n- Room type and pricing.\n- That the property is categorized as a resort.\n- Tour/cultural offerings including a **local culture tour/class**, **Balinese cultural shows**, **cooking classes**, **bike tours**, and a **tour desk**.\n\nAlthough the screenshot itself does not show the cultural/tour details, the response includes them, and per the evaluation rules, information in the response that is not contradicted by the screenshot can be accepted.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find a **resort, not a hotel, in Bali**, for dates **July 20–25, 2027**, and check for any **tour or cultural experiences**. The screenshot shows Booking.com search results for **Bali** with dates set to **Tue, Jul 20 – Sun,",
+  "screenshots": [
+    "task_235/final.png"
+  ],
+  "raw_screenshot": "task_235/final.png",
+  "source_result": "task_235",
+  "usage": {
+    "completion_tokens": 508,
+    "prompt_tokens": 2025,
+    "total_tokens": 2533,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 254,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.66
+}

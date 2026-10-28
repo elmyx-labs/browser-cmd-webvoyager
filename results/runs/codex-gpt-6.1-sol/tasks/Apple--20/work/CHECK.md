@@ -1,0 +1,3 @@
+[x] Check the price for an Apple iPhone 17 with 256GB storage in Purple color. Apple US source: https://www.apple.com/shop/buy-iphone/iphone-17/6.3-inch-display-256gb-lavender-unlocked — “iPhone 17 256GB Lavender”, “$929.00”, “One-time payment”; carrier activation choices show $899.00 including $30 connectivity discount.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing name and configuration with price together. final.png is 1280×723 and shows “iPhone 17 256GB Lavender”, “$929.00”, “One-time payment”, with no dialog or banner.
+[x] Write the result and evidence to ./ANSWER.txt. ANSWER.txt contains the result, configuration, activation price alternative, source, check date and screenshot reference.

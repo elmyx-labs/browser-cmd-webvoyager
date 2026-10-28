@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Flights",
+    "id": "Google Flights--24",
+    "ques": "Compare prices for economy class round-trip flights from Dubai to Rome, departing on July 1, 2027, and returning on July 8, 2027, and select the option with the fewest stops.",
+    "web": "https://www.google.com/travel/flights/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Selected Emirates for the fewest stops: 0 stops in each direction, economy round trip for 1 adult from Dubai International (DXB) to Rome Fiumicino (FCO), July 1–8, 2027. Google Flights shows AED 3,667 via Gotogate or AED 3,740 directly with Emirates for the selected itinerary.\n\n• July 1: EK 99, DXB 03:50 → FCO 08:00, nonstop, 6 hr 10 min.\n• July 8: EK 100, FCO 10:55 → DXB 18:40, nonstop, 5 hr 45 min.\nTimes are local.\n\nPrice comparison: Google Flights also displayed round-trip fares of AED 1,846 with Saudia (outbound: 1 stop in Jeddah), AED 2,020 with Lufthansa (outbound: 1 stop in Frankfurt), and AED 2,190 with KLM (outbound: 1 stop in Amsterdam). Emirates satisfies the fewest-stops requirement despite those lower connecting fares.\n\nEvidence: final.png shows both selected Emirates flights, their dates, nonstop status, economy round-trip setting, and the booking prices. The itinerary is selected in Google Flights; no purchase was made.\n\nSource — Google Flights selected itinerary:\nhttps://www.google.com/travel/flights/booking?tfs=CBwQAhpFEgoyMDI3LTA3LTAxIh4KA0RYQhIKMjAyNy0wNy0wMRoDRkNPKgJFSzICOTkoAGoHCAESA0RYQnIMCAMSCC9tLzA2YzYyGkYSCjIwMjctMDctMDgiHwoDRkNPEgoyMDI3LTA3LTA4GgNEWEIqAkVLMgMxMDAoAGoMCAMSCC9tLzA2YzYycgcIARIDRFhCQAFIAXABggELCP___________wGYAQE&tfu=CmxDalJJV0ZOU2NFbFdVSGhXWmpoQlFrMXhSbEZDUnkwdExTMHRMUzB0TFdWcVpXd3hNa0ZCUVVGQlIzSm9SM3ByVDNaYVkxRkJFZ2RGU3pFd01DTXlHZ29JbkIwUUFCb0RRVVZFT0J4d3dKc0cSAggAIgYKATAKATE&curr=AED\n\nSource — fare comparison:\nhttps://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDI3LTA3LTAxagcIARIDRFhCcgwIAxIIL20vMDZjNjIaIxIKMjAyNy0wNy0wOGoMCAMSCC9tLzA2YzYycgcIARIDRFhCQAFIAXABggELCP___________wGYAQE&tfu=EgYIABAAGAA&curr=AED",
+    "result_text": "FINAL: Selected Emirates for the fewest stops: 0 stops in each direction, economy round trip for 1 adult from Dubai International (DXB) to Rome Fiumicino (FCO), July 1–8, 2027. Google Flights shows AED 3,667 via Gotogate or AED 3,740 directly with Emirates for the selected itinerary.\n\n• July 1: EK 99, DXB 03:50 → FCO 08:00, nonstop, 6 hr 10 min.\n• July 8: EK 100, FCO 10:55 → DXB 18:40, nonstop, 5 hr 45 min.\nTimes are local.\n\nPrice comparison: Google Flights also displayed round-trip fares of AED 1,846 with Saudia (outbound: 1 stop in Jeddah), AED 2,020 with Lufthansa (outbound: 1 stop in Frankfurt), and AED 2,190 with KLM (outbound: 1 stop in Amsterdam). Emirates satisfies the fewest-stops requirement despite those lower connecting fares.\n\nEvidence: final.png shows both selected Emirates flights, their dates, nonstop status, economy round-trip setting, and the booking prices. The itinerary is selected in Google Flights; no purchase was made.\n\nSource — Google Flights selected itinerary:\nhttps://www.google.com/travel/flights/booking?tfs=CBwQAhpFEgoyMDI3LTA3LTAxIh4KA0RYQhIKMjAyNy0wNy0wMRoDRkNPKgJFSzICOTkoAGoHCAESA0RYQnIMCAMSCC9tLzA2YzYyGkYSCjIwMjctMDctMDgiHwoDRkNPEgoyMDI3LTA3LTA4GgNEWEIqAkVLMgMxMDAoAGoMCAMSCC9tLzA2YzYycgcIARIDRFhCQAFIAXABggELCP___________wGYAQE&tfu=CmxDalJJV0ZOU2NFbFdVSGhXWmpoQlFrMXhSbEZDUnkwdExTMHRMUzB0TFdWcVpXd3hNa0ZCUVVGQlIzSm9SM3ByVDNaYVkxRkJFZ2RGU3pFd01DTXlHZ29JbkIwUUFCb0RRVVZFT0J4d3dKc0cSAggAIgYKATAKATE&curr=AED\n\nSource — fare comparison:\nhttps://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDI3LTA3LTAxagcIARIDRFhCcgwIAxIIL20vMDZjNjIaIxIKMjAyNy0wNy0wOGoMCAMSCC9tLzA2YzYycgcIARIDRFhCQAFIAXABggELCP___________wGYAQE&tfu=EgYIABAAGAA&curr=AED",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_430/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_430",
+  "elapsed_seconds": 223.7024998664856,
+  "execution_error": null,
+  "proxy_bytes": null
+}

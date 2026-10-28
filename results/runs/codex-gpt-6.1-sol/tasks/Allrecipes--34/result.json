@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Allrecipes",
+    "id": "Allrecipes--34",
+    "ques": "Locate a baked salmon recipe on Allrecipes that has at least 50 reviews and a rating of 4.5 stars or higher. Note the primary seasoning or herb used and the estimated cooking time.",
+    "web": "https://www.allrecipes.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Lemon-Rosemary Salmon on Allrecipes qualifies with 4.7/5 stars (426 ratings) and 285 reviews. Its primary herb is fresh rosemary (4 sprigs), paired with lemon. Estimated cooking time: 15 minutes; total time: 25 minutes including 10 minutes of prep.\nSource: https://www.allrecipes.com/recipe/80388/lemon-rosemary-salmon/ (verified October 27, 2026).\nEvidence: final.png shows the recipe name, rating, and review count together. The page’s ingredients and time panel provide the herb and cooking time.",
+    "result_text": "FINAL: Lemon-Rosemary Salmon on Allrecipes qualifies with 4.7/5 stars (426 ratings) and 285 reviews. Its primary herb is fresh rosemary (4 sprigs), paired with lemon. Estimated cooking time: 15 minutes; total time: 25 minutes including 10 minutes of prep.\nSource: https://www.allrecipes.com/recipe/80388/lemon-rosemary-salmon/ (verified October 27, 2026).\nEvidence: final.png shows the recipe name, rating, and review count together. The page’s ingredients and time panel provide the herb and cooking time.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_29/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_29",
+  "elapsed_seconds": 77.67857193946838,
+  "execution_error": null,
+  "proxy_bytes": 13528361
+}

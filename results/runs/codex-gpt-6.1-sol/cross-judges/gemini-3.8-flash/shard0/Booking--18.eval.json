@@ -1,0 +1,41 @@
+{
+  "id": "Booking--18",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search a hotel in London with a user rating of 8 or higher for a stay between February 14th, 2027, and February 21st, 2027, suitable for a couple. Provide the name and a short description of the hotel.",
+  "answer": "FINAL: Gem Fitzrovia Hotel — London\n\nA 4-star hotel in a Georgian building in London’s West End, a short walk from Oxford Street and Oxford Circus, with free Wi-Fi, a restaurant and a cocktail lounge.\n\nFor February 14–21, 2027 (7 nights), Booking.com lists a Superior Double Room with one queen bed for two adults. Its guest rating is 8.4/10 from 2,877 reviews, exceeding the requested 8/10. Couples rate its location 9.3/10.\n\nSource: https://www.booking.com/hotel/gb/gem-fitzrovia-hotel.html\nEvidence: final.png shows the London search, selected dates, two adults/one room, applied Hotels and Very Good: 8+ filters, and the hotel’s rating and double-room result.",
+  "response": "The task requires searching for a hotel in London suitable for a couple for the dates February 14th, 2027, to February 21st, 2027, with a user rating of 8 or higher, and providing the name and a short description of the hotel.\n\n1. **Destination & Dates**: The screenshot confirms London was searched for Sun, Feb 14 – Sun, Feb 21 (2027).\n2. **Occupancy**: Set to 2 adults, 1 room (suitable for a couple).\n3. **Rating Filter**: Filtered to \"Very Good: 8+\", showing \"Gem Fitzrovia Hotel\" with an 8.4 rating.\n4. **Output Requirements**: The response provides the name of the hotel (\"Gem Fitzrovia Hotel\") along with a short description and details.\n\nAll criteria specified in the instruction have been met.\n\nSUCCESS",
+  "reason_short": "The task requires searching for a hotel in London suitable for a couple for the dates February 14th, 2027, to February 21st, 2027, with a user rating of 8 or higher, and providing the name and a short description of the hotel. 1. **Destinat",
+  "screenshots": [
+    "task_216/final.png"
+  ],
+  "raw_screenshot": "task_216/final.png",
+  "source_result": "task_216",
+  "usage": {
+    "completion_tokens": 541,
+    "prompt_tokens": 1814,
+    "total_tokens": 2355,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 346,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00338925,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00338925,
+      "upstream_inference_prompt_cost": 0.0013605,
+      "upstream_inference_completions_cost": 0.00202875
+    }
+  },
+  "elapsed_seconds": 17.33
+}

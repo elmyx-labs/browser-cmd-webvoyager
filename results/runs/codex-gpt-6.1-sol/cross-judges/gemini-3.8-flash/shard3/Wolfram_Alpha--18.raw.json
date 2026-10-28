@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210627-LoLBtMoCciBHVNl6zuEh",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to plot the Albert Einstein curve with parametric equations. \n\nThe screenshot shows WolframAlpha displaying the query interpreted as \"first Albert Einstein curve (popular curve) | parametric equations\", along with the resulting parametric plot of Albert Einstein's portrait (plotted for $t$ from 0 to $92\\pi$). \n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Exploring Einstein's Curve**\n\nI'm currently focused on deciphering the parametric equations for the Albert Einstein curve, as revealed by WolframAlpha. My next step is to visualize this curve.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Exploring Einstein's Curve**\n\nI'm currently focused on deciphering the parametric equations for the Albert Einstein curve, as revealed by WolframAlpha. My next step is to visualize this curve.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19xFFlpLpkFwPFF7hzznQ+UncVxWYnUpcjZbBGnYrxcS/590MZLDo2vVDw4w2dfVhFZRcfSmefUipmKtyJmYba2lgji8kKcjWPK0cmsmvk9IfPPnH86KIAz+nUq2oznAvTCA9RKFtpumS566uXy3+KiVFxIpy6ebb1TtE0JJDQiNuh+1Oiuqo4Min3GSgWFPjWwmKqJl7AVYaBl4XZEjLHoYwOvW1VXuc2/mgq9iCK1obA/eTVs7bE4aYi8Zp5bv2hQb2QaqOyn3lbSHk7cpdb7MFR7k7Oq3VBSPukwRDbxwuYFSwsmRa6rGSkP1id5a+L5Y8dejDvh/wpDtBRdagCGHY4B7zya6YaQHiosC5/dv7tfw4RobYjVv25BoizlJkIVC6JRwAvYIhkOLeDUucnj4z4J/mue/3/0BsZBT+ZtP0b64iVr0bzR0vjpt8q1paTBJ10BnLcDlXu8ZytrRMIYzm0X/FeMI2nUopO79pJ4xgt0/xiJpn/WS/NVyRKwESyCG6NHs4UPAtWZFZNVXHa+YShxceGA8CJHG5UINYgWSiTmVZoxB1ey6BrXsCPwuSls/HP+daxCTZawGpFNaQzgJGHS169YI1hm2k71LvfysVA6q3irh9OALRnEm3yWOzDJQaLd+xFsU5+cTvEO5RXBjKOFCUxR4gmuawSKh6ysl226WkKAfwuAxj8RB3uZQFDsVQA5TDARCLV0FKqEy6arVjOb99CRTqnKnP5bViK3yqktrHBX8yqOwtkOx3mc/+QVa1IWXxavwd2FbQpj9aHnJ1XdEUyt4xNwJhfH8EUf0WihSTNKaMY2K4y5mau5liaGKZlPb43JiqH3FhSOEOugh/6LjPVNR0ySXa6mkoi4aol3U1pZEEXmuYyr2bOgVqwaSntwNakf7H15Sv/DOc/Nr7Xp/OdXW54IxRTbzbgb/yfBNqs9Rg1rjBFi5OqxsqNWxCcgcaJFuUHWA+02Tw0WrVyWNr4Emo4ucVBlZhl3WufP5tS7cb5o1dYvVfuZlj802vS8IMy2gQ==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210627,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 205,
+    "prompt_tokens": 1670,
+    "total_tokens": 1875,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 125,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00202125,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00202125,
+      "upstream_inference_prompt_cost": 0.0012525,
+      "upstream_inference_completions_cost": 0.00076875
+    }
+  },
+  "provider": "Google"
+}

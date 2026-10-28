@@ -1,0 +1,41 @@
+{
+  "id": "Apple--6",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find AirPods on Apple and how many types are currently available.",
+  "answer": "FINAL: Apple currently offers 4 AirPods options: AirPods 5 ($129), AirPods 5 with Wireless Charging Case ($149), AirPods Pro 3 ($249), and AirPods Max 2 ($549).\n\nVerified October 27, 2026 on Apple’s United States website: https://www.apple.com/airpods/\nEvidence: the “Compare AirPods models” section lists all four options, each with a price and Buy button. The count includes both AirPods 5 versions. Screenshot: final.png.",
+  "response": "The task required finding AirPods on Apple's website and determining how many types are currently available. \n\nThe provided screenshot displays the \"Compare AirPods models\" section on Apple's website, showing 4 models:\n1. AirPods 5\n2. AirPods 5 Wireless Charging Case\n3. AirPods Pro 3\n4. AirPods Max 2\n\nThe Result Response accurately reports the 4 types/models along with their details matching the screenshot.\n\nSUCCESS",
+  "reason_short": "The task required finding AirPods on Apple's website and determining how many types are currently available. The provided screenshot displays the \"Compare AirPods models\" section on Apple's website, showing 4 models: 1. AirPods 5 2. AirPods",
+  "screenshots": [
+    "task_86/final.png"
+  ],
+  "raw_screenshot": "task_86/final.png",
+  "source_result": "task_86",
+  "usage": {
+    "completion_tokens": 260,
+    "prompt_tokens": 1689,
+    "total_tokens": 1949,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 166,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00224175,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00224175,
+      "upstream_inference_prompt_cost": 0.00126675,
+      "upstream_inference_completions_cost": 0.000975
+    }
+  },
+  "elapsed_seconds": 4.85
+}

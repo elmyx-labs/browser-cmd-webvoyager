@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210640-6v6j4wN7htwR9GUzM04Y",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user's instruction asks to show the blood relationship fraction between \"you\" and your \"father's mother's sister's son\".\n\nThe provided screenshot from WolframAlpha clearly shows:\n- Input interpretation: `father's mother's sister's son`\n- Relationship properties table showing: `blood relationship fraction: 1/32 = 3.125%`\n\nThe result response correctly provides the exact fraction `1/32` (3.125%) as requested.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Calculating Relationship**\n\nI'm currently working on determining the precise blood relationship fraction. The focus is on tracing the lineage from \"you\" through your paternal grandmother to her sister, and then to that sister's son.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Calculating Relationship**\n\nI'm currently working on determining the precise blood relationship fraction. The focus is on tracing the lineage from \"you\" through your paternal grandmother to her sister, and then to that sister's son.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/RLor0rbniZKo82kTgXhsdU10qSPrMFyRpxH4SyOZkj7zm4glc4q3oMs+hpDErJwt+RQNxLabaTlXfIkGIizoksFXm5vZBVWAQFhqg0EjWQ2eewsuy4MIDp7GQVAxajU8qpkK5j5FhTK37av7xr9Z7NTV7XgP9HXAgphxFWGVCz3IC5C7KNdg37vVnP7Vj5Cn5HDZIWnxGoz582lnH8gGGAWaz+DdUo67iDQhIld2TT1ZBVhnaromfcW54c02YGl3aicq8isy77x1T3J01I//7J5yhs6G78NNqdDIhKZWVCjBj1O7O8sFtnWko57fxHFG1/LW17VQq8GTXcP3unnlsVpA6f+LngbXcq0C3vj6/R3FNQd/dKK16nOuNNtmQGjDzqs67ae56vmYd+2dqwFFp8AXDtWFjpFIGzpEXvdKYA8xUTt/rhnnyol5pdGU1nS2daOVRWYt3bAIX2iHMkf6n/YuyLXJE+B46SRqCkh/Fa94JK/mSwtDtbQlbmBhFJoMvGVUsiFQDyww2LNdMcHMdxvTwdFjxUKApJXYdsCzNpp2YHKgtSRpccpp11mZEpeiabfNcY3qgnI4fdXz3cVWewfbZV6lgGHIXqq3b2WWp7MnE6LV7KdZhuHFo7fbAP4LKoADgUfRjrSANrqvaO6ChyTI/wPKLVUBthR7bFYX4hPYGqO6BSxOq6yxHaB7p2bzNKuHPt/eK4Xu0F7A1pReHORFPQD4pO81F/Kn0vcyCw+IXxA6PtnBR8EpZDNDefL4e9LwPM0Pc6UGj1G3kiFi0/o4h7vDafbYqfMJLoVdVzVSyj8vZXvalBVZodnNwokXyLIFUIGuUB7QGmCzi5jqqtHrAt0IEcUNZHfhFVajvZczIY+A/kUjGttI0Qzo0breJ9uLQO2/iA0pL4gozrnN8MeNOz6YcqCkPc37UYPheEdrRZB/PFgNfzIZ/VRHu29xHw865Rnoj1sg9FIxUleAEoFAEAVSbMHeFYliOfrijVFJAtFNZBr42xuDBbPN7ILAvnc/js3y0yGVTvWlaeqL+uBsBqWBPCv2aM6Tg0o6o4sPZMErYez7s/cX8KjKBMfe5ftgE9p+qfMImyCbqEYReEnYLAldZ/SjVrIPvzYWiOkhc5uh+Zx+V9yejS96UycjZLSHS1/oSxZ3dHb8tbK6dkbF2TaMRGgZxA4OtluV9W9FaAh+SNjJdjG04dY0s4KcigCL/88vspQ9FgFe+0fBwxOwXv2oMGGLZz5u9JpYdSF3y+00NkJzVLTok1lvpxf8jgNZCtEX71GIfgCXIRZNPCyuy+ytBxqE=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210640,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 299,
+    "prompt_tokens": 1703,
+    "total_tokens": 2002,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 189,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0023985,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0023985,
+      "upstream_inference_prompt_cost": 0.00127725,
+      "upstream_inference_completions_cost": 0.00112125
+    }
+  },
+  "provider": "Google"
+}

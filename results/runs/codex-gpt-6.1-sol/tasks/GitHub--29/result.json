@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--29",
+    "ques": "Compare the maximum number of private repositories allowed in the Free and Pro plans in GitHub Pricing.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: GitHub Free and GitHub Pro both allow unlimited private repositories; neither has a fixed maximum number. GitHub Pricing lists “Unlimited public/private repositories” for Free, and GitHub’s plan documentation confirms Pro includes Free’s features. Sources: https://github.com/pricing and https://docs.github.com/en/get-started/learning-about-github/githubs-plans (accessed October 28, 2026). Evidence: final.png.",
+    "result_text": "FINAL: GitHub Free and GitHub Pro both allow unlimited private repositories; neither has a fixed maximum number. GitHub Pricing lists “Unlimited public/private repositories” for Free, and GitHub’s plan documentation confirms Pro includes Free’s features. Sources: https://github.com/pricing and https://docs.github.com/en/get-started/learning-about-github/githubs-plans (accessed October 28, 2026). Evidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_396/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_396",
+  "elapsed_seconds": 98.70697093009949,
+  "execution_error": null,
+  "proxy_bytes": 8672470
+}

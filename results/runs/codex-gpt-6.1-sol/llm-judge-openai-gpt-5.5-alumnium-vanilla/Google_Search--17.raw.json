@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyfrM6C6wBeRokOL1npFtz9hZPpo",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to provide the names of Donald Trump’s children.\n\nThe result response lists: Donald Trump Jr., Ivanka Trump, Eric Trump, Tiffany Trump, and Barron Trump. The screenshot shows a Wikipedia “Children” section stating that Trump has five children and names the same five individuals: Don Jr., Ivanka, Eric, Tiffany, and Barron.\n\nThis directly satisfies the user’s request.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196731,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 1648,
+    "total_tokens": 1785,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 43,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

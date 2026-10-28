@@ -1,0 +1,5 @@
+[x] Compare flight options from New York to Tokyo for a round trip. Google Flights New York to Tokyo results and selected return lists; United, ANA, JAL and American compared in ANSWER.txt. Source URL in ANSWER.txt and NOTES.md.
+[x] Leaving on June 25, 2027, and returning on July 15, 2027, for one adult. Visible “Jun 25 – Jul 15, 2027,” “Round trip,” “1,” “Economy” and “Prices include required taxes + fees for 1 adult”; query tfs dates confirmed in browser.
+[x] Prioritize the comparisons by the shortest travel time. “Sorted by duration” on departures and returns; combined leg times ranked in ANSWER.txt. United 13 hr 50 min outbound plus 12 hr 50 min return = 26h40.
+[x] Save one genuine screenshot as ./final.png, viewport, shrunk to about 1280 px on its long side, with names, deciding facts, filters, sorts and dates visible, no dialog. Browser viewport screenshot browser-0001.png resized with sips to 1280x723; final.png is the only evidence image read.
+[x] Write final answer to ./ANSWER.txt with result and evidence. Begins FINAL: and includes comparison, dates, fares, source URL and screenshot explanation.

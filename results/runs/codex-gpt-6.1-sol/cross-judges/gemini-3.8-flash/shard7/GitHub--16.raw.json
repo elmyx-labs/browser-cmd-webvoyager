@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210257-PWkWIhHWEgRU7kXvtFTe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find the GitHub Skills section and determine how many courses are listed under the \"First day on GitHub\" heading.\n\nThe screenshot shows the GitHub Learn / Skills page featuring the heading \"First day on GitHub\" with three course cards:\n1. Introduction to GitHub\n2. Communicate using Markdown\n3. GitHub Pages\n\nThe response correctly identifies that there are 3 courses under this heading and names them accurately.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing GitHub Skills Data**\n\nI've identified the \"GitHub Skills\" section and counted three courses listed under \"First day on GitHub.\" The introduction course has also been noted.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing GitHub Skills Data**\n\nI've identified the \"GitHub Skills\" section and counted three courses listed under \"First day on GitHub.\" The introduction course has also been noted.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19ZUqy3SlLPE9q11EnT1KZ+7G0cU/KMeljgPbuzNWdoxiU3PFpYhxxi0GYsPtKZEAVtkMPxjShIog3EhU8SYL9GhdGGJv+ucgF5GyZ28oUHn0l5CgNVIbhvQeCHlXYIiRPEehvWcibFkA3preAazjj/aXXQbp5wQQGl9RIMHHjqsIu3q7gllV729UEBTO8GMiWdHSJevtDoj93WhxCaW+3CsgDhLW5OyrTEJFXXA5yCElZgAXZu7MfMa0yA5SWpy9lFXyiexdBPL8jSOYdguzP8B96Yo/VWUU+/kq66E9UxIZ9/sWuQ8HZm+i+NjFS8BNC0ROzOlm7Y6DRPHiDkqfb/baWSe2xq5/CFwQvYSZ2h3qKDMCVVI+UhDJLOT6KPj+0LDH2WN3ZurZJJH2jWfM3vWkIW3W80m/MOHgVLQj1F4JopN+L7MclR3XKjK+psSEpD5b6tZPjifLw+bBxElLw9aBY069ACJbbCunj9MuQKglXxCT7H06RwR9MXj7Gnfk3W+4uLZvuqNF9N/r5QYaCEA2FHgLZh8qmzOM9rhf5LzmwKBg9tY6jZzAyN5G0h5xsiy9eWYlxbI4/qQWW5W3NxcHqXTQTj2FUCEiGfw8cbTDFIeQqIXUf2/oKqgHBzPvZ8FG30ZNysVd6Pv8qRB5iTEThG41oR5D9koUKzrCF4h1M4eO7Fhj7unpSEm0g3EJCUvQ38IkZgXfC3Fndv9DnzJ7llyJT4hhd1KP6RjLqcNAWC7kbNqhDRdcilQyJ2MRIDSnMjub+ybkyKo1hRCJz1tB1eGJ467nqS7UdbI3cAowlm/OIiz0UjZ+Snpog+ju90gbIpfi+RPYwlYGnLaxqxuQoduHW2JQRG0xgDpmVOo28ohDXN7q2ukn56ZdLKcHLKv+e0rUmmOetagGMalYFtlj/sPDDsiwg7HCHH+CWNJr8E00CvVjqKNqdzSJ93J5mLLEchZlsAwGeZtbQEvpdQOQ9UNPg1H2o9E+wXaxV/XKac+zfTx+yXsAvJBjVM9VAZkeJ7koV16DmtM4I1Q/rWx3Ux9LBkkfcx6pma7vh4L/i3Dt9l0J4IcbO9xw0Wzkz6w54p68+RUoymeYxcpDb2RcCM",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210257,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 238,
+    "prompt_tokens": 1667,
+    "total_tokens": 1905,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 150,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00214275,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00214275,
+      "upstream_inference_prompt_cost": 0.00125025,
+      "upstream_inference_completions_cost": 0.0008925
+    }
+  },
+  "provider": "Google"
+}

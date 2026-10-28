@@ -1,0 +1,4 @@
+[x] Find Customer Stories on the GitHub page. Homepage Company → Customer Stories opens https://github.com/customer-stories?type=enterprise; page navigation says “Customer Stories”.
+[x] List the 2 stories that appear on the web page. Selected first two featured stories: “How GM accelerated software delivery and strengthened engineering culture with GitHub.” and “How AstraZeneca accelerates medicine discovery with GitHub and AI.” Source: https://github.com/customer-stories?type=enterprise.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing both stories. final.png is a 1280×723 scaled browser viewport with Customer Stories navigation and both story titles visible; no overlay.
+[x] Write the result and evidence to ./ANSWER.txt. Includes the two stories, source links, observation date, and final.png evidence reference.

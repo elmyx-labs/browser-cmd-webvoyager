@@ -1,0 +1,4 @@
+- [x] Lowest-priced one-way flight from Cairo to Montreal on July 21, 2027 (site's cheapest sort). Google Flights search URL in ANSWER.txt encodes 2027-07-21; page shows “One way”, “Cairo”, “Montreal”, “Wed, Jul 21”, “Cheapest from CA$704”, “Sorted by price”; first result “Qatar Airways” “CA$704”.
+- [x] Total travel time and number of stops. Same result: “25 hr 55 min”, “1 stop”, “9 hr 35 min DOH”.
+- [x] Genuine viewport screenshot ./final.png about 1280 px long side, with result, dates, filters and sort visible, unobscured. Captured viewport via browser-cmd screenshot; shrunk using sips to 1280x723; only final.png was read.
+- [x] ./ANSWER.txt with result and evidence. First line begins FINAL; includes date, price, duration, stops, timing, Google Flights source URL and final.png.

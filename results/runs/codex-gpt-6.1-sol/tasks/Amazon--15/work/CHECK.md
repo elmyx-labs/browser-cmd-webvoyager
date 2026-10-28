@@ -1,0 +1,8 @@
+- [x] Find a pair of mens running shoes on Amazon — https://www.amazon.com/dp/B0DT1KSZGV: "Under Armour Men's Charged+ Assert 11 Running Shoes".
+- [x] In black — same URL: "Color: (001) Black/Black/White".
+- [x] Size 7 — same URL: "Size: 7".
+- [x] 4+ stars — same URL: "4.6 out of 5 stars".
+- [x] Under $50 — same URL: "$44.39" item price.
+- [x] Add them to my cart — https://www.amazon.com/cart/smart-wagon?newItems=3f168a27-0130-4924-b56a-c3422dbe48b7,1: "Added to cart", "1 item in cart"; cart page confirms the selected black size 7 item.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing confirmation and deciding facts together — final.png, 1280x723, product page with cart sidebar holding one matching pair, subtotal $44.39, rating 4.6, selected black and size 7.
+- [x] Write the result and its evidence to ./ANSWER.txt — complete.

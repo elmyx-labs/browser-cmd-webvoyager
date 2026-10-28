@@ -1,0 +1,31 @@
+{
+  "id": "Google Map--36",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify 5 restaurants serving pizza near the 30309 zip code and rank them by their ratings.",
+  "answer": "FINAL: Five restaurants serving pizza near Atlanta ZIP code 30309, ranked by Google Maps rating (out of 5), checked October 27, 2026:\n\nRank | Restaurant | Rating | Google reviews | Address\n1 | Varasano's Pizzeria - Buckhead | 4.9 | 3,200 | 2171 Peachtree Rd NE, Unit 100\n2 (tie) | Antico Pizza Napoletana | 4.6 | 6,592 | 1093 Hemphill Ave NW\n2 (tie) | Varuni Napoli | 4.6 | 1,531 | 1540 Monroe Dr NE\n4 (tie) | Atwoods Pizza Cafe | 4.5 | 1,114 | 817 W Peachtree St NW, Ste A105\n4 (tie) | Night Owl Pizza- Midtown | 4.5 | 1,344 | 708 Spring St NW\n\nSelected from Google Maps results for “pizza near 30309,” then ranked by star rating; equal ratings share a rank. Maps labels four as pizza restaurants and describes Varuni Napoli as a “Busy spot for Neapolitan pizza.”\n\nSource: https://www.google.com/maps/search/pizza+near+30309/?hl=en\nEvidence: final.png shows all five restaurant names, ratings, review counts and addresses alongside the search query.",
+  "response": "The task was to identify 5 restaurants serving pizza near ZIP code 30309 and rank them by their ratings.\n\nThe screenshot shows Google Maps results for “pizza near 30309” and includes the five restaurants listed in the response:\n\n- Varasano's Pizzeria - Buckhead — 4.9\n- Antico Pizza Napoletana — 4.6\n- Atwoods Pizza Cafe — 4.5\n- Night Owl Pizza - Midtown — 4.5\n- Varuni Napoli — 4.6\n\nThe response correctly reorders these by rating, placing Varasano’s first, Antico and Varuni Napoli tied at 4.6, and Atwoods and Night Owl tied at 4.5. The restaurants are all shown in the Google Maps pizza search results near 30309, and the ratings/review counts/addresses match the screenshot.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to identify 5 restaurants serving pizza near ZIP code 30309 and rank them by their ratings. The screenshot shows Google Maps results for “pizza near 30309” and includes the five restaurants listed in the response: - Varasano's ",
+  "screenshots": [
+    "task_483/final.png"
+  ],
+  "raw_screenshot": "task_483/final.png",
+  "source_result": "task_483",
+  "usage": {
+    "completion_tokens": 638,
+    "prompt_tokens": 2206,
+    "total_tokens": 2844,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 444,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 12.39
+}

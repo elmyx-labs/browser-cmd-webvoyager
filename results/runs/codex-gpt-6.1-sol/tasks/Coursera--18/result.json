@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--18",
+    "ques": "Identify a Coursera course that teaches JavaScript, which is beginner-friendly and includes a certificate upon completion.",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Programming with JavaScript by Meta on Coursera meets all three requirements.\n\n- Teaches JavaScript: the course lists “Creating simple JavaScript codes” among its learning outcomes.\n- Beginner-friendly: labeled “Beginner level”; Coursera says no prior web development experience is needed.\n- Certificate upon completion: lists a “Shareable certificate,” and its FAQ confirms that learners earn a certificate when they complete the work through certificate enrollment.\n\nSource: https://www.coursera.org/learn/programming-with-javascript\nVerified October 27, 2026. Screenshot: final.png.",
+    "result_text": "FINAL: Programming with JavaScript by Meta on Coursera meets all three requirements.\n\n- Teaches JavaScript: the course lists “Creating simple JavaScript codes” among its learning outcomes.\n- Beginner-friendly: labeled “Beginner level”; Coursera says no prior web development experience is needed.\n- Certificate upon completion: lists a “Shareable certificate,” and its FAQ confirms that learners earn a certificate when they complete the work through certificate enrollment.\n\nSource: https://www.coursera.org/learn/programming-with-javascript\nVerified October 27, 2026. Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_300/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_300",
+  "elapsed_seconds": 131.03364491462708,
+  "execution_error": null,
+  "proxy_bytes": null
+}

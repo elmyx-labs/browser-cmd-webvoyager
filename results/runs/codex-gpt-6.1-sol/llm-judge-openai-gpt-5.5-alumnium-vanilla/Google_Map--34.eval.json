@@ -1,0 +1,31 @@
+{
+  "id": "Google Map--34",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a hiking trail within 2 miles of zip code 80202.",
+  "answer": "FINAL: Cherry Creek Trail, 2250 15th St, Denver, CO 80202, meets the requirement. Google Maps lists it as a “Hiking area” and shows a 0.6-mile walk (14 minutes) from its Denver, CO 80202 location marker via 16th St/16th St Mall—within 2 miles.\n\nEvidence: final.png shows the 80202 origin, Cherry Creek Trail destination, walking mode selected, and 0.6-mile route together. Checked October 27, 2026.\nSource: https://www.google.com/maps/dir/Denver,+CO+80202,+USA/Cherry+Creek+Trail,+2250+15th+St,+Denver,+CO+80202,+United+States/@39.7539515,-105.0066653,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x876c78c3457a31c1:0x7dbdd1b60a1adf59!2m2!1d-105.0002242!2d39.7541032!1m5!1m1!1s0x876c79004b025565:0xd938536cfbda1921!2m2!1d-105.0078932!2d39.7546673!3e2?hl=en",
+  "response": "The task was to find a hiking trail within 2 miles of ZIP code 80202.\n\nThe provided screenshot shows Google Maps directions from “Denver, CO 80202, USA” to “Cherry Creek Trail, 2250 15th St, Denver,” with walking directions selected. The route shown is 0.6 miles and takes about 14 minutes, which is clearly within the required 2-mile range. The result response also states that Google Maps lists Cherry Creek Trail as a “Hiking area.”\n\nBecause the identified location is a trail/hiking area and the mapped distance from ZIP code 80202 is under 2 miles, the task requirements were met.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find a hiking trail within 2 miles of ZIP code 80202. The provided screenshot shows Google Maps directions from “Denver, CO 80202, USA” to “Cherry Creek Trail, 2250 15th St, Denver,” with walking directions selected. The rou",
+  "screenshots": [
+    "task_481/final.png"
+  ],
+  "raw_screenshot": "task_481/final.png",
+  "source_result": "task_481",
+  "usage": {
+    "completion_tokens": 319,
+    "prompt_tokens": 1886,
+    "total_tokens": 2205,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 170,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.51
+}

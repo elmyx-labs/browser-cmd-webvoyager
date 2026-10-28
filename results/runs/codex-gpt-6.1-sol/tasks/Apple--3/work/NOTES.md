@@ -1,0 +1,2 @@
+2026-10-27 — Apple homepage https://www.apple.com/ features “iPhone 18 Pro”; product page https://www.apple.com/iphone-18-pro/ is titled “iPhone 18 Pro and iPhone 18 Pro Max - Apple” and labels it “New iPhone 18 Pro.”
+Apple US store https://www.apple.com/shop/buy-iphone/iphone-18-pro — “iPhone 18 Pro 6.3-inch display” and “Buy from $1199”; “iPhone 18 Pro Max 6.9-inch display” and “Buy from $1299”.

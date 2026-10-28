@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--26",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify a Specialization on Coursera that offers an overview of 'Renewable Energy'. The Specialization should be beginner-level and include a course on Renewable Energy Futures. Note the instructor's name and the number of weeks required to complete the course if I spend 5 hours a week.",
+  "answer": "FINAL: Renewable Energy Specialization, offered by the University of Colorado Boulder — beginner level, with Renewable Energy Futures as Course 4. The featured instructor is Stephen R. Lawrence; the specialization also lists Paul Komor.\n\nAt 5 hours per week, allow 16 weeks for the specialization. Coursera's completion FAQ explicitly gives sixteen weeks at three to five hours per week. It also says each course includes a final week for study, review and a final exam.\n\nIf “the course” means Renewable Energy Futures alone: its instructor is Paul Komor. The specialization's course listing estimates 13 hours, so 13 ÷ 5 = 2.6 weeks, or about 3 weeks at 5 hours per week.\n\nEvidence: https://www.coursera.org/specializations/renewable-energy (beginner level, course list, instructors and completion FAQ); https://www.coursera.org/learn/renewable-energy-futures?specialization=renewable-energy (Paul Komor). Screenshot: final.png shows the specialization name and the completion FAQ.",
+  "response": "The user requested to:\n1. Identify a beginner-level Specialization on Coursera offering an overview of 'Renewable Energy' that includes a course on \"Renewable Energy Futures\".\n2. Note the instructor's name.\n3. Note the number of weeks required to complete the course/specialization at 5 hours per week.\n\nThe model identified the \"Renewable Energy Specialization\" offered by the University of Colorado Boulder, provided the instructors' names (Stephen R. Lawrence and Paul Komor), and specified the completion timeframe (16 weeks for the specialization at 3-5 hours/week as verified by the FAQ in the screenshot, as well as breaking down the individual course).\n\nAll requirements have been met accurately.\n\nSUCCESS",
+  "reason_short": "The user requested to: 1. Identify a beginner-level Specialization on Coursera offering an overview of 'Renewable Energy' that includes a course on \"Renewable Energy Futures\". 2. Note the instructor's name. 3. Note the number of weeks requi",
+  "screenshots": [
+    "task_308/final.png"
+  ],
+  "raw_screenshot": "task_308/final.png",
+  "source_result": "task_7",
+  "usage": {
+    "completion_tokens": 404,
+    "prompt_tokens": 1846,
+    "total_tokens": 2250,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 250,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0028995,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0028995,
+      "upstream_inference_prompt_cost": 0.0013845,
+      "upstream_inference_completions_cost": 0.001515
+    }
+  },
+  "elapsed_seconds": 16.27
+}

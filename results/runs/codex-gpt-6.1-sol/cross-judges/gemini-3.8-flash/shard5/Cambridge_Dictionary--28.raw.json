@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210164-Kq2o072LXdp8UgQUbRm2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user's instruction was to search for \"feel giddy\" in Cambridge Dictionary's Thesaurus and list the synonyms provided.\n\nThe screenshot confirms that the search was conducted on Cambridge Dictionary's Thesaurus for \"feel giddy\", displaying the entry with the following synonyms under the \"Synonyms\" section:\n- feel dizzy\n- whirl\n- spin\n- reel\n\nThe Result Response accurately lists all four synonyms found on the page. Therefore, the task was successfully completed.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Task Success**\n\nI am currently reviewing the screenshot from the Cambridge Dictionary website to assess if the synonyms for \"feel giddy\" were accurately identified. My focus is on confirming the completion of the requested task.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Task Success**\n\nI am currently reviewing the screenshot from the Cambridge Dictionary website to assess if the synonyms for \"feel giddy\" were accurately identified. My focus is on confirming the completion of the requested task.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18i8/yVEjfCSVLQfQ1Qbo0l/TYTW8I186+dVSoU/vgYuLyDMm5655xxr9hhAVyP8obHZV7Yo79SpPofKqSpDbq30gnjJJlv7uVh+B50LQR9MzGogCwnyxzwe8Op8VPsUO4Nc9vVvQHBZsesDWQTbu/XYWUOoSXqNKcKBQuUmbVCXjFZAncRi5C+TG2Yg+T+RTegqY2JghhuvBjIZHjJRLw5vmBtNRSgCYu6SV7PZnV6k0l0uWoI6YwrILLobtPOBaO9AlnAwsdesm29W0pQCKgSZkPaL0pxTcNnT+MCeLJ4xk2aARGSDX+qq+ftZtG6oB+jKsi0IC3sQJgSOTexbg6WHGAXt2AXuGqPqqew71T9OrFkXmiO6JfUc2pe7jTBtpLHRKO3uDi8v+OuctEBMO3L0rVce1ZfYpfpehypVCMPN52KzUyhwfCzl+OIlRX9k8rFpjn9jdu1l4C6vvb2GHBs+SbCUJHl0SpmX/9v2vVccQyiV6mJ3hrNpU0FEroaXRWGbKac7w5HpvSG5xA8ZsErgwBIKipyev2fU28XFbki+Z8gmUslo2DCUy3PkQqeVdZ0aY4l+bPK+cbbZBHMi4+I5t8Uo1I7VxjZa038D7xfk3EuuYHphwi/TnchTPZA+gYIi8hSHyONQxk/TytL/TvAocTux0R7RcZ/kI3wEl+DcQRSRs4fDX4AbwnwOlDq/lH4UNDM/3YGLilss0GHEGZQWykY2MEDj9dJIhJdOI9mDbYnjOWtywh9mIVzQIYA7l/QBZLmm2DWK90EdgEHx3VvooXLQNVvwYo0Bex0cCaNtGDu9mZJzsFzUv1cl6kYaKwJuleIW9wWiasWw4AzndU/Sfuz+rFDj32Gq9s31vZ64PMUXM0N7Dm9IVVg1DhsBL/hG9OmvgOgi7bNkZXwH8jRrJEZEseDfymSw4JYbPpyATHTMKvCGODw/7IC/nkSApTXC0v9nmYhtysIMZjMh+ccUcs9wA/qOOvp6kt8OWDyvTIkBQyE6KE5vGqISX01hAwWb6zcmQ1ZeSDkS14VNypMuZvRpDP8V9mJ88ht1FMGQ3G7L5uCL0wP5NGwpNAYJQXZhxQEwVtjIDKj8yLYkEdgec5WkqjXYXKMS6xDKexHzaO6J1GyMD/c1E45w4Jy6njl3Hq99e2MnQ3ljYoeoUyoZKOMuWGuyN15HOyL1PfijrYYNWGkec4XB8BI/dUGPtAQUrvgQJlq0/zs",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210164,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 258,
+    "prompt_tokens": 1661,
+    "total_tokens": 1919,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 159,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00221325,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00221325,
+      "upstream_inference_prompt_cost": 0.00124575,
+      "upstream_inference_completions_cost": 0.0009675
+    }
+  },
+  "provider": "Google"
+}

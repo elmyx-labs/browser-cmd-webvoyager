@@ -1,0 +1,8 @@
+[x] Identify the latest iPad model released by Apple, with release date evidence. Apple iPad archive pages 1–2; https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/ states availability March 11, 2026. Latest mini announced October 26, availability November 6, 2026: https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/ . Answer states both dates and distinguishes released from announced.
+[x] List its storage options. https://www.apple.com/ipad-air/specs/ — 128GB, 256GB, 512GB, 1TB for both sizes.
+[x] List its processor type. https://www.apple.com/ipad-air/specs/ — Apple M4 chip; 8-core CPU; 9-core GPU; 16-core Neural Engine.
+[x] List its display features. https://www.apple.com/ipad-air/specs/ — Liquid Retina IPS, P3, True Tone, fully laminated, antireflective, 2360x1640 / 2732x2048, 500 / 600 nits.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with model name and deciding specifications visible together. 768x1280 genuine viewport screenshot of https://www.apple.com/ipad/compare/?modelList=ipad-air-13-m4,ipad-air-11-m4,ipad-mini-a20pro ; selected model fields, Capacity, Display, Chip all visible; no overlay. Only final.png read as evidence image.
+[x] Write ./ANSWER.txt with result, dates, and sources. Completed, including current release and newest announcement specifications.
+
+[x] Verify iPad mini minimum brightness and contrast ratio in the browser. https://www.apple.com/ipad-mini/specs/ Display section: "1 nit minimum brightness"; "2,000,000:1 contrast ratio". Retained both verified values in ANSWER.txt; refreshed final.png from the comparison page viewport.

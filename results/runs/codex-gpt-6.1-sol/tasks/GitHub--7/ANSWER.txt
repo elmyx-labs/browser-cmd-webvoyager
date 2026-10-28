@@ -1,0 +1,11 @@
+FINAL: ALBERT’s official GitHub repository is google-research/albert: https://github.com/google-research/albert
+
+The most recent commit on master is b772393d3dae115b493258ce8e37c17b2cc62100, committed by albert-copybara on April 12, 2023: “Replace deprecated tf.contrib.data.map_and_batch(...) with tf.data.experimental.map_and_batch(...).”
+
+It changed exactly two files:
+- classifier_utils.py — 1 addition, 2 deletions.
+- squad_utils.py — 1 addition, 2 deletions.
+
+Both files remove the contrib_data import and replace the deprecated map_and_batch call. Total: 2 additions and 4 deletions.
+
+Evidence: https://github.com/google-research/albert/commit/b772393d3dae115b493258ce8e37c17b2cc62100 ; screenshot: final.png. The repository homepage identifies this as its latest commit. Google Research’s official announcement links directly to the repository: https://research.google/blog/albert-a-lite-bert-for-self-supervised-learning-of-language-representations/

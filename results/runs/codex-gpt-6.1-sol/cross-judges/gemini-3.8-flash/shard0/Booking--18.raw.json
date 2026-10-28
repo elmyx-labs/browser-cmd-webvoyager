@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210136-SmZpkiJb4kjSmWVAOmWY",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task requires searching for a hotel in London suitable for a couple for the dates February 14th, 2027, to February 21st, 2027, with a user rating of 8 or higher, and providing the name and a short description of the hotel.\n\n1. **Destination & Dates**: The screenshot confirms London was searched for Sun, Feb 14 – Sun, Feb 21 (2027).\n2. **Occupancy**: Set to 2 adults, 1 room (suitable for a couple).\n3. **Rating Filter**: Filtered to \"Very Good: 8+\", showing \"Gem Fitzrovia Hotel\" with an 8.4 rating.\n4. **Output Requirements**: The response provides the name of the hotel (\"Gem Fitzrovia Hotel\") along with a short description and details.\n\nAll criteria specified in the instruction have been met.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Defining Hotel Criteria**\n\nI'm currently focused on defining the precise search parameters. My goal is to pinpoint hotels in London that have a user rating of 8 or above, suitable for a couple (two adults, one room), and are available for the specified dates: February 14th to 21st, 2027. Once identified, I'll need to provide their names and concise descriptions.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Defining Hotel Criteria**\n\nI'm currently focused on defining the precise search parameters. My goal is to pinpoint hotels in London that have a user rating of 8 or above, suitable for a couple (two adults, one room), and are available for the specified dates: February 14th to 21st, 2027. Once identified, I'll need to provide their names and concise descriptions.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EpILCo8LAWkUfRPEpzVjrsP4A1FzjDaIWcZERlqDofBvP8MYSajeMOtSpA+QmPe1cXxBpTKiGd8M9n4R2CK+rfP34oy3L7sBZKRuIYPxJPdoGhXlFrdSqOjnButsH+z6JHVCfYkNFeniNpUgOsnASyCQcNY+ncN6y/U5ExoBZCZInO4kLoEjah1XEVB3Djce6UD8tUY90GQhIklMKi3K86FpXpYYi0Mtl++2ZRSIGq/u11/lQMppsIl5u+Msi3dObcjqGf+0KGTTILtkNWXNQnUI6avYjXs0F10Cz8va5nJXteGHqXSpCsKzJQta6qwI/fviE/HQcqaBvrQ53g8IL598AF5GKvj7+R260SwqmXs7z6n5XauedQE4MfXvze71yKak6LXV+XwEDEkNl1DTjbbJl3UeSz/ePpS9uOl0RyuCtmuZDBUnXIT2n+gSTQ/PMMPkZ5Ueh7NLfA7M558QuX6kx8VWr7r8EXGf5HfFgeI+JhlVSptrKiAgpRgRYRKAtKnbivnQd6WM/XL8/rnRK2oO1M3wFxdatBj5CrToKBwH+0CEloVhpiVDNyhHJsvTZbH2n3RwuimHw/VXMmiGRmQSzhq+NEG+ElSY8rz7KaWcfDpbRCf6m+HTKibcYNK27jyn/9D897RG8EWw0L2tHmX0r11Y7p2PW0wIxWF0521nPKOPErH6uYOs8RjgEf2+cWs1ykKKXJLWuHQf4K8WVz2Q3OGBLBFB+1hddifmdXzmy8X3Jf/9YriutaGT9+mjvmJKBX8UfVUqsUjs5vLE+PnMAjxAKEvBBJ4clg+A9E+afWV6qXtIlbKtAwVh5IejILmlRWd3KrgDm60CKvdgsnIx2xNKda/F69hGMlTYCwI9hLVtMsJE0bVpFdL3Ah7V7Zn8D3XJ7amlnGnDN5V2AA4lkNr1eNndTpnGQh4S4t3ck8fHr5GL/ecFExp1jG8mayN08yMYncLhJyfsmFamm5oAg5Nz/fFxYQdQ5O3lEOeOMWiG5zeF5Pk2c+UP0q1cvTtDk3lF84aRoCqv9JfzErSSRZqZNzOKiQDuk33RYMA6IJOlSnN/cze3EIe8oib4/pwnW5xyyYCxfnikexeMbqBOn44En1eE0W6pQmDiFoBDDX5IGiO/upfeYbSI2ppHAz4JUFFc1oUq7iY5iTQytApvbI95aHnNyPKNK16LsJwVt7cAzgCCveLtqeX8oDABvLnah+zP0DccyMyfrgpnxsIeUOXmtj6zch54MJQZc9/yligb3p4NebNkatMWmDFFz88XpXFbBgh/phh+I/sZH/zBTVfX5XgJBg8LF5gLIQmwSa1VTLbONCh0KrW54nWHtpupChESFFxnzQroCB9583i7SkzaFPjHnYJXAPhjVKQUR14XembPSoMqJSIQ0l1jPJO5GPACyu0k5sG7RZERIAa+QMlS+m7apmAcoCiOTG4j79RATp1DEyephdRM3J8K+PNCVER7X+Qi/2YjijPHIl2rdycpnvrX8yHlDV8WYlhaIkB+SqQ/s4izyVcn31LB4rd55PRJvt78EwpaJYMBvxjRs5NCMg6Nv9dWb8YPTvI8QPEqM1zrI05ipkxKst6GWNcfMiWR2/mhwcA0Bteg8rKt7K5+PgRcyprnbQ/tQWULGn2eyIr/64AtyRRIi1V0ZGO0Rk13a22b2OG2HPApn+CjjN7G02zazraF6mv/YRbxo1XC+Ar6Y/1JlHTbPusz3h6dY6D820Wo3GOmKzlXViIF4sI3jbkW31NzIRwtCNkbUe3Xd7miwGXlvdI7pYGyRWkkG8qB7YuhctOQVmM3ELMO/SMiMzJLTvRHYtlxM5nk0zrEGaZJ4CTGhpKFTS93RDQp20DZ33OcamtlqzS5SKURYu9F2QvsOskNdnvtz68CkpFh8A==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210136,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 541,
+    "prompt_tokens": 1814,
+    "total_tokens": 2355,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 346,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00338925,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00338925,
+      "upstream_inference_prompt_cost": 0.0013605,
+      "upstream_inference_completions_cost": 0.00202875
+    }
+  },
+  "provider": "Google AI Studio"
+}

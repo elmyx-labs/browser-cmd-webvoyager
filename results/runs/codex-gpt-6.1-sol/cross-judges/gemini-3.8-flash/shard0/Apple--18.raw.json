@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209987-mySzNzqS6AMPh9rWJ5xp",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to check whether there are trade-in offers for the latest model of iPhone.\n\nBased on the provided screenshot of Apple's website:\n- Under \"Apple Trade In\", it states: \"Save on a new iPhone with a trade-in. Get $175–$885 in credit toward iPhone Duo or iPhone 18 Pro when you trade in iPhone 13 or higher.\"\n- Under \"Carrier Deals at Apple\", it details carrier trade-in deals of up to $1,200 (AT&T up to $1,200, T-Mobile up to $1,000, Verizon up to $840).\n\nThe Result Response confirms the presence of these trade-in offers and accurately details the figures shown on the page.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Investigating iPhone Trade-Ins**\n\nI'm currently checking the Apple website to see what trade-in offers are available for the latest iPhone model. My focus is on the \"Why Apple is the best place to...\" section.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Investigating iPhone Trade-Ins**\n\nI'm currently checking the Apple website to see what trade-in offers are available for the latest iPhone model. My focus is on the \"Why Apple is the best place to...\" section.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209987,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 525,
+    "prompt_tokens": 1744,
+    "total_tokens": 2269,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 356,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00327675,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00327675,
+      "upstream_inference_prompt_cost": 0.001308,
+      "upstream_inference_completions_cost": 0.00196875
+    }
+  },
+  "provider": "Google AI Studio"
+}

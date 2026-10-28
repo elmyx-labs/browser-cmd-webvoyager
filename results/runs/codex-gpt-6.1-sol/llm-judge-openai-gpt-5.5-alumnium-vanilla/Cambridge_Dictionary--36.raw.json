@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdycgswvUHS1wRTGzG2RRDBqOnVFd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find Cambridge Dictionary guidance on using indirect speech in English, including examples of converting direct speech to indirect speech.\n\nThe result response provides:\n\n- A Cambridge Dictionary source URL for “Reported speech: indirect speech.”\n- A summary of relevant guidelines, including statements, yes/no questions, wh-questions, commands, tense backshift, pronoun changes, and time/place expression changes.\n- Several direct-to-indirect examples.\n- The screenshot supports the result by showing the Cambridge Dictionary page titled “Reported speech: indirect speech” and a table with direct and indirect examples for statements, questions, and commands.\n\nThis aligns well with the task requirements. The screenshot confirms the page is on Cambridge Dictionary and contains the requested examples, and the response supplies the needed guideline summary.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196534,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 339,
+    "prompt_tokens": 1944,
+    "total_tokens": 2283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 172,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210303-BonbF7HthYZuiY4slobA",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to locate the repository for the open-source project \"vscode\" and identify its top three contributors.\n\nBased on the screenshot and the final response:\n1. The repository located is `microsoft/vscode` on GitHub.\n2. The Insights -> Contributors page displays the top contributors ranked by commit count:\n   - #1: bpasero (15,030 commits)\n   - #2: jrieken (12,862 commits)\n   - #3: Tyriar (12,716 commits)\n\nThe result response accurately reports this information.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Contributors**\n\nI'm examining the provided screenshot of the `microsoft/vscode` repository's contributor insights. It clearly displays the top contributors, allowing me to easily identify the top three based on their contributions.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Contributors**\n\nI'm examining the provided screenshot of the `microsoft/vscode` repository's contributor insights. It clearly displays the top contributors, allowing me to easily identify the top three based on their contributions.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/UUJkrdpL8fmBYE+oiCGJAqgo0U+oUIzyzZRoTMTlVWyTOHxBrBCoPRU0DbQ1IIFnknuNdx2VqjJCxgDTXuwovBJnnBlCS0431n8efU7CbouoktkM1iEA+SKUkWTIz8fmYb6htIdDAStOSvgvucVPKfSTtGUs1aLTratxjTxuPOJgLrqXgll4j9XH1zcI08wJoNkIneP4h5rt5qsdvBHoxgbGVTUutlQwoNQK7FWp+BZl7GYilV5M1O20eSwKv3sqaQ41Nh4bPi43Xe5HZ3lFRk0NFRYMhq6LLYHePZ1ssmFzHw1fCWqg2b6KJ9KgfBPL8Ra4bL1uqhwutWqC3Q00sO5IEMXHwtuKni9Yq7qUDvMV6iyEz469PzWAZw/vvH6WnrWlQXroCsIxCRSYfPmbbI8rLX4BGl3avdsp5yLwSUzAyxiYz5995uGHuM9kQGtZrIF6huVLxs/0s6jjZPce7xn1qYK47KGc6VHY9IP3kfVZmFMK+2aQSMN7Be+iRS9CByu/dF/SLtG4cJvSgWz9BmXSq/pSqn8D/3YyW2O9e3AVeZFtyYF43bg+2eF7ZZ4dK5gKU/y22DIeR0JJIJPQzdct6p/7wv40qs6+9wsXHak2tMRmWQJEwLWtKhSKUfb14K2wa1ZTiK/+w5KlQ/78Yx9EPKz8srihZHEh1p6Cnkh7SvWU3SJHdNXiGJeQgLcL6I45MJFAjMQFfqJR4OHL5Z11fsWSMqA+Ce7RPOZ99BPewkN85G6ep4BHi7W8lbBc57dfi/UGHE2JIwkc18mTOpl250xG/RADIuFo99pK/A/Jgkb3178OOPdSrt0Vl9AiFXHl6qUR4wGIrMR3c6JQwjAEDXsTLfAObsOG02KFYf6G/KzZDO5YQoYPluup4YjlJl8OaG2utyG2GHEsSMMqFedyR1YbHPkev2eYX+BSDUEd9Y4A1nT8kuJRsCT3hMpIESi8lk1A0HEVmwyA6V0Qduou04sGIqZezv3+R6x3SbJoB73oalgSFnMGveZF0YvHZ4dWW4AOnLtYtFSXap+29qJdxn8HgW9WwjTy1BNTvK8iBCP+d3sELW789cM5iw7N09nk0sNy+/0s6eG+TUtu1OtBLfmfkSf/oEkVWy0mac1P1QXqI/ekDPgMjjU940EfzrV32aKJ87oSLRMNT7AhlkV6P/JhQRBJLKgQilQGESYEdbik7M1o3qJy9rHeh7SWBT/nhlXLf7UxJDh+maPL/f5RQ5VPfDjV66vkWw5/CtxgjKwwU2WOZt2lzrbT3VpfL6eSqlXq44jYTXKUYf6agmlZMAxDQ",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210303,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 355,
+    "prompt_tokens": 1745,
+    "total_tokens": 2100,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 225,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00264,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00264,
+      "upstream_inference_prompt_cost": 0.00130875,
+      "upstream_inference_completions_cost": 0.00133125
+    }
+  },
+  "provider": "Google"
+}

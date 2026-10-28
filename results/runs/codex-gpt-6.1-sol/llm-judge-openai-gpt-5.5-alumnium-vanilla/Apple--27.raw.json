@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyaWBHYncqMX6Xm3Cy4ByWXBH9Le",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The screenshot shows Apple’s HomePod mini 2 product page with a “Color” section listing five selectable color options: White, Pink, Blue, Green, and Midnight. The result response correctly states that it is available in multiple colors and lists those colors accurately. Extra details about pre-order timing do not conflict with the screenshot.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196400,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 206,
+    "prompt_tokens": 1666,
+    "total_tokens": 1872,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 127,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

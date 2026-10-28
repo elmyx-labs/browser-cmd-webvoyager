@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209968-AloTf7i5CL5f3CfzBkMY",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find a compact digital camera on Amazon with at least 10x zoom capability, rated 4 stars or higher, and priced between $100 and $300.\n\nThe product found on Amazon meets all the criteria:\n- **Type**: Compact / point-and-shoot digital camera (CAMKORY 5K Vlogging Camera 56MP Digital Camera)\n- **Zoom Capability**: 10x Optical Zoom (meets \"at least 10x\")\n- **Rating**: 5.0 out of 5 stars (meets \"4 stars or higher\")\n- **Price**: $145.99 (falls between $100 and $300)\n\nThe result response correctly provides the necessary details supported by the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Camera Options**\n\nI'm currently examining the CAMKORY 5K Vlogging Camera to see if it meets the specified criteria of a 10x zoom, 4-star rating, and a price between $100-$300. Initial checks indicate this model might be a viable contender.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Camera Options**\n\nI'm currently examining the CAMKORY 5K Vlogging Camera to see if it meets the specified criteria of a 10x zoom, 4-star rating, and a price between $100-$300. Initial checks indicate this model might be a viable contender.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18pVr6D5MexmHXw0dHOvoHDwSKlXj4wIliA1GZwTT1E4Cc5uPXTIKypmAhowzAAibhVckMFLfMxEs+0dk+mvjGthVzLNehVH8QwbRtRuX9FWwo1J37+ShgXPx8q2k6so8NP4SOOrEE+oNT4jJWK+EgYIwP6SRr+l8iSCPsJ4cILOZKOCryuQXQp6Q7l8m5JoqEWv+s0ki/7Ox0JnC2OrFB+++YZpw+YtouxdyRuiSS+zBa1b3O79IZEZg0RipUoep80zTypRUdE/Lx5q8xqtM6+buJEKqSg/v0y8Aq1p+BXkq/nSZuO9UxVOBeTHizaKHvaPAqvhq/tIhDZBXDmfcMFmi6uAKwvJnyyCuGV8jfpqpzMbM/KxSXlGAuQoLZiLDi8PDvxc1A4L8rHfTPWHwPtElSHBTT+q8dOXTwHpP0HrKFHzU14Df/24xUQVCJe2UzqJWg1efei8PK3TXTQDM1sc4fBrmOST+KDkUxGueeqdTsEqwOxx62t3d6cOPwvbVC6Ft7YSOiu63ZzZcqCyQn7q+tUj2ujJwzFMnJfY/9wwAImQNhibWAAGh1sN0Lo5LggSpLF9/hagXlrIosaQvipJmouhd3i7H1uEr8K94dMMQ8rT32TCdYqMWioOfcriRjF7cypNIJhvf6o6fG8/za6TPWR6jz+Q0BjTfPbfF5WZnGQNa/oxHFCB4HDVCaxPRfAC/fn51oKYPOfTmnmzytZNsAsUcvNecdiJVpER9BnqdW+lo908u+J7NlL2+axY6aoPIAsV3ytJcQF8TxZUmDkYK2qwS2V6N1VBLWmxBofMI2trpG6rnJW8RZBcdqhEFWj8YYiaj7xOdp1nk+wqnAk7J7w66amtBQ0vYZqMm3YOls9ya600DEUFkrRVBqT4oQq5qxf7bzFI4UF6EF3DAjk04WFcgUIXSOUYg9X3IF7ItrBb5Z8DI4Rzkht4n6O4bLd+vN01fN0vb7MwFigO3DKRz9I4XuqHVsFjIhzis3N9RcvBuR6Wmkx5cAg+66jpcxpaTxRgA6/RSmlgYU7S2YoTle2A6uRw7xZbfJERl/bV/iJTmlyt68KhBkyRcOnq4ELE1Q5f3wluVNxHl5rCeKFgbzlq4O0T4oKA6EYG4HaYu1tp0CGa1BXIMx+hl6VwtSdfxBVQQYyXlY326lbG0u3ZPRmZnKlpuF0GhBiNrEAHE8GmVo=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209968,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 362,
+    "prompt_tokens": 1763,
+    "total_tokens": 2125,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 194,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00267975,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00267975,
+      "upstream_inference_prompt_cost": 0.00132225,
+      "upstream_inference_completions_cost": 0.0013575
+    }
+  },
+  "provider": "Google"
+}

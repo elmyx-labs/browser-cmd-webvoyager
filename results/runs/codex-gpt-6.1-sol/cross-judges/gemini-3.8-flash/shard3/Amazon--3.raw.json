@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209940-e3q749NzTWfnUnbpBZBd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the screenshot and the user's instructions:\n\n1. **Task Requirements:** Search for \"climbing gears\", sort the results by \"Price: High to Low\", and provide the first 3 results.\n2. **Execution:** \n   - The search query is set to \"climbing gears\".\n   - The sorting option is selected as \"Price: High to Low\".\n   - The top 3 items displayed in the screenshot are:\n     1. *Adjustable Electrician Climbing Shoes with Secure Non-Slip Spikes...* ($18,108.23)\n     2. *Heavy-Duty Stainless Steel Climbing Spikes - Anti-Skid Gear...* ($13,926.42)\n     3. *Adjustable Electrician Climbing Shoes with Secure Spikes...* ($13,121.91)\n3. **Response:** Accurately reflects all three items and their corresponding prices.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching and Sorting**\n\nI'm currently focused on executing a search for \"climbing gears\" and then applying a \"price: high to low\" sort. My next step will be to extract and present the top three results from the sorted list.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching and Sorting**\n\nI'm currently focused on executing a search for \"climbing gears\" and then applying a \"price: high to low\" sort. My next step will be to extract and present the top three results from the sorted list.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18AEdz4KCVj8sZyc2JaaL8sIwrJWot0BRl6omsGe0oBvgmizeUUsNXO0gZvYWVfcFxoUrr6fvuJrCsOKoRPXBQcTA/2CkUbywVOgxfMSpI61z/4g2q4KoIDLyMtInICV0OxEKkWB/fLnJV8cxY5ZKkVEn6C7h1Qd9LWtgaIe++v/liJN+vpkKIyp22YitGvGyLt6A8dG80PYA41xeoKlOPV/VQwhBkZgC7+n1BfwAXLJoNXLmgp4dHKKqji573G50RgioVRgJWtzPpxOutQtpv13e9fadyVSFYCAzCDaVjjcoNEKfH1xSg5haVdz13UTMzhhJWvmW6YuaWup05TH1qMGRbgV44yiV2jAT9/8eA6o8rpdad+/ENAxjvDVX9IoFBRbeNISt5vDDunpb/IFRBp4uY/CDNHVIQrqKFcUiumWCPiVPa2FpZsdwH+fV5dbrV/jBcVZFdaWdzgZPC7fEBHBJDshGQMzM5V5B5pMZflDaV0DeG1YR/lYNAD+iDdhjMkErAbXY69jIZ6ey7RQPCpfPDfy+4c5bz8eKWVmdT9BjuHS/+UDmTZ2KjYa9yXaPogENLRg1poTBiTvWzKHAAmb4sWQw5NTUw2JZd7E541gRWD1OFgAEuu7CMNAQc2bvOkEE+P65iFkFGx055Op/zgxudPsAEMWNUCfjWjSr1FnWdzJgs1flLzpHUUYq0CZRByxDfOgpRWe8B/ErRB1laHlclXajxN3yG2xAUJU8uWNUZESrbqNkXY9gRfOAL46ZidaCDDNFw9DZI0zhhwWPS/7DTpgj2iJhxe8mHPDpJG4X4jTyjmWnbOR6qC6wjKJQwCZ5lQN2z6yI5Frx9n9/GMJKzMwURZLBO8G1WpE+Wy30cP9BzbqUJbNTHwWqKxwDQI2BOyDkiCxYcfnRLEqSit6FCuneGPCNi4bd0nvA/tysCHJDxvX2P8bOvGFI51+WdIATrrt3bZzxulgAG3GvxGQ0D2ceswHfgau+JXhmZy5CNEjKnDo/gNos4Nm/ydGyeeVOkRqnIROTwohZaBrmjgVWTk0l/hDY1CHrfOwvnoGrtZINRQCmpQZ0ab0jkGa6xD+mghbgHV7/YXmc/oVVWMl68BFxSPlTGGbe/RdPrd8Ff37R2zJxJ6HklHjtK/mUEpZH0d+brs3caUqwznTVfRdhEKw2St5ovTTeN/mRZLRPO4cJBCwVuoLRs8gM7T35zPLGMSf/gXW5dsHAfxAO+4yT6ungsZopHSlPwVqeLrngXRVn9PfQFRTGm8dzOjJjMGViCVeCtRkYxl9ylS593nNXjiUwAXarh+p+7n6ZwQD2/HkntU9cOoSYwwg5vw3PSBQLuSHUbO9QYOoad3AvBQ3xI6YWwF+8luzpFoYe7to5dt6D/bT98cdFCpTJMPaHS491l9lTLbvXfLOrT3s/ehqIXsgepcLQggOWsF8A==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209940,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 443,
+    "prompt_tokens": 1873,
+    "total_tokens": 2316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 237,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.003066,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.003066,
+      "upstream_inference_prompt_cost": 0.00140475,
+      "upstream_inference_completions_cost": 0.00166125
+    }
+  },
+  "provider": "Google"
+}

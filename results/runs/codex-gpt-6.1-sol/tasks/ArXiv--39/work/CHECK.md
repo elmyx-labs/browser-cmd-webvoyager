@@ -1,0 +1,4 @@
+[x] Search the title 'GPT-4 Technical Report' on https://arxiv.org/. Title search returned arXiv:2303.08774: https://arxiv.org/search/?query=GPT-4+Technical+Report&searchtype=title&abstracts=show&order=-announced_date_first&size=50
+[x] Access this paper through HTML format and read what is 'one of the main goals of developing such models' in the Introduction. https://arxiv.org/html/2303.08774v6#S1 — improve their ability to understand and generate natural language text, particularly in more complex and nuanced scenarios.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the paper name and deciding facts. final.png shows GPT-4 Technical Report, Section 1 Introduction, and the goal sentence; no filters or date restrictions requested.
+[x] Write the result and evidence to ./ANSWER.txt, first line FINAL:.

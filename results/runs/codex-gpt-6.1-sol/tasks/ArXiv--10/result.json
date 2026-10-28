@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ArXiv",
+    "id": "ArXiv--10",
+    "ques": "Visit ArXiv Help on how to withdraw an article if the submission is not yet announced.",
+    "web": "https://arxiv.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: For a submission not yet announced, go to your arXiv user page and select Delete to remove it from the system, or Unsubmit to return it to incomplete status for modification and later resubmission. If either action causes difficulty, contact arXiv administrators immediately with the submission identifier, an explanation of the problem, and the reason for withdrawal.\n\nSource: arXiv Help, “Withdrawing an article” → “Submission not yet announced,” https://info.arxiv.org/help/withdraw.html (accessed October 27, 2026).\nEvidence: final.png, a viewport screenshot of that section.",
+    "result_text": "FINAL: For a submission not yet announced, go to your arXiv user page and select Delete to remove it from the system, or Unsubmit to return it to incomplete status for modification and later resubmission. If either action causes difficulty, contact arXiv administrators immediately with the submission identifier, an explanation of the problem, and the reason for withdrawal.\n\nSource: arXiv Help, “Withdrawing an article” → “Submission not yet announced,” https://info.arxiv.org/help/withdraw.html (accessed October 27, 2026).\nEvidence: final.png, a viewport screenshot of that section.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_130/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_130",
+  "elapsed_seconds": 54.86829495429993,
+  "execution_error": null,
+  "proxy_bytes": null
+}

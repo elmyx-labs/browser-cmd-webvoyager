@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210051-w27NqUHc3VnEaGVbWHFP",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to check the price of an Apple iPhone 17 with 256GB storage in Purple (Lavender) color. \n\nThe screenshot displays the selected configuration on Apple's website: \"iPhone 17 256GB Lavender\" with a price of \"$929.00 One-time payment\". The response accurately provides this information.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Confirming iPhone 17 Details**\n\nI've successfully identified the iPhone 17, noting the 256GB storage and Lavender color match. The price of $929 is also clearly visible on the screenshot.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Confirming iPhone 17 Details**\n\nI've successfully identified the iPhone 17, noting the 256GB storage and Lavender color match. The price of $929 is also clearly visible on the screenshot.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19b87TlLGT32J1L65wAoaZbqxEc3yhp2RzOkDSai1IZpkOg0qTWb1GwTTanGP6gz3lzX9D1s4lH3bz+Fzg4+eHCzEw+AnYK19AN9OZlJ5nh2C9Icx8Sz2WupHvoMbhcKrwKXQm+1Np2wMaZ4WA0pC2F4s3QVzW+GIR8PjsOGamY4O/sWL9fqiL0aFjZqBi15Dml2DluTOaYZGzjTj6p7Ww4Y5VyNYWiuQZXcY2QHQdF/spdIRkLJIke5Py4CycU/npI4lJAZEa11VHZfuHhfMfoCwge/3gvxSP7tmmnvL2/8WTUOgYZrNvdZP2UGucAVX13Jv8pntWFITIHPjZ1ofRuQ7SQwtKRLeMfHGu2SNRfIli9Ir9AUyz/3zDKaugDp9Rd9Am51WaJk2170kh5EnWpgdgR0wRfI1v1SVHtmHiZltvcotcCtCkI/ZEMbdbrTEcnNhb2xPpeMNGk/egD7g0ndL0jKm44jlxo3GdBbs4YGaSKDPoFyuBdgrgRSuoGvR6lGdpOQm200tKV9pHANfgIjCXTSX5td4lE6wmDd9vkZx3PGvuhAsvqEX0kQJXEEYO7rNCvpQoEKj7aRSLt9ZxCPTO4JlbKi2CLMPdkX6KatFupYlwbIt24lZb0o2Y/guJ0XMH/Aa1YUIx0uQaHK/XMHtRIx4FkeZXx6eRx2jeqCQy/J/UoviKYho8fBZuV5c1SVDKAK9/OGDkzQNe7JWDP6S8P0AzsVzd3Dzzo3vnYIAiQ9uEBrpdxq8jRSd21z4IUDhZt5p4iKg1dPkylwFKirJ79GdCTmbTzK9JWlHGF03uSd/HO3ho8cmx3u1mMuZ+MG3eHsxGYuiosQk3cGf9wOl0KGEuwcFLmRndRLUXka74GeLJhkGJ/V3l58+wImon5td97D6eJTnOy9ssrG37zQc0kdf1SwzUop2WIoVAt/j2QiNf0Y7LubPWQzQfdAAB32QKPTYTMtb8Cjima1ivUgu19qdJNVQZxH+kUDEog+sc+ptTU5ORVFHt/fSG9KbGUJL1OwHjTm04+lY6mEaRy9IoH11i9v0uuZgjusZogU1Y/Fts9TMzLDrLrn2Yv1RLEtt3YCXC+1yPx1PAQT4hMIEr0ExFKpj2LCXANTy+0XWW+",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210051,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 267,
+    "prompt_tokens": 1757,
+    "total_tokens": 2024,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 188,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002319,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002319,
+      "upstream_inference_prompt_cost": 0.00131775,
+      "upstream_inference_completions_cost": 0.00100125
+    }
+  },
+  "provider": "Google"
+}

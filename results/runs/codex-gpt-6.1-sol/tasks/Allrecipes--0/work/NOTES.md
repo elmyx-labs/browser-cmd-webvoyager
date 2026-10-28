@@ -1,0 +1,3 @@
+Vegetarian Four Cheese Lasagna: 4.6, (243) ratings, 170 Reviews; Servings: 8; vegetarian ingredients. https://www.allrecipes.com/recipe/21090/vegetarian-four-cheese-lasagna/
+Spinach Lasagna by Robbie Rice: 4.7, (739) ratings, 500 Reviews; original Servings: 12; total 1 hr 50 mins. https://www.allrecipes.com/recipe/22729/spinach-lasagna-iii/
+Selected 1/2x in site's ingredient scaler. Page shows 7 1/2 noodles, 1 tbsp olive oil, 1/2 cup mushrooms, 1/2 cup onions, 1/2 tbsp garlic, 1 cup spinach, 1 1/2 cups ricotta, 1/3 cup Romano, 1/2 egg, 1/2 tsp each salt/oregano/basil, 1/4 tsp pepper, 1 1/2 cups each mozzarella and tomato pasta sauce, 1/2 cup Parmesan. Six servings calculated as 12 x 1/2.

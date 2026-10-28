@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210310-2wR1L0V0oZbK6a86cvTA",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The result response accurately captures all NBA game scores for February 25, 2026, as displayed on the ESPN scoreboard in the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Game Data**\n\nI'm analyzing the provided NBA game results from February 25, 2026. The data shows a completed game between the Pistons and Thunder, with partial results for the Spurs. Further processing is needed to determine the success of the overall score check for that date.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Game Data**\n\nI'm analyzing the provided NBA game results from February 25, 2026. The data shows a completed game between the Pistons and Thunder, with partial results for the Spurs. Further processing is needed to determine the success of the overall score check for that date.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210310,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 374,
+    "prompt_tokens": 1720,
+    "total_tokens": 2094,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 341,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0026925,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0026925,
+      "upstream_inference_prompt_cost": 0.00129,
+      "upstream_inference_completions_cost": 0.0014025
+    }
+  },
+  "provider": "Google"
+}

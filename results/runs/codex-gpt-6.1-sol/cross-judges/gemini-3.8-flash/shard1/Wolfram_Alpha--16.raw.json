@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210680-OTDYKpUDiggSAbKqdhN3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to calculate how long it will take for a 40-year-old male, 175 cm tall, weighing 90 kg, consuming 1,500 calories per day, to lose 17 kg.\n\nThe provided screenshot shows WolframAlpha with all the specified parameters inputted accurately:\n- Gender: male\n- Age: 40 years\n- Height: 175 cm\n- Current body weight: 90 kg\n- Target weight loss: 17 kg\n- Caloric intake: 1500 Cal/d\n\nThe result displays a \"Weight loss regimen duration\" of \"3 months 6 days\". The Result Response accurately reflects these findings.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Calculating Weight Loss Timeline**\n\nI'm currently processing the initial parameters for a male, 40 years old, 175 cm, weighing 90 kg. The focus is on determining the duration required to reach a target weight of 73 kg with a daily intake of 1500 calories.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Calculating Weight Loss Timeline**\n\nI'm currently processing the initial parameters for a male, 40 years old, 175 cm, weighing 90 kg. The focus is on determining the duration required to reach a target weight of 73 kg with a daily intake of 1500 calories.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/PqUlFugIxcw6bFBOOSlWVHG+QeizDlKv92TGblZng5vc62EWvDy6OX9C0efV0WfnCLiQosAUXugHQC7BfGJ/Ks7yq2t6u/CDyg0WerKqUYHz54EivSq07jb9G6UVcS9Y+HIiaiW+67Oe3gC5xfB8vOSXE5X7fqMwx/QziKvr6zP9kSEdmUJENrWUTpH78/Cxu2b4fAitSU5ZQZxl0vHsphMMV36HEsxENzUuL3zeh1aPpNRv7pqQuonwXlpjwXdI3qiBW0mI/3c0Y7NoGuX12b8btqLgeHTvA2AQaZmSIFyTWMt4ncDV+TH5DyMwJ91TtfOC30n4W6JutF2aKGl/L9Fnq+Gu/WDNNRnuHAh6TQXIZlrAOMPmS1W76f5iQ5LZtzEWHeIIFFs7Bj/+/iTmtnMC7yZoy28NvHa2St13bXd/3ozyFqFOkvxeWXTa+0BSYK+XuKSHuj8aS3t4vnv8EiDJZckLbp/3luGlXLoDjOwUg3MYWBSGzFeUjYjrzsYC4OsB4V/i9ZGZmlDHHcebILrMFLr8KNF6EmZTR8aLgvNlByBgszbJ4jh2tZh8J4KBZvauiW3FltuUiV4uSCHGEsd3ehRA6fSloL0Mv9AbNinKjJC+bJxGV2CpF+Z8cx3bJnEBJQz8jBoYyYdKm0HapLrIRwCo9L0KaTKavpG8N3aFOMBSiLJzvK5lallHL/tQFuCisc6vxKl63uNAOiAJJ5CQ33UqRrwNlimUFONdVvZ3RzE4CHNsq13fLAQ0OCJUXhRhlU0mSd7pvl8FiRk25TTo5u/Y9PEs6weYcX0lBgK++oxMlPqcimh610Z0DQeFnc/vHBRKOq7KZaPdt4hRnupiYojgV5TYrlmoYdjTehl33F/JIjFSK89IuKleCwDmL/md3h1nV5TqfE6kJwC1HppdlMmka27j2BzeclSpl81ka4KTHAW4+ujHcNx7RJ2EfqsiL0dxPXrhRQunTw8Q7PUAGRa4fLsqfaHAzztq7YriAM72uOnReFp0/SEoNLl2P7ZHXt2OebtD6vMv8DAbcBDhFjDYonpZ0r9VER4D+pQBR7aZYkciw84wICeedZdepuNLihp/HW4+/oTVluLzjG4EaX/F0NMVwFrF5GymG6g93Um0IH8yfbCBQhlp0JC6USZAEu2dukbWl12T/UngeA68wIO1fWn6cWgWYhpXjn6mRuoBcwjmVCEWxt/dhxoedhKbNTTiRIGEYhUCtrdL1/Jpsmgp2+X4J+78u4fYooUknYFT9oAnYuUFSMyIEeHm0ycto5tdLxWg++N8pGRgNqDfanzZxzumFAdTIC6HAoFlOm/7IUOQvDF0m8bRepQlGPki+IF4sABtk/yr6irQrgxXt8O5UVRDIqefkdid0cdeskjso2GWRd9ZuUST4Yg/CuwOMA0rrLuJnIX15WhSDMOCa2DtDzKw6k4qMFe7G0s3OK0L4PeBcPqf8X9G8RSi9e6Z0RtJOgu1rCggeceII6QQJUQ8WI473c+GHbYNnfSQTiuRcU6xA3+ScPXv7iFw7QiZetVTIgMqW5D5jtGfMlvG9U39PD8Rliw01bf3TihypxxTBzVOol7mfrhwF/Xy1qkfMPsQ71xHfjG6fVzHncDkRcz/bSdo3IKAkvzdvfKKgFzRQVq/W/NSw2hu0bi02o3mqV5pqAQ95JNbyHCzj/+TMw92ffYPERHIHu0KHHLvYPXpeEZYfBYsmhfpGbGg5gS7NT408fadSDwRlgiitg4d4N7tlBqQHxSnMDB1EnkTAgw+31nHpfBoda537xUymVM1Ka85jhymywfZaSHp8BbjhZlH5lfY2vymSXmxe6W+rdxr6S/DdzEKDE39Zotv6++OWHwQ2EhHB/e9vsBhBpluJvORKumThLfisYMXF6MCk30459kTwqEkNH2RfFeSj+Or7p+0=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210680,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 485,
+    "prompt_tokens": 1806,
+    "total_tokens": 2291,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 333,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00317325,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00317325,
+      "upstream_inference_prompt_cost": 0.0013545,
+      "upstream_inference_completions_cost": 0.00181875
+    }
+  },
+  "provider": "Google"
+}

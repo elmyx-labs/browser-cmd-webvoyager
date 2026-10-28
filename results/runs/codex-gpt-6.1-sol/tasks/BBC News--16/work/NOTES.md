@@ -1,0 +1,8 @@
+BBC News checked on 27 October 2026.
+Latest homepage story and first BBC search result for UK EU: https://www.bbc.com/news/articles/cmqlngkz0elxo
+Title: UK and EU officials to discuss freedom of movement.
+Displayed date: 2 hours ago; time element: 2026-10-27T17:20:40.671Z.
+Officials expected to discuss options including free movement before 20 November EU summit. Downing Street says current focus is food and youth mobility; spokesperson says no current free movement discussions. Reynolds says current summit discussions cover food/drink, electricity and emissions trading. No assumptions made about future relationship. Existing manifesto red lines through parliamentary session ending by 2029; major change requires general-election mandate. No economic growth or GDP estimates in this article.
+BBC search https://www.bbc.com/search?q=UK%20EU returned this 2-hours-old article first, ahead of older September/October reports. Brexit topic landing page was curated and did not include latest story.
+Economic context: https://www.bbc.com/news/articles/cqdjvg3xww2go, 8 October 2026, 'Come all the way' back to EU, French finance minister tells UK. Proposed Made In Europe scheme gives EU companies priority for public contracts/subsidies to protect from Chinese competitors. EU car industry calls for UK inclusion to avoid disruption of its own supply chains.
+https://www.bbc.com/news/articles/cv2dwylkl7weo, 22 September 2026, New EU industry rules would damage UK, warns Burnham. Scheme not finalised; Burnham fears damage to British industry and supply chains; tensions reportedly delayed EU-UK summit. Both read in browser-cmd pages.

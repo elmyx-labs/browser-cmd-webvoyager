@@ -1,0 +1,5 @@
+[x] Identify a course on Coursera related to 'Artificial Intelligence for Healthcare'. — Generative AI for Healthcare, offered by Google Cloud; https://www.coursera.org/learn/generative-ai-for-healthcare. What you'll learn: “Define and explain artificial intelligence and machine learning concepts” and healthcare use cases.
+[x] Note the course duration. — Same URL: “3 hours to complete”.
+[x] Note the number of quizzes in Assessments. — Same URL: Assessments “2 assignments”; expanded Modules 2 and 3 each show one “Quiz. •15 minutes”. Total: 2 quizzes.
+[x] Save one genuine viewport screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side, showing the course name and facts together with no overlay. — final.png is 1280x1244; course title, duration, Assessments count visible. No filters, sorts or dates were requested.
+[x] Write result and evidence to ./ANSWER.txt. — Saved with FINAL: first line, result, source, verification date, and screenshot reference.

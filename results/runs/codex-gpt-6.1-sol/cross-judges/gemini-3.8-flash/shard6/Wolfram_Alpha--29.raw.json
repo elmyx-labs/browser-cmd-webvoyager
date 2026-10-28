@@ -1,0 +1,60 @@
+{
+  "id": "gen-1793210593-4OPbFCHZluKwpEy2zVOj",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to create a plot of a cat curve using Wolfram Alpha. \n\nThe screenshot shows Wolfram Alpha displaying the result of the query, interpreting it as \"first cat curve (popular curve) | plot\", and successfully rendering the plot of the cat curve.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": null,
+        "reasoning_details": [
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/Nbgmb5xHt3sA7A3xH4TAQzrWzhXzp+zaepuC8lXEKJV4jd5xq4pQ06F9l+3td+6/5ogMyRlDPFYVIpyuTLGTkuDJAW0ZPG9/jrDo07iiKyhK4JZZuXUu783oguM+oDUivkuP9ZAA58ZkuTL0bS7naxvVDx8I8X4iAZZ897ZmQPOgKNlKle2OLWu5wv98VYTgYSIA5/loJ2JUHtImSWkr0lVO2ZKkD+3L/JXeByqTfC40AEE3JE2SheTa5i7l5qZYn8dv2jFr7WWlbGH2yyTQluJ32Z9t20m+lg+bYHvl0wx4hF5vZMPuIStWkLtJ2zHmXeU6iXq3V6BJ/4rg/VGXz7Gg9lDr9a8tIYGYXl4xy2uA2jg9J0ouu/Oycffz086HMAPCeESaMK8OV2HqqxTnWjKLE5sKF6XVV2w0D85ZZQ9dunTiy1dfn8pcIA02XNi7OI8RzP2uxTi+MBM9Sqdgs/+fR2j2TPQLXRp9RelieTz8FM5yGpSFZ8Aqmnnm+NF7pxQ1IAHehXiPrPjMYNLOh9iQzKGJDHMPeggZtGxPvVDuckdv38VZBHqp//ryVLykKRTzorlu6K7S4fNTtGHn7jHd8bPa3B1Acok53z3sF",
+            "format": "google-gemini-v1",
+            "index": 0
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210593,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1643,
+    "total_tokens": 1772,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.001716,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.001716,
+      "upstream_inference_prompt_cost": 0.00123225,
+      "upstream_inference_completions_cost": 0.00048375
+    }
+  },
+  "provider": "Google"
+}

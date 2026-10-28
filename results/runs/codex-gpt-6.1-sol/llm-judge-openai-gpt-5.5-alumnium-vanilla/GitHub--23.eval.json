@@ -1,0 +1,31 @@
+{
+  "id": "GitHub--23",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the wiki page of ohmyzsh on GitHub and tell me how to change the theme of zsh to agnoster.",
+  "answer": "FINAL: To change Oh My Zsh’s theme to agnoster, set ZSH_THEME=agnoster in ~/.zshrc, save the file, then restart your terminal or run exec zsh.\n\n1. Open ~/.zshrc in a text editor and replace the existing ZSH_THEME setting with:\n   ZSH_THEME=agnoster\n   Keep it before the line that sources Oh My Zsh.\n2. Save the file and restart your terminal, or run:\n   exec zsh\n3. For agnoster’s special characters, install a Powerline-patched font and use it as your terminal font.\n\nEvidence:\n- Settings wiki, with the exact agnoster example: https://github.com/ohmyzsh/ohmyzsh/wiki/Settings#zsh_theme\n- Themes wiki, with the ~/.zshrc placement instructions and agnoster font setup: https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster\n- FAQ, with restart instructions: https://github.com/ohmyzsh/ohmyzsh/wiki/FAQ#how-do-i-reload-the-zshrc-file\n- final.png shows the Settings wiki’s ZSH_THEME=agnoster example.",
+  "response": "The task was to find the Oh My Zsh wiki page on GitHub and explain how to change the zsh theme to `agnoster`.\n\nThe screenshot shows the Oh My Zsh GitHub wiki “Settings” page, specifically the `ZSH_THEME` section, with the example:\n\n```zsh\nZSH_THEME=agnoster\n```\n\nThe result response correctly explains that the user should edit `~/.zshrc`, set:\n\n```zsh\nZSH_THEME=agnoster\n```\n\nthen save and restart the terminal or reload zsh. It also mentions installing a Powerline-patched font for agnoster’s special characters, which is relevant and helpful.\n\nThe response aligns with the screenshot and fulfills the instruction.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find the Oh My Zsh wiki page on GitHub and explain how to change the zsh theme to `agnoster`. The screenshot shows the Oh My Zsh GitHub wiki “Settings” page, specifically the `ZSH_THEME` section, with the example: ```zsh ZSH",
+  "screenshots": [
+    "task_390/final.png"
+  ],
+  "raw_screenshot": "task_390/final.png",
+  "source_result": "task_390",
+  "usage": {
+    "completion_tokens": 356,
+    "prompt_tokens": 1840,
+    "total_tokens": 2196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 194,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.57
+}

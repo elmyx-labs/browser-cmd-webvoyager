@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyWAzXu9T3GyxIV4oGiTin0lENNT",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find a popular chocolate chip cookie recipe and list its ingredients and preparation steps.\n\nThe result response identifies a specific recipe, “Best Chocolate Chip Cookies” on Allrecipes, and provides popularity evidence: 4.6/5 rating, 19,332 ratings, and 14,911 reviews. The screenshot supports this by showing the Allrecipes page with the same title, rating, ratings count, and review count.\n\nThe response also lists the ingredients and gives clear preparation steps. Although the screenshot does not show the ingredients or recipe instructions, the provided textual response includes them, and there is no contradiction with the screenshot.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196130,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 297,
+    "prompt_tokens": 1968,
+    "total_tokens": 2265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 157,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

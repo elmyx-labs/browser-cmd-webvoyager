@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Wolfram Alpha",
+    "id": "Wolfram Alpha--15",
+    "ques": "Show the blood relationship fraction between you and your father's mother's sister's son.",
+    "web": "https://www.wolframalpha.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The blood relationship fraction between you and your father's mother's sister's son is 1/32 (3.125%). He is your first cousin once removed.\n\nEvidence: WolframAlpha's “Relationship properties” table explicitly shows “blood relationship fraction 1/32 = 3.125%,” alongside the relationship and the interpreted family chain. Screenshot: final.png.\nSource: https://www.wolframalpha.com/input?i=father%27s+mother%27s+sister%27s+son",
+    "result_text": "FINAL: The blood relationship fraction between you and your father's mother's sister's son is 1/32 (3.125%). He is your first cousin once removed.\n\nEvidence: WolframAlpha's “Relationship properties” table explicitly shows “blood relationship fraction 1/32 = 3.125%,” alongside the relationship and the interpreted family chain. Screenshot: final.png.\nSource: https://www.wolframalpha.com/input?i=father%27s+mother%27s+sister%27s+son",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_584/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_584",
+  "elapsed_seconds": 60.24429488182068,
+  "execution_error": null,
+  "proxy_bytes": null
+}

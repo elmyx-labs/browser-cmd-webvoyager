@@ -1,0 +1,41 @@
+{
+  "id": "Wolfram Alpha--27",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Display the thermal conductivity of Copper (Cu) and Aluminum (Al) at 25 degrees Celsius.",
+  "answer": "FINAL: At 25 °C, Copper (Cu) has thermal conductivity 398 W/(m·K), and Aluminum (Al) has thermal conductivity 237 W/(m·K), according to BYU's Thermal Properties of Pure Metals table.\n\nEvidence: https://cleanroom.byu.edu/thermal_properties — the table explicitly says “At 25°C” and lists Copper as 3.98 and Aluminum as 2.37 watts/cm°C, equivalent to 398 and 237 W/(m·K). Screenshot: final.png.",
+  "response": "The task required displaying the thermal conductivity of Copper (Cu) and Aluminum (Al) at 25 degrees Celsius. \n\nThe screenshot clearly shows a table of elements at 25°C from BYU's Integrated Microfabrication Lab, listing:\n- Aluminum: Thermal Conductivity of 2.37 watts/cm°C (237 W/(m·K))\n- Copper: Thermal Conductivity of 3.98 watts/cm°C (398 W/(m·K))\n\nThe result response correctly provides and explains these values.\n\nSUCCESS",
+  "reason_short": "The task required displaying the thermal conductivity of Copper (Cu) and Aluminum (Al) at 25 degrees Celsius. The screenshot clearly shows a table of elements at 25°C from BYU's Integrated Microfabrication Lab, listing: - Aluminum: Thermal ",
+  "screenshots": [
+    "task_596/final.png"
+  ],
+  "raw_screenshot": "task_596/final.png",
+  "source_result": "task_596",
+  "usage": {
+    "completion_tokens": 407,
+    "prompt_tokens": 1711,
+    "total_tokens": 2118,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 288,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0028095,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0028095,
+      "upstream_inference_prompt_cost": 0.00128325,
+      "upstream_inference_completions_cost": 0.00152625
+    }
+  },
+  "elapsed_seconds": 5.86
+}

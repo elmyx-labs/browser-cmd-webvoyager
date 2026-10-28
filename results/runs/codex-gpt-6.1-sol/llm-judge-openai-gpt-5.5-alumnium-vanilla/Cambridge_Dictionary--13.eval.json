@@ -1,0 +1,31 @@
+{
+  "id": "Cambridge Dictionary--13",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find one word, one phase and one idiom related to euphoria in Cambridge Dictionary.",
+  "answer": "FINAL: Word: exultation; phrase: for fun; idiom: like a dog with two tails.\n\nCambridge Dictionary lists all three in the euphoria entry’s “SMART Vocabulary: related words and phrases” section under “Pleasure and happiness”. It explicitly labels “for fun” as a phrase and “like a dog with two tails” as an idiom.\n\nSource: https://dictionary.cambridge.org/dictionary/english/euphoria\nEvidence: final.png shows the euphoria entry and the three items together.",
+  "response": "The task was to find one word, one phrase, and one idiom related to “euphoria” in Cambridge Dictionary.\n\nThe screenshot shows the Cambridge Dictionary entry for “euphoria,” specifically the “SMART Vocabulary: related words and phrases” section under “Pleasure and happiness.” In that section:\n\n- “exultation” appears as a related word.\n- “for fun” appears and is labeled “phrase.”\n- “like a dog with two tails” appears and is labeled “idiom.”\n\nThe Result Response accurately reports these three items and matches the screenshot evidence.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find one word, one phrase, and one idiom related to “euphoria” in Cambridge Dictionary. The screenshot shows the Cambridge Dictionary entry for “euphoria,” specifically the “SMART Vocabulary: related words and phrases” secti",
+  "screenshots": [
+    "task_255/final.png"
+  ],
+  "raw_screenshot": "task_255/final.png",
+  "source_result": "task_255",
+  "usage": {
+    "completion_tokens": 262,
+    "prompt_tokens": 1688,
+    "total_tokens": 1950,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 134,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 7.56
+}

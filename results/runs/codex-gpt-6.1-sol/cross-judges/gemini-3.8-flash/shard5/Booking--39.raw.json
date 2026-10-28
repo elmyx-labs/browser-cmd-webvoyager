@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210143-CT7XTj8qjYztqxsurEGp",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task required finding a pet-friendly hotel with parking available in downtown Toronto for the stay of July 24–26, 2027.\n\nThe screenshot and response demonstrate:\n- **Location**: Downtown Toronto, Toronto\n- **Dates**: Sat, Jul 24 – Mon, Jul 26, 2027\n- **Filters**: \"Parking\", \"Pet friendly\", and \"Hotels\" are applied.\n- **Result**: Fairmont Royal York Hotel meets all criteria and is available.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Confirming Trip Details**\n\nI'm currently verifying the exact year for the July 24-26 stay in downtown Toronto. My focus is on ensuring all parameters, including pet-friendliness and parking, align with the user's request.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Confirming Trip Details**\n\nI'm currently verifying the exact year for the July 24-26 stay in downtown Toronto. My focus is on ensuring all parameters, including pet-friendliness and parking, align with the user's request.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/+s0kmvra216nBi32v0GoCFSPEgj0soA0JxMZ9nIOfOIGKr5c4R5LGXOulbplh5JXWCpJSBwRKfs21urkWk1WHpJ/Ieip+NsMEa78jI06RY7nrtJj5d02nTtF8Nz8Px673xedeuuwfJOPyRlcnzKfqlUFUomFOLrebgA37KUbDu4ozCEnj+Zop4dEJQPhVV457SaN9HFs9q5BL134WdEXlGhCVm+cpI+oDjefcyzzZaaechpxlEamUs0BMhiVlOmHEeDJSd4YbFhRC/1HWmfM/ENOxDrX/B/0BTzvhhlc0skrF9NPHepr/QFtW4vCjQYy9/Jy5R0dc9keTFSCPcOJlV+1SIadNjY99btzWBgKwgEYYGuxNn2rroHtBI7+fq/xHEcBfSbFEV1vtNOgL9x1unpVjU0Yl+o0xNYu9xX9NDVevf2yO1s7HZ5Dps8b4IaGl+I0OSnY+UY1nkfJOadhaeIW+EuJuSIvNs7kldcCEmPpXAKmhOXVQUdUB5Bww6jYbIFF4HMty2Mgt5Ay5O+vhwxHPD6MuRUM8gie+D0zjoHxWJ7iDSzhRgKIhlDnoLNReHuUXyYUCOLr4wlSv16xLUTrWFw+A/6TpwbaDdl6PZaCjcKgR33Mn7q/fTg272CpC6NqpQCTp9ss7VbxqJ7UzSMZZejG56wxqyQsfNNGWEkuzepZfdI+/sVD+Em1GbRBoIgRIJvPELdlr2L1aJFRF8Obg2NiML1RQMvJuBeTUh1s32VOhywOxu74mcMICHHZw0oPgqvPgPxwT7RFlfaW+rFnODE4GQa7NZWpKZ3DPDcnBwiJj+isToltO+NFlefcEZYuc6wZ2aGYtecOvGoBSADAVu4Ho96k3gbBACP3kKfkG3Bamw49N5J2Ios5N6gdNt6uzmSfJhQx5hf9aE7AEVaPbAtMFxClXF4+T2iPAZF8F0HDQTK/pKl6C8l1ABM2rtRmwD658JBJrRMMPXP3ZxcIOaOZd/wrNS/zyEvinxaUZwaTA18Vbfga9hYpVHTu4ARwHfEsQV8X0YRr2KC0ll2qb81tYoRz2nvjxxL0HkDpIhsDMZNzrbWFuY0z0VbA02dm/fvkIhiHosKDGn8jwO7bYqdvFdiVE+q4JCUTT96lfN5gQ1+cHNzQ0lIvvCqbWTZD51S8h6INbo4K4iUH8WNbQoNCnrg4ppDu8eTvvE3JGX9+TM4e/llib0uHPj1RfgRPrhy/EsZGEf6PlK6vNl4kSiCu3+/UoQ4J69/K4rDhZAEMTfJ+453JRCRBJp2FpYTg9NediShO2D84MPHiy8ni+s8eZkDyUXdkn05p3SRbzT9jvogTApWz8U4d1IlyWhw7EE0S4YgYMmxdgEKCgsbz3eul411NjyeGhEORwggpaKwaIwM/1WQEzCndpm0eYxsR3RpiwvyuNVcJkGPNMcLUuHp8/A5XoeCdQ5AJnx/m0kDWBbssb/PwflQOwB2Ef24I2dCtpNpWxF4XxklbHaloZldZtkM1rxMeW6rJ65Gu5E8QAIcv+IsRN9A+mi5GzIhfFoc4BMst7yMGot1Mj4ZqHnQ1pIbNTYK4ssvmSiZMH5GwFKgTyT8Bk0DYD00eoECiqfEqTN7l6WrZ8VyY+SjrAaDYHB+K3GMrZRje+HO24wzwTPutdGtPepi9VpVJB32neDRvaPuRAWrXfVp0tI2ykhG/e0IXPGadRs3RIpLHXtzo96V8MZ4QEw74s4d95aNVh5lpsv0fpBWKC3S3PUANCgYrJy08aCXp+MDNMC98eAqctcunFXe+DuZQyKBrSCkCDJuXSZUsJyNwYtLpdiO5wOCQMKB+ustESbRtkrzdmRFbohMw2h9NYyusMN8oMus2vl/vY1yaHllaStqqrX2FSOWzWlMnw70n0BQnFTqUd+dPVUZfE0Kr7fPUzIr4f0OYdjGLsyFCT8bTbCVVblJWuEkLpoAaT4Xow1oajAS8wevpn5K++Y2aFtJpGh35X",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210143,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 483,
+    "prompt_tokens": 1722,
+    "total_tokens": 2205,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 362,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00310275,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00310275,
+      "upstream_inference_prompt_cost": 0.0012915,
+      "upstream_inference_completions_cost": 0.00181125
+    }
+  },
+  "provider": "Google"
+}

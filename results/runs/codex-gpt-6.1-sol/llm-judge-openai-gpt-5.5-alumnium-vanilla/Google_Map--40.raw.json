@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyfSIqWuelzgJzsbVHnYfjw2tIwb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task appears to have been completed successfully.\n\n- The selected restaurant is **Boston Sail Loft** in **Boston, MA**.\n- The screenshot shows it has a **4.6 rating** with **6,849 reviews**, satisfying the requirement of **4.6 or higher**.\n- The screenshot and response indicate the restaurant serves lobster-related dishes, including references to **fresh lobster** and **lobster roll**; the response also cites the official menu listing steamed New England lobsters.\n- The response provides the content of a **one-star review**, summarizing the reviewer’s complaints about seating, smell, food quality, and service. Although the screenshot does not show that one-star review, there is no contradiction, and the response includes the claimed review details.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196706,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 544,
+    "prompt_tokens": 2010,
+    "total_tokens": 2554,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 375,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210471-RNWAeUWTKCOg3WA5HLOQ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user asked to find the score of the latest NBA game played by the Phoenix Suns.\n\nThe screenshot of ESPN's Phoenix Suns schedule for the 2026-27 regular season shows the games played:\n- Wed, Oct 21 vs Portland: L 124-83\n- Sat, Oct 24 vs Golden State: W 131-122\n- Mon, Oct 26 @ Oklahoma City: L 125-114\nThe next scheduled game is on Fri, Oct 30.\n\nThe response accurately identifies the latest game as the October 26, 2026 matchup against the Oklahoma City Thunder with the final score of 125–114.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Latest Game**\n\nI'm focusing on pinpointing the most recent Phoenix Suns game. My current assessment of the provided schedule indicates their season opener was on October 21st against Portland, which they lost 124-83.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Latest Game**\n\nI'm focusing on pinpointing the most recent Phoenix Suns game. My current assessment of the provided schedule indicates their season opener was on October 21st against Portland, which they lost 124-83.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+XoB06tP9tWflZbWTU/J2GHERtMQoRFjiTzpINz4bOIDN25L6IcdV9Q9512pF6go0S7ErBeTPS3ALpg/0CcW34Iy4HbRltcDYYKTLAu2YVeR7cK2NUT6iIGmj3Sqogi/6mI6qIvEIaEeS7orQ3C9Oy0zal7CGLP3sM6QNqHhwuww7FOuSafqdnTa0zyNxOMDoWiVabovIluM0ja42sDaBLrosMV9r13oAkVEfqKkOjpXUDDSWWF8Cl8CySG6yHdPkxRAPAjY9jKQSV1rE0Mr5VLIn8VJTe8pxvjw49upcC8bhQas6USgcPpRN3ChgTGNWK0KxFD0/+xzwvcdxJsS2GmGV3adi8BvE+p43aVdiPpx5w+Rf7hnMZGQZ12N5fVeiLpj7yvjR0zZJikfolLMdejBhzcVpkiS4Z1hmE4ZGxY5rLh///MhQSvuzalxC/timD/5z/AlScQD6sE1KVMIj45rmsBNuyMqUjgm3ELardUvHaTHW56Xv5aQwg5KbAuyG/ERJLIApnMsXnhN6d02DCNf99V2m5BDbOv846oB5UrkXRlj5M8wavAlQlNawg/vajVOkvGhKObCT8uxn72n8asyZIlx+ivGBCedL/shoWJ8DlWrRrBLPG09Ec8TBl6I4wplXCDaWTCJdUCz2F6hgYOFfSreDRxM+30kkS1Aug22fuSheirVETmWPRVn9TOontQrHFNaO3eaU6RbyJcf0A6qt4IbZQ/Jq0Vaw88T/Kr/KqsoK1lBg/kZ4rZqPs7LUaaARSyxQFxCZPhHB9gq0f0KgDutTbztrblGmJodPGXbtgdkkZH7CZH8OW6IchXfMGtSwVs/0RHhUXn6TQCmNT4CUsbhktopXcQfEULPp0lgMjXOzbKx64EHkfC5npveE5u+XyRBO1NCkX7jP8igQwwfbzan4MOmnTuHlNqT1w3qE2csgaJWChcpCB66xD0SbAVaTaIub7PGuFSKoHY+tEmb/V9dDHcSowE0kzrQEEcOvYUtsS4cgZ6TqZY4I49Nrwn46+qmp3VUYOhXETDIPRM5uwJW1Lo11MqII5WAAFwhao8MxBEmwp469QllqqXeiY4S9Mz3rYxkfilaoQ/2JxJlTg9keqOtrjuFBvrkpLJSClkhSXWLGS6zUD4ycx8QqhI9be5MSRsTaRSCRz93ui+8zQc51NWEc7lGeeBObFUqBrSAm3m2GGmCmxJGUtW/wQcQU7QRrR0Vhi+uGd7WgIwtNCCkHa0FypL9Q3TE/tTiybAo5HNUZaNSrLWNsiXdS+X6IiLZ3qayoRWqn6kwPPwMrbRjDhSF4Fi2SJeLwi++fYtd5Qul8/m9YQOqcLGkDn+ER+7Y0YcLCXd5SdorOHDN9pkBcOn5/lqmuVYch5ZUkwZQ0Y7i1Buf3szmy61zVxgZ37pjeocnphg78as56rT+hkBK+MBNdMBQwijh1lMGAAkfM1OTU0+s5F8qii0cUAtbniA+Y6ba5F+01djMxyNM/gIsdtqBHAAsdnA5vavF2EgRP+A5TNuL2AOiO8SoOTNKgXC488nwEjS8vu4wAPWmcFVDnOsGWfBxupt9LlOfUcGw2nWn6nKHSYSJEysA7hAA==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210471,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 471,
+    "prompt_tokens": 1700,
+    "total_tokens": 2171,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 309,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00304125,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00304125,
+      "upstream_inference_prompt_cost": 0.001275,
+      "upstream_inference_completions_cost": 0.00176625
+    }
+  },
+  "provider": "Google"
+}

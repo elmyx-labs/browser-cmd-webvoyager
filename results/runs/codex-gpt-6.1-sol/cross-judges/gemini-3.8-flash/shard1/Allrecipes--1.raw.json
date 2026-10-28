@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209888-vyXClyCsVAhGVe6vktSn",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a recipe for a vegetarian lasagna that has at least a four-star rating and uses zucchini.\n\nThe screenshot confirms:\n- **Category / Dish**: Listed under `VEGETARIAN LASAGNA RECIPES` (\"Debbie's Vegetable Lasagna\").\n- **Rating**: 4.7 out of 5 stars (well above the required 4-star minimum).\n- **Ingredients**: Includes \"2 cups coarsely chopped zucchini\".\n\nAll requirements of the task have been fully satisfied.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Recipe Options**\n\nI've homed in on \"Debbie's Vegetable Lasagna,\" a vegetarian lasagna recipe, and verified it's categorized under vegetarian lasagna options. The next step is evaluating the rating to ensure it meets the four-star threshold, and verifying the presence of zucchini in the ingredient list.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Recipe Options**\n\nI've homed in on \"Debbie's Vegetable Lasagna,\" a vegetarian lasagna recipe, and verified it's categorized under vegetarian lasagna options. The next step is evaluating the rating to ensure it meets the four-star threshold, and verifying the presence of zucchini in the ingredient list.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "Ep8HCpwHAWkUfRMd/9AG67ZCeFtmW8wFBdMoR3YIs007QLOlj3McdC1yb4X89t0xGNcKnwW+YIKvkMWrbM1ZtL//QQLog11H+Us0e5HkKCkorPHzLROS0Yuryai3ek3TF3HMwpAEK4X0tBOd1ZuUgB8XONSbsTc3bbBqohvMfZ2Op4eEEVuoG3PEYgtdKD1QAkxPeCS+xmfB3qj7MvF2zxpw/O+tWQLNqyosYHFarWeBB5XTBcy/Wt830VfCddGXOa2D6DRUOtmgv4cGTKNlzk9NRJjM+RYcvxc064keKx6zAebSeGtlqEtkKDX87YR3EhO7+bA6uzM1LP82mp7+Jr+Fsq63P74cDmf0ydCGxHH4P7DlCiTX3FAdsP09Ydp9t7/QwVpammHGpR2jgkJf8yarr2+l6CmONZPgMN2uMEU1fGb4TJasAcxa8blC/hVPKHjwImm9LLDTuA/9gVXr2/2262QxDdQijvYzk6vl65VVRe5lPb1BLIMgwM7bNGzOrGTgG0gTJZ9NWY3jmA6Qni5Zm6FfnW8g1imyywgHKJN35wLnYvCWfjRlhSitQ6x0JfXgS7An7nMRZKiWyAiSibWLUJFWKa2vqPzlDHJ56U6bECsacCPwLLmrDwZS28cYmsm1oFW1mltVc8jJv/gMW2RJ6lM5MBnTTHF8kyI/6u/NPmK4o9m6d32icTrWOI6woV6PgKCe0h9MO19zjV3wrzo4H5Qj/AMTcqaHqdaVoVYsmq5COSTsloAYJB/v8lSuboMD4EC6+n722p6MomFpaTJ3TNAq+eMapXHqzLThr3burKWCXsefTl1uz4CqsdoJA1h3jhQBT6jk/J3AkJkBvmPTPV3kiP0K4BUDV77+kYCT7hNgCY9uxGBs9dxTl8lD/1hTLArIaa17XW95qJ+16sPqP3xKAhRAXT0dGD3qsm8ed0gcp8vWdRGih/6Pi2tSK5mpbpmQsbcbbp0JzllDFmTVe+xLaHMYwb65fscYsCcOUuVUb4bzVDV65H3z17W/zqG6YKlNS1b5Qr7wU2qr+ckr7awXDmSBjgdld4cHQF363ix9oxzNUwQwbD6QMEhmFdmNxbJrYRei8JAADKBrwuq9ePgjbtZnksMU7cCEcLMjtuEaSiuIZKBFLEKen+CoRqRRhsoVUupuQ4BRn4vPliQk7KStzTv3FMBZNs9CvJddRcvJr9wDJkj9dIu3WtKapbrWpKyOEPK873eHZU4PJSs1",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209888,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 288,
+    "prompt_tokens": 1660,
+    "total_tokens": 1948,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 181,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002325,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002325,
+      "upstream_inference_prompt_cost": 0.001245,
+      "upstream_inference_completions_cost": 0.00108
+    }
+  },
+  "provider": "Google AI Studio"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Cambridge Dictionary--20",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Look up the definition, pronunciation (both UK and US), and find one example sentence for the word \"altruism\" in the Cambridge Dictionary.",
+  "answer": "FINAL: altruism (noun, uncountable)\nDefinition: “willingness to do things that bring advantages to others, even if it results in disadvantage for yourself”.\nPronunciation: UK /ˈæl.tru.ɪ.zəm/; US /ˈæl.tru.ɪ.zəm/.\nExample sentence: “She's not known for her altruism.”\nSource: Cambridge Dictionary, Cambridge Advanced Learner's Dictionary & Thesaurus, https://dictionary.cambridge.org/dictionary/english/altruism (accessed October 27, 2026).\nEvidence: final.png, a viewport screenshot of the entry showing the word, both pronunciations, definition, and example sentence.",
+  "response": "The user asked to look up the definition, pronunciation (both UK and US), and find one example sentence for the word \"altruism\" in the Cambridge Dictionary.\n\n1. **Definition**: Provided accurately (\"willingness to do things that bring advantages to others, even if it results in disadvantage for yourself\").\n2. **Pronunciation**: Both UK and US pronunciations were correctly retrieved (`/ˈæl.tru.ɪ.zəm/` for both).\n3. **Example Sentence**: Provided accurately (\"She's not known for her altruism.\").\n\nAll requested details are confirmed by the provided screenshot of the Cambridge Dictionary.\n\nSUCCESS",
+  "reason_short": "The user asked to look up the definition, pronunciation (both UK and US), and find one example sentence for the word \"altruism\" in the Cambridge Dictionary. 1. **Definition**: Provided accurately (\"willingness to do things that bring advant",
+  "screenshots": [
+    "task_261/final.png"
+  ],
+  "raw_screenshot": "task_261/final.png",
+  "source_result": "task_261",
+  "usage": {
+    "completion_tokens": 399,
+    "prompt_tokens": 1736,
+    "total_tokens": 2135,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 267,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00279825,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00279825,
+      "upstream_inference_prompt_cost": 0.001302,
+      "upstream_inference_completions_cost": 0.00149625
+    }
+  },
+  "elapsed_seconds": 5.1
+}

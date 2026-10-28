@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Search",
+    "id": "Google Search--20",
+    "ques": "Find the release date for the latest \"Fast & Furious\" movie.",
+    "web": "https://www.google.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The latest released Fast & Furious movie is Fast X, which opened in U.S. theaters on May 19, 2023.\nEvidence: The franchise's film table lists “Fast X” with “May 19, 2023” under “U.S. release date.” The next film, Fast Forever, is dated March 17, 2028 and is upcoming.\nSource: https://en.wikipedia.org/wiki/Fast_%26_Furious#Films\nScreenshot: final.png",
+    "result_text": "FINAL: The latest released Fast & Furious movie is Fast X, which opened in U.S. theaters on May 19, 2023.\nEvidence: The franchise's film table lists “Fast X” with “May 19, 2023” under “U.S. release date.” The next film, Fast Forever, is dated March 17, 2028 and is upcoming.\nSource: https://en.wikipedia.org/wiki/Fast_%26_Furious#Films\nScreenshot: final.png",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_508/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_508",
+  "elapsed_seconds": 193.75136494636536,
+  "execution_error": null,
+  "proxy_bytes": null
+}

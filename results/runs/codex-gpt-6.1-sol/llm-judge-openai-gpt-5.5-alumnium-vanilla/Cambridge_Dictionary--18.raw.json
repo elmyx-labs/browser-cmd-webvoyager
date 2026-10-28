@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdycW2UyEyjDv3HWWajHFPIJwQ3tX",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The screenshot shows the Cambridge Dictionary Thesaurus article titled “to behave well,” which matches the requested search. The visible article text lists the relevant expressions:\n\n- “behaves themselves” / “behave yourself”\n- “behave”\n- “be on their best behaviour” / “be on your best behaviour”\n\nThe Result Response accurately reports these synonyms and notes the UK/US spelling distinction for “behaviour/behavior,” which is also visible in the screenshot.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196524,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 371,
+    "prompt_tokens": 1702,
+    "total_tokens": 2073,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 264,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

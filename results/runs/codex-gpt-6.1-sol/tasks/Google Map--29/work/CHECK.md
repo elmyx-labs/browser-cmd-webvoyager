@@ -1,0 +1,3 @@
+[x] Identify bus stops in Ypsilanti, MI, list three of them. — Three Google Maps place URLs in ANSWER.txt; each listing shows “Bus stop” and “Ypsilanti, MI 48197, United States”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the names and deciding facts with no overlay. — final.png is the 1280 × 723 viewport of Michigan + Hamilton's Google Maps page, with all three stops visible in the results, bus-stop labels and Ypsilanti address.
+[x] Write the result and evidence to ./ANSWER.txt. — Three named stops, IDs, observed Google Maps sources, verification date, and screenshot evidence.

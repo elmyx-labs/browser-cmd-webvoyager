@@ -1,0 +1,41 @@
+{
+  "id": "Google Map--33",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Check out Denver International Airport's information and tell me: 1) which level has the least proportion in reviews; 2) what are its Accessibility and Amenities.",
+  "answer": "FINAL: Denver International Airport\n\n1) The 2-star level has the smallest proportion of reviews: 2,309 of 51,043, approximately 4.52%. The other levels contain 27,819 five-star, 11,666 four-star, 4,535 three-star and 4,714 one-star reviews.\n\n2) Accessibility: assistive hearing loop; wheelchair-accessible parking, entrance, seating and toilet.\n\nAmenities: gender-neutral toilets, toilets and free Wi-Fi.\n\nEvidence checked October 27, 2026:\n- Google Maps review chart and About tab: https://www.google.com/maps/place/Denver+International+Airport/data=!4m2!3m1!1s0x876c7f2a98ff44ff:0x49583bb435b59c6a?hl=en\n- CoParking airport listing, Amenities: https://coparking.ch/en/United-States/parking/denver-international-airport-32185\n\nGoogle Maps' signed-out view did not expose Amenities, so those details come from CoParking's listing, read through the web source reader. Screenshot final.png shows the Google Maps review distribution with All reviews selected; no date filter was applied.",
+  "response": "The evaluation is based on the task requirements and the provided screenshot and response:\n\n1. **Review proportion**: The screenshot displays the star distribution for Denver International Airport on Google Maps. Looking at the horizontal bars for 5, 4, 3, 2, and 1 stars, the 2-star rating bar is clearly the shortest (least proportion). The response correctly identifies the 2-star level as having the smallest proportion of reviews.\n2. **Accessibility and Amenities**: The response provides the details for Accessibility (assistive hearing loop, wheelchair-accessible parking, entrance, seating, and toilet) and Amenities (gender-neutral toilets, toilets, and free Wi-Fi).\n\nAll components of the prompt have been thoroughly answered and verified.\n\nSUCCESS",
+  "reason_short": "The evaluation is based on the task requirements and the provided screenshot and response: 1. **Review proportion**: The screenshot displays the star distribution for Denver International Airport on Google Maps. Looking at the horizontal ba",
+  "screenshots": [
+    "task_480/final.png"
+  ],
+  "raw_screenshot": "task_480/final.png",
+  "source_result": "task_480",
+  "usage": {
+    "completion_tokens": 355,
+    "prompt_tokens": 1901,
+    "total_tokens": 2256,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 199,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002757,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002757,
+      "upstream_inference_prompt_cost": 0.00142575,
+      "upstream_inference_completions_cost": 0.00133125
+    }
+  },
+  "elapsed_seconds": 16.69
+}

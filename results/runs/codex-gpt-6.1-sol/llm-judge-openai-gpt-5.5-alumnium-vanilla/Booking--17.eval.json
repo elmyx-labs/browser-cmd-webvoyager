@@ -1,0 +1,31 @@
+{
+  "id": "Booking--17",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a hotel in Paris with a fitness center and a rating of 8 or higher available for a 5-night stay starting from February 14, 2027, and sort the results by best reviewed.",
+  "answer": "FINAL: Hôtel des Arts Montmartre in Paris is available for February 14–19, 2027 (5 nights), has a fitness center, and is rated 9.6/10 (Exceptional, 2,441 reviews). It appears first with Booking.com’s “Top reviewed” sort applied.\n\nThe search uses 2 adults and 1 room. The Standard Double Room is listed at RSD 134,305 plus RSD 9,928 taxes and fees for the stay, with free cancellation and 5 rooms left at that price.\n\nEvidence: final.png shows the stay dates, “5 nights,” the hotel name and rating, the applied “Hotels,” “Very Good: 8+,” and “Fitness center” filters, and “Sort by: Top reviewed.”\nSource: https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaMEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALNjYTXBsACAdICJDhkZWQyYTdhLTY5YmEtNGYwOC1iMmE0LTUyMDZkNTBkNjVmMNgCAeACAQ&aid=304142&ss=Paris%2C+Ile+de+France%2C+France&efdco=1&lang=en-us&dest_id=-1456928&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=03f08ea67b920445&checkin=2027-02-14&checkout=2027-02-19&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Breview_score%3D80%3Bpopular_activities%3D11&order=bayesian_review_score",
+  "response": "The task was to find a Paris hotel meeting all of these criteria:\n\n- Paris location\n- Fitness center\n- Rating of 8 or higher\n- Available for 5 nights starting February 14, 2027\n- Results sorted by best reviewed\n\nThe screenshot shows Booking.com search results for Paris with dates Feb 14–Feb 19, which is a 5-night stay. The applied filters include “Very Good: 8+,” “Hotels,” and “Fitness center.” The sort option shown is “Sort by: Top reviewed,” which matches the instruction to sort by best reviewed.\n\nThe first listed result is Hôtel des Arts Montmartre, rated 9.6/10, and it shows a 5-night price with availability information, including “5 rooms left at this price.” The response also provides the exact dates as February 14–19, 2027 and identifies the hotel as available.\n\nTherefore, the task was completed correctly.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find a Paris hotel meeting all of these criteria: - Paris location - Fitness center - Rating of 8 or higher - Available for 5 nights starting February 14, 2027 - Results sorted by best reviewed The screenshot shows Booking.c",
+  "screenshots": [
+    "task_215/final.png"
+  ],
+  "raw_screenshot": "task_215/final.png",
+  "source_result": "task_215",
+  "usage": {
+    "completion_tokens": 518,
+    "prompt_tokens": 2021,
+    "total_tokens": 2539,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 311,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 10.82
+}

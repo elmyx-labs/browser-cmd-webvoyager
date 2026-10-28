@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Booking",
+    "id": "Booking--8",
+    "ques": "Get the hotel with highest review score and free cancelation in Chennai for 20/12/2026 - 21/12/2026.",
+    "web": "https://www.booking.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Pinnacle by Apart Stayz Velachery, Chennai — 10/10 (Exceptional, 2 reviews), with free cancellation for 20–21 December 2026.\n\nIts Superior Queen Room for 2 adults, 1 room offers free cancellation before 6:00 PM on December 20, 2026. The property’s availability table confirms this deadline.\n\nThe 10/10 score is tied with T Nagar -S2- 2BHK Aparthotel Shopping central II FLOOR (1 review). Pinnacle has more reviews and appears first in the final “Best reviewed & lowest price” results. All 19 hotels matching the free cancellation and 9+ review filters were inspected.\n\nEvidence: final.png shows Chennai, December 20–21, the applied Hotels, Free cancellation and Wonderful: 9+ filters, the sort, and both 10/10 properties with free cancellation.\n\nSearch source: https://www.booking.com/searchresults.html?aid=304142&label=mkt123sc-2aa7f2fb-b72a-4e1b-974a-5269890d0c69&ss=Chennai&dest_id=-2103041&dest_type=city&checkin=2026-12-20&checkout=2026-12-21&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bfc%3D2%3Breview_score%3D90&order=review_score_and_price\nHotel source: https://www.booking.com/hotel/in/pinnacle-by-apart-stayz-velachery.html",
+    "result_text": "FINAL: Pinnacle by Apart Stayz Velachery, Chennai — 10/10 (Exceptional, 2 reviews), with free cancellation for 20–21 December 2026.\n\nIts Superior Queen Room for 2 adults, 1 room offers free cancellation before 6:00 PM on December 20, 2026. The property’s availability table confirms this deadline.\n\nThe 10/10 score is tied with T Nagar -S2- 2BHK Aparthotel Shopping central II FLOOR (1 review). Pinnacle has more reviews and appears first in the final “Best reviewed & lowest price” results. All 19 hotels matching the free cancellation and 9+ review filters were inspected.\n\nEvidence: final.png shows Chennai, December 20–21, the applied Hotels, Free cancellation and Wonderful: 9+ filters, the sort, and both 10/10 properties with free cancellation.\n\nSearch source: https://www.booking.com/searchresults.html?aid=304142&label=mkt123sc-2aa7f2fb-b72a-4e1b-974a-5269890d0c69&ss=Chennai&dest_id=-2103041&dest_type=city&checkin=2026-12-20&checkout=2026-12-21&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bfc%3D2%3Breview_score%3D90&order=review_score_and_price\nHotel source: https://www.booking.com/hotel/in/pinnacle-by-apart-stayz-velachery.html",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_209/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_209",
+  "elapsed_seconds": 380.02350783348083,
+  "execution_error": null,
+  "proxy_bytes": null
+}

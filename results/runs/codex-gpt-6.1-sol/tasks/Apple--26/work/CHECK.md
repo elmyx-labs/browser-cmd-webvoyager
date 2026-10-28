@@ -1,0 +1,3 @@
+[x] Find the maximum video recording resolution supported by the latest iPad mini on the Apple website. https://www.apple.com/ipad-mini/specs/ — current A20 Pro model; “4K video recording at 24 fps, 25 fps, 30 fps, or 60 fps”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and deciding facts together with no overlay. final.png is 1280×723 and shows iPad mini, Video Recording, and the 4K/1080p/720p recording options on https://www.apple.com/ipad-mini/specs/.
+[x] Write the result and evidence to ./ANSWER.txt. FINAL line states 4K at up to 60 fps, source, check date, and final.png evidence.

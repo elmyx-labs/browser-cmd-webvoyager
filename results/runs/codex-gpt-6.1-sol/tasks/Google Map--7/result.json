@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--7",
+    "ques": "Find bus stops in Alanson, MI",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Alanson (Alanson EZ-Mart) — a bus station in Alanson, MI 49706, United States. Stop ID: ALA. Bus service: Indian Trails. Google Maps also gives the location code C6Q5+VM, Alanson, Michigan.\n\nSource: Google Maps, viewed October 27, 2026: https://www.google.com/maps/place/Alanson+(Alanson+EZ-Mart)/@45.4397526,-84.7934027,17z/data=!3m1!4b1!4m6!3m5!1s0x4d357efc7f0ab687:0x8a2ce3ad3d6149a8!8m2!3d45.4397489!4d-84.7908278!16s%2Fg%2F11g0hm_hg4?hl=en\nEvidence: final.png shows the station name, Stop ID ALA, bus-station category, Alanson address, location code, and Indian Trails service.",
+    "result_text": "FINAL: Alanson (Alanson EZ-Mart) — a bus station in Alanson, MI 49706, United States. Stop ID: ALA. Bus service: Indian Trails. Google Maps also gives the location code C6Q5+VM, Alanson, Michigan.\n\nSource: Google Maps, viewed October 27, 2026: https://www.google.com/maps/place/Alanson+(Alanson+EZ-Mart)/@45.4397526,-84.7934027,17z/data=!3m1!4b1!4m6!3m5!1s0x4d357efc7f0ab687:0x8a2ce3ad3d6149a8!8m2!3d45.4397489!4d-84.7908278!16s%2Fg%2F11g0hm_hg4?hl=en\nEvidence: final.png shows the station name, Stop ID ALA, bus-station category, Alanson address, location code, and Indian Trails service.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_455/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_455",
+  "elapsed_seconds": 74.4801197052002,
+  "execution_error": null,
+  "proxy_bytes": null
+}

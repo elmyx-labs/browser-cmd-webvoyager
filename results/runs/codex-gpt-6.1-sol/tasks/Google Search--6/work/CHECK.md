@@ -1,0 +1,3 @@
+- [x] Browse the monthly trending searches in Columbus. https://www.eventbrite.com/trending/searches/oh--columbus/ — "Monthly trending searches in Columbus, OH"; "Monthly" selected; numbered searches visible.
+- [x] Save one genuine screenshot as ./final.png, viewport, shrunk to about 1280 px on its long side, with location and monthly period visible and no overlay. final.png shows the heading, selected Monthly tab, and searches.
+- [x] Write the result and evidence to ./ANSWER.txt. ANSWER.txt states the first five searches, date viewed, source URL, and screenshot evidence.

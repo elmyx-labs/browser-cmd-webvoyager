@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210510-OmEuRabmmo1erdZ4sll7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The instruction asks to show the electrical resistivity of UNS A92024 and UNS G10800 at 20 degrees Celsius.\n\nThe screenshot displays the WolframAlpha result for both materials:\n- UNS A92024: $4.9 \\times 10^{-6}\\ \\Omega\\cdot\\text{cm}$ at 20 °C\n- UNS G10800: $1.8 \\times 10^{-5}\\ \\Omega\\cdot\\text{cm}$ at 20 °C\n\nThe textual response accurately summarizes these findings. Therefore, the task was successfully completed.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Material Resistivity**\n\nI'm currently examining the electrical resistivity data for UNS A92024 and UNS G10800 at 20 degrees Celsius. Initial findings suggest the resistivity for UNS A92024 is approximately 5.0 x 10^-8 ohm-meters, with further processing needed for UNS G10800.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Material Resistivity**\n\nI'm currently examining the electrical resistivity data for UNS A92024 and UNS G10800 at 20 degrees Celsius. Initial findings suggest the resistivity for UNS A92024 is approximately 5.0 x 10^-8 ohm-meters, with further processing needed for UNS G10800.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a185+l0FjCRWkqd2XXg+c2Hh6BHj1fInYXPixV6e3vWebQ9Y2ewwzSV5kLlPALFvFSA6qqZiKTg0pmzJOJvtE1Arn4nhgjF/gEjIFoFg2D20kychjS9QTXCnEIUGGz4B4d3jo6eajBPcknlH0MIgTF90He9vnTYKc6UbwxHz3G5VdDrfiyP00IkbeD/LZijwXIoWPRY4LM8aC+EIXIbY4lUgT+1owv1J8QM83BPgW+P8EDBS+xoSF2szINnLyZzeoJcGu7U3uMlSXCH5UPNrsZhNNrvhleIPz1+VCzznfyK49b5clSzlneWBNNHdd80aXJA3uFjSqe3zudjs5impjkVze3ZUpRmGAp1oZ369kXwkvQ0/BzzMaV6NpWCsRyhEugyjY/tdfgx3QxEvWPQDwo8aYVoKx8nzKsstMVP+wO+XcecOrDMXqT696qAa4llpxoT//czuSSbv5cSGNZ9LOgquGRZnyEnwJtv/91vQDMp359c+DPA+svv2IdAfyD95coXtBliWRJB+f30YwmRzDQZMpvP/0kVC+Kn/3+RHVFXEPkuuGb9eY/isR1tNn6+jXmVMMg/+4+MptW90CYxpJdtYkaOI8E8DOid9F8gOJ+oQ3/gEIhKLn9liodRK6BFyDbmO+2f1XlNH+PlLEM3+BKqokkuTGKYqWiW74yihzBukqgu0oJqTrV3sRJLhu2oLg8J8uaowE1KAUBfLnsk8ZFUQNuo9e4H3lmavrG8qaiF2t7o510+BGV3FxPtjd35lFRAZBeHWQqxLUmZ1AaKNonwEY/enfN2PNIqasaHAjITfHaPaajM08j1BETFeyCPeySzYS8oFbMPdiBYvgu+y/bbicWW10PFUFLudCdfp1ZJkusxNq+0KumZ0fNuEQPARuwP92M1B70/i7W7/ZDT4p7g8VsDj6cU1XTnlOQQe/mqNbN/G8wtnefP+A+RAMUex92s/go+4aHADW1+XG9a/TK6axDFyJ3Xq4lSCgOh8qa2G1gvNpx75AVERoXqfTUtcCURznuU4imoWzy8JM2Xg7C6U63zmrpVBEdhalrP7FPtITlC2jRKSXxWe2cx2wdpxO7LXocOpL77vfSLUSAFwYZw0WbbzIFoN9Ons2gfbWDTvoNLutQkSQO2NDKFk5aknW9yHUZP1YRW4VNs/5lyik0tPSsqexh3Z7lrA5xZMdPW2KYAe9OAWafVBfA35t+PrmjsSzP3LCmK0gpfIsNbhZFe6C5A5DyNd1wlQq+UzHauPEYHATR+H19ystHdoU0cEMme1x/wMt0QF2IsroMe50FEjycTUoG9Vpsodz6u61L0T",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210510,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 394,
+    "prompt_tokens": 1802,
+    "total_tokens": 2196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 258,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002829,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002829,
+      "upstream_inference_prompt_cost": 0.0013515,
+      "upstream_inference_completions_cost": 0.0014775
+    }
+  },
+  "provider": "Google"
+}

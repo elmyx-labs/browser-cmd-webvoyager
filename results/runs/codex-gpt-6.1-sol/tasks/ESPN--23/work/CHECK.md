@@ -1,0 +1,5 @@
+[x] Find the result of the latest basketball game between the Miami Heat and the New York Knicks. ESPN 2025-26 Miami schedule lists four New York games ending "Sun, Dec 21 ... L132-125"; https://www.espn.com/nba/team/schedule/_/name/mia/season/2026 . Current 2026-27 schedule and preseason have no completed New York matchup: https://www.espn.com/nba/team/_/name/mia/miami-heat .
+[x] Include the final score. ESPN Gamecast "Miami Heat 125", "Final", "New York Knicks 132"; https://www.espn.com/nba/game/_/gameId/401810253/heat-knicks .
+[x] Include the top rebounder from the match. Same Gamecast GAME LEADERS Rebounds "Kel'el Ware 19" versus "Josh Hart 10".
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with matchup, date, score, and deciding rebound facts visible without overlays. final.png 1280x723 from ESPN recap https://www.espn.com/nba/recap/_/gameId/401810253 ; scoreboard "Final" 125/132, "Updated: Dec 21, 2025", "Kel’el Ware ... 19 rebounds".
+[x] Write ./ANSWER.txt with result, date, and source evidence; first line begins FINAL:.

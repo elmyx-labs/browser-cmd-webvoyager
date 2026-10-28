@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210178-mnWaVUNKRR73cPFKOhmt",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a search for a hotel in Hokkaido for July 1 to July 7, 2027, with a review score of 9+, and asked to check its user reviews to identify which categories are rated higher than 9 and which are lower than 9.\n\nBased on the screenshot and the provided response:\n- The hotel selected is SAPPORO STREAM HOTEL (located in Sapporo, Hokkaido).\n- The dates are set to July 1 to July 7, 2027.\n- The overall rating is 9.1, fulfilling the 9+ rating requirement.\n- The user review category scores displayed on the page are:\n  - **Greater than 9**: Location (9.7), Cleanliness (9.4), Comfort (9.4), Free Wifi (9.4), Facilities (9.2), Staff (9.2)\n  - **Less than 9**: Value for money (8.7)\n\nAll instructions and questions have been completely and accurately addressed.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Exploring Hokkaido Hotel Data**\n\nI'm currently deep in the data, specifically focusing on identifying hotels in Hokkaido that meet the July 1-7, 2027 timeframe and boast a 9+ rating. My next steps involve a detailed dive into user reviews to pinpoint specific categories excelling above that 9 threshold and those that fall below.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Exploring Hokkaido Hotel Data**\n\nI'm currently deep in the data, specifically focusing on identifying hotels in Hokkaido that meet the July 1-7, 2027 timeframe and boast a 9+ rating. My next steps involve a detailed dive into user reviews to pinpoint specific categories excelling above that 9 threshold and those that fall below.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a192DBhU8soCzx6UJ4jAFNq/6eWyKbaiWBHJskk04dq9HjVzYbI2coocNT2WuxSzlVYQf3Gor2DneM8hFJ9QDq0Onk9wv+zDaY4X3WOtdQzBcD5r3rUtocYEoAuZsucY+NwRV31qpTmgxHCtimBltM3g3mDL+GvqelICJteMIXxOZyudHCfWB8+3HMydGqx01qpvWMmm+75QO7P5oMXjvNd1a4azYhXy+NCkZD6mSypwKVrQlklQIgCA0OrzUZPmI8B985uOD7c0aZLDerH7874/dxLJ0Zwn1Q1Wn5cKANZZQeXFCR/WB+lnWNvyDpXTGEpOyevC6nrT/Pqd6Q1i3kMPOP2TeTK2nrPzkfHtnt50890IVOZdj8/eNXZebKM2w9VSAzeeE0LABdnvZeSKRZBftgHbavLnnceZMzfusXSayxaMCZUESlFZSDgjhRiGiG7kAnxKkIbj1j8GY2WGLu268qOhnCD0ncej4R+M7X/Oz9srvQ5DGeyR4Og752d+ItEMmbxKxy4MZHdhxdJedAciBlFUAkMFtwbM45CXzQCA9KTvOlkkuiYH//bT17jIFmM+NL+rpPtQ3tI/Ao9J5yojmM4Q+Ta3e7+DkW4sE48zKr3Fzwlr4Q5oTcOvZrV/RNCprLZb0MHWcLgzfMCVq1bHrk8qHvVlL4zLExyf+FEiIoX3dVDtR1qko91ZcNMTvI7Ziu3eJHCylSKJIMUQr+jCBZzSjoLNTSq4kSUMg+FcfNv0/1aIswgMMdO5tU1CxFLayOWPiw0+W09/IX+cfgfiZCpA8OhisC9auXx10Eqxx3iQ2wtGaq/dVghXROv3Ht1+RV8FzDKWO2uQRw7W7dx4Kw2tuZRuVJcC+gFtdKoyXAt/K3wVmEAReI/BhNF4m278ouywqqpLoRh/vEq6hHoOOYd3asViFe7+9r2hyYXvPA3/gdIxZK19+lpdk9Q/o8K+ZI5TwjZP2/SDLiJNLTaKQe4sG5zgvBlj6JeKpkxdPcRH5ChJn59vwcXAIEv+MHl5uZj5BDFp/93LCPIwknAWDP9DVUwXmTd6oJL8e5WqNm1b73QqBRpUYcxaQd5qY1595SS3XyOhbJRHG8A4fAeLPAdGErD34foHHXVnDsZZY6Fm9yT0e7CEhnuzl9DM0zve2Zuo/sBlJAKHsdSWYERh26CavA07niDe+FK2xcWJbJBW/QEPYQLFW6ly8f2itKYG0hQme0v9nqiid7WkgFzoJN8pxEFpu+hmDo1UZuwqXQh6CDkzb+i9mqBqkkb/Eue3TAtDnQUopmAk7JUfMzspuWXIAtWrvwzaRps12qQu4sDkaJqaYWVA/tl3G6xMLWdcy5keLjUNZ6M0WQMMXrkNqjcP2sUg3iPI/br6pE/6mYHfGnPdPOwPOZDUM/y7pehWs0Bm5B2IcxfxQc2KpoZpQtRSVP/0MXWHOUwwLA8AYcC7DMaybkLGn/UQPuKlxTLjUBfzn2pr5qWYs9oSJ1E25fPuUc9hT0sJNct1J4gph6E7OA5w7llvvORcNlvCS6J/aJ6bXGHihdb2VbHfWQ/8QescBnzkQQWC5QTH9z4bxXFkaMqKBL9eL3XIkDDd5DllrYYRKAiW5nvAC2FDzB+sNxlrsg/86USV44uZOG/iLUot6/2RiNyg89VbvwmN31kS1ZX02IfDE6q3iFwHAeNJNxhHsMh3PkMZ76YZWpKV2mehQDp8EroWTaSsNSnhMg==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210178,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 556,
+    "prompt_tokens": 1907,
+    "total_tokens": 2463,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 338,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00351525,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00351525,
+      "upstream_inference_prompt_cost": 0.00143025,
+      "upstream_inference_completions_cost": 0.002085
+    }
+  },
+  "provider": "Google"
+}

@@ -1,0 +1,4 @@
+- [x] Find the Easy Vegetarian Spinach Lasagna recipe on Allrecipes. https://www.allrecipes.com/recipe/229764/easy-vegetarian-spinach-lasagna/ — title “Easy Vegetarian Spinach Lasagna.”
+- [x] Tell me what the latest review says, verified with review sort and date. Newest checked and APPLY clicked; first review HealthyPlate, 04/13/2026: “Easy to make and very delicious.”
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing item's name, review, sort, and date without overlays obscuring evidence. 768x1280; recipe name at viewport y281, review date y1836, review text y1899; applied sort control visible as “Sort,” the site's own label.
+- [x] Write final answer to ./ANSWER.txt. Result, reviewer, date, exact review, tags, source URL, and screenshot path included.

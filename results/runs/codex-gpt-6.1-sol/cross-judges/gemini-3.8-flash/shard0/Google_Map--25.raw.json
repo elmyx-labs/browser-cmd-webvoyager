@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210502-fKHp4fbsguv7na6bMTOI",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response, the user requested a search for a parking facility near the Fox Theater in Detroit that closes at night. \n\nThe evaluation shows:\n1. A search for parking near the Fox Theatre in Detroit was conducted.\n2. \"421 Bagley Parking\" located at 421 Bagley St, Detroit was selected, which is situated near the Fox Theatre (visible on the map).\n3. The operating hours shown on Google Maps confirm it closes at 1:00 AM daily (closing at night rather than being open 24 hours).\n4. The response accurately details the parking facility, address, and hours.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Parking Options**\n\nI'm focusing on identifying parking facilities near the Fox Theater in Detroit. My current thought process is verifying if any of the initially identified locations, like 421 Bagley Parking, meet the crucial overnight closing requirement.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Parking Options**\n\nI'm focusing on identifying parking facilities near the Fox Theater in Detroit. My current thought process is verifying if any of the initially identified locations, like 421 Bagley Parking, meet the crucial overnight closing requirement.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+53OBiGI6wNncXQgfpFbJhyNSMs4SZpreFCaEiKCLGsWnyDGH0GM2bdfQvgM0FpNgjlZ7RL9PSkf480Qhv3k2ojV0zC+CcLIhrX8Yw3Yl6ktnjI7i8tHFnuSmj71LHc9LMglWhiuEFiciLQaeLH4RCZMgcRCymABeTAsckz5tMcxTd5qDfOw4QIh+3QZUWz34x9WUSBqyQINHVvSF4JMevv08Z4M5hONhwP24kRDwdgBvPbpuPsXxVCX7fAzYx4l+6X+KIwCc6I1V+yoRzghBTA8U8a+bzYad1Z2uN6lFvTgd2WGzttpg1NoY6sRqa0E6HyrJdHO244kxVOard+RjkBxk+1Yds6bZfKqNR8nEOyqA+deLgPD15W1cPyNexvkWav3858Jh+qZfFrBGP+waJcPKYEgVRdybza1TGtvBobHVQ4JNU4GS+MDZ7tCh6keHy/h6TAhnlAo7zcI15KRQMECeVvv6ENTzetx0kHlvy7Y5X20yJ+uB4rHj5VzoaO7SYgBaYwh26nd+zRixr9Und+qVsdZhLuI3Hrp9Tb20CgdJGbeHhWhg1S5bgdG0MwRlQBN7ACHsG0nhk8kX9Agutba7zZ9dvUejTrIcJmuSfFZbw+73Pdw0r9MFipzCTLynF75RiK4hL8ZHT2nbBUfatI+JweTD4efSeHVgDkQAKqTFJMa++BbLxDIGF+7OZLFmTQnF3P8LEZ31mcQFjM3r+NQe29cGsBeneOHUzGU5CWStVBigkqKEs5ujaGvxAwwJQNIu2A09mCzeHR93vuhB+iZ/0VEXxnl+aEhV2bbE0jcFQ3LvEzDMvYr/nOOC8aK4SYCPbkwKvrEZnZHgI+PrW0assXmBOryaMia3kX+J1+ANql37T8R3QyMpjuh+sCfGw0k/8Dw2jJB7C+PmHQBFHpAtCT47vmYdic4a1HqYoSAzXjv1zdcfqF+MIby4kFIbKyNkb87iNjrmoqJeyY2O7VGqSoiOF7mChj78eRg6pOVtbaJ1rUhO+v6FgpTRZYMIr93Hx8nAS/na8+Xw7WXJDGozp2EVRiWQk2wkUJ9HkAmAlt4+4pwMhkxYspdFAuddmlrGexov1JjXw5QTryGPppmp2zvjFVgtrQDPa+BRgLaV+jME6uSfYFgymgZG98u3z10AlhNav/xLTNoodOB/8iFHjYLgtxBLTog0dGk8QdMhUhmLXO3XawLErN5ALMd/KOTFtSlDcVf5Nft4kRWf0M+edV7s8e8wBeirYShfZP3QqU97QpcjREf/LLYYmErieYqQH2ur21VLmoUPq/Auz/kMUy2+oHB77FB/s4rDT3rppmqUIiwEc6WuZp14RL1GE2mcVFzknaP4mhX8v5R3V4zPUGwuRnjMfkQZ7jlrf83udUNzYomgYNr4JO3cUCFBthSXrx3EQywyuqJo8P8KdDfJ8PnGVQN7a7bDbCNfOCv0pKQBK9urx9CXjR6CJoCAgS44Fvjz0sdfi3v//6BgaQNBb7U+pHO1Z287MVlbkNBeOeBDiopeg8OoBkSSxIi9sAygxbFFpFKdkDz148CgLLViWk6ZvYsnC5zpTBSV0oOuuJ87V11DopO9jCPT3KP3r6ZIYD1qKV2+W6lHTN03RZcyTljZLkxSp5/E+JJcQJGQkqmr2M1r8G15wJY9nLx+s26XjlsgXFdSdKbn5ouH/NlCZt0k8sWgypFoDdlwecoiH+FojSvEVx+TbgV8G+3hVOlUQH38nd0L4nxvnw74Gfs6EiBshgtl7LaR6Kr1vJjlNHK3MJ6EwZczETOTK1gO71LBTkFU3MJ7TjIcJBPF5gB5etGxaxjEYZlV5mesSWT9rKdnPr4c+DjfBRQ==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210502,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 446,
+    "prompt_tokens": 2011,
+    "total_tokens": 2457,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 298,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00318075,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00318075,
+      "upstream_inference_prompt_cost": 0.00150825,
+      "upstream_inference_completions_cost": 0.0016725
+    }
+  },
+  "provider": "Google"
+}

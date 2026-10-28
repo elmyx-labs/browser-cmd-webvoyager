@@ -1,0 +1,6 @@
+https://arxiv.org/list/math.AT/recent
+Algebraic Topology; Authors and titles for recent submissions; Tue, 27 Oct 2026 (showing 14 of 14 entries); [1] arXiv:2610.35861, Stable homotopy theory of higher categories with adjoints, Hadrian Heine; Subjects: Algebraic Topology (math.AT).
+https://arxiv.org/abs/2610.35861
+Mathematics > Algebraic Topology; Submitted on 26 Oct 2026; title: Stable homotopy theory of higher categories with adjoints; author: Hadrian Heine; Submission history [v1] Mon, 26 Oct 2026 17:59:06 UTC (83 KB).
+https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=math.AT&terms-0-field=all&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date_first&abstracts=show&size=50&order=-announced_date_first
+Query: classification Mathematics (math); terms AND all=math.AT; Sort results by Announcement date (newest first). Result 1: arXiv:2610.35861; Stable homotopy theory of higher categories with adjoints; Authors: Hadrian Heine; Submitted 26 October, 2026; originally announced October 2026. Full abstract expanded. Viewport screenshot saved and proportionally shrunk to final.png (1280 × 723).

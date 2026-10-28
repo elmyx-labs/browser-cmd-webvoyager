@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209889-eVrT76ARAZPb17AzPx5o",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task instruction requires finding a recipe for Baked Salmon that takes less than 30 minutes to prepare and has at least a 4-star rating based on user reviews.\n\nBased on the screenshot and the response:\n- **Recipe:** \"Baked Salmon Fillets Dijon\" (Baked Salmon recipe)\n- **Time to prepare:** 10 minutes prep time (25 minutes total time), which is less than 30 minutes.\n- **Rating:** 4.6 out of 5 stars based on 1,590 user ratings and 1,135 reviews, which meets the requirement of at least a 4-star rating.\n\nAll criteria of the instruction have been successfully satisfied.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching for Salmon**\n\nI've located a promising recipe, \"Baked Salmon Fillets Dijon,\" that appears to meet the time and rating criteria for the baked salmon request.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching for Salmon**\n\nI've located a promising recipe, \"Baked Salmon Fillets Dijon,\" that appears to meet the time and rating criteria for the baked salmon request.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/m8jYnQLOcgXgc6LmvVMOdeCH9bbIffCQHg+CF45Ta8a6cPv1+lbk0f2jIV8I50wuOL5uqkeS5yU7mk79hQo33UkSn9MN13XNyddpd+/Cn8hLLacRwYyCEc8Z9Nk0yfOVHPQUGNF0x7hwPjHG1+YielGKqk+HFgGuduvkKhpSF8n2GqlTfD1Gh8+Z7zicLCNsy98/kzNpFECkcEzrea3WTCwflQ69uxpw8pY0UqYIPupeG8i32vKLR+fNRLzkS9/Rw7ExgEstEtOXmx7PGN9kNzDvtEDxFR+Ytd13vqMAy6HSMoaIqJHNntfXhymgQSB3UyyGM/3syveIgPVK/0pYGT0OTCE83xmwsG1b75S05+bc3/bsjSgyec80eMGf8E2vaTLN6XA8l1p9IJcKJf+0lIYRAm1dUw4HhbjQQAKw+8AsPYc7tOrkJtouLvVGl32vGmzem8ietxUJK9Gb9IN09sAGv6SZ1qplESq+aTmQx/C/TY31hX8IXanAAyVlEmAuf4o0TdHjhhYm90z+T5aLN0ofiSOXFF+2GEN43nvxcRWzFv5a9G6GV6wvkOTIuuvw7nmy6FsoeWVISxj9DvbDVNPZni99L75d0/nmP344pAy9Ho0UAvxh7BH1QB9CckvDy5dEXNDD9+Ey3MhtuhA8Ky8hHwoxdy83+QHFsHChAGxbNymSkyfC5Sjlczgks3IdQWjjJi6h4135B3Zj7bh6Df3G3rY0kCnwdwXmDr7SrcLt5GlNzQnzL9Xw2AtdzQ6qCNZl6zSfBr8KCAPMy+ZJzHJKcS/i64O0hDAtu2NWSPxxyOZybxNEeE1glr7N08GEkFOKDk66tbKQJZ7tJYSXDLM6n+i5RBKx4HScaRa/WuYtwyuYzTvjRbiLrxFOIT02L80RzXnSUs8GraeSx3MSnxTfhFvpUVzUTXSSzpzwVxgZ3S5E4X7+t9OPaCH06xnSO+5BFfzyQ9lVgdUug4PQZDh6JyBnku5gqjVGm1LOKYej+es1jJxJXppQKhUa4QyzqKP8pSsxPKNDnHCw4RMyM1U9CCUqxs99kf/HPwrT8JWspsNoD8aXMGlJHic/7Cq5vj+tLZuLOiJoOq6OSDKUbO0WG5MEbj62CVSHkxr5SaTsGwzkVtbulSF5ooQW+WTtmAajR8mq4kc518cPORS5nUPv+cnS2N4zcCQ1waLLjTzKWoOvwASUvNJX13IGNnTo8/AZWWW8dhag/K0VACYzWDmnq+ORUv18GNBAbrI6Eh9b+idbTXcsyOL+i6FrtNb6OLuM6v/fN+AKy1fkbwuyek6LOs0B+Wx8ywpGnhBXGT+omUkREspX2Agn94WuxXQQQ8UuA1BN2ucqgPySo4nGwShQKne44REBGtVjVYgCBwoGPkrxmF4Mj6SmlX5Mrap+QsiaRUquCOai6uQuxaWRKZA443aI6xrkX2HF8zTJoLTxMCs0eNzJtSK74edX5ImXLLSBmPUBog6mToudAwciIcsey5ZyHo6PbEeozdf1pz3pkfTx9bEGP57XWnjvcalcB5zvRYsGEU4RRyyP7oRD+m4y4RQBtiX7ENI3jGLQXYitOJTYW8iyFcBP2h9qNm3317g+xncmpG2DZM+/Eec3ipi8AcJx8VYYj6e4h3FzviEZcO6gKI9ezy9kEzWs7LQr0b/iCdNP+vvuJoFc6qOSwY7gy3m4P9PRa8KNFHLjkrZG/zI+l39Y5cHJKMsT8yGNzDQvCon6f1l9wDzjQT4qJg/eOZskg6w==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209889,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 461,
+    "prompt_tokens": 1708,
+    "total_tokens": 2169,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 311,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00300975,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00300975,
+      "upstream_inference_prompt_cost": 0.001281,
+      "upstream_inference_completions_cost": 0.00172875
+    }
+  },
+  "provider": "Google"
+}

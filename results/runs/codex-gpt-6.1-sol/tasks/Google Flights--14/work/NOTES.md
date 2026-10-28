@@ -1,0 +1,8 @@
+Google Flights search: New York (city) to London (city), round trip, July 10–17, 2027, 1 passenger, Economy; currency USD. No stop/airline/baggage filters selected.
+Best view showed American nonstop JFK–LHR from $841 round trip and United nonstop EWR–LHR from $861. Other flights included American/British Airways via Toronto from $790.
+Cheapest tab selected; still fetching additional prices. Initial cheapest indicator $790, Delta/Virgin Atlantic nonstop results from $814.
+Source: https://www.google.com/travel/flights/search?tfs=CBwQAhopEgoyMDI3LTA3LTEwag0IAxIJL20vMDJfMjg2cgwIAxIIL20vMDRqcGwaKRIKMjAyNy0wNy0xN2oMCAMSCC9tLzA0anBscg0IAxIJL20vMDJfMjg2QAFIAXABggELCP___________wGYAQE&tfu=EgoIABAAGAAgAigB&hl=en&curr=USD
+Cheapest search completed with "Cheapest from 790 US dollars". Selected Price sort: "Sorted by price, Change sort order." First result $790 American/British Airways; next $803 Aer Lingus via DUB; next $814 Virgin Atlantic nonstop.
+Selected $790 outbound: AA 4556 LGA 12:46 PM → YYZ 2:30 PM, July 10; 3 hr 35 min layover; BA 92 YYZ 6:05 PM → LHR 6:15 AM July 11. Total 12 hr 29 min.
+Selected $790 return: AC 869 LHR 12:40 PM → YHZ 3:30 PM July 17; 1 hr 30 min layover; AC 617 YHZ 5:00 PM → YYZ 6:25 PM; 13 hr 35 min layover; AC 700 YYZ 8:00 AM → LGA 9:40 AM July 18. Total 26 hr.
+Itinerary summary: "$790 Lowest total price"; "Book with American, Air Canada"; "Separate tickets The 2 tickets in your itinerary must be booked individually"; "Prices include required taxes + fees for 1 adult. Optional charges and bag fees may apply." Both legs show 1 free carry-on; checked bag $85 departing/$94 returning.

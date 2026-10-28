@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Apple",
+    "id": "Apple--22",
+    "ques": "Find out the trade-in value for an iPhone 15 Pro Max in good condition on the Apple website.",
+    "web": "https://www.apple.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Apple’s U.S. trade-in value for an iPhone 15 Pro Max in good condition is $455 toward a new iPhone, checked October 27, 2026.\n\nEvidence: Apple’s estimator displays “Good News. Your iPhone 15 Pro Max qualifies for credit” and “Apple Trade-In Value: Good Condition — $455.” See final.png.\nSource: https://www.apple.com/shop/buy-iphone/iphone-18-pro\nApple Trade In: https://www.apple.com/shop/trade-in",
+    "result_text": "FINAL: Apple’s U.S. trade-in value for an iPhone 15 Pro Max in good condition is $455 toward a new iPhone, checked October 27, 2026.\n\nEvidence: Apple’s estimator displays “Good News. Your iPhone 15 Pro Max qualifies for credit” and “Apple Trade-In Value: Good Condition — $455.” See final.png.\nSource: https://www.apple.com/shop/buy-iphone/iphone-18-pro\nApple Trade In: https://www.apple.com/shop/trade-in",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_100/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_100",
+  "elapsed_seconds": 141.80071902275085,
+  "execution_error": null,
+  "proxy_bytes": null
+}

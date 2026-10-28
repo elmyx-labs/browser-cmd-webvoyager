@@ -1,0 +1,7 @@
+- [x] Hotel in Amsterdam — https://www.booking.com/hotel/nl/element-amsterdam.html — “Element by Marriott Amsterdam”; “Arent Janszoon Ernststraat 577, Zuideramstel, 1082 LD Amsterdam, Netherlands”.
+- [x] Customer review score of 9 or higher — same hotel URL — “9.0”, “Wonderful”, “2,280 reviews”.
+- [x] Offering bicycle rentals — same hotel URL, Amenities > Activities — “Bicycle rental”, “Additional charge”; search applied “Bicycle rental”.
+- [x] Week-long stay June 15 to June 22, 2027 — Booking.com search URL has checkin=2027-06-15&checkout=2027-06-22; visible “Tue, Jun 15 — Tue, Jun 22” and “1 week”.
+- [x] Two adults — search URL has group_adults=2&group_children=0&no_rooms=1; visible “2 adults · 0 children · 1 room” and hotel card “1 week, 2 adults”.
+- [x] final.png genuine viewport screenshot, about 1280 px long side, showing hotel name and deciding facts with applied filters and dates, unobstructed — 1280×723 viewport screenshot of Booking.com search results; “Wonderful: 9+”, “Bicycle rental”, “Hotels”, “Sort by: Top picks for long stays”, dates, occupancy, hotel name, 9.0 and availability visible.
+- [x] ANSWER.txt result and evidence — written with result, dates, occupancy, review score, bicycle rental, source and screenshot.

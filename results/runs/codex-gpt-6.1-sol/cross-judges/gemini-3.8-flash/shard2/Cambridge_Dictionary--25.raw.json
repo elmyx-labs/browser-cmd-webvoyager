@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210210-DVUr2wkGzrCLZ5nV00B7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested two different meanings of the word \"harmony\" from the Cambridge Dictionary. \n\nThe screenshot displays the Cambridge Dictionary entry for \"harmony\", showing:\n1. **Music**: \"notes that are played or sung with the main tune and that make the piece more complicated and interesting\"\n2. **Agreement**: \"agreement of ideas, feelings, or actions, or a pleasing combination of different parts\"\n\nThe result response correctly identifies and summarizes these two distinct meanings as shown on the website.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Dictionary Meanings**\n\nI'm currently focused on identifying distinct definitions for \"harmony\" as requested, specifically referencing the Cambridge Dictionary. The provided screenshot displays the American English section, and I've begun noting the available meanings.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Dictionary Meanings**\n\nI'm currently focused on identifying distinct definitions for \"harmony\" as requested, specifically referencing the Cambridge Dictionary. The provided screenshot displays the American English section, and I've begun noting the available meanings.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a190dRE4yIjHuVAuWPigPeuXPL8WBFGpmaIestsI2+sR6wtAnCDixL1aDXs662AMRQN0L7inhlEDlaUtQ7oozH4cCDT3h9S1fmEmqOGtvWk9Kq3HM9H1YbAEoFGqb3bVIG7DQf8ydpfhKuBCIlxDL+FR9zr1syCb0tKFEKg2F4S3H+rAl5XFguGYT6ehUjTdFqbL/67adTOAIANde4IAQ4B9HU4vO3xDABFNRTyVd4m0PWYN5fjdSMjwhViVA6tHQaOo7VJUpzUCz2v2dwfdOyP6v+K0MXcLKDMpcOujZl0wagudT8OH9E884gUKbdyNkYjPqpKOy8ebVCTBudyE4dM9+bH28SiuQsAfGMe+WApXRCR5Ih3nNEjQWYPpUwHwx1sSwvEAP+jULBBmm/RZ0sjZYOv9dbbGCK5YCX6LY30DQ7S6e+tXFkn1MRFYyns87YxRwqLtK6upwCCHtb/3kg2meUZUEfgl/aZX6hfq0IFqsdsn6A+hZRnpofFBKz3sCksNIABGYBh8k6zbSK61ujYMCXNESr9UrMhHykKYeKJEG/J0GSPwAOOQD1OtIvoD2c887qghnw1AbdG1sPkGl2sqEwzLYWk8qOKti1vOhLIXmgGDf85TelRYqV8dqQOwJqUb8TAY7xu8v9lX4FdhcK30QRf6lsiywPEyDpKLbzsnMlDVv4jxnmsaIEnP8QB9ZQDk+Dlh0dm6PF0u6mYvs3zL6HSbmatnnxxF1aH/r6MtjfLkSDtlTH0UPwCrkw6p8YOIWIqKDBnKf2W8xLfAAc9HPQFJb/wdNYdoKD2Rqe1vArx5uQDvYlEJJ7KBmghRcV5r/Ky+aTEhYXeW5BuUtFt1cxasKEEL3NpStsAyZZuXg04vsxn5AthRcpFoQyd2YQc2YZLlj8BWc1f8Nv2tGbtWtRPWIf12201pjY0Utfey5s31dulcBh2SKREAJX6QFs6OwApKkvSnQIsVbwKTLpPffNOLdkpJbeGoUJ5G+XFOEtcws/K9bSYAXuzCcVPzGiC8UY6sojONLpE67aH9Tzg7I4Nzob9SlXxH507Bf6+4HnsCteDptkzikmSMWzg9tSW2fdpndtxZHt0aLfM7kAczkEko+i8Dv3jquibKPDW1N6svjJTok17MfbQ4+B6wlt/pRWir3yMgnJL7SSFTE4QalGmdRvUUV2dgwo+1Q07VK4vDlkufYKO7RKwvuz1u6KX8aJwbqj2Gs2ONoeaJaaFlshg3jKzDdtKnUbyWjn6fJCprnOvHu3yru6FlspwAKGjOBl2Qa1Uf5lSvY31e9JYTtmK91zIWmjb+v9Z/T8h18yThw+P3IxWhI8v+yVw6OBr4/YEq71hL6mw/O7W/UixSZiZWZlEzrFI1WTcU6+ZsCb2v+S5NbGpP/hRr7v5ZspmHRdECCIjR5xNiCE7dNExyqT3LZ1BDz7Vo/tGjChWdCrfHU1jMzGXCd60DU0q41zAlQTcKRXAlppVRMWKsOHRAwBNunctSEpPuv4B3fdGC6Kw787mbxGpDrptwlcD5eAMtrq/DE773nATMDD+nOWPWchj85Aptfm6+DCqBQn0u+0mVt7rxo24ru+Yq/CcClq9UDvnGAA==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210210,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 304,
+    "prompt_tokens": 1676,
+    "total_tokens": 1980,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 201,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002397,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002397,
+      "upstream_inference_prompt_cost": 0.001257,
+      "upstream_inference_completions_cost": 0.00114
+    }
+  },
+  "provider": "Google"
+}

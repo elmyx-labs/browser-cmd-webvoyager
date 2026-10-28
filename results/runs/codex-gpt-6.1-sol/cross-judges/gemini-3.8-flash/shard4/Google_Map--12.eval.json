@@ -1,0 +1,41 @@
+{
+  "id": "Google Map--12",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find 5 places that serve burgers near 44012 zip code and sort these 5 places by highest rating.",
+  "answer": "FINAL: Five places serving burgers in Avon Lake, OH 44012, sorted by Google Maps rating from highest to lowest (checked October 27, 2026):\n\n1. Edacious Kitchen + Bar — 4.7/5 (196 reviews) — 33451 Lake Rd.\n2. Jake's On Lake — 4.6/5 (1,788 reviews) — 32485 Lake Rd.\n3. Parker's Grille & Tavern — 4.5/5 (819 reviews) — 32858 Walker Rd.\n4. Legacy Restaurant & Grille — 4.5/5 (219 reviews) — 750 Jaycox Rd.\n5. 3rd Base Bar & Grill — 4.4/5 (377 reviews) — 118 Moore Rd.\n\nParker's and Legacy are tied on rating; Parker's is listed first because it has more reviews. All five addresses are within ZIP code 44012.\n\nRatings and addresses: Google Maps search and individual listings:\nhttps://www.google.com/maps/search/burgers+near+44012/?hl=en\n\nBurger evidence: Google Maps lists burgers in Jake's description and burger experiences in Edacious and 3rd Base reviews. Parker's Toast menu lists a Smash Burger and a “Norm”- Burger:\nhttps://order.toasttab.com/online/parkers-grille-tavern-32858-walker-rd\nLegacy's Sandwiches and Burgers menu lists a sirloin steak burger, cheeseburger and black bean burger:\nhttps://places.singleplatform.com/legacy-club-restaurant-and-grill-room/menu#menu_1641585\n\nScreenshot evidence: final.png, a Google Maps viewport showing the search and ratings.",
+  "response": "**Evaluation:**\n\n1. **Task Requirements:**\n   - Find 5 places that serve burgers near the 44012 zip code.\n   - Sort these 5 places by highest rating.\n\n2. **Analysis of Results:**\n   - The screenshot confirms a Google Maps search for `\"burgers near 44012\"`.\n   - The response identifies 5 places from the search results in Avon Lake, OH (44012) that serve burgers:\n     1. Edacious Kitchen + Bar (4.7)\n     2. Jake's On Lake (4.6)\n     3. Parker's Grille & Tavern (4.5)\n     4. Legacy Restaurant & Grille (4.5)\n     5. 3rd Base Bar & Grill (4.4)\n   - These 5 places are properly sorted in descending order by their ratings (from highest to lowest).\n\nAll instructions have been completely satisfied.\n\n**Final Verdict:**\nSUCCESS",
+  "reason_short": "**Evaluation:** 1. **Task Requirements:** - Find 5 places that serve burgers near the 44012 zip code. - Sort these 5 places by highest rating. 2. **Analysis of Results:** - The screenshot confirms a Google Maps search for `\"burgers near 440",
+  "screenshots": [
+    "task_460/final.png"
+  ],
+  "raw_screenshot": "task_460/final.png",
+  "source_result": "task_460",
+  "usage": {
+    "completion_tokens": 784,
+    "prompt_tokens": 1990,
+    "total_tokens": 2774,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 570,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0044325,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0044325,
+      "upstream_inference_prompt_cost": 0.0014925,
+      "upstream_inference_completions_cost": 0.00294
+    }
+  },
+  "elapsed_seconds": 14.39
+}

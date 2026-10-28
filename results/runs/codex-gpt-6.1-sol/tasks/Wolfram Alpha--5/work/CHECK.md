@@ -1,0 +1,3 @@
+- [x] Show the solution of y"(z) + sin(y(z)) = 0 from wolframalpha. https://www.wolframalpha.com/input?i=y%27%27%28z%29+%2B+sin%28y%28z%29%29+%3D+0 — “Differential equation solutions” shows the negative and positive Jacobi amplitude branches.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the equation and solution together without overlays. final.png is 1280 × 723 and shows “Input” and both “Differential equation solutions”.
+- [x] Write the result and its evidence to ./ANSWER.txt. Contains the displayed solution, source URL, observation date, and screenshot reference.

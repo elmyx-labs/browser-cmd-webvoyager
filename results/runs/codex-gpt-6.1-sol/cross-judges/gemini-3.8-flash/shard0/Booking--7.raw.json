@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210131-P3C9mdrSkvvEV4XzUS0c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find a hotel room on January 3–6 that is closest to the National University of Singapore and costs less than $500.\n\nBased on the provided screenshot and response:\n- Destination: National University of Singapore\n- Dates: Sun, Jan 3 – Wed, Jan 6\n- Filter/Sort: Sorted by \"Distance from landmark\", filtered by \"Hotels\"\n- The closest hotel listed is **Fragrance Hotel - Ocean View** (1 km from National University of Singapore).\n- The total price is US$236 (+ US$47 taxes and fees = US$283), which is well under the $500 budget limit.\n\nAll criteria have been accurately met.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Exploring Hotel Options**\n\nI'm currently sifting through available hotel rooms for my January dates. My priority is to be near the National University of Singapore while staying under my $500 budget.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Exploring Hotel Options**\n\nI'm currently sifting through available hotel rooms for my January dates. My priority is to be near the National University of Singapore while staying under my $500 budget.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19vSjQnuDTdKp4aZL2Iip3bnhHf0NqTBnFsEh+AQU/P/oFf00XabfgsjHR7stPpQjrEEhNUGne7SPPL8y6EmYrbryuTLSH+Mq/4HcHQ261/Iqnm+k5U31+4QeDP40YFbicHSrW2skE2YS0BsOooMMC+IoLHu3MVULT6WgGoFicnx0LFzV3m4S8Lh/H79zYGZ3qM3yVXOusqz3C5WiwUdrWWTilGLx1FdJ4QxgKOG3gSmwtzS/0sdrYvfV9zcPxMxzYb6gIH8jA32FmPKsTB6zgLKybZ/7EQ1rflJIQjRkvFbZFYpUTkpBRZCla0w9tmv9mbWZ2TrpTO4ecm87ohMQh5lC1ypB6r4tCRItmd9ZPQm0HlEXKSGhyIGcpimQDJM7inYuVT8d5VnpKVoGwIut+iMy3Ov7C+ZC1X5jC8P/V5TuHVcifhsWpHL5opxm1mpKd6jb7hVwoV7G0Xk4V9F4UwKpkawhu3rWl2939m+aAwYEWO3n+f6X0UgHTBjjYx1icPycFIh5ltkX4TzwI/t4pR02Zll4ayC1jfVciBlQ9coALcTdQ+OfsOA81N0GkU8c2h/vLIoY+VE0Bnk1kbsIhLyl0EdOA6hPyqOm4oqwdjsyxfV2sYq0YiY+5qVl+U0I1Pq8Ijsq7UkXJcexleucq1nI84/Eoc00zL9XrgSKUN6RgNA9KQQKYD+3pHXzUjc++Jy0wc4IhwrMlVOrmv1bHNribvHKV9mYqP10E8EkyjilvRPue2ALzk89Trzxc55MW535uN0ycM1jW5rRAO91ECh95JIcLaUYbK5hbPvTH5S+kBhI5qFe/rtcpWOHurOb4kAucLSP9I4ivwcCxXlZ9YLPKeeqNQauLT4gCEQZ97lW0+3fe6YoIWVDWIFIcOU42vkvxNSz6rMSuYH41JuRkEeKjsit/j1hh8xPB3LgNTfiD7OKHx2ob80BoIzTGIlSglDdCt4b09vnXnR1gD5a388yts4dpV3B6aq88ge8Z47QFyWXxWleBfquC38Ye49TpbfakHuE7nZyazwcBODFk4A+nBN0Xm5mtwosPwdiOpuXWi89PGrLjzO/UY/VYafKjPYM7h+ciIuAYNb85t9o6o/CYMCO7Fd/eQkSmOO532Zi2ok/UDHV7F9Rmz3RBBuOx6b1oiZ2P9lGKSwuP2KE3N1e8h5ja2Sba8R3E7HKbOe1x71kC5JVWGzwxoAjYOhm6lj8c4DGS2C6HcsxWCSaSbhDtvJvHjAD5Tpnt8Df2SwYEVxen5DopUg7nWySX9SZw+aeDTFrhU9uXymQ5E5swhak5fXbUoDyuBZ+jFQcbK/4eYkjxrDWhxdSta4hzFMhPZVAafD4EkXdik2qK93xff/xkkBTEwJYKrJZPfiuvhda4C+Ez2OMi5inEfk0kqcmSwumVepXtrGrIOz5Lxj7G8O5MjDip81O4BpoOdttJyOGUExaTgeotx9Ra93gCb98NyRlqDcQt5+A5hsUS5LrEwQk5p1FtwwwiZndXBqIft4n/ADb4+V1Hhpi9BQzAmvKtpXXGCgynlVwuC7odbj3krjTxSTTbuEUO8+BhNIZ77Hgm38SE2VqOK36UWIsY6UsKfAR3Qjm2+PxJ+oFn2Y6eYzyYs1/DD+RsrVOKmha/aLAhul2fiVsXoMeaSMd1R1Hkyz/SbtBWedIJL0+ULSpqm9uz1n+xQ1muieifQT4/xJ14cCuE7Yu06buHLxPthz9BEypEamK4mrQ3x3et9QLQ/w3iptrdkBVf8Ac6SF+06VMMv8JGAUvB0nAFSMl4dl2gHevFmcXQiVOMzQTf4ueOfP2CLre5dvPfddcSti7a8xtE5+3G56FPU/4GhSQv8cUVlCSPm",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210131,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 475,
+    "prompt_tokens": 1739,
+    "total_tokens": 2214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0030855,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0030855,
+      "upstream_inference_prompt_cost": 0.00130425,
+      "upstream_inference_completions_cost": 0.00178125
+    }
+  },
+  "provider": "Google"
+}

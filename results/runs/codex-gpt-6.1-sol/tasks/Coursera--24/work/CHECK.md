@@ -1,0 +1,7 @@
+- [x] Locate an online course on Coursera related to 'Sustainability'. https://www.coursera.org/learn/sustainability — "Introduction to Sustainability".
+- [x] Belongs to Physical Science and Engineering subject. Same URL — breadcrumb "Physical Science and Engineering" → "Environmental Science and Sustainability".
+- [x] Includes a module on Measuring Sustainability. Same URL — "Measuring Sustainability", seventh of eight modules, "4 hours to complete".
+- [x] Note the course duration. Same URL — "3 weeks to complete" / "at 10 hours a week".
+- [x] Note the offering institution. Same URL — "Offered by" / "University of Illinois Urbana-Champaign".
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with course name and deciding facts together and no overlay. final.png is 774x1280, resized from the genuine 1440x2380 viewport at the URL above; all requested facts visible, chat closed. No search filters, sorts or date constraints were needed.
+- [x] Write final answer and evidence to ./ANSWER.txt. Written with the course, institution, duration, category, matching module, source URL, verification date, and final.png evidence.

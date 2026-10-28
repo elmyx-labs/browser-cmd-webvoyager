@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209986-J3yHiQhPsaSh7caylERR",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find the cost of a MacBook Pro, 16-inch, with an Apple M4 Max chip (16-core CPU, 40-core GPU), 64GB unified memory, and 1TB SSD.\n\nThe screenshot shows the AppleInsider price guide for this exact configuration (MacBook Pro 16-inch M4 Max, 16-core CPU, 40-core GPU, 64GB RAM, 1TB SSD), displaying an MSRP of $4,199.00 and a current best price of $4,199.00 at B&H. The Result Response accurately provides this figure and relevant details.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Calculating Price**\n\nI've identified the exact configuration the user is asking about. The pricing is now clear for that specific 16-inch MacBook Pro.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Calculating Price**\n\nI've identified the exact configuration the user is asking about. The pricing is now clear for that specific 16-inch MacBook Pro.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19M/rj/3wpOu8JsrD+kT2H9c/cc9XnPdTOAZF2CJo1G9EMQ7yUCmU5LAkKc+snavcsJMEOAZudpakHjahuJSk4s57AN0Cr+t6Z6QYugeSG2oIKDpmZgYEtDcwnHsxo1hcJtv9m20QBDl5UYqzDdFlM/TDNmI3aW+cTom80/Cs85VYkb2gdPKXTBUpLOYyDO0mC+jPQmqrV1p6rDv/DsbpIDkrRRYqiKlCrYIZRf9oVQSyHCS+DFSLE+l6COBCYN3d/UfDedUVdjKQL3txX4x9kJdSLZRDK/xB8TZdJrLKux1Apz5Z+q42tLtk0UEKvAWyygavYfKnvqI4jZhIdH9k4aYk4WgHPwUzrYcIMewLv4COB1xLd+ajSP3LplepTROxec42RH0NTFelgU30wKo8E0E3VRdsupeeEWL0Ssh7PBOhzCVTQ5QW4dfejaN9S7+z0RYyTO/kM7/h4HaQ1WcfVUT4ZxdgItkxsltKTlMqao6ioBtrtVss+u14UsVgcbncD83uxRSZ1St4Iyffpg/rDSerXL6FPglcMJpd2qmJKzU4JEzHIXs79pPKqh6O2KHN0RyX2k0c/033jbRTXViJ+SZdDCubmz9NQLHrYrnV4SS2FtpUX/Pr+JPWhVJt26pvKZMBEfavcFXiCD93XEZddUw3ru8XJhCojvclm2H0Of4E24G5Av7wy0wiX78+BxF7hhIC0fPEmFMTQT0p3Ltg+3wrJoYEDUqwPl2VDaBXsKeCCh7Ohcw6Fv2gGVUCFCpAv6qhGCmgM2RWhO4PWjJJcbRKzLzLCIsZLzSCm8eD3vnziEeL7Tb1+njxR7SO9BFH7ZLMF25Rr59WGoiGourokiQg662tOUmp+6VS/dLyrT3P9xNh0nUJQd+VZrvKaBvNH3mzD4G/77GviqjJOxQOFzEexkirH0EpNAUV7crXNkEZPrBWS9m4GdKmuw4U3/nNdyuFKUA2dvyciAUoyAjRwGyduelvC0sHsaeAyahsBMtlvClQ//+t864Rn69vkhTGYABWAfmNI6XuGjYHK/6EhSVu3osXD5G/ISkIpRo5Z6WTEwwCeX6hKeVD+iZvAW2Avc5/k1x6kAS+klCKSFK+C8FT2Ah3Om8XE3JXcjFiTwKg==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209986,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 365,
+    "prompt_tokens": 1798,
+    "total_tokens": 2163,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 216,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00271725,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00271725,
+      "upstream_inference_prompt_cost": 0.0013485,
+      "upstream_inference_completions_cost": 0.00136875
+    }
+  },
+  "provider": "Google"
+}

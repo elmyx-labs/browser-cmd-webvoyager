@@ -1,0 +1,4 @@
+[x] Browse Coursera from https://www.coursera.org/. Followed Community > Partners.
+[x] Which universities and companies from Australia are partners of Coursera? List all of them. https://www.coursera.org/partners, Filter country > Australia > Apply: Macquarie University; The University of Melbourne; The University of Sydney; University of Western Australia; UNSW Sydney (The University of New South Wales). Each labelled Australia. Five cards, no Show more. No companies in filtered results.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the names and Australia filter visible and no overlays. final.png, 1280 × 723, shows Filter country 1 and all five cards labelled Australia. This is the only evidence image read.
+[x] Write result and evidence to ./ANSWER.txt, first line FINAL: . Complete five-partner list, date, source URL, screenshot reference.

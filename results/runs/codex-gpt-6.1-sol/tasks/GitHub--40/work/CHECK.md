@@ -1,0 +1,3 @@
+- [x] Select Sign up on the GitHub homepage to see if email 'test123@gmail.com' already exists. Selected homepage Sign up; https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home states “The email you have provided is already associated with an account.”
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side. final.png is 1280×681 and shows the email and validation message together.
+- [x] Write the result and its evidence to ./ANSWER.txt. ANSWER.txt records the result, source, date, and screenshot.

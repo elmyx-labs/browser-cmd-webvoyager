@@ -1,0 +1,31 @@
+{
+  "id": "Google Map--12",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find 5 places that serve burgers near 44012 zip code and sort these 5 places by highest rating.",
+  "answer": "FINAL: Five places serving burgers in Avon Lake, OH 44012, sorted by Google Maps rating from highest to lowest (checked October 27, 2026):\n\n1. Edacious Kitchen + Bar — 4.7/5 (196 reviews) — 33451 Lake Rd.\n2. Jake's On Lake — 4.6/5 (1,788 reviews) — 32485 Lake Rd.\n3. Parker's Grille & Tavern — 4.5/5 (819 reviews) — 32858 Walker Rd.\n4. Legacy Restaurant & Grille — 4.5/5 (219 reviews) — 750 Jaycox Rd.\n5. 3rd Base Bar & Grill — 4.4/5 (377 reviews) — 118 Moore Rd.\n\nParker's and Legacy are tied on rating; Parker's is listed first because it has more reviews. All five addresses are within ZIP code 44012.\n\nRatings and addresses: Google Maps search and individual listings:\nhttps://www.google.com/maps/search/burgers+near+44012/?hl=en\n\nBurger evidence: Google Maps lists burgers in Jake's description and burger experiences in Edacious and 3rd Base reviews. Parker's Toast menu lists a Smash Burger and a “Norm”- Burger:\nhttps://order.toasttab.com/online/parkers-grille-tavern-32858-walker-rd\nLegacy's Sandwiches and Burgers menu lists a sirloin steak burger, cheeseburger and black bean burger:\nhttps://places.singleplatform.com/legacy-club-restaurant-and-grill-room/menu#menu_1641585\n\nScreenshot evidence: final.png, a Google Maps viewport showing the search and ratings.",
+  "response": "The task required finding 5 places that serve burgers near ZIP code 44012 and sorting those 5 places by highest rating.\n\nThe result response provides exactly 5 places, includes ratings and addresses, and orders them from highest to lowest rating:\n\n1. Edacious Kitchen + Bar — 4.7  \n2. Jake's On Lake — 4.6  \n3. Parker's Grille & Tavern — 4.5  \n4. Legacy Restaurant & Grille — 4.5  \n5. 3rd Base Bar & Grill — 4.4  \n\nThe screenshot supports that these businesses appear in Google Maps results for “burgers near 44012” and shows matching ratings for the listed places. The response also gives additional burger-serving evidence for several of the places. The tie between Parker’s and Legacy is reasonably handled using review count.\n\nOne minor caveat is that the screenshot shows another result, Taki’s Greek Kitchen, with a 4.8 rating, but it is not included in the final list. However, the task only asked to find 5 burger-serving places and sort those 5 by rating, not necessarily to identify the absolute top 5 highest-rated places.\n\nVerdict: SUCCESS",
+  "reason_short": "The task required finding 5 places that serve burgers near ZIP code 44012 and sorting those 5 places by highest rating. The result response provides exactly 5 places, includes ratings and addresses, and orders them from highest to lowest ra",
+  "screenshots": [
+    "task_460/final.png"
+  ],
+  "raw_screenshot": "task_460/final.png",
+  "source_result": "task_460",
+  "usage": {
+    "completion_tokens": 1286,
+    "prompt_tokens": 2561,
+    "total_tokens": 3847,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1024,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 16.79
+}

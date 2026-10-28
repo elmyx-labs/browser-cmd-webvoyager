@@ -1,0 +1,4 @@
+[x] Browse online degrees section on Coursera. Opened https://www.coursera.org/degrees, “Online degrees from accredited universities”, then https://www.coursera.org/degrees/bachelors, “Online Bachelor’s Degree Programs”.
+[x] List 3 Bachelor's degree programmes. https://www.coursera.org/degrees/bachelors lists “Bachelor of Science in Computer Science” (University of London), “Bachelor of Arts in Liberal Studies” (Georgetown University), and “Bachelor of Information Technology” (Illinois Tech).
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with programme names and Bachelor's classification visible and no overlay. final.png is 1280×723; shows “Bachelor's Degrees”, the three programme cards, universities, and filter controls.
+[x] Write result and evidence to ./ANSWER.txt, first line FINAL: . ANSWER.txt contains three programmes, universities, source URLs, access date, and final.png evidence reference.

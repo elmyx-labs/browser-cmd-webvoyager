@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edyf1lRIdMi3DkXq5tPJaoJhyZ10l",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task required finding 5 places that serve burgers near ZIP code 44012 and sorting those 5 places by highest rating.\n\nThe result response provides exactly 5 places, includes ratings and addresses, and orders them from highest to lowest rating:\n\n1. Edacious Kitchen + Bar — 4.7  \n2. Jake's On Lake — 4.6  \n3. Parker's Grille & Tavern — 4.5  \n4. Legacy Restaurant & Grille — 4.5  \n5. 3rd Base Bar & Grill — 4.4  \n\nThe screenshot supports that these businesses appear in Google Maps results for “burgers near 44012” and shows matching ratings for the listed places. The response also gives additional burger-serving evidence for several of the places. The tie between Parker’s and Legacy is reasonably handled using review count.\n\nOne minor caveat is that the screenshot shows another result, Taki’s Greek Kitchen, with a 4.8 rating, but it is not included in the final list. However, the task only asked to find 5 burger-serving places and sort those 5 by rating, not necessarily to identify the absolute top 5 highest-rated places.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196679,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1286,
+    "prompt_tokens": 2561,
+    "total_tokens": 3847,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1024,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,5 @@
+[x] Find a high-rated beef stew recipe on Allrecipes that requires a slow cooker and has at least 30 reviews. https://www.allrecipes.com/recipe/14685/slow-cooker-beef-stew-i/ — “Slow Cooker Beef Stew”, “4.5 out of 5”, “4,045 Reviews”, “Place beef in the slow cooker.”
+[x] Detail the cooking time. Same URL — “Cook Time: 4 hrs”; directions: “on Low for 8 to 12 hours, or on High for 4 to 6 hours.”
+[x] Detail the first five ingredients listed in the recipe. Same URL — “2 pounds beef stew meat, cut into 1-inch pieces”; “¼ cup all-purpose flour”; “½ teaspoon salt”; “½ teaspoon ground black pepper”; “1 ½ cups beef broth”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the recipe name and qualifying facts with no overlay. final.png is 1280×723 and shows “Slow Cooker Beef Stew”, 4.5, and 4,045 Reviews together. No filters, sorts or date restrictions requested/applied. Updated October 22, 2026 is visible.
+[x] Write the final result and evidence to ./ANSWER.txt. Completed with recipe URL, rating, review count, slow cooker requirement, cooking time, first five ingredients, and screenshot reference.

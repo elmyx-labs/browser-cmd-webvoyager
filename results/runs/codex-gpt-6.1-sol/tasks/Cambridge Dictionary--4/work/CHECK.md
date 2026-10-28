@@ -1,0 +1,4 @@
+- [x] Look for the British English pronunciation of the word "innovate" and write down the International Phonetic Alphabet (IPA) notation. https://dictionary.cambridge.org/dictionary/english/innovate — UK /ˈɪn.ə.veɪt/.
+- [x] Find one example sentence provided in the Cambridge Dictionary that uses this word. Same URL — “The fashion industry is always desperate to innovate.”
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the word and deciding facts together with no overlay. final.png is 1280 × 723; entry, UK IPA and sentence are visible.
+- [x] Write the result and its evidence to ./ANSWER.txt. Saved with source URL and screenshot reference.

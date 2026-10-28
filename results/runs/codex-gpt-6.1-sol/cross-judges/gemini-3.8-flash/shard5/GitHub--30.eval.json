@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--30",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for an open-source project related to 'blockchain technology' on GitHub updated in the past 15 days and list the top five contributors.",
+  "answer": "FINAL: Selected ethereum/go-ethereum (Go Ethereum), an open-source blockchain project updated within the past 15 days. Its top five contributors are obscuren, karalabe, fjl, holiman, and rjl493456442.\n\nProject: https://github.com/ethereum/go-ethereum\nGitHub describes it as “Go implementation of the Ethereum protocol,” tags it “blockchain,” and lists LGPL-3.0 and GPL-3.0 licenses.\n\nRecency: Checked October 28, 2026. GitHub's filtered search showed “Updated 8 hours ago,” within the October 13–28, 2026 window. Applied query: blockchain pushed:>=2026-10-13 archived:false is:public; sort: Most stars.\nSearch evidence: https://github.com/search?q=blockchain+pushed%3A%3E%3D2026-10-13+archived%3Afalse+is%3Apublic&type=repositories&s=stars&o=desc\n\nTop five contributors, using GitHub's “Period: All” ranking by commits to master:\n1. obscuren — 3,900 commits\n2. karalabe — 2,772 commits\n3. fjl — 2,043 commits\n4. holiman — 1,094 commits\n5. rjl493456442 — 907 commits\nContributor evidence: https://github.com/ethereum/go-ethereum/graphs/contributors?all=1\n\nScreenshot: final.png shows the project, all-time period, chart date range through October 24, 2026, and the five ranked contributors with their commit counts.",
+  "response": "The agent located a prominent open-source project related to blockchain technology (`ethereum/go-ethereum`) updated within the specified 15-day window. The provided screenshot from the repository's contributors insight page confirms the top five contributors: obscuren, karalabe, fjl, holiman, and rjl493456442. All requirements were fulfilled accurately.\n\nSUCCESS",
+  "reason_short": "The agent located a prominent open-source project related to blockchain technology (`ethereum/go-ethereum`) updated within the specified 15-day window. The provided screenshot from the repository's contributors insight page confirms the top",
+  "screenshots": [
+    "task_397/final.png"
+  ],
+  "raw_screenshot": "task_397/final.png",
+  "source_result": "task_397",
+  "usage": {
+    "completion_tokens": 420,
+    "prompt_tokens": 1944,
+    "total_tokens": 2364,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 338,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.003033,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.003033,
+      "upstream_inference_prompt_cost": 0.001458,
+      "upstream_inference_completions_cost": 0.001575
+    }
+  },
+  "elapsed_seconds": 8.8
+}

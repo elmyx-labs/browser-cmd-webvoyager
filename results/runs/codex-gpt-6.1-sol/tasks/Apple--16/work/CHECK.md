@@ -1,0 +1,4 @@
+[x] Find on Apple website how many types of AirPods (3rd generation) are available. Apple's comparison selector lists Lightning Charging Case and MagSafe Charging Case. https://www.apple.com/airpods/compare/
+[x] Find what is the price difference. Apple Newsroom says “with Lightning Charging Case ... $169 (US)” and “with MagSafe Charging Case ... $179 (US)”: $10 difference. https://www.apple.com/newsroom/2022/09/apple-announces-the-next-generation-of-airpods-pro/
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing item's name and deciding facts together without overlays. final.png, visually checked, Pricing and Availability section of the above Newsroom page; no filters or sorts apply.
+[x] Write final answer with result and evidence to ./ANSWER.txt. Includes two versions, both announced US prices, difference, dated Apple source, screenshot, and current availability context.

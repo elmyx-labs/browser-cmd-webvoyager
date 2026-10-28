@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyZ9ruBvTFN0bscrsTaYgOBvyd45",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to browse the Allrecipes “About Us” section and provide a brief introduction to “The Allrecipes Allstars.”\n\nThe screenshot clearly shows the Allrecipes About Us page at the section titled “The Allrecipes Allstars.” The visible text describes them as a group of 100+ brand ambassadors made up of social media influencers, registered dietitians, grillmasters, and experienced home cooks across the U.S., who have created recipes, photos, reviews, and shared cooking expertise since 2011.\n\nThe Result Response accurately summarizes the information shown in the screenshot and provides a concise introduction as requested.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196315,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 230,
+    "prompt_tokens": 1718,
+    "total_tokens": 1948,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

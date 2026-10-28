@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Wolfram Alpha",
+    "id": "Wolfram Alpha--42",
+    "ques": "What is the raw memory of a 100.2\" * 123.5\" true colour picture at 72 ppi?",
+    "web": "https://www.wolframalpha.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Approximately 192 MB of raw memory (24-bit true colour).\nWolframAlpha shows 100.2 in × 123.5 in at 72 dpi, 64.15 megapixels, and “raw memory | 192 MB (megabytes) (24-bit)”. Evidence screenshot: final.png.\nSource: https://www.wolframalpha.com/input?i=100.2+inch+by+123.5+inch+72+dpi+true+color+image\nThe Computer Science Field Guide confirms that true colour uses 24 bits per pixel: https://www.csfieldguide.org.nz/en/chapters/data-representation/images-and-colours/",
+    "result_text": "FINAL: Approximately 192 MB of raw memory (24-bit true colour).\nWolframAlpha shows 100.2 in × 123.5 in at 72 dpi, 64.15 megapixels, and “raw memory | 192 MB (megabytes) (24-bit)”. Evidence screenshot: final.png.\nSource: https://www.wolframalpha.com/input?i=100.2+inch+by+123.5+inch+72+dpi+true+color+image\nThe Computer Science Field Guide confirms that true colour uses 24 bits per pixel: https://www.csfieldguide.org.nz/en/chapters/data-representation/images-and-colours/",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_611/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_611",
+  "elapsed_seconds": 146.51371693611145,
+  "execution_error": null,
+  "proxy_bytes": null
+}

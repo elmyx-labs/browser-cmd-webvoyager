@@ -1,0 +1,5 @@
+- [x] Go to the Plus section of Cambridge Dictionary. Visited https://dictionary.cambridge.org/plus/ — “Cambridge Dictionary +Plus”.
+- [x] Finish a recommended Grammar quiz without login. Followed the “Want to try a different one? Next quiz” suggestion from https://dictionary.cambridge.org/plus/quiz/grammar/adjectives-1 to https://dictionary.cambridge.org/plus/quiz/grammar/adjectives-2 and submitted the four questions; page shows “Quiz: Adjective order 1”, “Your score: 3 / 4”, and “Log in / Sign up”.
+- [x] Tell me your final score. ANSWER.txt states 3 / 4 (75%), matching https://dictionary.cambridge.org/plus/quiz/grammar/adjectives-2 — “Your score: 3 / 4”.
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the quiz name and final score visible together and no pop-up, banner or open dialog. final.png is the 1280×723 resized browser viewport, inspected once; quiz title and score are unobstructed.
+- [x] Write the result and its evidence to ./ANSWER.txt. Written with result, URL, screenshot filename, and capture date.

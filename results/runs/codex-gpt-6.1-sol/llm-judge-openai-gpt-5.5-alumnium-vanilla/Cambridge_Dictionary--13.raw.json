@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdycW6Yx0yklMy4LBequpu1H8oorn",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find one word, one phrase, and one idiom related to “euphoria” in Cambridge Dictionary.\n\nThe screenshot shows the Cambridge Dictionary entry for “euphoria,” specifically the “SMART Vocabulary: related words and phrases” section under “Pleasure and happiness.” In that section:\n\n- “exultation” appears as a related word.\n- “for fun” appears and is labeled “phrase.”\n- “like a dog with two tails” appears and is labeled “idiom.”\n\nThe Result Response accurately reports these three items and matches the screenshot evidence.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196524,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 262,
+    "prompt_tokens": 1688,
+    "total_tokens": 1950,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 134,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

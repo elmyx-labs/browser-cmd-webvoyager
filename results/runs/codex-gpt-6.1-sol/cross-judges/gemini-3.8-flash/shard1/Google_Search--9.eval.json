@@ -1,0 +1,41 @@
+{
+  "id": "Google Search--9",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Show the rating of Prometheus movie on IMDb and Rotten Tomatoes.",
+  "answer": "FINAL: Prometheus (2012) is rated 7.0/10 on IMDb and 73% on Rotten Tomatoes (critics’ Tomatometer). Rotten Tomatoes also shows an audience Popcornmeter score of 68%.\nVerified October 27, 2026 on IMDb: https://www.imdb.com/title/tt1446714/ and Rotten Tomatoes: https://www.rottentomatoes.com/m/prometheus_2012.\nEvidence: final.png shows the film’s name and both headline ratings together in Google’s movie overview: https://www.google.com/search?q=Prometheus+2012&hl=en.",
+  "response": "**Evaluation:**\n\nThe search results clearly display the ratings for the 2012 film *Prometheus*: IMDb shows 7/10 and Rotten Tomatoes shows 73%. Both ratings match the values provided in the response, satisfying all requirements of the task.\n\n**Verdict:** SUCCESS",
+  "reason_short": "**Evaluation:** The search results clearly display the ratings for the 2012 film *Prometheus*: IMDb shows 7/10 and Rotten Tomatoes shows 73%. Both ratings match the values provided in the response, satisfying all requirements of the task. *",
+  "screenshots": [
+    "task_497/final.png"
+  ],
+  "raw_screenshot": "task_497/final.png",
+  "source_result": "task_497",
+  "usage": {
+    "completion_tokens": 294,
+    "prompt_tokens": 1728,
+    "total_tokens": 2022,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 234,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0023985,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0023985,
+      "upstream_inference_prompt_cost": 0.001296,
+      "upstream_inference_completions_cost": 0.0011025
+    }
+  },
+  "elapsed_seconds": 11.22
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210304-4XImGtNw73raG4wMxecv",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to check NCAAW recruiting on ESPN and determine the colleges associated with the top three players. The screenshot confirms the agent navigated to the ESPN NCAAW recruiting rankings (2027 class), where the top three players are Kaleena Smith (None), Ivanna Wilson Manyacka (None), and Caroline Bradley (LSU). The response accurately conveys this information.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing NCAAW Recruiting**\n\nI'm currently reviewing ESPN's class-of-2027 NCAAW recruiting rankings to pinpoint the top three players and their affiliated colleges. My focus is on extracting this specific information.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing NCAAW Recruiting**\n\nI'm currently reviewing ESPN's class-of-2027 NCAAW recruiting rankings to pinpoint the top three players and their affiliated colleges. My focus is on extracting this specific information.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18cs73EndfaWsGYt66qpVUs+ge9S/ijpK7OEtVBIK6cLoVE/lqYNin44u5Y9QlkN4+wrRHcpHux0gkQr/xBgODgkklMhFLMr4Y5xiO2lE/YGNZGrRmGg5FjOcP3GB25mpEiSRQHAygdgTkpzSscjDKvJvLxPskx9sUXOBOt97UpFYmshP445MliBzC9N1Ip/PiZ1SMjc9Y61SSPqFJ4k/+mSh9jN/6lk+2uz6GwrYGblioCGpngUVxaHxUQZcOrYFb3p66OjXX3PSEeBbUZuVIY8anQ1BD6tmDATDO9rc/ibddXmnm40SP02mvzhcTxCQiZ5nmDhlRKnln69m1I+PIvnDoGJscVePnPlAeCsZPvJZZJPZbmmRhNktBhjlO3Vpxq5+hYqeb6x7uAindjfd0agZfJxXOVrqQ6YWL7HZJKQk+IOPfWI2gFxRGSK9/3YSvIKkRF/1K8PST4Vf/PUHU/Aj3SKTHwtaPuaWvJ5TaV/rla1POyX8RObNPKY6sPaoRmZnJLRDWvxNqKo0/tD888tCPKrw21kTVos8ZYZx6e1ElP0BUPLBdImjp6eJkPUP3L58AuSyHvtwbiJ2MuV7zdGu9IGLk+MtsF5FYVWSLMSybMwaakrtwUg7uucU36G8QsOaXrXfCUuXE+8XwGr/C4tA1fCDzFdRJCgPUcY/lnFRgukyC798crJY+NfLWlmheiCX6WWmy84OGEpzhI5d49ZyFSecMoXugAXUN+HxOoQXCq6OcJ4R/91yzzPz7qAq4R1KyCxQtzLryYSL40/1AV94YyOVFH3kFh3rHQTdIzsE1vDbpUqCshcOO6URRXf1dxomtFt0si1MP9gf1hmADQZEB0R+DEd6JqwycNgUNerSXvaGCse4pZApLmC2mhc/q2ryu3hYSvasqet+TIUvnGhXrmi0vQ7q8FC1tyzkhsvrfrd4SOMptXjvx5TCl0MGvMr/xV+fZ5mMGN1kOcwArgSwaGPiWnxTWgmrXkeo8iA70x53jkIkibnL6zT8i83gwiSoiPsd6hlxGWAoV3upCi7AgNt3CoY6HFRSYQT8tfNwZb8u5B5haRZ2l5TBL+hnHs8IHPf9P4nwwPbCLlYQC3KbTkrzWsHRWCcf4T10EfznESH/LsQPraR0+8tP/2cHkegLHFj7ghRWqqBVoDjfOcswU21iSYHcvcZBaO07aDEu/JkmIHIT8uJ/vNG9P+Duu97KqdD3vLREFhOXEF+55k0v5cUJZ+NEkAgaqzzf2poz0g/ZSnwMEtAAn8Pz0jIF8iy/DRcZw1gxLMsxhcsWuMVez6WmYszx8kpBp2lotX4cWmK5evFAMRPwO59bwe0NNKwpHRe/6OUcqIZ+AaJy96nNZ3gd5VVmzkUSPPixAIxDz8BlUBTsd1S3UZdtBWNmAmI2ai5M4+KvI4DjHeEftcanug3tRlB11amd6Xs1f8p3yAmU3vXDeA3nKTD4xvJ6qDXQDAF6rRQpABKNDsdnQqYcZRD7f1z9bVt7tjhxs4rhjJzjWa3SfRI76EzkXiRrHB3mGOiFWMj71eQs33HaRprs6/lLBNpplCtuJcD7FZ6ArWPJ2ZTOTBr6p9Q0+sEG8=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210304,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 315,
+    "prompt_tokens": 1712,
+    "total_tokens": 2027,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 235,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00246525,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00246525,
+      "upstream_inference_prompt_cost": 0.001284,
+      "upstream_inference_completions_cost": 0.00118125
+    }
+  },
+  "provider": "Google"
+}

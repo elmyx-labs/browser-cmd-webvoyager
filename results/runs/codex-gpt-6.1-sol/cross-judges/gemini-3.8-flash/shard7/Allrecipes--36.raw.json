@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209905-5vye80iKLPoqh5h4bjhi",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided task instruction, screenshot, and response:\n\n1. **Recipe & Source**: The screenshot confirms that the recipe is titled \"American Apple Pie\" located on Allrecipes.\n2. **Rating & Reviews**: The recipe has a rating of 4.4 stars (meeting the requirement of at least 4 stars) and 52 reviews (meeting the requirement of more than 50 reviews).\n3. **Directions Temperature**: While the Directions section is further down the page and not visible in the screenshot, the result response correctly notes the maximum temperature mentioned in the Directions as 425°F (220°C). As this does not contradict the screenshot, it is accepted per the evaluation guidelines.\n\nEverything requested in the task has been fulfilled.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Apple Pie Recipes**\n\nOkay, I've got a specific task: find an apple pie recipe on Allrecipes. It needs a good rating—at least four stars—and more than 50 reviews. The goal is to extract the maximum temperature from the directions. I'm focusing on the details now and ignoring other features.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Apple Pie Recipes**\n\nOkay, I've got a specific task: find an apple pie recipe on Allrecipes. It needs a good rating—at least four stars—and more than 50 reviews. The goal is to extract the maximum temperature from the directions. I'm focusing on the details now and ignoring other features.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "EoANCv0MAWkUfRNk8julkDB7urbS98X/zHBv2IW4uOFLcND/5+6+5J/zwhXdjIDG6UC4YZuexcNIsxnYuWqK5YOA8kV4uGaEZQtPWZBi5MHFuJtGkuMZX+maO2rNZSD33jltpba79q4m7+FPgv4wldLvFBL8TW0ZH9uRGXZdz3/jxcQHTQ0IPPwQlSipfqCVYWdSiu9Alyd53RptombXH2W8DRDMAmXFMvbY0swrGpAK8aG+5h7ntLPTlmLIWFDHzKsFClmTBBDgDnG27cC+vuQnctYy2i/oqaCyncWoeoeDe2lUmNVM07gYgQfRCLyu96CDD8MW9eOweN1AzALnT+VEa/wjYM+i1YxOcKXKRliUFAnKvHyK9IgvLOoJVb+Gy6X0CdWUTj8F6B7T72f8Bzz7ugAD7dVIsqHketdQsUPSmnPqNInnaUdoTinRcA4EX0E4W6iSLuMQYchX9bkHQsKHXiBscYurRG9Hea3j2c4RB+EjonemUfaZviKmZZUkrzCpl/Yq3hEX4YVc14uJxKekTtm96drZS7jjKcfQ4pEhGbpOfHE4nHjwu0QuoGB6oSdbtcgw+dhk07YExoky8StaUZe4czmJUeC71d2Y0gMCmZkSpmKrbs8hsOuATJ3WM78G8Z7en3dq29em6DY6HFyTrq1n8PBQ+di6kG40YcV8ZlJKSyqk0epTojGPIYrUVu68ibVNES4BbiATgrXYcn6k6WsTExLvGtzt2FhdTu9eLuyDv/1ZvYKkGEn4KXfWIvsubwBNMZkUvif+UynJv1Z8IRT/PapSygyCS59ivXe8n55sx26ty6BezrKAaj1swR4fqEWqvTQeeDpp8VxDvq3Wej+03XRMHHECA5dBP077MSm4QAg+M4gU8cxEdJim1UBRplqEiRoQr9P8CEggzE4kd5kz6x6AGzKFhcctWxqxHwdEZ8FHtPfgY6+cQxqZ0eRLxI9If9AVeqSotCKp3Yv8Ay+likQO8/c3ECk2DbYZ5zJVvR3n69WiQUD88rh9sRpiKbtuHIEoZzGXZNaBwZBNFSmuiabslAS2Bo+MYmZmjuc6KJy0qe+qCRf8PsZ/XdH6xJuWu56Y9qbLlF27DM5BTNYkgnc6qTb/O4bi72LQ9YDlerVyLyW0fsgyPKygKBVfW2nM5Sjwq+U1pzWGYjkSMeiRVrIgtJbWCLgM75ThXx1+vxk0ULw5o0mFy9tDZJpxxidTB+cA6CGvCelK9HjNWikpCcmqQBnNQh59imb7O9Cqh3JyBlMldTW/AWXvkHmz9BDCbkip5OqQNOXMKneag/Yl5/hP+DAgHSkjSkCJQuRHKlDJhGRP80pURfGcbCn9wkh179+mZIw083aw7v00jcZRhjCQvPBe50b+wjoH8AXKWMPuN7Csi+4jKfyJwrpocZ0PuDGed9tDHoGL1pdfc3xE/cy+tk7Vp//6N63vrAM5J0n4n6Y8t0vk7DtBkhFbKZqeuQRPrSe9WDVpjahA/zYuXpjNgVxBvv8xuk5YNu1M6f2Ix3uzQjqCbAYBxHD/I/WaDFUVLSpsuojAdK9m7Qyu99Xyq6oBpf2PciN575l7G6c/QDKDios809bmb+kRygMz28Qsa2AVmgIaTpTWGKh7+JXrjL+ySljMLKZpYgE9qjdHw4TEygD4K53nrcL84/NweEQ8nPTlf4bdfjVfRMm5Nxicz5YYMSb06v6InrpS16zQq9KjPB5N+pqv90NntoXqIyfElUxGftaL28Gat4QybxZ8UCddxA/Ka/eAsrKb+pHQhg27Xoxapp6BrWt/RS3YwWQ8dW+3sGD6yvTly1/LY22VhkYFbXFU4L/uAujEBzo/MDUrZk/14pM1hgBWTjPnZIcn5iCTr2MVnWnTA9Uj/CCbgb4fwUsvtMOPfX+kP1O5B5kdcXLcDoRBuXv5KU3uf2oMMcINXxKwX3TV21B/pbc1ipLsH54GzdUC/XWNq4brxqdJzxvdWOepF77HDHrGTXTlzC8lbCeT0JK66hnjMdwGaykwlkGRqijmb0nnioVJb6Gft4L65p1VOhmsuAgwaZ9EUoUXJBc9ZT8pnZ8p4s9QSWId4ymgjATFlVhQgsTSw65nvsY4ScS5P9r2amjoKehWjQGiYCcx+XtKkZ2qpeD7lj8Is2Aq23SpAMDTteYZyZcCupv1PNuH+a9IAuSQ9qelKlwW17zglfOPqeq8GhN8gKswCItod1c3tGQ=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209905,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 499,
+    "prompt_tokens": 1699,
+    "total_tokens": 2198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 337,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0031455,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0031455,
+      "upstream_inference_prompt_cost": 0.00127425,
+      "upstream_inference_completions_cost": 0.00187125
+    }
+  },
+  "provider": "Google AI Studio"
+}

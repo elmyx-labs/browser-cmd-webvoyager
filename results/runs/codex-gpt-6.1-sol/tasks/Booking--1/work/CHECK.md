@@ -1,0 +1,6 @@
+[x] Find the cheapest available hotel room in Jakarta (site's own cheapest sort): Booking.com search results, “Jakarta: 567 properties found”, “Hotels”, “Sort by: Price (lowest first)”; first result Marson Interkota Residence Mitra RedDoorz. URL: https://www.booking.com/searchresults.html?dest_id=-2679652&dest_type=city&checkin=2027-06-01&checkout=2027-06-04&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204&order=price&selected_currency=IDR
+[x] Three night stay from 1st Jun (June 1–4, 2027, the next June 1): search URL checkin=2027-06-01&checkout=2027-06-04; visible “Tue, Jun 1 — Fri, Jun 4” and “3 nights, 2 adults”.
+[x] Room is for 2 adults: visible “2 adults · 0 children · 1 room” and “3 nights, 2 adults”.
+[x] Just answer the cheapest hotel room and the price: Standard Double Room, Marson Interkota Residence Mitra RedDoorz; “Rp 291,261”, “Includes taxes and fees”; availability confirmed at https://www.booking.com/hotel/id/marson-interkota-residence.html, “Price for 3 nights”, “Rp 291,261”, “Select Rooms”.
+[x] Save genuine viewport screenshot as ./final.png, shrunk to about 1280 px long side; name, deciding facts, filters, sort and dates visible together; no overlay: final.png, 1280 x 723.
+[x] Write final answer to ./ANSWER.txt with evidence and dates.

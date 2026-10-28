@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdygY1V2cshx1bIGZAQhAT3a2clEw",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task asked for:\n\n1. The current Text-to-3D model with the highest number of downloads.\n2. Whether there are Hugging Face Spaces using that model.\n\nThe result response identifies **microsoft/TRELLIS-text-xlarge** as the highest-download Text-to-3D model, with **12,715 downloads last month**, and states that there are **11 Spaces** using it. The screenshot supports the key details on the model page: it shows the model is tagged **Text-to-3D**, displays **Downloads last month: 12,715**, and shows **Spaces using microsoft/TRELLIS-text-xlarge: 11**, with several Space names visible.\n\nAlthough the screenshot does not show the sorted model list proving it is ranked first by downloads, the result response provides that claim and a Hugging Face model-list URL as evidence. There is no contradiction between the screenshot and the response.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196774,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 546,
+    "prompt_tokens": 1769,
+    "total_tokens": 2315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 345,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

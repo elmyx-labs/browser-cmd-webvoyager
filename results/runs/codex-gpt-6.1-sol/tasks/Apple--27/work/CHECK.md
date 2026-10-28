@@ -1,0 +1,3 @@
+[x] On Apple's website, check if the HomePod mini in store is available in multiple colors and list them. https://www.apple.com/shop/buy-homepod/homepod-mini — “Pre-order HomePod mini 2”; “Color”; “White”; “Pink”; “Blue”; “Green”; “Midnight”; “Available starting 10.30”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and color choices together without an overlay. final.png is 1280 × 723 and shows the title, pre-order date and all five labeled color options.
+[x] Write the result and evidence to ./ANSWER.txt. ANSWER.txt contains the result, check date, source URL and screenshot reference.

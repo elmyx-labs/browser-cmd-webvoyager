@@ -1,0 +1,7 @@
+[x] Compare the prices for round-trip flights from New York to Tokyo. Google Flights search below: American/JAL $1593; United/ANA $1594; JAL/American $1663; further nonstop options $1694–1794; "round trip", "Sorted by price".
+[x] Departure on July 10, 2027, and return on July 24, 2027. Search shows "Jul 10–24, 2027" and "Sat, Jul 10", "Sat, Jul 24"; itinerary confirms selected dates.
+[x] Select the option with the least number of stops. "Nonstop" filter; American AA167 outbound and AA168 return selected, both "Nonstop", $1593 "Lowest total price" in itinerary summary, kept tab t1.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the option, decisive facts, dates, filters and sorts without overlays. final.png 1280x722, viewport from kept comparison tab t2.
+[x] Write result and evidence to ./ANSWER.txt. Written with selected flights, dates, comparison, source and screenshot reference.
+Source URL: https://www.google.com/travel/flights/search?tfs=CBwQAhorEgoyMDI3LTA3LTEwKABqDQgDEgkvbS8wMl8yODZyDAgDEggvbS8wN2RmaxorEgoyMDI3LTA3LTI0KABqDAgDEggvbS8wN2Rma3INCAMSCS9tLzAyXzI4NkABSAFwAYIBCwj___________8BmAEB&tfu=EgYIAhAAGAA&curr=USD
+Selected itinerary URL: https://www.google.com/travel/flights/booking?tfs=CBwQAhpMEgoyMDI3LTA3LTEwIh8KA0pGSxIKMjAyNy0wNy0xMBoDSE5EKgJBQTIDMTY3KABqDQgDEgkvbS8wMl8yODZyDAgDEggvbS8wN2RmaxpMEgoyMDI3LTA3LTI0Ih8KA0hORBIKMjAyNy0wNy0yNBoDSkZLKgJBQTIDMTY4KABqDAgDEggvbS8wN2Rma3INCAMSCS9tLzAyXzI4NkABSAFwAYIBCwj___________8BmAEB&curr=USD

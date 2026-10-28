@@ -1,0 +1,3 @@
+[x] On the Apple website, look up the processor for the latest model of the Apple TV. https://www.apple.com/home/ says “New Apple TV 4K”; https://www.apple.com/apple-tv-4k/specs/ says “Processor”, “A19 chip”, and “Apple TV 4K (4th generation)”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and processor in view together and no overlay. final.png is 1280 × 723 and shows “Apple TV 4K”, “Processor”, and “A19 chip”.
+[x] Write the result and its evidence to ./ANSWER.txt. Includes processor, model, verification date, Apple source URLs, and final.png.

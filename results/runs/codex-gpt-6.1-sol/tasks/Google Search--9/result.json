@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Search",
+    "id": "Google Search--9",
+    "ques": "Show the rating of Prometheus movie on IMDb and Rotten Tomatoes.",
+    "web": "https://www.google.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Prometheus (2012) is rated 7.0/10 on IMDb and 73% on Rotten Tomatoes (critics’ Tomatometer). Rotten Tomatoes also shows an audience Popcornmeter score of 68%.\nVerified October 27, 2026 on IMDb: https://www.imdb.com/title/tt1446714/ and Rotten Tomatoes: https://www.rottentomatoes.com/m/prometheus_2012.\nEvidence: final.png shows the film’s name and both headline ratings together in Google’s movie overview: https://www.google.com/search?q=Prometheus+2012&hl=en.",
+    "result_text": "FINAL: Prometheus (2012) is rated 7.0/10 on IMDb and 73% on Rotten Tomatoes (critics’ Tomatometer). Rotten Tomatoes also shows an audience Popcornmeter score of 68%.\nVerified October 27, 2026 on IMDb: https://www.imdb.com/title/tt1446714/ and Rotten Tomatoes: https://www.rottentomatoes.com/m/prometheus_2012.\nEvidence: final.png shows the film’s name and both headline ratings together in Google’s movie overview: https://www.google.com/search?q=Prometheus+2012&hl=en.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_497/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_497",
+  "elapsed_seconds": 102.39214587211609,
+  "execution_error": null,
+  "proxy_bytes": null
+}

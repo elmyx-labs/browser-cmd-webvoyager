@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "ArXiv",
+    "id": "ArXiv--30",
+    "ques": "Look up the submission guidelines on ArXiv for submitting a paper and tell me the formats for figures.",
+    "web": "https://arxiv.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: arXiv accepts PostScript figures (PS or EPS) with LaTeX processing, and JPEG, GIF, PNG, or PDF figures with PDFLaTeX processing. All figures must be included; external links cannot replace omitted figures.\nSource: arXiv Submission Guidelines, “Formats for figures,” https://info.arxiv.org/help/submit/index.html#formats-for-figures (accessed October 27, 2026). Evidence: final.png.",
+    "result_text": "FINAL: arXiv accepts PostScript figures (PS or EPS) with LaTeX processing, and JPEG, GIF, PNG, or PDF figures with PDFLaTeX processing. All figures must be included; external links cannot replace omitted figures.\nSource: arXiv Submission Guidelines, “Formats for figures,” https://info.arxiv.org/help/submit/index.html#formats-for-figures (accessed October 27, 2026). Evidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_150/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_150",
+  "elapsed_seconds": 124.3239381313324,
+  "execution_error": null,
+  "proxy_bytes": null
+}

@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Booking",
+    "id": "Booking--39",
+    "ques": "Find a pet-friendly hotel with parking available in downtown Toronto for the stay of July 24-26, 2027.",
+    "web": "https://www.booking.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Fairmont Royal York Hotel, 100 Front Street West, downtown Toronto, is a match for July 24–26, 2027 (2 nights). Booking.com shows an available Queen Room for 2 adults with the Hotels, Parking and Pet friendly filters applied. The hotel page confirms “Pets are allowed. Charges may apply” and “Private parking at the hotel,” including valet and garage parking.\nSource: https://www.booking.com/hotel/ca/fairmont-royal-york.html\nEvidence: final.png shows the hotel, downtown location, selected dates, and applied filters together.",
+    "result_text": "FINAL: Fairmont Royal York Hotel, 100 Front Street West, downtown Toronto, is a match for July 24–26, 2027 (2 nights). Booking.com shows an available Queen Room for 2 adults with the Hotels, Parking and Pet friendly filters applied. The hotel page confirms “Pets are allowed. Charges may apply” and “Private parking at the hotel,” including valet and garage parking.\nSource: https://www.booking.com/hotel/ca/fairmont-royal-york.html\nEvidence: final.png shows the hotel, downtown location, selected dates, and applied filters together.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_237/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_237",
+  "elapsed_seconds": 179.04902291297913,
+  "execution_error": null,
+  "proxy_bytes": null
+}

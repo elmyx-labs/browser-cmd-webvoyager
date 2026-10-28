@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyhONItOfT1gTpKTN93YTviMNgVB",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task asked for the approximate amount of fat burned by a 28-year-old, 172 cm tall, 70 kg woman running for 30 minutes at a pace of 6 min/mile.\n\nThe screenshot shows a WolframAlpha result with the following matching inputs:\n\n- Activity: running  \n- Time: 30 minutes  \n- Pace: 6 min/mi  \n- Gender: female  \n- Age: 28 years  \n- Height: 172 cm  \n- Body weight: 70 kg  \n\nUnder “Metabolic properties,” the screenshot clearly lists:\n\n- Fat burned: 0.078 kg\n\nThe result response converts this correctly to approximately 78 g and provides the same value.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196826,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 219,
+    "prompt_tokens": 1765,
+    "total_tokens": 1984,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

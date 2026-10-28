@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--14",
+    "ques": "Locate the repository for the open-source project \"vscode\" and identify the top three contributors.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The repository is microsoft/vscode (Visual Studio Code): https://github.com/microsoft/vscode.\n\nGitHub's top three contributors by commit count with Period set to All are:\n1. bpasero — 15,030 commits (#1)\n2. jrieken — 12,862 commits (#2)\n3. Tyriar — 12,716 commits (#3)\n\nEvidence: https://github.com/microsoft/vscode/graphs/contributors?all=1. The page shows contributions to main and the displayed range November 7, 2015–October 24, 2026. Viewed October 28, 2026. Screenshot: ./final.png.",
+    "result_text": "FINAL: The repository is microsoft/vscode (Visual Studio Code): https://github.com/microsoft/vscode.\n\nGitHub's top three contributors by commit count with Period set to All are:\n1. bpasero — 15,030 commits (#1)\n2. jrieken — 12,862 commits (#2)\n3. Tyriar — 12,716 commits (#3)\n\nEvidence: https://github.com/microsoft/vscode/graphs/contributors?all=1. The page shows contributions to main and the displayed range November 7, 2015–October 24, 2026. Viewed October 28, 2026. Screenshot: ./final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_381/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_381",
+  "elapsed_seconds": 156.44039702415466,
+  "execution_error": null,
+  "proxy_bytes": 18003015
+}

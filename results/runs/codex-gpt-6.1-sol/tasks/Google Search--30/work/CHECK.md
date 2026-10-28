@@ -1,0 +1,4 @@
+[x] Find the current number one artist on the Spotify Global Top 50 chart. https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF — "Top 50 - Global", "Oct 27, 2026", "1", "Housewife", "Tate McRae", "7,222,738".
+[x] List his/her top 10 songs as of now, using the site's own ranking. https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym — "Popular", expanded with "See more", rows 1–10 transcribed in ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, about 1280 px on its long side, with the name and deciding facts visible and no overlay. final.png is a 1280×1067 reduction of the genuine artist-page viewport: Tate McRae and Popular rows 1–10 visible together. The fixed signup footer is below the evidence and does not cover it; cookie banner dismissed.
+[x] Write result, date and evidence sources to ./ANSWER.txt. Completed with chart dated October 27, 2026 and official Spotify playlist and artist URLs.

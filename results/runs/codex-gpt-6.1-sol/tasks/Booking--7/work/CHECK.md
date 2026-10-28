@@ -1,0 +1,5 @@
+[x] Find a hotel room on January 3-6 — https://www.booking.com/hotel/sg/fragrance-ocean-view.html — “Standard Double or Twin Room”; “Sun, Jan 3 — Wed, Jan 6”; search URL checkin=2027-01-03&checkout=2027-01-06.
+[x] closest to National University of Singapore — https://www.booking.com/searchresults.html?dest_id=14028&dest_type=landmark&checkin=2027-01-03&checkout=2027-01-06&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204&order=distance_from_search — “Sort by: Distance from landmark”; first hotel “Fragrance Hotel - Ocean View”; “1 km from National University of Singapore.”
+[x] costs less than $500 — same results page — “3 nights, 2 adults”; “US$236”; “+US$47 taxes and fees”; sum US$283.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with name, decisive facts, dates, filters and sort visible and no overlays — final.png, 1280×723, Booking.com results page.
+[x] Write final answer to ./ANSWER.txt with result and evidence — ANSWER.txt states room, date year, occupancy, USD total, distance sort, non-refundable rate, source and final.png.

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210015-SMPe0wdT00fMIxaQF9CR",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response:\n\n1. **Storage Options**: The screenshot from Apple's website shows the available storage capacities: 256GB, 512GB, 1TB, and 2TB.\n2. **Pricing**: The starting prices shown in the screenshot for the selected model (13-inch Wi-Fi) correspond exactly to the table provided in the response ($1,499 for 256GB, $1,699 for 512GB, $2,099 for 1TB, and $2,599 for 2TB).\n3. The response thoroughly covers the storage options and pricing across models as requested.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Checking Storage Options**\n\nI'm currently reviewing the Apple website's iPad Pro configurator to ascertain storage capacities and associated pricing for the newest models. My focus is on the \"Choose your configuration\" section.\n\n**Confirming iPad Pro Specs**\n\nI've confirmed the storage options and pricing for the latest iPad Pro models. The information aligns perfectly with the screenshot, detailing capacities from 256GB to 2TB, all featuring the M5 chip with corresponding CPU and GPU core counts.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Checking Storage Options**\n\nI'm currently reviewing the Apple website's iPad Pro configurator to ascertain storage capacities and associated pricing for the newest models. My focus is on the \"Choose your configuration\" section.\n\n**Confirming iPad Pro Specs**\n\nI've confirmed the storage options and pricing for the latest iPad Pro models. The information aligns perfectly with the screenshot, detailing capacities from 256GB to 2TB, all featuring the M5 chip with corresponding CPU and GPU core counts.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210015,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 694,
+    "prompt_tokens": 1955,
+    "total_tokens": 2649,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 542,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00406875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00406875,
+      "upstream_inference_prompt_cost": 0.00146625,
+      "upstream_inference_completions_cost": 0.0026025
+    }
+  },
+  "provider": "Google"
+}

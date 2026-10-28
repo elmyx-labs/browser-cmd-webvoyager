@@ -1,0 +1,3 @@
+- [x] derivative of x^2 when x=5.6 — WolframAlpha displays “11.2” and “d/dx(x²) = 2x” at https://www.wolframalpha.com/input?i=derivative+of+x%5E2+when+x%3D5.6
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the expression, x=5.6, and result visible together — final.png, 1280 px long side, no overlay.
+- [x] Write result and evidence to ./ANSWER.txt; first line FINAL: — ANSWER.txt written.

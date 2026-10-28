@@ -1,0 +1,3 @@
+[x] List at least 6 holiday recipes sections mentioned in the Occasions section of Allrecipes. Evidence: https://www.allrecipes.com/recipes/85/holidays-and-events/ — “Easter Recipes”, “Halloween Recipes”, “Thanksgiving Recipes”, “Christmas Recipes”, “Hanukkah Recipes”, “Rosh Hashanah Recipes”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the source evidence without overlays. Evidence: final.png, 1280 × 723; page heading and all six names visible.
+[x] Write the result and its evidence to ./ANSWER.txt, first line FINAL:. Evidence: ANSWER.txt includes six section names, source URL, and screenshot reference.

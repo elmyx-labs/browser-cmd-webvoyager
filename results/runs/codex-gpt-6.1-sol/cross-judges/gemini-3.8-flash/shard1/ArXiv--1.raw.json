@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210077-wfOf7dMuqXS12AfLoNcL",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a search for the latest research papers on quantum computing submitted to ArXiv within the last two days.\n\nThe screenshot and result response demonstrate that an advanced search on ArXiv was conducted for `quantum comput*`, filtered by the submission date range corresponding to the last two days (October 26–28, 2026), sorted by submission date (newest first). The response lists the latest papers with their titles, authors, submission times, summaries, and ArXiv links, fully satisfying the requirements of the task.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching ArXiv for Quantum**\n\nI've begun by focusing on October 28th for the quantum computing ArXiv submissions. I'll broaden the scope to include the last two days shortly.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching ArXiv for Quantum**\n\nI've begun by focusing on October 28th for the quantum computing ArXiv submissions. I'll broaden the scope to include the last two days shortly.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+qJ6jdaIPagtu9qmJtP2fFYiDD0AFgD2czuM+CJyOJHuuF8YD5DL7EfEHm6HCg/o82oSrl8o0jGJk8hOxoDM4Y1Os3OcS3fWCzUIlJs/fdD3qXb6MaX79p23ByuaYeCWgFTX4OSWDNNwxS/sv8jRCtZeyEOh0pkdEpnZ8nyj7PRNa2Ptwx+6ZUC/DphR+n+BlTD4LhiSybRa73XsXsYOkMjAQt5eI7qUU0WK41Z2v7ObBDzX9OuDzMRNyJBHfHimvtSkIaalvJ5cSwPxW5Qw6MNxjXAilrCuNYkWuIfUPTgAFAXxi8sr73johlUcjv+Vuj4pwkqB5SbODURiuNg8st6R1RvWDX88ODpeDz+kPcLBkwB6Oxea8OnfPAuBHrdG6sKIqSAO/uFUbRD4sv8smZ4F4acW9zXncUQLNABjI53+/6pb5Q+2GMpiqwOeQmaq7sPiYrVn0FQ0Bgu7MBdxspCLyrB3Bpy5Klb3YS3ALOOz3CyYGWF1KKCO+lSeas+Sf3htrfUp1xdMryCpKxhkJqrm5yHbplBuFMu5yjQaOPqVQu6n4MC4QLguFBKtJDxD0/F49VDpJrCVs2jzTA/DYpv4bq8nq8qdTYW0FrgnDxVG0um3VTQhQb6HjpznaUfG4YVBdC6woeCLLLY8M1d6ThfbKEq0dcq/oSz3JpISu7S2cXQodSpl2uqObMgHI1LVSxUALGrmvTBhNh7ViIhkagI9a68O7s6G4eY1oD4kcvb2KOKE3OFd5MoFVnX5maX3uudtbhqQhcsc2kz7ppVUUPNreQKSrtSqXhk4ktdxVTpSrwSvJS9J6CD30m+8/jcnnSeq4TSUTdXoQtX4EH8oC6lzbC8a63OnB/tEEo+CXid4dYvlbcL6BqrB24NuWntB0Ml+61O6Lr3Gvp/MUGbxHTtRZ25pDauMBV8fZFmB+JVZcMY6jQDQxoOnQLWSsIp2/lV8XuK6THxJqHpmtEEGJPlwX3YD0wm6j0snQhg5d37XODUDYPr+L/kcMUBVf4yLfSPzq7G45qI+KlLh2PRA30s9aqy7SGALFeP28G3de0+BYFgT0jHKbuIPeUxo+vggBj2z4NoaA47K6gqrbCXpKqzpnePDziszDltq8w9d0rAbQc5udHIFjBeFV6wzByyj9OfCMCuRIv7n8E+FZPDaGQAyTtGIDvLHWKIMdejD6GSm9xLZipwV9rpBXZSEbUQVlroG0a0ex43lSzqwWyVqhRTs4x83Oc0eoD3zfYACGiPEJBjBk5FFWwbVFzqgTrhimjyM1ONp9VJdRC+0Ml2gMdez/32ZgzU/ydom/AxpHcBqEhxycF/khj5cin6tv77sZRmSt7EgC7R+yeTxJ6XERvwvudHd0HN15qapBMqEVkoNTHbQLYnUwRy5/xsx9WiHMOElmSMYeWSyt/eaam5eh+YhlKV9tqPm/iwbnbyHYWgkwCKCKYVymUfvUIvSr6YGhculuyXeZ/omwsYxkwN+okbeenGEDJXxWWtn3VXQumbje6hPnqO6b38ogTCN1JYObXS8jFoFsGVE75PkQgbaAsJRdJ4kfPX1342NE=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210077,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 381,
+    "prompt_tokens": 2346,
+    "total_tokens": 2727,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 268,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00318825,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00318825,
+      "upstream_inference_prompt_cost": 0.0017595,
+      "upstream_inference_completions_cost": 0.00142875
+    }
+  },
+  "provider": "Google"
+}

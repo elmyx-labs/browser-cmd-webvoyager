@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210423-MCmaJ8N3enD600KwQZTp",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user asked to locate a C++ project on GitHub that was updated within the last week and has at least 500 stars, and to describe its main purpose.\n\nThe screenshot shows GitHub search results sorted by \"Recently updated\". The first result is `opencv/opencv`, which is identified as a C++ project, has 91.4k stars (exceeding the 500-star minimum), and was updated 3 minutes ago (well within the last week). The response accurately identifies this project, details its star count and recent update time, and describes its main purpose as an open-source library for computer vision and image processing.\n\nTherefore, the task has been fully and successfully completed.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Relevant Projects**\n\nI'm currently reviewing GitHub search results for C++ projects, prioritizing those updated this past week. My focus is on identifying repositories with significant traction, specifically those boasting over 500 stars, to gauge their impact and relevance.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Relevant Projects**\n\nI'm currently reviewing GitHub search results for C++ projects, prioritizing those updated this past week. My focus is on identifying repositories with significant traction, specifically those boasting over 500 stars, to gauge their impact and relevance.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/Pj9lbPffNzThKsENiSK2uRRjVgk9NcZ/g1IgIJK0jh4PjWL7LtyxnJAwfLSD1YnQSxBXqbfDbl+3eHwcR265DpTEUo5GPfm5zJfzSrUPu8Tau1qbx8rGobn4rFiRZdGkHLRoYNWA9Mv+n+lM+btmzxrNCSjb1SdzuL/D5U7Lqk/viq6m58MoF5bjK0OcYERzrZYi6viLSnGGslzCjZlBAOBkzEcRAyEBxwUYg25rEvyj8Vsdm6GlcsC6t8dU9OkE2siDMtaEeJUgPa423wasMqJtS1WsC0M+PX3U3uMqddfCnQzHvVNXPajO7Akkx4yaxH85+VVzJl8k/ah4l5j1mO0EaOqwQN0L/4uGrJTpbFJDiPPbnUwxX9tpIsYsjwun+/5Gdk/LHjDpTGxqoYLI/zxhRLw7xlsY0El19QNSLAGcgODu8w/eOiOHju4clawhgX7pSupoZusU7ICFcqfjJhd/cLBE4Gl9/prqn1PYfOrzIOlFhchOeVbjIIv1Q2T6FB15cFc+AVfBRLQ/kb0WWoL9xpwxoZ3By+eHrbXoKUa5Adl26MP4mPrzP0bXOlmYDMbX3hDkGc2DLLFA5M18zP57ZcyNDBHdj/VUWmXYmCek47o4mz8gmkHAx+vg+CRlQ+m8OzmqOlnUsnRjGNVGtYwwE0nioAzaSgeuR+jYTdgu3hgPXjnyqiBVivsqC+Zq4ivnOYc4CRKnJkzypucnSfHmrrMQeNXYEqEMq8xzhJxlaaROPZLPNJaRSrQSEY4WvxvQFDPihNtEG8RA1G54ldV48oBnXnmy8QBLmipWCO6C+HPC55rK2dS9Dr55I/Caiu2QiJOg/TUSG5pg58asiF/CojVHh5DNvRgGzpftXYlFZlFNCf692RNl2qU1e2wMXpjdXgTUD+898kZFS7L+gHvFL4OGykPYQWK4zLgOwYXqy+2DoSFoHkSEhmQ4+b0u30yARn6MWqfnBmEIsBQnBzGaqQzuoABzMiecymS/ZKO8mgkFNlRSsWlsKYrgpWDn21XiHmsX4LFkFJLRfVn4WfY+CKkBgay2FuG0UEQcyVADM+NVRx20IVQvvgmZF1Y2dET4N9w4OSO9DZ+45Dv7DSYbPlUw96tJr7silnwigkCNv0NLc76wbX6rbb3E4IQ1wXgBUH+1bqvViF5v2AzNpBnCKoRSyHNbkb/deiCX5TeyjzOzbo8dfaOv27T9fjQXoWwzw48mATwm0vvDPBFkIcN9zdD7zblOpiHzEIAuIIa0NofS5Ho/mA/b+NTeyH0tlApiRvM/Sb35QAwHGknYmwX3IlMoZqmHAantj9GqehF9zOhz1kyXRsxyycF0ZGFSvzIEQgU8qwrJcydj08ldJQRfqgPRNAndTEfNVxNnLC+Kr/VJrQ4VwJ8tHCnk7oqTJwbk4TDg=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210423,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 366,
+    "prompt_tokens": 1864,
+    "total_tokens": 2230,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 217,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0027705,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0027705,
+      "upstream_inference_prompt_cost": 0.001398,
+      "upstream_inference_completions_cost": 0.0013725
+    }
+  },
+  "provider": "Google"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209921-pJl3qugRTlzqSJRPoPrH",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a list of 3 recommended dinner recipes found in the Allrecipes Dinners section. \n\nBased on the provided screenshot of the Allrecipes Dinner section, the listed recipes are:\n1. **Easy Oven Pulled Pork**\n2. **Hearty Ground Beef Chili**\n3. **Easy and Delicious Chicken and Rice Casserole**\n\nThe Result Response accurately identifies and lists these three recipes shown on the page. Therefore, the task was successfully completed.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Listing Dinner Recipes**\n\nI'm focusing on identifying three specific dinner recipe recommendations from the provided Allrecipes screenshot, particularly from the \"5 Shortcut Dinners\" collection. I'm currently extracting the relevant titles.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Listing Dinner Recipes**\n\nI'm focusing on identifying three specific dinner recipe recommendations from the provided Allrecipes screenshot, particularly from the \"5 Shortcut Dinners\" collection. I'm currently extracting the relevant titles.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/6D+/8c/EO1/+7UF2LvZOKzT6uokCB3hnp0tbk6lOnNy8avArDLgRf2zhld6aPabBl+UN6ZE5od3gEkoqhsuZFW/LoM2tSWaGbMzFWQk2k8vn5soEuLzg/JiY2vTfnKjLU0/E0JgtZihI3gq2rnW4ov+5Q26byr0o/HW/Ut/Ee7t5P/tBx67VZx4E9xZRdJAu2egyhrZLXY4rEqeyTvnv2wXxQsXS5JGBgSfAm1w4rl2hn9zqxhEaXfI+CR6JUxgwfjYqjt7ZN2mo7j2aN5i+cntXvUal9VRS8+PQyFr5MD48DegrI+MX+dnHVQBPIqUl42HbOggHJ/IEHr01SUxPE35F5sD0BF4t6PcYkNbSbo+tp2Hgik4uh+suXdM7A01OJSCBW+0Tnxqb/fRitrunYRLBc08wQhTfqpmJdePJnIzaJc8qaHJPRGi0NCRa36TnEcBVctglKfxYhu41k9EjjNFC+HAMLkD27T4wCXrw4mAoQ6RhAH+y3XMlZpLEaCEbCxH+Tr6HFdpVHxGTGamWMHZP9oqNEZLu5UorhfxeZVFPA5Me4kCT+LH0E4mOeNrTS/ZnHzid6c0oJ3qaNAt6S66P3koCWLxiWiuOuDP/TLtKv7BS0ZP5lYofJglDUkYdDyKdpBSXT7FcEfmnppFnc7CwF+UYWDqFlaVAEzTYE3RhJ1E4aBb5LX+0H/C/zgeGcKBoR3VXNh2xc/FquElSoPNTsu3/OSV0Iiz84wNGudVrSdQe0dRezx8vWQiXtpICt3WlpvQvp2ExOgcg41cX/5eKoSh1NDStI7kgNjRbURRekO6kVYvv4d2Rrzmez1NS6Ch2Yn01xVlvama23hg8gtv4Zj3H89/wiq+GIAnqz+RKURHLMzgr25PIezSzKNLiFmmRPwKTXhd+gFU68gJmLkjCO2Ohmaf/j8hPhjWpBMTIWhtgHZtjzdDFbtqQnGUrSV+8P9aWCDb1p0bLuiQtLST43BFDKEtHFA/BPqrVg64FGVMWwTTpHPu4+55eNf9MaU4M4uJjwZSim2fEmdmmHYJNmsZ+qovlRoAYZEYdXkxxx/OSfo3h5lqjhfGxqmjIbYCNGLop2rN+E6d/fZvwGW5Lojydn7tWXGEQgHwyFEbrtbNjU4dsfEdcvZ4OhoLzrDD9dbzs858eeOevyiTJY0Uwxw8CJriVYznGnBfcvIDcVjOhnjknej+5cXQlcwu/sdgt9sPSw+MKITSBpqrGisGapS+e4H465XJLOuIEP5wLLYfQ80Pe+RD9+0itiuah/TwgdyPciQFkBagmR",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209921,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 281,
+    "prompt_tokens": 1774,
+    "total_tokens": 2055,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 182,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00238425,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00238425,
+      "upstream_inference_prompt_cost": 0.0013305,
+      "upstream_inference_completions_cost": 0.00105375
+    }
+  },
+  "provider": "Google"
+}

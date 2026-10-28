@@ -1,0 +1,9 @@
+{
+  "id": "Google Map--33",
+  "task": "Check out Denver International Airport's information and tell me: 1) which level has the least proportion in reviews; 2) what are its Accessibility and Amenities.",
+  "answer": "FINAL: Denver International Airport\n\n1) The 2-star level has the smallest proportion of reviews: 2,309 of 51,043, approximately 4.52%. The other levels contain 27,819 five-star, 11,666 four-star, 4,535 three-star and 4,714 one-star reviews.\n\n2) Accessibility: assistive hearing loop; wheelchair-accessible parking, entrance, seating and toilet.\n\nAmenities: gender-neutral toilets, toilets and free Wi-Fi.\n\nEvidence checked October 27, 2026:\n- Google Maps review chart and About tab: https://www.google.com/maps/place/Denver+International+Airport/data=!4m2!3m1!1s0x876c7f2a98ff44ff:0x49583bb435b59c6a?hl=en\n- CoParking airport listing, Amenities: https://coparking.ch/en/United-States/parking/denver-international-airport-32185\n\nGoogle Maps' signed-out view did not expose Amenities, so those details come from CoParking's listing, read through the web source reader. Screenshot final.png shows the Google Maps review distribution with All reviews selected; no date filter was applied.",
+  "screenshots": [
+    "task_480/final.png"
+  ],
+  "raw_screenshot": "task_480/final.png"
+}

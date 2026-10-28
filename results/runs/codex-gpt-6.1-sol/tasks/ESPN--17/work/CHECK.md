@@ -1,0 +1,4 @@
+[x] Check out the NBA Basketball Power Index 2025-26. URL: https://www.espn.com/nba/bpi/_/season/2026; page heading: “NBA Basketball Power Index 2025-26”; season selector: “2025-26”.
+[x] See which teams are in first place and which are in last place. Same URL; BPI descending: “Oklahoma City Thunder” BPI “11.2”, BPI RK “1”; “Memphis Grizzlies” BPI “-13.4”, BPI RK “30”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the names, deciding values, and applied season and sort. final.png is 1280×1138; visible “2025-26”, BPI descending arrow, both teams and ranks, “Last Updated: June 15, 2026”; no popup or dialog.
+[x] Write the result and its evidence to ./ANSWER.txt. First line begins FINAL:; includes both teams, ranks, BPI values, date, source URL and final.png.

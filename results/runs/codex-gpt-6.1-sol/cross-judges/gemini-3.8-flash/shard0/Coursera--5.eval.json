@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--5",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify a Specialization on Coursera that teaches C++ programming for beginners, provide the name and what the learning outcomes are.",
+  "answer": "FINAL: Programming in C++: A Hands-on Introduction Specialization, offered by Codio on Coursera, is suitable for beginners: Coursera labels it “Beginner level” and says it is intended for people without programming experience.\n\nLearning outcomes:\n- Use C++ to automate routine, repetitive tasks.\n- Build engaging programs with graphical output.\n- Establish computer science fundamentals that transfer to learning other programming languages.\n\nSource: https://www.coursera.org/specializations/hands-on-cpp\nEvidence: final.png, a screenshot of the Coursera Specialization page.",
+  "response": "**Evaluation:**\n\n1. **Task Requirements:**\n   - Identify a Specialization on Coursera that teaches C++ programming for beginners.\n   - Provide the name of the Specialization.\n   - Provide the learning outcomes.\n\n2. **Verification against Screenshot and Response:**\n   - **Name:** The screenshot shows \"Programming in C++: A Hands-on Introduction Specialization\", accurately captured in the response.\n   - **Level:** The screenshot clearly marks it as \"Beginner level\".\n   - **Learning Outcomes (\"What you'll learn\"):** The screenshot lists:\n     - \"Automate everyday, repetitive tasks using C++ programs\"\n     - \"Create engaging, graphical based programs\"\n     - \"Develop a firm foundation of Computer Science concepts you can bring to any language you learn\"\n     These learning outcomes are accurately provided in the response.\n\nAll requirements have been met successfully.\n\n**Verdict:** SUCCESS",
+  "reason_short": "**Evaluation:** 1. **Task Requirements:** - Identify a Specialization on Coursera that teaches C++ programming for beginners. - Provide the name of the Specialization. - Provide the learning outcomes. 2. **Verification against Screenshot an",
+  "screenshots": [
+    "task_288/final.png"
+  ],
+  "raw_screenshot": "task_288/final.png",
+  "source_result": "task_288",
+  "usage": {
+    "completion_tokens": 393,
+    "prompt_tokens": 1724,
+    "total_tokens": 2117,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 200,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00276675,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00276675,
+      "upstream_inference_prompt_cost": 0.001293,
+      "upstream_inference_completions_cost": 0.00147375
+    }
+  },
+  "elapsed_seconds": 6.14
+}

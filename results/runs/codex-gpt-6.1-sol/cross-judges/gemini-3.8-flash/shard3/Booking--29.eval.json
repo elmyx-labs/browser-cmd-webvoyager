@@ -1,0 +1,41 @@
+{
+  "id": "Booking--29",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a hotel in Toronto with a fitness center and a rating of 8+, available for a two-night stay from July 5 to July 7, 2027.",
+  "answer": "FINAL: Riu Plaza Toronto, in Toronto’s Entertainment District, matches: fitness center, guest rating 8.8/10 (Excellent; 3,083 reviews), and an available Deluxe King Room for July 5–7, 2027 (2 nights, 2 adults, 1 room). Booking.com showed RSD 51,678 plus RSD 10,222 taxes and fees, with breakfast included.\n\nEvidence: final.png shows the hotel, rating, two-night room offer, selected dates, and applied Hotels, Very Good: 8+, and Fitness center filters. Sort: Our top picks.\nSource: https://www.booking.com/searchresults.html?ss=Toronto&dest_id=-574890&dest_type=city&checkin=2027-07-05&checkout=2027-07-07&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Breview_score%3D80%3Bpopular_activities%3D11\nHotel: https://www.booking.com/hotel/ca/riu-plaza-toronto.html?checkin=2027-07-05&checkout=2027-07-07&group_adults=2&no_rooms=1&group_children=0",
+  "response": "The user requested a search for a hotel in Toronto with a fitness center and a rating of 8+, available for a two-night stay from July 5 to July 7, 2027.\n\nThe screenshot and final response demonstrate that:\n1. Destination was set to Toronto.\n2. Dates were set to Mon, Jul 5 – Wed, Jul 7 (2027).\n3. The filters for \"Hotels\", \"Very Good: 8+\", and \"Fitness center\" were applied.\n4. A matching available hotel (\"Riu Plaza Toronto\" with an 8.8 rating) was identified with available room options.\n\nAll requirements have been met.\n\nSUCCESS",
+  "reason_short": "The user requested a search for a hotel in Toronto with a fitness center and a rating of 8+, available for a two-night stay from July 5 to July 7, 2027. The screenshot and final response demonstrate that: 1. Destination was set to Toronto. ",
+  "screenshots": [
+    "task_227/final.png"
+  ],
+  "raw_screenshot": "task_227/final.png",
+  "source_result": "task_227",
+  "usage": {
+    "completion_tokens": 396,
+    "prompt_tokens": 1925,
+    "total_tokens": 2321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 249,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00292875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00292875,
+      "upstream_inference_prompt_cost": 0.00144375,
+      "upstream_inference_completions_cost": 0.001485
+    }
+  },
+  "elapsed_seconds": 4.73
+}

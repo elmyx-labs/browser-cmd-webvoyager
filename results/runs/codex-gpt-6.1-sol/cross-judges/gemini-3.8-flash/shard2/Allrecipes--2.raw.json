@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209888-QWtOEh3dPLQPkm8wRdJc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user asked to find a recipe for a vegetarian lasagna that is under 600 calories per serving and has a prep time of less than 1 hour.\n\nThe provided recipe, \"Easy Vegetarian Spinach Lasagna\" from Allrecipes, satisfies all constraints:\n- **Type**: Vegetarian lasagna\n- **Prep Time**: 20 minutes (which is less than 1 hour)\n- **Calories per serving**: 305 calories (which is under 600 calories)\n\nThe screenshot clearly displays the recipe name, prep time, ingredients, directions, and nutrition facts verifying these details.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Seeking Calorie-Conscious Lasagna**\n\nI'm currently focused on finding a vegetarian lasagna recipe. My key criteria are a calorie count under 600 per serving and a prep time of under an hour. I've located a recipe titled \"Easy Vegetarian Spinach Lasagna.\"\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Seeking Calorie-Conscious Lasagna**\n\nI'm currently focused on finding a vegetarian lasagna recipe. My key criteria are a calorie count under 600 per serving and a prep time of under an hour. I've located a recipe titled \"Easy Vegetarian Spinach Lasagna.\"\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "ErsJCrgJAWkUfRNewsNa/VPyQyn7VythMENCo7TU1+u3+G7i7rK32FqiDNr3DuUSjOPyDv0XldRrp8sTZkFB60pWASzOWAGVclyMs/k7RQ5Do3KqgFSHN8FLujHzTVY7X6hYqwJ4NUkOSUU07Y/FGWPF5unZXHAWtqAHLJyPQxOBuaD9hOEgxGZp2qKTYXHx+N5LYgARhjg/cwiCoKe41Yof6gLtq4McPSsL0U82SJr4d0/9lAWzLrtpnLY0P+nn0hDYyi30o8ED5F8sBBYznio1ZNdT/N8XRvCXfI+NZJRo3ugDtn+ItC3xvNYdpl1TBST56fXWHiurlYIfWBCtVq7DhFDNjWOfL5sTGv5Xn/rXA3smQ64zUHNolj7SelIGeU/PvcqJrQLZRcaJPJh2Njub2bm9yam56YhRCjmX/vYaXNDZ33OWk77uWdbDx6dt2Hgvq5DrqB1rE/M9gnMLJ7doSoylQzy1CEqRODAOCVrk73PvJT9ktabaatQFngJKEuexNSbigsFGom47ifufd13wqZdaz+Qbp7cAqXfBIAEpLxnLLCzxXP9CNs70WogG3lkyfJ5qXV9SdgBQNsmAdtAa8d/h5u5EAjquo2vC7YRe3zkM9Wvhxt6Va0ques8MbFbN5U6+oOjvQxkoe1WWjypEODqwaSpa3bHeBgSCEql24pavqpJXY4icMjQwKLazpFAIWChaMLGR470MjkTyhllz8cu+U4+22BsczaP3FFP3eC6SNKUzzzr222vGfs7NpP6gHBitpGTuW9WEk0ow7kd0d/IDYzsJG76w1i3utt0ZckRApgkhTqff45CxlrkT1Gxc63y5PSu9jnEmIfmcA3bp6kHGbwA2VnAMbsPt6YfiOobpkF/6DL/Zi+LcJ+uExRk5fj2jkcERwG3amtfyE78aOTq5sdeikq3DOzTnQyO2Yr91cOPHLXlZqCw+HU/3Lv6wpv6vF08l5JuTIKzunbaf57tgLeC+ZDZebJ2W45HP3D2gmjEWSDnYWTc4x+MvFbhFCHys0ScLlp0kX5b/5K23ClAxJ1uM+wb2QxgwXJsjKRxs0VDeQHfvRiglWyevL0JVL1/6YAemmi7wg7XeCo0NpGBwUDChGFZLfOYwvRIGFLaXQjrscYevTlwGGPqU2kdE6GA0Ak2hbge2YZ1XLpxf3o8leH6Skrkvm7wKHYxzZ67DVSHk0W9i18X+yAKxBlrWzUE6vzNCzR/ZRCjw9iGkTL+d7grUZuSKyg2YM0P9FDmOh1L2S9dEAk+D6pZeFuWHutHpVoC74XslEFZ40CZyZXGXVZyJ3Iai7BQhLY8P52SlpkWMJoTRgsfzk8HE7QyPqlow8Ujd6lntjquAJ2lQblUR5P6sxFyul/yk8Rsq+jKqtR2lZlI3jmoKg2uUzZkkOvkVmObqd5tIvbPPMONCJbDosiWwH5mBhMWX8c4ZWX+ivpkQ45h2M6jjtyCb9LSCtwWOTR97DSlkNBR8GnrVwkQCS5LzQa0d6UaU9MOjvxsVPAAFeQftimgbXyMWTakhCMYjq/FkC5LXNb+eHE5MznARJ73EHvBUs0CmNTAUHbmCjd+JHNeyKc3YxnyyRw10DcULZJHTPH8rxz8=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209888,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 386,
+    "prompt_tokens": 1736,
+    "total_tokens": 2122,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 260,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0027495,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0027495,
+      "upstream_inference_prompt_cost": 0.001302,
+      "upstream_inference_completions_cost": 0.0014475
+    }
+  },
+  "provider": "Google AI Studio"
+}

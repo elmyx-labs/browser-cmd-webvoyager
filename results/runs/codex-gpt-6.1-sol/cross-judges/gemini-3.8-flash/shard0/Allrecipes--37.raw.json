@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209930-y7cp6LvhTDnyaff8f2BS",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a Greek salad recipe from Allrecipes with a prep time under 25 minutes and more than 15 reviews, along with the primary cheese used and the recommended dressing.\n\nThe provided recipe, \"Easy Greek Salad\", has:\n- A prep time of 15 minutes (< 25 minutes).\n- 441 reviews (> 15 reviews).\n- Primary cheese: crumbled feta cheese.\n- Dressing recommended: olive oil–lemon dressing.\n\nAll requirements specified in the task prompt have been successfully fulfilled.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Salad**\n\nI'm currently focused on sifting through Allrecipes for a Greek salad that’s quick to make, requiring less than 25 minutes prep. I also need to ensure it has a decent review count, over 15, and then I’ll note the cheese and dressing recommendations.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Salad**\n\nI'm currently focused on sifting through Allrecipes for a Greek salad that’s quick to make, requiring less than 25 minutes prep. I also need to ensure it has a decent review count, over 15, and then I’ll note the cheese and dressing recommendations.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209930,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 413,
+    "prompt_tokens": 1749,
+    "total_tokens": 2162,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 299,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0028605,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0028605,
+      "upstream_inference_prompt_cost": 0.00131175,
+      "upstream_inference_completions_cost": 0.00154875
+    }
+  },
+  "provider": "Google"
+}

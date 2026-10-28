@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Search",
+    "id": "Google Search--29",
+    "ques": "Find out the current world record for the men's 100m sprint.",
+    "web": "https://www.google.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The current men's 100m world record is 9.58 seconds, set by Usain Bolt of Jamaica at the Olympiastadion in Berlin, Germany, on 16 August 2009 (wind: +0.9 m/s).\nEvidence: World Athletics' official records page, with Men → Sprints → 100 Metres selected, lists this under “men - SENIOR” as “World Records”. Checked 27 October 2026.\nSource: https://worldathletics.org/records/by-discipline/sprints/100-metres/all/men\nScreenshot: final.png",
+    "result_text": "FINAL: The current men's 100m world record is 9.58 seconds, set by Usain Bolt of Jamaica at the Olympiastadion in Berlin, Germany, on 16 August 2009 (wind: +0.9 m/s).\nEvidence: World Athletics' official records page, with Men → Sprints → 100 Metres selected, lists this under “men - SENIOR” as “World Records”. Checked 27 October 2026.\nSource: https://worldathletics.org/records/by-discipline/sprints/100-metres/all/men\nScreenshot: final.png",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_516/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_516",
+  "elapsed_seconds": 88.64995622634888,
+  "execution_error": null,
+  "proxy_bytes": null
+}

@@ -1,0 +1,6 @@
+[x] Find a hotel in Barcelona — Booking.com result “Eurohotel Diagonal Port”, “Sant Martí, Barcelona”. Source: https://www.booking.com/searchresults.html?ss=Barcelona&dest_id=-372490&dest_type=city&checkin=2027-02-25&checkout=2027-02-28&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bmealplan%3D1%3Bhotelfacility%3D107&order=closest_beach_distance_v2
+[x] Stay from February 25-28, 2027 — same source URL has checkin=2027-02-25&checkout=2027-02-28; visible “Thu, Feb 25 — Sun, Feb 28”, “3 nights, 2 adults”.
+[x] Sort the results by distance from the beach — same source displays “Sort by: Distance from closest beach”; URL order=closest_beach_distance_v2.
+[x] Make sure they offer free Wi-Fi and breakfast — same source displays applied “Free Wifi”, “Breakfast included”, “Hotels”; hotel card also shows “Breakfast included”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the hotel's name, deciding facts, dates, filters and sort visible and no overlay — final.png, 1280 px wide, inspected. It shows all requested facts together.
+[x] Write final answer to ./ANSWER.txt with result and evidence — ANSWER.txt starts “FINAL:”, states hotel, dates, filters, sort, price, source links, and final.png evidence.

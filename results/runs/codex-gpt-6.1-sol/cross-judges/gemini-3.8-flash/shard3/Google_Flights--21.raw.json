@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210438-Erku2WUBcWHHEzkWuIwi",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**Evaluation Summary:**\n\n1. **Parameters & Search Criteria:** The search correctly specifies a one-way flight for one adult from Tokyo to Sydney departing on July 25, 2027.\n2. **Lowest Price & Details:** The screenshot confirms the lowest-priced option is operated by Vietjet at RSD 30,423, with a duration of 21 hours 25 minutes and 1 layover (7 hours in SGN).\n3. **Response Accuracy:** The provided text matches all key flight details displayed in the screenshot, including duration and layover count.\n\n**Verdict:** SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Flight Options**\n\nI'm currently sifting through flight data to pinpoint the most economical one-way ticket from Tokyo to Sydney on July 25, 2027. My focus is on identifying the lowest price while also noting the flight's duration and any layovers.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Flight Options**\n\nI'm currently sifting through flight data to pinpoint the most economical one-way ticket from Tokyo to Sydney on July 25, 2027. My focus is on identifying the lowest price while also noting the flight's duration and any layovers.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210438,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 514,
+    "prompt_tokens": 1925,
+    "total_tokens": 2439,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 384,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00337125,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00337125,
+      "upstream_inference_prompt_cost": 0.00144375,
+      "upstream_inference_completions_cost": 0.0019275
+    }
+  },
+  "provider": "Google"
+}

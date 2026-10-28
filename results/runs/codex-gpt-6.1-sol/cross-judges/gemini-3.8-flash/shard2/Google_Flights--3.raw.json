@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210382-tFjKnyyQvHCWlELrncou",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the screenshot and the result response:\n\n1. **Parameters Verification**:\n   - Trip Type: One-way\n   - Route: Calgary (YYC) to New York (JFK/All airports)\n   - Date: Friday, January 1st\n   - Criteria: Sorted by lowest carbon dioxide emissions (\"Sorted by emissions\")\n\n2. **Result Verification**:\n   - The screenshot shows the flights sorted by emissions, with the top result being a WestJet flight (WS 1680) emitting **255 kg CO₂e** (-20% emissions), departing at 10:50 AM and arriving at 4:40 PM.\n   - The response accurately details the flight information, airline, departure/arrival times, and emissions.\n\nThe task has been fully and accurately completed.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Flight Search Success**\n\nI'm currently assessing whether the flight search for a low-emission, one-way trip from Calgary to New York on January 1st was successful. I'm analyzing the results to determine if a suitable option was identified based on the carbon dioxide emissions criterion.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Flight Search Success**\n\nI'm currently assessing whether the flight search for a low-emission, one-way trip from Calgary to New York on January 1st was successful. I'm analyzing the results to determine if a suitable option was identified based on the carbon dioxide emissions criterion.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+YePt6UeKGcFPYfwelQ3uJI74wwNY8qW4g3ZeqmnD4fB2jXMHPM2DWdf+8mLicvARKrmEWYcX3OvCUozQbZoCyzgZXzyurQVyfSk0b3NvZPBzKVHPtnyepg2sL4Bpr7KebvvhOT9h/JoSNzh2ueoygBCzdhBL9y8v8NJZQPheyY1j6fP7YWgENai+nJQvrXTYva1CucuVzvXuuEKDpR1T7lqALQ45tjut9SiVScFlyewyvX9FGYsGr5DghEUMggs9qA+/43TVtrsCrSI1DYJ4yv0RqV72I9rZvG5iD0Dmv79hQmOaQoSDrxM5hvO3DGaxIaZNjGwJxw41FCVcboSmEpbntCSw94HxJg+F3ahb5XUUIsRzMhTlLX8fEZXDBbcmH2DACGdYUnM8Yyix3OmpvMwdO20no4gZm/E6tRGMMx+QY3jYHaR37UZxH1X/IT85rm5Sdr0vSZBjH58Y/KvATuuPme/H2xuezYEVBg3QLcUo17WUhyZ74hZ99u283/DK3B59Ls6xyH9DVlsKv8P2006uLPkOwaf2HhCrkM079rIMb1uAWFm6OmTkU0FYlPpvD81cpt18E9uyIS5TMt+rlRCZUQPUx6KSWBlj5glXZV+VT9oXh4LOgJ32qMWbTIVqdhtr2s4Hh75q22S6tp2znIZqlIsvDhVwBWrOFvmYXndpWXwITkpxRWaTpNn2TT8cNcWJSM19hIyMZllQGepxUCoJoBWhKpgVJiQe0/EXF/zHvhgTK199Un8oTspS29XiTJTgypb0WA2dBir51QlLVt3VgPlQstZkORU8F8k66+QIJqFHQyR3boqiFWGDvRM+/rCCivlZcHOkxYz//N6Ku1ArmKLIVtJelzPP/wxBIizbnhueERNROeWk39dRTMmmh9CoDd1ilc0nAYz0kjM1hmX0GagKpIqxk1g+y6T29F/qgBN14eHY16BQpANP60nrMvGHOZcU4uXvBg0oVjvY+/5d+vmQycejkgu/ADoRqtuG1FdmIVepkAZl7GUuaf3GQ8xtAYF7QNACjndvzAyW/uhRJhY7qK/SCGo5kE3xvZJSvrDvKA4ezKXgRsGq742HGGwlZy4wIapAmwtOI/sY/Ir7hRqTPViFeo+Vpf04DJFbB7h7IkZaSvi5cSN1QN09an0olw+qqLY/C2W4dCYfJAqYgRgaMAN1xPHvZzGYFR7/GkViBSBn7YyVpqyiQrtqD3xEHITHWTCL4GOf84Y9IqeSlBTImnea8Q3xBJWWd0SAp6Dr5BDdDxWuFydnno2lfqwiMV5WMNaSLMxf4mFsrPpwuSu2c5s9QVFCNjQBYa5PQjO6bUrZXcx7065a3ykmzD0Z+9wnh3oGVzak3wfCQ3j2I3rLpsy8j5lY0afGPl9bta+f76gadWhAocu6IDvWRqPwoQ3RN7mFJHQ293oshPL15iqWd8BsMwVQmHymyQGowNvbonLxt6UsLax3y8nJewog6aDm2GCOCe2RJ5xSXW4i6GhhkKyfzEEzerWxN7gc02+aMJ2PWoSCEY59o7NL1ZNLuQ72m+6NX/zIsAq77vyeDqlzTHe5bWWXLWxw3zdo7sxIUYbOriAGpEU8=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210382,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 468,
+    "prompt_tokens": 1801,
+    "total_tokens": 2269,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 292,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00310575,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00310575,
+      "upstream_inference_prompt_cost": 0.00135075,
+      "upstream_inference_completions_cost": 0.001755
+    }
+  },
+  "provider": "Google"
+}

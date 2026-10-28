@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210067-ASYw9i88doN0a7UHDHPo",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to check the Golf DP World Tour leaderboard in the SPORT section to find:\n1. The name of the most recent tournament.\n2. How many teams (or players, as golf typically lists individual players) have a Total of -10 strokes.\n\nFrom the provided screenshot:\n- The tournament shown under DP World Tour is the **Genesis Championship**.\n- Under the \"Total\" column with `-10`, there are 7 individual entries (tied for 4th place): Jorge Campillo, Antoine Rozner, Sang-Hun Shin, Casey Jarvis, Ryan Fox, Filippo Celli, and Si-Woo Kim.\n\nThe response accurately identifies the tournament name as the Genesis Championship and specifies that there are 7 players with a Total of -10 strokes, while noting that the leaderboard lists individual players rather than teams.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Golf Leaderboard**\n\nI'm currently examining the DP World Tour leaderboard. My focus is on identifying the most recent tournament and then counting the teams that achieved a total score of -10 strokes.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Golf Leaderboard**\n\nI'm currently examining the DP World Tour leaderboard. My focus is on identifying the most recent tournament and then counting the teams that achieved a total score of -10 strokes.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18vT7IENVdnlpjzTn+tJWVEMbKSfDWzTpPN0tlC6s7C0NKjcrqNOQcnHLCue9YJDd+FY3TGoieJBIUL2a50q+KeV2++YOE7od5OkK8oZ/At/WJLwnduAv0AnsWxf2n4NpqXzE2cbiU896wY2Hvvb4JV1+IBXeNOOsOt+fXhw1GrySXrXR2HZKrtvNK5UA/stwrudn0rMrlVY31kl02WLMneB0GtBB8iKcAr7BXs9ovefTVlC8Lm/8U+/2O4sJRkcoFHnsf1qOkJC8P2E/BdJxt4p4ipUdI6yjQDGO6qZsWZPLnQZqGPZs5KU/9UF1T7bAJB5V+bV8FNtqrbXbN5MojJFH0w0o5IRzVb9ilQRiieW058Fn4PHlTcESy4dHjMVHtYEnD7WGWM+ri8QlcKYXE13Eaps+Xr5ZJ+ypci2sRmOxexoImuVCxeHP50nQ+7R8bKk73vHYNQf0AAzB5RHMYcR0fQEgBmsbMfOMSUhWOz6VdcGpdvs17A6OHr0gcw/SnJnPjkYwA93miD5xiwt9w72NeXuYMtgnjGWFvOZPVHS+8ssZuwV8Pdr04YS7HD9pn/uS+DoHzs/dXr7DbhEXEZBUq84bRzkFGB7T5jJLVfd7y4A4wV9Ums+GIy2XK6Asv+zGrzCpNxXDxev2ANSPqJ0W9gB7eM/9rMZ0UI4tQuOv3yiHXqKRaSZGCaCKhvKODnWiuKnaQ/NK95S4lse2mZPU8miKAiiNlDlTMntYjShCw+mT8v0QHwctDHHA9iE79zFqLk1Bhti3g9r1+qHaTXNDkdZa8Y7ZVli4zKZig333PQDoL8x05Xa+EF0KjzcWW5xN6ENAEQSnQ7U3OWkrPzoSHMd8i5g8H6IL/e7t/bX0Bc5/YgvYHHcosp0Oq4G9HlD9VFnlvuDB1Oy33L0wZEy60NrRV1JO1oJidrg6UBIIAyc2dsCRjatoBZfaMbcugegweAdKl9S0Vw7OhiFQ+lldv65zuz2pkBmelXgijlYrBtpXlVtX2xxkNyv265hAFndh12qS24840S9YBYmIvuW022J4SPISHiC4/hrLFGGe6+U4DQXgPLR5UEQ3F2yf3xCXTwrX7hqIFCgG0zquDFlwqV6E0q3l+K422JtRmELLLdmXvrBXLC6dgz8LVbSSlvuHOoWpRP0kmvQ55TuPYW6QZ4hPXM+N+0hclBi/cBO0SdFXnUQjzI1FK7GD6aYK3SP8rjXoBIQuDdGarIB2zEwyo/e6zFV/jy6JpukOBW0Cg8v9ejMOMNL0dKv1HslTsLAif2WktzAH6poQh2S5XzB/Dq86GsyMwlkLbaHOtVltUWs8fkCOhjEtrTb8lQwLJgXYcRbl6ewujUmw5zB687RFIiq3I+iEI5cOBl0woyxbVxf31hgaazIodyRWTIfWofy1hKTk9QZGBACL1mgAiO2w/8ekyoMhCbgq47BSGK34mFtik1qIyzL2e3vo6k36Q271EkTSGuERG3z5RRLDHohQ17sNA8pGxxlt2wpoC1KvXR+Iq7GOAuk7DbHrlpbIpC+elq8yldasU8VRfvC6HhTODN6sA2lvJGg9b8nLkN5CnrEVIrStlVBicnycComKcmcWxPBO/CvjPzWiMV6/5ihlyqHmnoyCQWgAk/LwzbokkeaHHhvOFYb36YfPildSIwCkMJxBmKGARE/fEXK06gv08gfZnovkgwiS9/2O8=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210067,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 455,
+    "prompt_tokens": 1701,
+    "total_tokens": 2156,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 280,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002982,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002982,
+      "upstream_inference_prompt_cost": 0.00127575,
+      "upstream_inference_completions_cost": 0.00170625
+    }
+  },
+  "provider": "Google"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Google Search--0",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the initial release date for Guardians of the Galaxy Vol. 3 the movie.",
+  "answer": "FINAL: Guardians of the Galaxy Vol. 3's initial release was April 19, 2023, at its Seoul, South Korea premiere—the earliest release listed by IMDb.\nEvidence: IMDb's Release info page lists “South Korea — April 19, 2023 (Seoul, Korea, premiere)” before France's April 22 premiere and May 3 theatrical releases. Source: https://www.imdb.com/title/tt6791350/releaseinfo/\nScreenshot: final.png",
+  "response": "The task was to find the initial release date for *Guardians of the Galaxy Vol. 3*.\n\nThe screenshot shows IMDb’s “Release info” page for the movie. Under “Release date,” the earliest listed entry is:\n\n- **South Korea — April 19, 2023 (Seoul, Korea, premiere)**\n\nThe result response accurately reports this as the initial release date and cites the IMDb release info page. This aligns with the evidence visible in the screenshot.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to find the initial release date for *Guardians of the Galaxy Vol. 3*. The screenshot shows IMDb’s “Release info” page for the movie. Under “Release date,” the earliest listed entry is: - **South Korea — April 19, 2023 (Seoul, ",
+  "screenshots": [
+    "task_488/final.png"
+  ],
+  "raw_screenshot": "task_488/final.png",
+  "source_result": "task_488",
+  "usage": {
+    "completion_tokens": 193,
+    "prompt_tokens": 1681,
+    "total_tokens": 1874,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.63
+}

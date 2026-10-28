@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Coursera",
+    "id": "Coursera--8",
+    "ques": "Find a free course related to 'R for Data Science' available on Coursera. Scroll to find a course with the Free tag. What language the course is taught in?",
+    "web": "https://www.coursera.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: I could not find a course meeting both requirements: explicit R-for-data-science content and a “Free” tag.\n\nThe Free-tagged result verified was “SageMaker Unified Studio Foundations for Data Analytics” by Amazon Web Services. Its page states “Taught in English” and lists SQL and AWS SageMaker as tools; its description and module details do not mention R. It therefore does not establish the requested R connection.\n\nFree-tag evidence, shown in final.png: https://www.coursera.org/courses?query=R%20for%20Data%20Science&page=20\nCourse and language evidence: https://www.coursera.org/learn/amazon-sagemaker-unified-studio-foundation-for-data-analytics-digital",
+    "result_text": "FINAL: I could not find a course meeting both requirements: explicit R-for-data-science content and a “Free” tag.\n\nThe Free-tagged result verified was “SageMaker Unified Studio Foundations for Data Analytics” by Amazon Web Services. Its page states “Taught in English” and lists SQL and AWS SageMaker as tools; its description and module details do not mention R. It therefore does not establish the requested R connection.\n\nFree-tag evidence, shown in final.png: https://www.coursera.org/courses?query=R%20for%20Data%20Science&page=20\nCourse and language evidence: https://www.coursera.org/learn/amazon-sagemaker-unified-studio-foundation-for-data-analytics-digital",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_291/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_291",
+  "elapsed_seconds": 675.6109602451324,
+  "execution_error": null,
+  "proxy_bytes": null
+}

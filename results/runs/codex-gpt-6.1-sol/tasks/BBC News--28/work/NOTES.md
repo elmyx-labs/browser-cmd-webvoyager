@@ -1,0 +1,2 @@
+BBC Market data — https://www.bbc.com/news/articles/cvgl0zprpjeo — browser text: “The BBC has discontinued its market data feeds on both the website and red button (UK only) services.” Page date: 26 November 2024. Reached from https://www.bbc.com/news/business/market-data.
+Press Gazette — https://pressgazette.co.uk/news/bbc-market-data-news/ — 6 December 2024 — “The BBC’s data feed was licensed from investment research firm Morningstar.” Final viewport scrolled to 450 px shows the article title, date and provider attribution. Cookie preferences dismissed via Reject All.

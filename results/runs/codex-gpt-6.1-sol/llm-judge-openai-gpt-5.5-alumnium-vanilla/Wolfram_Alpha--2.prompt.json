@@ -1,0 +1,9 @@
+{
+  "id": "Wolfram Alpha--2",
+  "task": "Calculate 3^71 and retain 5 significant figures in scientific notation.",
+  "answer": "FINAL: 3^71 ≈ 7.5095 × 10^33 (5 significant figures).\nEvidence: WolframAlpha displays 3^71 = 7509466514979724803946715958257547 = 7.509466514979724803946715958257547 × 10^33. The sixth significant digit is 6, so 7.5094 rounds to 7.5095.\nSource: https://www.wolframalpha.com/input?i=3%5E71 (accessed October 27, 2026). Viewport evidence: final.png.",
+  "screenshots": [
+    "task_571/final.png"
+  ],
+  "raw_screenshot": "task_571/final.png"
+}

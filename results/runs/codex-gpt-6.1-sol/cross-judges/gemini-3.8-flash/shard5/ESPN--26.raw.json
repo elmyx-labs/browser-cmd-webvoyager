@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210275-YaR5dAPlAOzt10t4VS0r",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**Evaluation:**\n\nThe user requested NBA matchups from yesterday where the loser high score was higher than the winner high score based on the ESPN NBA schedule. \n\nThe screenshot shows the schedule for Tuesday, October 27, 2026:\n- Brooklyn at Boston: Winner High 40 Pts vs. Loser High 27 Pts\n- Detroit at New York: Winner High 27 Pts vs. Loser High 22 Pts\n- Sacramento at San Antonio: Winner High 29 Pts vs. Loser High 24 Pts\n- Portland at Los Angeles: Winner High 23 Pts vs. Loser High 41 Pts\n\nOnly the Portland Trail Blazers vs. Los Angeles Lakers game meets the criterion, which the response correctly identifies with exact player names and scores.\n\n**Verdict:** SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Yesterday's NBA Scores**\n\nI'm currently sifting through yesterday's ESPN NBA schedule data. My focus is on identifying matchups where the losing team's highest player score surpassed the winner's highest score. This requires a detailed comparison of individual player performances within each game to pinpoint the specific anomalies.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Yesterday's NBA Scores**\n\nI'm currently sifting through yesterday's ESPN NBA schedule data. My focus is on identifying matchups where the losing team's highest player score surpassed the winner's highest score. This requires a detailed comparison of individual player performances within each game to pinpoint the specific anomalies.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210275,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 552,
+    "prompt_tokens": 1705,
+    "total_tokens": 2257,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 373,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00334875,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00334875,
+      "upstream_inference_prompt_cost": 0.00127875,
+      "upstream_inference_completions_cost": 0.00207
+    }
+  },
+  "provider": "Google"
+}

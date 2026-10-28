@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Wolfram Alpha",
+    "id": "Wolfram Alpha--20",
+    "ques": "Compute the integral of 3e^(2x) from x=0 to x=5.",
+    "web": "https://www.wolframalpha.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: ∫₀⁵ 3e^(2x) dx = (3/2)(e^10 − 1) ≈ 33038.1986922101.\nEvidence: WolframAlpha’s “Definite integral” result displays the integrand 3e^(2x), limits 0 and 5, and this exact and decimal result. Screenshot: final.png.\nSource: https://www.wolframalpha.com/input?i=integrate+3e%5E%282x%29+from+x%3D0+to+x%3D5",
+    "result_text": "FINAL: ∫₀⁵ 3e^(2x) dx = (3/2)(e^10 − 1) ≈ 33038.1986922101.\nEvidence: WolframAlpha’s “Definite integral” result displays the integrand 3e^(2x), limits 0 and 5, and this exact and decimal result. Screenshot: final.png.\nSource: https://www.wolframalpha.com/input?i=integrate+3e%5E%282x%29+from+x%3D0+to+x%3D5",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_589/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_589",
+  "elapsed_seconds": 54.56653809547424,
+  "execution_error": null,
+  "proxy_bytes": null
+}

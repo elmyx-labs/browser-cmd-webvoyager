@@ -1,0 +1,60 @@
+{
+  "id": "gen-1793210211-bO40qU6Pn137jnv4VXyU",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response:\n\n1. **Assists Leader**: The ESPN stats page is filtered to the \"2026-27 Regular Season\", \"All Positions\", and \"Western Conference\", sorted descending by assists (`AST`). Nikola Jokic (Denver Nuggets) leads the conference with 8.7 assists per game.\n2. **Rebounds Leader**: The response identifies Domantas Sabonis (Sacramento Kings) as the leader with 17.3 rebounds per game (which is verified on the visible stats row for Sabonis).\n\nBoth requested leaders for the NBA Western Conference were successfully found on ESPN.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": null,
+        "reasoning_details": [
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19+GXnWe0JWzhj7f0bg6mrbY5D65Zzphnwg5aPZYkSA5/J4/i+aF7D/dQ2fD69/pd+vnP1OGJhN5GlngtGo5ytdxWNumCyiThqFePvmgyucw9tPrK5tbfkFGFQKDvYB3RxB1ma8zKxOyPYJSax2enT+W784iwjS94jFdvs7P3NuOqDveNcDQgJpEtSsHk8AtpyKe0CANti+6oWHq2U5fSi/IOuyIpBudWs6+kDb3PPkoHM0XDlFhCEULPbSRCdkSOAF5eJPQJuRpqwjd664/gCdof9NP9yk4hrqRUBEiBqVD3ccOqv5Z2BkZdNcPhgbsH+jJhYpMrhjslHSrDns+Oo81EMMo74awie9S2lfqY35Vta5Ivwa954/31AMg60ZsK0Rr8W8ycAaoFGeRYcSMCYtmtg97OtEcytMyis2WP6kjl4GSDqBAHNrKSwDXueUuBOVwQxocFsNIofTJDnITtXREzW4sOmmLcBE46h46Medw/8AVBsfYMvS3w2qAUoEEYjJ5kax1jtgPuq2T2b0/B0tHCLuTTkxPuhpl8oZLHbgRl22umFGurp2k2SzmZYsfbhtPmcchM0UYN45BQvKbOA1CogcjqI9nrA6Kn3OY/ot7gPdUv7vYXhmDlFYmu5RUjEganqlY8bMSTi7OgbE6v0aqgOtTFqfD2m1UnTSFfwOmZH1EJZ89gDMFC+BkarQCCC7KqIZMO1aREoLUP0JZhqwlkkZM5WBmo5pCIiHxZ0DKqOz1cdB2ZZgRsc0pK40NU/367wTBxAY7IvaGIE4tg5GH8+P0lCYg6LyoCO5vywKBHxUF5+4UrtM0Kkq8/dapgfyQcmIcCya4vIm1+N227ft0SqQ4hHCO87qEj3qLwtKGXkUOD2VwFKIsT/MacbXznd+JJ+NYdzwyVSh9dig89tX01VkVvqgaIeYKfeaMcJW8Kroi3V8HlUzVUOrjWeXj0vtPjLq7QEE0odcXX7su4hFbHKIGi/aw2rcOXGjrCa4Wq46F2gGHV9I+hsyTp+RNi+4LBBkmWZkloB4UVQhLmyLofD/sTmqY0vL1EFtYQh4vGlwyMA1qXaSnH7TcUTt79d+Cjzx189xRD4gUnvhPpoqGx9R7WQafqmKEpQrgNrUEMtpcnhOLYe78NKViEw+qBzvLSiZ1IsV6cyl1YJ1y3pJjkfonLVaqlluhhxtU6Rfn35KdJzRqtzIeJ+089GBQWI9pSSkRSCj+5qz2ciof431jcakFF8NaH8vbmjZ81WCWTdx3hrl6ITQa4PQAdEN12aafXaV9dFnwiNO+R6o5vPlrOrB4Yv3Mc1FsCwlLoC+VsAhgtOiXb0TVEWBAbOveAurjFk1ZH8Y9EyOZQes5ZbpkHqjo98sM0h4q84WzJtZtxO+8eJHx0zBkLx/VATXWw3rwgwaJVpYwAVPhbILLBVX4d8lw4uvsoUB02+rrd84hFUrtI1SPOs/znOg+9Q2IMq1RXluqojkYKdUdzSUIhAdr2xpKEOIcX1CqCYmKUJl6xYRgAJh8fq3jG5Htv1UdT3+2L5iDWzjUuhsBHjps2U/WQ0JFjSfaJJRWaJWxGZFIpa1885SjL9tWxDxsRRVy8oMB+Ni8tiv6b3kIvxz8sn0CVtVsTy/jG4qbbqm0a1+eIMc",
+            "format": "google-gemini-v1",
+            "index": 0
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210211,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 389,
+    "prompt_tokens": 1821,
+    "total_tokens": 2210,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 257,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0028245,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0028245,
+      "upstream_inference_prompt_cost": 0.00136575,
+      "upstream_inference_completions_cost": 0.00145875
+    }
+  },
+  "provider": "Google"
+}

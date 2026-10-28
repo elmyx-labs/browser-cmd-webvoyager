@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdycQKvOub6MWK1QB1W0zRUDkHuVG",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The screenshot shows a Booking.com search for Vienna with the correct stay dates: June 28 to July 2, 2027, which is 4 nights. It also shows the occupancy as 2 adults, 0 children, 1 room.\n\nThe required filters appear to be applied:\n\n- “Very Good: 8+”\n- “Breakfast included”\n- “Parking”\n- “Hotels”\n\nThe visible hotel results match these criteria, showing guest ratings of 8.6, 8.9, and 9.0, breakfast included, prices for 4 nights, and “See availability” buttons. The result response accurately summarizes three visible hotel options from the screenshot with their ratings, room types, breakfast inclusion, and prices.\n\nOne minor caveat is that the screenshot shows “197 properties found,” so the response’s wording that “Three Vienna hotels showed availability” could be interpreted as only three total, when it is really presenting three visible examples. However, the task only asked to look up hotel options, not to list every matching property.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196518,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 678,
+    "prompt_tokens": 2612,
+    "total_tokens": 3290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 452,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

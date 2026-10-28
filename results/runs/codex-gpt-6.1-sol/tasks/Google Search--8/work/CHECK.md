@@ -1,0 +1,5 @@
+- [x] Find the YouTube video 'Oscars 2023: Must-See Moments!'. https://www.youtube.com/watch?v=WOZk2ni4lCM — heading “Oscars 2023: Must-See Moments!”; Entertainment Tonight.
+- [x] Tell who the first comment displayed under that video belongs to. Same URL — first comment author “@HotFuzzGoonayorum”.
+- [x] Tell how many thumbs up and replies it has. Same URL — “Like this comment along with 399 other people”; first thread's replies section empty and hidden, 0 replies.
+- [x] Save one genuine viewport screenshot as ./final.png, about 1280 px on its long side, with the comment's name and counts visible and no overlay. final.png: 1280x723, title and first comment with 399 and no reply thread visible.
+- [x] Write result and evidence to ./ANSWER.txt. Written with author, counts, date, source and final.png evidence.

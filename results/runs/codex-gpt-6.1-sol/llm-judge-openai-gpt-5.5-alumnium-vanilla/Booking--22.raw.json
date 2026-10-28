@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edybx0JOEMx0vwTtaTjiUVAhuhzZ9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find a hotel in Amsterdam for June 15–22, 2027, for two adults, with a customer review score of 9 or higher and bicycle rentals.\n\nThe screenshot shows:\n\n- Destination: Amsterdam\n- Dates: Tue, Jun 15 – Tue, Jun 22\n- Occupancy: 2 adults, 0 children, 1 room\n- Filters applied: Hotels, Wonderful: 9+, Bicycle rental\n- A result for Element by Marriott Amsterdam with a 9.0 review score\n- The listing is available for “1 week, 2 adults”\n\nThe result response also states that Element by Marriott Amsterdam offers bicycle rental for an additional charge. This is consistent with the applied “Bicycle rental” filter shown in the screenshot.\n\nAll requested criteria appear to be satisfied.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196489,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 448,
+    "prompt_tokens": 1745,
+    "total_tokens": 2193,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 269,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

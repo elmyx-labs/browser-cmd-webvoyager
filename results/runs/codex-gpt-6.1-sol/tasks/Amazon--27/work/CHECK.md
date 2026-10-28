@@ -1,0 +1,6 @@
+- [x] USB-C hub on Amazon compatible with MacBook Pro — https://www.amazon.com/gp/product/B0C77WN21X — “UANTIN USB C Hub, 7 in 1 Multiport Adapter”; Compatible Devices: “MacBook Pro(2021/2020/2019/2018)”
+- [x] At least 4 ports, including HDMI and SD card reader — same product URL — “1 HDMI port, 3 USB-A ports, 1 SD/TF card reader slot, and 1 USB-C PD port”
+- [x] Price under $50 — same product URL and search URL below — “$8.99”; selected Black, 5.9INCH
+- [x] Select the one after sorting by Best Sellers — https://www.amazon.com/s?k=usb+c+hub+macbook+pro+hdmi+sd+card+reader&rh=p_36%3A-4999&s=exact-aware-popularity-rank — “Best Sellers”; UANTIN first result; max price “$49.99”
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px long side — 1440x1240 viewport resized proportionally; name, 7-in-1, HDMI, card reader, price, Best Sellers, price limit and search terms visible; product compatibility and SD verified in browser separately; no overlay
+- [x] Write result and evidence to ./ANSWER.txt

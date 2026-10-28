@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--10",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "If I start using Copilot Individual, how much US dollars will it cost per year and what features does it have?",
+  "answer": "FINAL: For a new paid individual subscription, GitHub currently lists Copilot Pro at US$10 per month—US$120 for 12 months at that rate.\n\nAs checked on October 28, 2026, its main features include:\n- Unlimited code completions and next-edit suggestions.\n- Copilot Chat in supported IDEs, on GitHub and GitHub Mobile, plus inline chat and slash commands.\n- Model selection and access to medium-complexity models.\n- Agent mode, Copilot cloud agent, and code review.\n- Access to third-party agents such as Claude Code and Codex.\n- Copilot CLI, the Copilot app, and community support.\n- Custom instructions and agents, MCP integrations, Copilot Spaces, and a public-code filter with code referencing.\n- Currently 1,500 AI credits per month ($15 usage value), including 1,000 base credits and a variable 500-credit flex allotment. Extra usage can cost more; unused credits do not roll over.\n\nGitHub now presents several individual plans rather than a single plan named “Copilot Individual.” The price above is for the entry-level paid plan, Pro. Existing annual subscriptions are covered by legacy billing terms; the current price for a new subscription is monthly.\n\nEvidence: final.png shows GitHub's individual pricing cards with the Pro price and principal features.\nSources:\nhttps://github.com/features/copilot/plans\nhttps://github.com/features/copilot\nhttps://docs.github.com/en/copilot/get-started/plans\nhttps://docs.github.com/en/copilot/concepts/billing-and-usage/individuals/billing\nhttps://docs.github.com/en/copilot/reference/copilot-billing/request-based-billing-legacy/what-changed-with-billing",
+  "response": "Based on the user instruction and the provided screenshot/response:\n\n1. **Annual Cost**: The response clearly explains that for individual use, GitHub currently offers tiered plans where the standard entry-level paid plan (Pro) is billed at $10 USD per month (totaling $120 USD per year).\n2. **Features**: The response accurately details the features associated with this individual plan as shown in the screenshot (including unlimited code completions, access to medium-complexity models, 3rd party agents, monthly AI credits, etc.).\n\nAll aspects of the instruction were thoroughly answered with clear evidence.\n\nSUCCESS",
+  "reason_short": "Based on the user instruction and the provided screenshot/response: 1. **Annual Cost**: The response clearly explains that for individual use, GitHub currently offers tiered plans where the standard entry-level paid plan (Pro) is billed at ",
+  "screenshots": [
+    "task_377/final.png"
+  ],
+  "raw_screenshot": "task_377/final.png",
+  "source_result": "task_377",
+  "usage": {
+    "completion_tokens": 468,
+    "prompt_tokens": 1991,
+    "total_tokens": 2459,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 342,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00324825,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00324825,
+      "upstream_inference_prompt_cost": 0.00149325,
+      "upstream_inference_completions_cost": 0.001755
+    }
+  },
+  "elapsed_seconds": 18.51
+}

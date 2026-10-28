@@ -1,0 +1,5 @@
+[x] Count articles with 'SimCSE' in the article on ArXiv. Search result: "Showing 1–4 of 4 results"; query "terms: AND all=SimCSE".
+[x] Filter originally announced in October 2023. Each of the four results states "originally announced October 2023". October original-submission date range applied and announcement-date sort visible.
+[x] Save one genuine viewport screenshot as ./final.png, about 1280 px on long side, showing the result and applied constraints. final.png is the 1280×723 resized browser viewport, the only evidence image read.
+[x] Write result and evidence to ./ANSWER.txt. FINAL: 4 articles; source URL and screenshot evidence recorded.
+Source for all facts: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=SimCSE&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2023-10-01&date-to_date=2023-10-31&date-date_type=submitted_date_first&abstracts=hide&size=50&order=-announced_date_first

@@ -1,0 +1,6 @@
+## session of the actor
+No tab is kept.
+<browser trusted="no">
+*t1 ok https://www.booking.com/searchresults.html?label=mkt123sc-fbe76a17-5ce5-4452-940a-1911a0e10123&aid=304142&ss=Paris%2C+Ile+de+France%2C+France&efdco=1&lang=en-us&src=index&dest_id=-1456928&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=14e12a256d2807bc459f42c3f14bafb3&checkin=2027-01-15&checkout=2027-01-20&group_adults=2&no_rooms=1&group_children=0&nflt=ht_id%3D204%3Bmealplan%3D1%3Breview_score%3D90%3Bhotelfacility%3D107 — Booking.com: Hotels in Paris. Book your hotel now!
+ t2 ok https://www.booking.com/hotel/fr/hotel-saint-louis-jardin-du-luxembourg.html — Hôtel Saint-Louis - Jardin du Luxembourg, Paris (updated prices 2027)
+</browser>

@@ -1,0 +1,31 @@
+{
+  "id": "Coursera--19",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify a course on Coursera that provides an introduction to Psychology, list the instructor's name, the institution offering it, and how many hours it will approximately take to complete.",
+  "answer": "FINAL: Introduction to Psychology — taught by Paul Bloom and offered by Yale University on Coursera. It takes approximately 20 hours, based on Coursera’s estimate of “2 weeks at 10 hours a week.”\nSource: https://www.coursera.org/learn/introduction-psychology\nEvidence: final.png shows the course title, Yale logo, instructor, and estimated schedule.",
+  "response": "The task was to identify a Coursera course introducing Psychology and provide:\n\n- Course name\n- Instructor’s name\n- Institution offering it\n- Approximate completion time\n\nThe screenshot shows the Coursera page for **“Introduction to Psychology”**, offered by **Yale**, with **Instructor: Paul Bloom**. It also shows the schedule estimate as **“2 weeks at 10 hours a week,”** which reasonably translates to approximately **20 hours** total.\n\nThe result response accurately reports all required details:\n- Course: **Introduction to Psychology**\n- Instructor: **Paul Bloom**\n- Institution: **Yale University**\n- Approximate completion time: **20 hours**\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to identify a Coursera course introducing Psychology and provide: - Course name - Instructor’s name - Institution offering it - Approximate completion time The screenshot shows the Coursera page for **“Introduction to Psycholog",
+  "screenshots": [
+    "task_301/final.png"
+  ],
+  "raw_screenshot": "task_301/final.png",
+  "source_result": "task_301",
+  "usage": {
+    "completion_tokens": 230,
+    "prompt_tokens": 1677,
+    "total_tokens": 1907,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 4.08
+}

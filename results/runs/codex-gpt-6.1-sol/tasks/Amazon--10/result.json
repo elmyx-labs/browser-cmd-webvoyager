@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Amazon",
+    "id": "Amazon--10",
+    "ques": "Find the cost of a 2-year protection for PS4 on Amazon.",
+    "web": "https://www.amazon.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The 2-year protection plan costs $21.99 (USD) for the PlayStation 4 Console – 1TB Slim Edition (Renewed) on Amazon. The product page lists “2-Year Protection Plan for $21.99” under “Add a protection plan.” Checked October 27, 2026, with delivery set to New York 10001. Source: https://www.amazon.com/dp/B07ZQ6C67P . Evidence: final.png.",
+    "result_text": "FINAL: The 2-year protection plan costs $21.99 (USD) for the PlayStation 4 Console – 1TB Slim Edition (Renewed) on Amazon. The product page lists “2-Year Protection Plan for $21.99” under “Add a protection plan.” Checked October 27, 2026, with delivery set to New York 10001. Source: https://www.amazon.com/dp/B07ZQ6C67P . Evidence: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_50/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_50",
+  "elapsed_seconds": 81.31960606575012,
+  "execution_error": null,
+  "proxy_bytes": null
+}

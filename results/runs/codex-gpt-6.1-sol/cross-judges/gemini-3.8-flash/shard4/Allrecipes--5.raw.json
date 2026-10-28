@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209889-R8ifxNBGBDrpSEnmk10Z",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task requires finding a popular pasta sauce recipe with more than 1,000 reviews and a rating above 4 stars, and creating a shopping list of ingredients for the recipe.\n\n1. **Recipe Qualification**: The screenshot from Allrecipes confirms \"Homemade Spaghetti Sauce with Ground Beef\" is classified under Pasta Sauces, has a 4.7 rating (above 4 stars), and 1,178 reviews (more than 1,000 reviews).\n2. **Shopping List**: The result response provides a complete shopping list of ingredients required to prepare the recipe.\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding a Delicious Sauce**\n\nI've located a promising recipe: \"Homemade Spaghetti Sauce with Ground Beef\" on Allrecipes! It boasts a rating of 4.7, which is excellent. I'm moving forward with ingredient analysis, after I verify the recipe has the required number of ratings.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding a Delicious Sauce**\n\nI've located a promising recipe: \"Homemade Spaghetti Sauce with Ground Beef\" on Allrecipes! It boasts a rating of 4.7, which is excellent. I'm moving forward with ingredient analysis, after I verify the recipe has the required number of ratings.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209889,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 489,
+    "prompt_tokens": 1834,
+    "total_tokens": 2323,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 356,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00320925,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00320925,
+      "upstream_inference_prompt_cost": 0.0013755,
+      "upstream_inference_completions_cost": 0.00183375
+    }
+  },
+  "provider": "Google AI Studio"
+}

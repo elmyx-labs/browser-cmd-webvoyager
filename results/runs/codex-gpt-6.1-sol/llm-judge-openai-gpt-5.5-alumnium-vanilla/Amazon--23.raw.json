@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-Edya0yiGQb22Iupi17UnLHSzCZMMu",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The screenshot shows an Amazon product page for a “Fitpolo Smart Watches for Men” with:\n\n- Men’s watch: Title explicitly says “for Men”\n- Waterproof: Title states “IP68 Waterproof”\n- Digital/sports watch: It is a smartwatch/fitness watch with a digital display and “105+ Sports Tracker”\n- Heart rate monitor: Title includes “Heart Rate/Sleep/SpO2 Monitor”\n- Price range: Listed price is $51.77, which is between $50 and $100\n- Availability: It is in stock\n\nThe result response accurately reflects what is visible in the screenshot.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196368,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 299,
+    "prompt_tokens": 1719,
+    "total_tokens": 2018,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 161,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

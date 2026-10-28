@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210452-X1ItvBKCa1mCXc4oH4pv",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "**Evaluation:**\n\nThe search criteria match the requirements: a one-way economy flight from Pune (PNQ) to New York on January 15. The displayed top result shows an IndiGo/American Airlines flight with a 1-stop transfer at Delhi (DEL) taking 2 hours and 30 minutes, which is correctly identified and summarized in the response.\n\n**Verdict:** SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Evaluating Task Progress**\n\nI've identified a potential flight route for the Pune to New York request on January 15th, including a transfer in New Delhi. Now, I need to focus on determining the specific layover duration for this itinerary.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Evaluating Task Progress**\n\nI've identified a potential flight route for the Pune to New York request on January 15th, including a transfer in New Delhi. Now, I need to focus on determining the specific layover duration for this itinerary.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+2nXdDOykhtnGGTHt3lj7BI/nmx11XrwRvPpeG/aWz6RAr7KRr4trwkx2A4BKltE/HUuLVID0hLlMW3lj95QmyBuS9Y62rAV3pyzyPC5znJytbyjXxPcnGX/xU7sLCI8bxaMju/ll+aC1sJzoGbqXt7gRfoS2XAqGbEmmU3IZEKVdeZl5hg+fAdqNLJVP8hnMn9ca6WnRsYO9lWq+Z0ITz38dHcVQrM8MNDhdUldKtcLlov8NKW6FnHMhMOMRkfTbY5V6boEyZJsg4Qo8DatSb7KN0Si4QILMTVxhP9QGLAAnTawtO9j9h6xUMFMw4No/5ECsvf+w86BC3S7ps+HweNhgwvJrMeXVMaTIyvaMNcl0N6YZyxfsGHCCoaXYpHbB8KS+FY7LTIeg6OI5DSZT1ctG3wqWJYUkQQLwL6QdtFQ4QZ8klSSkHV88UDYAsCqvdocPwiRbaCWH6UAST+GqGLU0yOoqC7DBwTkaZO6Gm0USlBUv/Fgo2tp5/pZYWLQT32yat8lDxABOOJDpNryf8WFt1JLg1Em7pRPAnf9VdmzXxsMHwNWMIcEZ7sYnDSWp+s0ViQeOH36hbjKBb66Vj7sE/6tCGlOUBihpQUWOhkf7JZWzATikRW2BRs30RmkCVzuuNWYWM9DighuexXs7F0CtE+6ePvvksFWzYBMKwusl4MKrLRtZ7IAdDLpsrNFtt9Tw7mFj8N5rB1DVub+JV74/dDNx5MpFq7oSH1xcaVI3sIF2s/fQ0mOX7oGiSDZTzJCZ/eHm4TvYNMC32v6tItGZMVclKKnjvwdPOqlBbiDcyB+Hcsg2SenJJg5ebiFw//EcI3k5b7DVGljr7ISMN685ZHErabXrZcFabQd1lNFaAoawqdbZmaK3NrmEqw7zkPubZeXxV1hWdvzWZrs9WMfgyny6dxx0BpwzctNTc5Gp1BZ4kZ73eVYXuCimyjtzZdafwSmASvvbQD9tJufxh4RPg3cRx3gYajyNS867WBvoD9JXNfPdZhGBmDes3sZ2iRT6Nwn1NWIvj1nDeIiOfaxJ7U9aCwDQ/paDj3MC8my4rJza+taUmulscQFvM4HS1LbzltuA0+yGq8AGfco/x27lbEjGVNnQXgcOLGXPcNeapsGAVDRoCq/aI0laNjxLgnXDryOGaRwrTU9egwwJDRE3Em8KnBL9O5hLZLm0slU7knF9O23VeQbzplqN/7OZPuVo7wiIVp3pqw4+qF1J6go5lG8LHeEM0BVtOlWmCCCJNpBOC99Y1DpEddKPYsuIv7Hq4vNZGqHQP3U2O5R8dkK2dIfdvd0ij2io0Z/RAHlx21+PIinOoT+tzyNOsF8b3w0u4dpYqDOpx01l9qxPklIs4Fn9/1JiydYeA6BmHx7pzt0aagwLtegDC0Zgxwuq+CkuPh5S/xpWhguNn4oK0RZFkINdKkAr43W9kr9dEU3MfHtENNeKSd7NcreogmVULqFyKLA8mhTJPkQTthkxQe9p553CaaHO3xRocQvrbysMzykfmGo0Q5Q86Y/BRdJEvCB0+q9ElFP+gjX3BFzvY/USTe2kpOJzRa+lQIn5dEy0x1ZzzfshSQnak2sE64CZzD3ApwtM6Ufc8zQdeOOEGVDWEZSxgn/fkzp16F+KkYfJetOrGZIvVkl0EKuJjUs0JVzDECzMFr3rmhVOHN3Jdrc4IgxGDJBm/2kQr83o1GrksxwR30bBuh57PcROoWVTIue//JGOAjr9FcDG6VqJ95CZg4DTB6LWxcet+Jfo53Cd1ZBZ5EXcxLC2IroRxAanKpQtpApK4JIBOL7ewuHJi7UWTx1srB2TxNrmKgq0eTfV9CYkXBQQvv/z7Vsv4WiNqd5KtBaFBUqVJU06Y5IUTFSrFknGf6ZQ3AtNvWEkQlVNETLdkGQovdZgmUHoWzAYKbGpCQGh2EO4Cb9STKOKpvLVRy4nxh4S1SpBZICiaFYNXBtAKWqJLBPb/RpVLT5fRLxXlbHnrSXo0CX2y2tbdMMfhrrxKwRZ0WqvtYSPt3DaHBchTyx9q5+SYICSJFfk=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210452,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 401,
+    "prompt_tokens": 1937,
+    "total_tokens": 2338,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0029565,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0029565,
+      "upstream_inference_prompt_cost": 0.00145275,
+      "upstream_inference_completions_cost": 0.00150375
+    }
+  },
+  "provider": "Google"
+}

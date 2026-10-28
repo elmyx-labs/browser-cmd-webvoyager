@@ -1,0 +1,5 @@
+- [x] Locate a high-rated recipe for gluten-free brownies on Allrecipes with at least 50 reviews. https://www.allrecipes.com/recipe/127503/gluten-free-fudge-brownies/ — "Gluten-Free Fudge Brownies", "4.1 out of 5", "59 Reviews", "76 Ratings".
+- [x] List the main ingredients. Same URL, Ingredients section at 1X; all eight ingredients and quantities recorded in ANSWER.txt.
+- [x] List the total time required for preparation and cooking. Same URL: "Prep Time: 15 mins", "Cook Time: 45 mins", "Total Time: 1 hr".
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with recipe name, rating, and review count visible together and no overlay. final.png (1280×723) shows title, 4.1, and 59 Reviews.
+- [x] Write the result and evidence to ./ANSWER.txt. Saved with FINAL: first line, source, ingredients, time, and evidence.

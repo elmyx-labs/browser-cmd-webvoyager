@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--33",
+    "ques": "Find Customer Stories on the GitHub page and list the 2 stories that appear on the web page.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: The first two featured Customer Stories are:\n1. GM — accelerated software delivery and strengthened engineering culture using GitHub. https://github.com/customer-stories/general-motors\n2. AstraZeneca — faster medicine discovery with GitHub and AI. https://github.com/customer-stories/astrazeneca\nEvidence: GitHub Customer Stories, https://github.com/customer-stories?type=enterprise, viewed October 28, 2026; final.png shows both featured stories.",
+    "result_text": "FINAL: The first two featured Customer Stories are:\n1. GM — accelerated software delivery and strengthened engineering culture using GitHub. https://github.com/customer-stories/general-motors\n2. AstraZeneca — faster medicine discovery with GitHub and AI. https://github.com/customer-stories/astrazeneca\nEvidence: GitHub Customer Stories, https://github.com/customer-stories?type=enterprise, viewed October 28, 2026; final.png shows both featured stories.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_400/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_400",
+  "elapsed_seconds": 86.84484815597534,
+  "execution_error": null,
+  "proxy_bytes": 8222359
+}

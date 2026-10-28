@@ -1,0 +1,3 @@
+[x] Search for the word "ephemeral" on Cambridge Dictionary and find its translation into Spanish. https://dictionary.cambridge.org/dictionary/english-spanish/ephemeral — “ephemeral”, “efímero”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and translation without a pop-up, banner or open dialog. final.png, captured after dismissing the cookie banner; English–Spanish, “ephemeral”, “efímero”.
+[x] Write the result and its evidence to ./ANSWER.txt. FINAL: “Ephemeral” translates into Spanish as “efímero” in Cambridge Dictionary. Source: https://dictionary.cambridge.org/dictionary/english-spanish/ephemeral; evidence: final.png.

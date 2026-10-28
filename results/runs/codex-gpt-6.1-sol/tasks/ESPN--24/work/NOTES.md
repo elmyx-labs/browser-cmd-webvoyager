@@ -1,0 +1,2 @@
+- ESPN Week 7 schedule: https://www.espn.com/nfl/schedule/_/week/7/year/2026/seasontype/2 — last dated game is Monday, October 26, 2026: Dallas @ Philadelphia, “DAL 38, PHI 21”. Week 8 begins Thursday, October 29, 2026, after the current date of October 28.
+- ESPN game page: https://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles — “Dallas Cowboys”, “38”, “Final”, “Philadelphia Eagles”, “21”; Game Information: “8:15 PM, October 26, 2026”; Where to Watch: “ESPN”, “ABC”, “Disney+”.

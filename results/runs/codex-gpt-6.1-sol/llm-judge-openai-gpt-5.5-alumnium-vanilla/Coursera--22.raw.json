@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdydK7yEyDK2FVOHq0LxuuVDBjcz5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to identify a Coursera Specialization focused on “Human Resource,” list the courses included, and name the offering institution.\n\nThe screenshot clearly shows the Coursera page for **“Human Resource Management: HR for People Managers Specialization.”** It also shows the **Courses** tab with five listed courses:\n\n1. Preparing to Manage Human Resources  \n2. Recruiting, Hiring, and Onboarding Employees  \n3. Managing Employee Performance  \n4. Managing Employee Compensation  \n5. Human Resources Management Capstone: HR for People Managers  \n\nOn the right side of the screenshot, under **“Offered by,”** it shows **University of Minnesota**.\n\nThe Result Response accurately reports the specialization title, the five courses, and the institution, matching the screenshot.\n\n**Verdict: SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196574,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 263,
+    "prompt_tokens": 1738,
+    "total_tokens": 2001,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

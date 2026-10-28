@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--33",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find Customer Stories on the GitHub page and list the 2 stories that appear on the web page.",
+  "answer": "FINAL: The first two featured Customer Stories are:\n1. GM — accelerated software delivery and strengthened engineering culture using GitHub. https://github.com/customer-stories/general-motors\n2. AstraZeneca — faster medicine discovery with GitHub and AI. https://github.com/customer-stories/astrazeneca\nEvidence: GitHub Customer Stories, https://github.com/customer-stories?type=enterprise, viewed October 28, 2026; final.png shows both featured stories.",
+  "response": "**Rationale:** The user requested locating Customer Stories on GitHub and listing two stories shown on the page. The screenshot displays GitHub Customer Stories, featuring GM and AstraZeneca, which were accurately identified and listed in the response.\n\n**Verdict:** SUCCESS",
+  "reason_short": "**Rationale:** The user requested locating Customer Stories on GitHub and listing two stories shown on the page. The screenshot displays GitHub Customer Stories, featuring GM and AstraZeneca, which were accurately identified and listed in t",
+  "screenshots": [
+    "task_400/final.png"
+  ],
+  "raw_screenshot": "task_400/final.png",
+  "source_result": "task_400",
+  "usage": {
+    "completion_tokens": 283,
+    "prompt_tokens": 1684,
+    "total_tokens": 1967,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 236,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00232425,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00232425,
+      "upstream_inference_prompt_cost": 0.001263,
+      "upstream_inference_completions_cost": 0.00106125
+    }
+  },
+  "elapsed_seconds": 6.75
+}

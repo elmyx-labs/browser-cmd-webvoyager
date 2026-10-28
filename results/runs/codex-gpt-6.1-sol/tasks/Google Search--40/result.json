@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Search",
+    "id": "Google Search--40",
+    "ques": "Look up the elevation of Mount Kilimanjaro on Google Search.",
+    "web": "https://www.google.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Mount Kilimanjaro’s elevation is 5,895 metres (19,341 feet) above sea level, at Uhuru Peak.\nEvidence: Google Search results for “Mount Kilimanjaro elevation” show this height in the AI Overview and the Wikipedia result. Viewed October 27, 2026.\nSource: https://www.google.com/search?q=Mount+Kilimanjaro+elevation&source=hp&sei=NzDharvpFKaDxc8P-77riQk\nScreenshot: final.png",
+    "result_text": "FINAL: Mount Kilimanjaro’s elevation is 5,895 metres (19,341 feet) above sea level, at Uhuru Peak.\nEvidence: Google Search results for “Mount Kilimanjaro elevation” show this height in the AI Overview and the Wikipedia result. Viewed October 27, 2026.\nSource: https://www.google.com/search?q=Mount+Kilimanjaro+elevation&source=hp&sei=NzDharvpFKaDxc8P-77riQk\nScreenshot: final.png",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_527/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_527",
+  "elapsed_seconds": 39.92317795753479,
+  "execution_error": null,
+  "proxy_bytes": null
+}

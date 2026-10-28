@@ -1,0 +1,6 @@
+[x] Find the best-priced round-trip flight from New York to London. Best confirmed booking offer: $861 USD, Aer Lingus/SWISS; Google Flights booking source in ANSWER.txt. Exact $836 Shannon/Frankfurt combination (EI110/EI380 + VL921/LH400; URL in evidence.json) explicitly returned "Sorry, the itinerary you selected is no longer available".
+[x] Leaving on June 25, 2027, and returning on July 5, 2027. Booking source URL contains both dates; selected flights state Fri, Jun 25 and Mon, Jul 5.
+[x] With one stop or fewer. Search source URL in ANSWER.txt and final.png show "1 stop or fewer"; selected flights show 1 stop each way, SNN and ZRH.
+[x] Use the site's cheapest sort. Search source URL in ANSWER.txt: Cheapest selected on full route search; final return page says "Sorted by price".
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with name, constraints, dates, filters and sort visible, without overlays. final.png is the 1280x722 viewport image of the search source URL in ANSWER.txt, showing SWISS $861 round trip, dates, route, stop filter and price sort.
+[x] Write the result and evidence to ./ANSWER.txt. Written with FINAL: first line, itinerary details, booking source and screenshot source.

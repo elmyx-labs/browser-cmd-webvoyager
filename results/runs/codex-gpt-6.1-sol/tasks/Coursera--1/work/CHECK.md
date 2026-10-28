@@ -1,0 +1,4 @@
+[x] Search for a beginner-level online course about Python programming on Coursera. https://www.coursera.org/learn/python — “Programming for Everybody (Getting Started with Python)”; “Beginner level”. Found through Coursera search for Python programming.
+[x] Verify it is suitable for someone who has no programming experience. https://www.coursera.org/learn/python — “No prior experience required”; “The course has no pre-requisites”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the course name and deciding facts with no overlay. final.png: 1280×722 viewport screenshot showing the title, “Beginner level” and “No prior experience required”. No filters, sort or date constraints were requested or applied.
+[x] Write the result and evidence to ./ANSWER.txt. Saved with course, provider, requirements, source URL, verification date and screenshot evidence.

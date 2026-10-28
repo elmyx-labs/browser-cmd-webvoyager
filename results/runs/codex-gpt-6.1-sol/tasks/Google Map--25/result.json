@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--25",
+    "ques": "Search for a parking facility near the Fox Theater in Detroit that closes at night.",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: 421 Bagley Parking, 421 Bagley St, Detroit, is near the Fox Theatre and closes at 1 AM every night. Google Maps lists its hours as 6 AM–1 AM daily and a walking route from the theatre of 0.5 mile (about 12 minutes) via Bagley St.\n\nHours and address: https://www.google.com/maps/place/421+Bagley+Parking/@42.3331382,-83.0633033,16z/data=!4m11!1m3!2m2!1sparking+near+Fox+Theatre+Detroit!6e2!3m6!1s0x883b2d371b3f76c5:0xecc0f16c0e4f5c20!8m2!3d42.3331382!4d-83.0537761!15sCiBwYXJraW5nIG5lYXIgRm94IFRoZWF0cmUgRGV0cm9pdFoiIiBwYXJraW5nIG5lYXIgZm94IHRoZWF0cmUgZGV0cm9pdJIBC3BhcmtpbmdfbG90mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU40YUVweGQyWjNFQUXgAQD6AQQIABAz!16s%2Fg%2F11c60mjhyd?hl=en\nWalking route: https://www.google.com/maps/dir/?api=1&origin=Fox+Theatre+Detroit&destination=421+Bagley+St+Detroit&travelmode=walking\nEvidence: final.png shows the Google Maps listing and opening hours. Checked October 27, 2026.",
+    "result_text": "FINAL: 421 Bagley Parking, 421 Bagley St, Detroit, is near the Fox Theatre and closes at 1 AM every night. Google Maps lists its hours as 6 AM–1 AM daily and a walking route from the theatre of 0.5 mile (about 12 minutes) via Bagley St.\n\nHours and address: https://www.google.com/maps/place/421+Bagley+Parking/@42.3331382,-83.0633033,16z/data=!4m11!1m3!2m2!1sparking+near+Fox+Theatre+Detroit!6e2!3m6!1s0x883b2d371b3f76c5:0xecc0f16c0e4f5c20!8m2!3d42.3331382!4d-83.0537761!15sCiBwYXJraW5nIG5lYXIgRm94IFRoZWF0cmUgRGV0cm9pdFoiIiBwYXJraW5nIG5lYXIgZm94IHRoZWF0cmUgZGV0cm9pdJIBC3BhcmtpbmdfbG90mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU40YUVweGQyWjNFQUXgAQD6AQQIABAz!16s%2Fg%2F11c60mjhyd?hl=en\nWalking route: https://www.google.com/maps/dir/?api=1&origin=Fox+Theatre+Detroit&destination=421+Bagley+St+Detroit&travelmode=walking\nEvidence: final.png shows the Google Maps listing and opening hours. Checked October 27, 2026.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_472/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_472",
+  "elapsed_seconds": 136.6632537841797,
+  "execution_error": null,
+  "proxy_bytes": null
+}

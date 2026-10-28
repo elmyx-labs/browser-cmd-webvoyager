@@ -1,0 +1,31 @@
+{
+  "id": "Cambridge Dictionary--36",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for guidelines on using indirect speech in English, with examples of how to change direct speech to indirect speech, on the Cambridge Dictionary.",
+  "answer": "FINAL: Cambridge Dictionary’s English Grammar Today guide “Reported speech: indirect speech” provides the requested guidelines and direct-to-indirect examples.\n\nSource: https://dictionary.cambridge.org/grammar/british-grammar/reported-speech-indirect-speech?q=indirect+speech\nAccessed 27 October 2026.\n\nKey guidelines:\n• Statements: use a reporting clause followed by a clause with optional “that”.\n• Yes/no questions: introduce the reported question with “if” or “whether” and use statement word order (subject + verb).\n• Wh-questions: retain the wh-word, use statement word order, and omit the question mark.\n• Commands: use a reporting verb with a to-infinitive; negative commands can use “not to”.\n• Tenses often move back: present simple → past simple; present continuous → past continuous; present perfect and past simple → past perfect; will → would. Past perfect stays unchanged. Backshift is unnecessary when the information remains true or relevant, or the event has not happened yet.\n• Adjust pronouns to match the speaker and listener. Adjust time/place expressions when needed: here → there; tomorrow → the next/following day; now → then.\n\nCambridge examples:\n• ‘I’m tired,’ I said. → I told them (that) I was tired.\n• ‘Are you ready?’ the nurse asked Joel. → The nurse asked Joel if/whether he was ready.\n• ‘Who are you?’ she asked. → She asked me who I was.\n• ‘Leave at once!’ they ordered. → They ordered us to leave at once.\n\nEvidence: final.png shows the Cambridge guide’s title and its opening table comparing direct and indirect statements, questions and commands.",
+  "response": "The task was to find Cambridge Dictionary guidance on using indirect speech in English, including examples of converting direct speech to indirect speech.\n\nThe result response provides:\n\n- A Cambridge Dictionary source URL for “Reported speech: indirect speech.”\n- A summary of relevant guidelines, including statements, yes/no questions, wh-questions, commands, tense backshift, pronoun changes, and time/place expression changes.\n- Several direct-to-indirect examples.\n- The screenshot supports the result by showing the Cambridge Dictionary page titled “Reported speech: indirect speech” and a table with direct and indirect examples for statements, questions, and commands.\n\nThis aligns well with the task requirements. The screenshot confirms the page is on Cambridge Dictionary and contains the requested examples, and the response supplies the needed guideline summary.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find Cambridge Dictionary guidance on using indirect speech in English, including examples of converting direct speech to indirect speech. The result response provides: - A Cambridge Dictionary source URL for “Reported speec",
+  "screenshots": [
+    "task_277/final.png"
+  ],
+  "raw_screenshot": "task_277/final.png",
+  "source_result": "task_277",
+  "usage": {
+    "completion_tokens": 339,
+    "prompt_tokens": 1944,
+    "total_tokens": 2283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 172,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.73
+}

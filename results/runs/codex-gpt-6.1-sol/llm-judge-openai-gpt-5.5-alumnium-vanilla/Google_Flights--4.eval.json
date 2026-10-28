@@ -1,0 +1,31 @@
+{
+  "id": "Google Flights--4",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for one-way flights from New York to London on Dec. 26th and filter the results to show only non-stop flights.",
+  "answer": "FINAL: Google Flights now shows one-way flights from New York to London departing December 26, 2026, with the Nonstop filter applied. Evidence: final.png shows the route, One way, Sat, Dec 26, the active Nonstop filter, and nonstop flight results together.\nSource: https://www.google.com/travel/flights/search?tfs=CBwQAhorEgoyMDI2LTEyLTI2KABqDQgDEgkvbS8wMl8yODZyDAgDEggvbS8wNGpwbEABSAFwAYIBCwj___________8BmAEC&tfu=EgYIABAAGAA",
+  "response": "The screenshot shows Google Flights with:\n\n- Trip type set to **One way**\n- Origin: **New York**\n- Destination: **London**\n- Date: **Sat, Dec 26**\n- Filter chip **Nonstop** applied\n- Listed flight results all marked **Nonstop**\n\nThis aligns with the task requirement to search for one-way flights from New York to London on Dec. 26 and filter results to only non-stop flights.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The screenshot shows Google Flights with: - Trip type set to **One way** - Origin: **New York** - Destination: **London** - Date: **Sat, Dec 26** - Filter chip **Nonstop** applied - Listed flight results all marked **Nonstop** This aligns w",
+  "screenshots": [
+    "task_411/final.png"
+  ],
+  "raw_screenshot": "task_411/final.png",
+  "source_result": "task_411",
+  "usage": {
+    "completion_tokens": 230,
+    "prompt_tokens": 1731,
+    "total_tokens": 1961,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 126,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 4.34
+}

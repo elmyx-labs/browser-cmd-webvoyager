@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Google Map",
+    "id": "Google Map--35",
+    "ques": "Search for a natural reserve in Texas called Big Bend National Park and gather its Basic Information.",
+    "web": "https://www.google.com/maps/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Big Bend National Park — Basic Information\n\nName: Big Bend National Park\nCategory: National park\nLocation: Texas, United States\nDescription: 801,163 acres of river canyons, desert and mountains, with abundant wildlife and outdoor activities.\nHours: Open 24 hours, as listed on Google Maps.\nPhone: +1 432-477-2251\nWebsite: https://www.nps.gov/bibe/index.htm\nGoogle Maps rating: 4.8/5 from 6,335 reviews.\nPlus code: 6PXX+WW Big Bend National Park, Texas, USA\n\nSource: Google Maps listing, accessed October 27, 2026.\nhttps://www.google.com/maps/place/Big+Bend+National+Park/@29.3344395,-103.6170356,10z/data=!3m1!4b1!4m6!3m5!1s0x86f217704be5ef2b:0x64467dbc2783850f!8m2!3d29.2498194!4d-103.2501636!16zL20vMDFzbXI2?hl=en\nEvidence: final.png",
+    "result_text": "FINAL: Big Bend National Park — Basic Information\n\nName: Big Bend National Park\nCategory: National park\nLocation: Texas, United States\nDescription: 801,163 acres of river canyons, desert and mountains, with abundant wildlife and outdoor activities.\nHours: Open 24 hours, as listed on Google Maps.\nPhone: +1 432-477-2251\nWebsite: https://www.nps.gov/bibe/index.htm\nGoogle Maps rating: 4.8/5 from 6,335 reviews.\nPlus code: 6PXX+WW Big Bend National Park, Texas, USA\n\nSource: Google Maps listing, accessed October 27, 2026.\nhttps://www.google.com/maps/place/Big+Bend+National+Park/@29.3344395,-103.6170356,10z/data=!3m1!4b1!4m6!3m5!1s0x86f217704be5ef2b:0x64467dbc2783850f!8m2!3d29.2498194!4d-103.2501636!16zL20vMDFzbXI2?hl=en\nEvidence: final.png",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_482/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_482",
+  "elapsed_seconds": 79.61278796195984,
+  "execution_error": null,
+  "proxy_bytes": null
+}

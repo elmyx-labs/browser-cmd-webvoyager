@@ -1,0 +1,31 @@
+{
+  "id": "GitHub--26",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find the Resolve merge conflicts course in GitHub Skills and what actions learners will perform in this course.",
+  "answer": "FINAL: GitHub Skills’ “Resolve Merge Conflicts” course teaches learners to create a pull request, resolve its merge conflict using GitHub’s web editor, and merge the pull request.\n\nLearners create a pull request from my-resume into main, fix conflicting changes in resume.md by choosing which changes to keep and removing conflict markers, then mark the conflict as resolved, commit the resolution, and merge the pull request. Deleting the practice branch afterward is optional. The course also explains why merge conflicts occur and how to identify them.\n\nSources:\nCourse: https://github.com/skills/resolve-merge-conflicts\nCreate a pull request: https://github.com/skills/resolve-merge-conflicts/blob/main/.github/steps/1-step.md\nResolve the conflict: https://github.com/skills/resolve-merge-conflicts/blob/main/.github/steps/2-step.md\nMerge the pull request: https://github.com/skills/resolve-merge-conflicts/blob/main/.github/steps/3-step.md\nCourse review and screenshot evidence: https://github.com/skills/resolve-merge-conflicts/blob/main/.github/steps/x-review.md\nScreenshot: final.png. Verified October 28, 2026.",
+  "response": "The task was to find the GitHub Skills course “Resolve merge conflicts” and identify what actions learners will perform in the course.\n\nThe result response directly identifies the course as GitHub Skills’ “Resolve Merge Conflicts” course and explains the learner actions: creating a pull request, resolving a merge conflict in GitHub’s web editor by choosing changes/removing conflict markers, marking the conflict resolved, committing the resolution, and merging the pull request.\n\nThe screenshot supports this: it shows the GitHub repository `skills/resolve-merge-conflicts`, specifically the review file for the course. The visible review confirms learners practice:\n\n- Understanding why merge conflicts occur\n- Identifying conflicts in pull requests\n- Resolving conflicts using GitHub’s web editor by choosing which changes to keep\n- Merging the pull request after resolving conflicts\n\nThe response also includes additional step-level detail and source links. Nothing in the screenshot contradicts the response.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to find the GitHub Skills course “Resolve merge conflicts” and identify what actions learners will perform in the course. The result response directly identifies the course as GitHub Skills’ “Resolve Merge Conflicts” course and",
+  "screenshots": [
+    "task_393/final.png"
+  ],
+  "raw_screenshot": "task_393/final.png",
+  "source_result": "task_393",
+  "usage": {
+    "completion_tokens": 377,
+    "prompt_tokens": 1834,
+    "total_tokens": 2211,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 177,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.14
+}

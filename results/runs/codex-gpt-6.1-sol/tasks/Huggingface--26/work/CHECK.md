@@ -1,0 +1,6 @@
+- [x] Identify a model on Hugging Face designed for generating travel chats. https://huggingface.co/bitext/Mistral-7B-Travel — Intended Use: creation of chatbots, virtual assistants and copilots for the Travel domain.
+- [x] Obtain its name. Same source: Mistral-7B-Travel, by bitext.
+- [x] Obtain its size. Same source: fine-tuned version of mistralai/Mistral-7B-Instruct-v0.2; https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2 — Model size: 7B params.
+- [x] Obtain its training framework. Bitext model card, Training Procedure > Environment: Framework: PyTorch 2.3.1+cu121; Transformers Version: 4.43.4.
+- [x] Save one genuine viewport screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side, with name and deciding facts visible together and no overlay. Bitext card at scroll y=2530; model name includes 7B, framework line visible. No filters, sort or date constraint was requested.
+- [x] Write result and evidence to ./ANSWER.txt.

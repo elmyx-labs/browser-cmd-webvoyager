@@ -1,0 +1,6 @@
+- [x] Find a set of solar-powered garden lights on Amazon. https://www.amazon.com/DenicMic-Pathway-Waterproof-Stainless-Driveway/dp/B0C1Z6P1QG/ — title says Solar Pathway Lights, subtitle says Yard Garden Decor; description confirms solar panels convert solar energy into electrical energy.
+- [x] Minimum pack of 10 lights. Same URL — "10 Pack"; selected "Warm White 10Pack".
+- [x] LED. Same URL — title says "Warm White LED".
+- [x] Priced under $50. Same URL — $23.39 item price ($2.34/count), before shipping and tax.
+- [x] Save genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with item name and deciding facts visible together and no overlay. final.png is a 1280x723 viewport showing title, selected variant, and price; no filters, sorts, or date filters applied.
+- [x] Write result and evidence to ./ANSWER.txt. Written with product, price, requirements, source, date, and screenshot reference.

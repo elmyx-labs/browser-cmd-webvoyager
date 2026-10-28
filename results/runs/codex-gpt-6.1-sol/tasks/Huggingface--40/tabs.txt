@@ -1,0 +1,11 @@
+## session of the actor
+6 kept tabs: 0 ok, 6 not (t2 http 429, t3 http 429, t4 http 429, t5 http 429, t6 http 429, t7 http 429).
+<browser trusted="no">
+ t2 kept http 429 https://huggingface.co/docs/text-embeddings-inference/main/en/index — 429 – Hugging Face [screenshot media/browser/browser-0003.png]
+ t3 kept http 429 https://huggingface.co/docs/text-embeddings-inference/index?x=1 — 429 – Hugging Face [screenshot media/browser/browser-0004.png]
+ t4 kept http 429 https://huggingface.co/docs — 429 – Hugging Face [screenshot media/browser/browser-0005.png]
+ t5 kept http 429 https://huggingface.co/docs/text-embeddings-inference — 429 – Hugging Face [screenshot media/browser/browser-0006.png]
+ t6 kept http 429 https://huggingface.co/docs/text-embeddings-inference/index — 429 – Hugging Face [screenshot media/browser/browser-0007.png]
+ t7 kept http 429 https://huggingface.co/docs/text-embeddings-inference/en/index — 429 – Hugging Face [screenshot media/browser/browser-0008.png]
+*t1 ok https://github.com/huggingface/text-embeddings-inference/blob/main/docs/source/en/index.md — text-embeddings-inference/docs/source/en/index.md at main · huggingface/text-embeddings-inference · GitHub
+</browser>

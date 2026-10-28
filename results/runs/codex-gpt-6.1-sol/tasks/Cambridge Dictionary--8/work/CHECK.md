@@ -1,0 +1,3 @@
+- [x] Find three different meanings of "dog" in Cambridge Dictionary. https://dictionary.cambridge.org/dictionary/english/dog — American Dictionary: ANIMAL (four-legged pet or guard animal), PERSON (slang, person of a stated type), FOLLOW (verb, follow closely and continually).
+- [x] Save one genuine screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side, showing the item's name and deciding facts together, without a pop-up, banner or open dialog. final.png is a 1170 × 1280 viewport screenshot with the three definitions visible; the cookie banner was closed.
+- [x] Write the result and its evidence to ./ANSWER.txt. Contains the three meanings, source URL, source section and screenshot reference.

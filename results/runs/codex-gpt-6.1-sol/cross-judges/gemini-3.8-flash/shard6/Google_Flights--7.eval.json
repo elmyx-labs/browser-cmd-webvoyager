@@ -1,0 +1,41 @@
+{
+  "id": "Google Flights--7",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find a round trip from Phoenix to Miami (Jul. 7th - Jul. 10th), show the First Class plane tickets for me that do not exceed $2000.",
+  "answer": "FINAL: Found a United First Class round trip from Phoenix (PHX) to Miami (MIA), July 7–10, 2027, from $1,357 total for one adult—within your $2,000 budget. I used 2027, the next occurrence of July 7–10.\n\nVerified itinerary (all times local):\n- July 7: Phoenix 6:00 AM → Miami 3:29 PM; 6 hr 29 min, with a 50-minute connection in Denver. United UA 1395 and UA 1418, both First Class.\n- July 10: Miami 4:06 PM → Phoenix 9:44 PM; 8 hr 38 min, with a 1 hr 14 min connection in Chicago O’Hare. United UA 2106 and UA 602, both First Class.\n\nUnited’s ticket options for this itinerary, all below $2,000 round trip:\n- Base First: $1,357; nonrefundable, changes and seat selection for a fee.\n- First: $1,517; nonrefundable, free seat selection and changes (fare difference may apply).\n- First Fully Refundable: $1,857; full refunds, free seat selection and changes (fare difference may apply).\n\nPrices include required taxes and fees for one adult. Optional charges may apply.\n\nEvidence: final.png shows Google Flights with Round trip, First, July 7–10, and “up to $2,000” applied, sorted by top flights. It shows United options from $1,357 round trip and a Delta option from $1,459 round trip (departing July 7 at 11:55 PM, arriving July 8 at 9:24 AM via Atlanta).\n\nFiltered results: https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTA3LTA3agcIARIDUEhYcgcIARIDTUlBGh4SCjIwMjctMDctMTBqBwgBEgNNSUFyBwgBEgNQSFhAAUgEYNAPcAGCAQsI____________AZgBAQ&tfu=EgYIABAAGAA&curr=USD\nVerified United itinerary and fare options: https://www.google.com/travel/flights/booking?tfs=CBwQAhpiEgoyMDI3LTA3LTA3IiAKA1BIWBIKMjAyNy0wNy0wNxoDREVOKgJVQTIEMTM5NSIgCgNERU4SCjIwMjctMDctMDcaA01JQSoCVUEyBDE0MThqBwgBEgNQSFhyBwgBEgNNSUEaYRIKMjAyNy0wNy0xMCIgCgNNSUESCjIwMjctMDctMTAaA09SRCoCVUEyBDIxMDYiHwoDT1JEEgoyMDI3LTA3LTEwGgNQSFgqAlVBMgM2MDJqBwgBEgNNSUFyBwgBEgNQSFhAAUgEYNAPcAGCAQsI____________AZgBAQ&tfu=CnRDalJJTlc5cWFWWmpaMmQyTlRSQlFVaFZUbWRDUnkwdExTMHRMUzB0TFdWbVltc3lPVUZCUVVGQlIzSm9SbXByUWs5b1JtVkJFZ3hWUVRJeE1EWjhWVUUyTURJYUN3allvd2dRQWhvRFZWTkVPQnh3MktNSRICCAAiAA&curr=USD",
+  "response": "The evaluation of the task is based on the following:\n\n1. **Route and Dates**: The flight search was correctly conducted for a round trip from Phoenix (PHX) to Miami (MIA) departing July 7 and returning July 10.\n2. **Cabin Class**: The search filter was set to First Class.\n3. **Price Limit**: A price filter was applied for up to $2,000, and several qualifying options were found and displayed (e.g., United starting at $1,357 round trip and Delta at $1,459 round trip).\n4. **Details Provided**: The response clearly presents the flight itineraries, times, stops, and fare breakdown under the $2,000 budget as requested.\n\nAll requirements of the instruction were met.\n\nSUCCESS",
+  "reason_short": "The evaluation of the task is based on the following: 1. **Route and Dates**: The flight search was correctly conducted for a round trip from Phoenix (PHX) to Miami (MIA) departing July 7 and returning July 10. 2. **Cabin Class**: The searc",
+  "screenshots": [
+    "task_414/final.png"
+  ],
+  "raw_screenshot": "task_414/final.png",
+  "source_result": "task_414",
+  "usage": {
+    "completion_tokens": 497,
+    "prompt_tokens": 2449,
+    "total_tokens": 2946,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 326,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0037005,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0037005,
+      "upstream_inference_prompt_cost": 0.00183675,
+      "upstream_inference_completions_cost": 0.00186375
+    }
+  },
+  "elapsed_seconds": 17.7
+}

@@ -1,0 +1,3 @@
+[x] Investigate the trade-in value for an iPhone 13 Pro Max on Apple's website. https://www.apple.com/shop/browse/overlay/tradein_landing/iphone_values — “iPhone 13 Pro Max | Up to $320”; footnote says values vary with condition, year and configuration.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and deciding values together without overlays. final.png: 1280x723; model, $320 maximum and footnote visible. No filters, sorts or date controls apply to this table.
+[x] Write the result and its evidence to ./ANSWER.txt. Includes U.S./USD, checked October 27, 2026, source URL and final.png.

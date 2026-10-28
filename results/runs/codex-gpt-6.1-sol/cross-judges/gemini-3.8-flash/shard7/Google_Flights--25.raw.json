@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210306-nTC3nR9hVY41duMYDlHR",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to find a one-way business class flight from Buenos Aires to Amsterdam on July 10, 2027, and provide the details of the flight with the shortest duration.\n\nThe screenshot confirms that a search on Google Flights was conducted for a one-way business class flight from Buenos Aires to Amsterdam on Saturday, July 10, sorted by duration. The flight with the shortest duration is the nonstop KLM flight (KL 702), departing Ezeiza International Airport (EZE) at 3:05 PM and arriving at Amsterdam Airport Schiphol (AMS) at 9:10 AM (+1 day) with a travel duration of 13 hours and 5 minutes. \n\nThe Result Response accurately details all the requested flight information, matching the visual evidence.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Processing Flight Data**\n\nI am currently analyzing the screenshot to extract relevant flight details. My focus is on identifying a one-way business class option from Buenos Aires to Amsterdam on July 10, 2027, specifically looking for the shortest duration available.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Processing Flight Data**\n\nI am currently analyzing the screenshot to extract relevant flight details. My focus is on identifying a one-way business class option from Buenos Aires to Amsterdam on July 10, 2027, specifically looking for the shortest duration available.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a18aFgavloZ8nsbpW+WHAuFaNfnwq9Y1OV066esIaJsuVVWEYRG5obGEKnO2NwtnFLbNJRVXk6SXuSFCPN8zCuBazrONDIJ4+eyAGcSNF9hlqA/Xw89QmukeU+w2dD1kV7S2FhC41QHjBszPxHMOn/kDnZnwpv8TCe7Bcj5orIDPGnvAfRjvNNJSDi+H41kVc0PcosfN9Xeglfl4uiPasan11oKmoggz5KQVfQh4fWDyQNepvQziR1yqbSPk5K0WQ/IVfoAjvOw5UhtxBDxwWzh/3NgCApuxZKRkvh7Fsc/0tYPMDZvTIUbbcvuLRnhIoRxV8jV87MZC+/EFwejyNgLGiRjgfYeE+kUCR+CCoQVNhUC8C++tuBgUHtgptEjL/nzS3P6vQ3iQYkcZDSlYaO545+VqPbJ51ndbScaW9PQbSGbgUM7MQSWIoTHl9tiCZGd0n2nq1lSBh7JZOHbYux8Z9V5TTkgEG1zR16wcTtlLVqYZDzIRWtz5LoKEv19dBbIOJjFRbkAtnz31HAuliWofEpzAGW4qtTVG9weA6BFh1OQfZpR0XBV1oCJIcGSbMmDNgC4N88TRGUWqvP+Y0fndzJNdroL/jMMnhbnM+BLmc2cgaUJeyX0+VV3ykE9GfEE+svhs/XT9z9ehPMjR4NZxK3wwwmUMb17JP4UylpZW9uliAqE9mN486d5MxTQgTTYPQ45jmKeIA/2oWnaZRbpcPXE/mTnUubR/oSVH6vrAmgc92By7Sd3xEpjmMrUGfBJtJlez7NGU74pekZjP415u7ID4phTk22940rUGXSZc6ZVyvMcXnaVUK8cx8lVURw9YMWYsahSKJ7GHATw9htUP6rs5qJuJPnmhjRCsM+gUmvCkoq9L3ZMIzKL3mZM13GGfbQRXpgLcMgo1KK4FijICD1FF95568VaCcdvEhv1cV1wosdbv5EJwxBEqqGsMw4dEX3TP//Ix5XmVSFZyDqapaBvIslFWJvixKzBuyq6b0tbVM76kfUnSEWiU23iZJHXBL+/or1QfandIqFQXOtPitpa6apUFxqORFt4YHwGN8wxWj3PXWOIoDN4P5d39KyGZJCZsG5jJud2W6h/+vv2S1x5+y/0jj/IeKlhgmaQv6ljL/WKzB68wP1Ga01cCPQeq3JZafNzqTUEKJ9a9/M+kKX2aV5+8UjHePuO1I9zPFfNnj3DrLKyvX9u8po5Qll22zTMX8rs4RqxheGvYFRFKgmHAa/JKOaiNy/axCeR9k8TOhCQKMvVuFLFrLz/hVCjaMvOD3FNs44JJMymzyqnCdeQcIE9GzSSj/BzlyXGkRdPoRe0mCQTh1RXG5iIJWEt4ShNRTbZzmUwMrGYQ0c6J3EUtyoOzQHd9ApwW018nMWgdJqvT/hKQQqbhfVa0Z+QopLEwWMVlu6Vfc8UKnC1RdQtjTyZVqkzo6DaEqXef3fgV42O0CNsbuULGWYbSw37mYhFdr008nz9Xg0tkIGf/RLIuARZSLUZ4muRTzQpz+QsHkj9QzgvYtb8kgLEElYdwgnFQCgLP2oLwAVrluV7wiKS8SxpZq9wjuoshEiv/jbZgj95Dtkl8rukllbJv9KYYs35Qne1jChLMShev4jE4NN379adRN7p2mnlsW1kGGh0STaN7ZqlZMXbjv0kLxJy6FITLcOQqdFNCW1xg+7ePFRe0HWJOaEzaly103iXFiVBCIyWpNenua5F+z1qld+WkQLJKfz4bciSKWA4z5hZW204RDENsC4p8gUMf7hLhYmCEi27Do38kU1xz9kVCepSW96F77hjfkqaJea8KkA+emmg+xZXimTXJgcSTDQP9tvP4AMNyMkG8YWX9cMDsG9w03fK17nz3JTjxa/lqISXrb7EjyERXq04h6GCzZxo=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210306,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 535,
+    "prompt_tokens": 1892,
+    "total_tokens": 2427,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 367,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00342525,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00342525,
+      "upstream_inference_prompt_cost": 0.001419,
+      "upstream_inference_completions_cost": 0.00200625
+    }
+  },
+  "provider": "Google"
+}

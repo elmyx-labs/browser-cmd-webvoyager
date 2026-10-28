@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210491-x98maSLrs7F4gIuzcPqx",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested locating a large store in Washington state that sells kids' and maternity products, and checking if it has a parking lot.\n\nThe provided screenshot and response identify **Childish Things** located in Seattle, Washington (9776 Holman Road N.W., #102, Seattle). The listing explicitly highlights it as a \"spacious\" shop that offers kids' and maternity gear, and under \"Parking\" specifies that it features a \"Large free lot.\" \n\nAll parts of the instruction have been successfully addressed.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Finding Stores**\n\nI've identified a promising store in Washington that offers both children's and maternity items. It appears to be quite spacious, which suggests it might have adequate parking.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Finding Stores**\n\nI've identified a promising store in Washington that offers both children's and maternity items. It appears to be quite spacious, which suggests it might have adequate parking.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19A2zLkLRiSP2lv70fkQYlqq7a7ATouMlOQxeho3I92pE8R0o4Azc5viSvwyk7jT80w8AK2iK8nBTjiZKIudVZ7sqzqORrRzYggPhAwLJ/oXfan9oiBuBtbalOW7pnIcbL0Tt5bRTjikbFsoeKff0ImGNSXKzBllrF8RyETgiBQMKcDujZ/w+GvLa4YILSmqzJ3yIhls8PGwb10yT7yki1ZQHiY2qd8C+F5QRdRSVPNFr30Lp0AqIhiHAC/pYv9TunazMohz/sYti1Saa5uXasUaLGPQVz2HaCu1t+y4X/NS5P4lS0jD/+Zwl8KxUCBhkPzvdBF7GtTA199vFreNXD53QaLrFS5i3wHcGhzfTwFvgh4WgaDYAlE+VM8NrHuPwUqIIEQzWTzSk3bumpFiaKhof7MzXU+Pk/wZcYxcIYLQKEDFFY6rM3dKdtFBBm3h9uM2fXbpgzRqE8980yx14+yZwuQ5wRkHUuXlxtZHfNKvHNllrybiFVOu41AOr1+Jcv19kASxKwaMeAuCEcpjXOYUGwGTxPr8NQSwWQ08emGtQu/RJzfLL1S+re5bQiPareO6pHLpljIBZ3sBop3jYk0DeEYIux7GNKbUI3hV/1KYbH6IwsJAZotKgFUefevdkv5xJ+9T6KRSYUV96pDGXOodlcrd3u/rQjT3ZgkccZlTiBkW9Enf/nMwzin1tamX5hxhFce3AsxGGWVm6v/619oml6lamr45Hvh+ZjXTq5ntRp+dow2TQESJ2vFq1FOHALzUS3Cx4HtjDJaUy05czfS4o0Dz0dxg44f8z72aspXz6JNIsMk/bSlfeHfmiye3mvlNWNzYLyAdsbOGRzGdepk+cu8DKA82YAaa23fbRJ52b/6f8y5aRg1aAy+pAFM5Pd4vp9ew7DCvD0kIiFnSL7O+3oZr9CJkdBnKkZiLQ7gieQog7l6CwZm1CZw1Uvvq0t57GCWkH9nfImphzDagWFn80p2kQ6SaTPw9FzVl4pLOJB6z/gH7dWv51En8ljWqDXkvRyv+jVmxeylgb0kILjrHLlaq5dlkkhuzpZSU0eqYwoaTn63rKvAxYSvtVatVCcS2Z5PuUE+U9NlONlw7T8XyrN4tD6x3dnTYUsrUGP0tZdXbNZAIouMngRWrT0S9kAUtwxewb2wqviK+2LYPVUHaN2+JTA8otfAeJr3nzTQf/p2bYN5OtqRS6H9Ph5mdUTbLRfLQvCOmVcCbzaizJM5a0h9XnS1cbVEBNpHAzMAP2zzYgacQQhzo6QTR6+PHPnxXc0J8ptVzxgjEHeeagsM4ClpsjWPe8jRPU4oK+lugjsRpYjGYHOGbPb+qhgLpmVURl0UwalVmkUBwixWs7GJ0xz4CKAqXxQqml4vRQ5j3sbH31crVpAffxBPIBSGey9j4hhnSibTNd67jYoMymMF74xx81Xz2XbkDGa6GCInD8LAorhf37zJdRZi0P1P09iGEAh08pJPDF+tGBv0R+31dvXV9CtE7wFNE8RRYlHVGXc6/B0zJE3ryRgdhapDEYZApH/5bi5HbAvuK217FU+GEY4iGjfejcPdkOTgpRFhpQXOaW3LMGxRwRIBhA8kow9SZjWBeDuZUjKkdagcGJ60djPIosKnq6f26pf15WddZwJWpVS4Gg3MaBpwbiCol1pk52QOl4eWLHuv2fv/XcXMBVkws1RJf1Wh1S5x0XTJEk3LRLyGVQnsGNAkOyeQtphou3TgTCaMDIEH9GEpw2yATRNQ5jwnPvmKm5EXOlDV3KieUjS6B86pMGT5X6UaHEdca5XH38XOWAQQr0qwYwUrqp3xUKQAnbF7H1aUz0USlpifY9cVJVqvbFmmlpKME/KEeMKxwkMmU/3gQF76A5a/7RtIi1ZZskCrDWQFC60Syv6dlEvHQ2CZtNJgLF9zWfnIeFa9LQ1enSOBdhOpZp0MPYy+4+zQ+hYl5AnUjBKMrUm5fZqWt7NGqsmAB0Y=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210491,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 424,
+    "prompt_tokens": 1811,
+    "total_tokens": 2235,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 313,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00294825,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00294825,
+      "upstream_inference_prompt_cost": 0.00135825,
+      "upstream_inference_completions_cost": 0.00159
+    }
+  },
+  "provider": "Google"
+}

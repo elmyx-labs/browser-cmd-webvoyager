@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdycWz2fRHRj7RZkzfRXY8wxg5plw",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find a Lisbon hotel that satisfies all of the following:\n\n- Hotel in Lisbon\n- Airport shuttle available\n- Rated 8.5 or above\n- Available for 6 nights from August 1 to August 7, 2027\n- For 2 adults\n- Breakfast included\n\nThe screenshot shows Booking.com search results for Lisbon with:\n\n- Dates set to Aug 1–Aug 7\n- Occupancy set to 2 adults\n- Filters applied: Hotels, Breakfast included, Airport shuttle, and Wonderful: 9+\n- A listed hotel, Tempo FLH Hotels Lisboa, rated 9.0, with breakfast included\n- Room availability shown for 6 nights, 2 adults\n\nThe result response also states that the Booking.com URL uses check-in 2027-08-01 and checkout 2027-08-07, and that the property has a paid airport shuttle. Since this information is not contradicted by the screenshot, it can be accepted.\n\nThe selected hotel meets the required rating threshold, breakfast requirement, shuttle requirement, location, dates, and occupancy.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196524,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 505,
+    "prompt_tokens": 1811,
+    "total_tokens": 2316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 267,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

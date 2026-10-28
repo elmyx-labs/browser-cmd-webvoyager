@@ -1,0 +1,2 @@
+BBC Technology — https://www.bbc.com/technology — checked 27 October 2026. First featured story under Technology: "Police using AI risks making discrimination worse, researchers warn". Lead card summary: "AI tools learn from bias…".
+Article — https://www.bbc.com/news/articles/ckpdg4pl7pgvo — headline matches. Visible date "2 days ago"; time element datetime="2026-10-25T12:18:56.696Z". Reports that AI policing may amplify biased historical police data and discrimination; researchers call for human oversight.

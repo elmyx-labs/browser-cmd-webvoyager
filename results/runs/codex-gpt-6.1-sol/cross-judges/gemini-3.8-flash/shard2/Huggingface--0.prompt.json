@@ -1,0 +1,9 @@
+{
+  "id": "Huggingface--0",
+  "task": "Find a pre-trained natural language processing model on Hugging Face that can perform sentiment analysis, and make sure the model's last update is within March 2023.",
+  "answer": "FINAL: cointegrated/rubert-tiny-sentiment-balanced is a pre-trained NLP model fine-tuned for sentiment analysis of short Russian texts, classifying them as negative, neutral, or positive. Its last update was March 20, 2023, within the required month.\n\nModel and capabilities: https://huggingface.co/cointegrated/rubert-tiny-sentiment-balanced\nLast-update evidence: https://huggingface.co/cointegrated/rubert-tiny-sentiment-balanced/commits/main — the newest commit is dated Mar 20, 2023, “Adding `safetensors` variant of this model (#1).”\nScreenshot: final.png shows the model name, Text Classification and sentiment tags, and the latest commit date together.",
+  "screenshots": [
+    "task_530/final.png"
+  ],
+  "raw_screenshot": "task_530/final.png"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Allrecipes--8",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Search for a recipe for Beef Wellington on Allrecipes that has at least 200 reviews and an average rating of 4.5 stars or higher. List the main ingredients required for the dish.",
+  "answer": "FINAL: Beef Wellington by Marla on Allrecipes meets both requirements: 4.7 out of 5 stars and 250 reviews (365 ratings).\n\nMain ingredients (8 servings):\n- 2½ lb beef tenderloin\n- 6 tbsp butter total\n- 1 onion, chopped\n- ½ cup fresh mushrooms, sliced\n- 2 oz liver pâté\n- Salt and pepper\n- 17.5 oz frozen puff pastry, thawed\n- 1 large egg yolk, beaten\n- 10.5 oz beef broth and 2 tbsp red wine for the sauce\n\nSource: https://www.allrecipes.com/recipe/16899/beef-wellington/\nEvidence: final.png shows the recipe name, 4.7-star rating, and 250 reviews.",
+  "response": "The user requested a recipe for Beef Wellington on Allrecipes with at least 200 reviews and an average rating of 4.5 stars or higher, along with a list of the main ingredients required for the dish.\n\nThe screenshot confirms the recipe titled \"Beef Wellington\" submitted by Marla on Allrecipes has a rating of 4.7 stars (exceeding 4.5) and 250 reviews (exceeding 200). The result response correctly identifies this recipe and lists the main ingredients required for the dish.\n\nSUCCESS",
+  "reason_short": "The user requested a recipe for Beef Wellington on Allrecipes with at least 200 reviews and an average rating of 4.5 stars or higher, along with a list of the main ingredients required for the dish. The screenshot confirms the recipe titled",
+  "screenshots": [
+    "task_7/final.png"
+  ],
+  "raw_screenshot": "task_7/final.png",
+  "source_result": "task_7",
+  "usage": {
+    "completion_tokens": 442,
+    "prompt_tokens": 1778,
+    "total_tokens": 2220,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 327,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002991,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002991,
+      "upstream_inference_prompt_cost": 0.0013335,
+      "upstream_inference_completions_cost": 0.0016575
+    }
+  },
+  "elapsed_seconds": 7.45
+}

@@ -1,0 +1,4 @@
+[x] Find information on ESPN NBA schedule. https://www.espn.com/nba/schedule — NBA Schedule.
+[x] Tell me yesterday's matchups in which the loser high was higher than the winner high. Tuesday, October 27, 2026: Portland @ Los Angeles | POR 136, LAL 129 | Deni Avdija23 Pts | Luka Doncic41 Pts. The other three games have loser highs below winner highs.
+[x] Save one genuine screenshot as ./final.png: the only evidence image read, shrunk to about 1280 px on its long side, viewport with date, matchups and deciding values visible. final.png is a 1280x723 viewport showing ESPN NBA Schedule, selected OCT 27, date heading, all four results and both high columns without an overlay.
+[x] Write final answer to ./ANSWER.txt with result and evidence. ANSWER.txt states the single qualifying matchup, score, high scorers, values, date, source and screenshot.

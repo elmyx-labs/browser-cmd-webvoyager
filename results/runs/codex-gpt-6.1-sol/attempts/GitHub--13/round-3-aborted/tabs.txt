@@ -1,0 +1,7 @@
+## session of the actor
+No tab is kept.
+<browser trusted="no">
+ t1 ok https://github.com/trending?since=monthly — Trending repositories on GitHub this month · GitHub
+*t2 ok https://github.com/topics/machine-learning — machine-learning · GitHub Topics · GitHub
+ t3 ok https://github.com/tensorflow/tensorflow — GitHub - tensorflow/tensorflow: An Open Source Machine Learning Framework for Everyone · GitHub
+</browser>

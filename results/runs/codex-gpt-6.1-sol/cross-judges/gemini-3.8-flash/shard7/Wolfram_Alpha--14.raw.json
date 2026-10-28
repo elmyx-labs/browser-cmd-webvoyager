@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210467-WytKO4kYFSTfZdAatLVy",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task asks to compare the total Calories for a Whopper vs Baconator vs Big Mac, assuming each serving is 300g.\n\nThe screenshot shows a WolframAlpha query for \"calories 300g whopper vs 300g baconator vs 300g big mac\", which displays the following results under \"Average result\":\n- Burger King Whopper (300g): 657 Cal\n- Wendy's Old Fashioned Baconator Burger (300g): 902 Cal\n- McDonald's Big Mac (300g): 730 Cal\n\nThe result response accurately reports these values and provides a comparison between them. Therefore, the task was completed successfully.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Burger Calories**\n\nI'm currently processing the WolframAlpha results comparing the calorie counts of a 300g Whopper, Baconator, and Big Mac. The initial data for the Whopper is visible and I'm anticipating the figures for the other two to complete the analysis.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Burger Calories**\n\nI'm currently processing the WolframAlpha results comparing the calorie counts of a 300g Whopper, Baconator, and Big Mac. The initial data for the Whopper is visible and I'm anticipating the figures for the other two to complete the analysis.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/6ONF67NuJe8fG+uBh/M5rFD20arXKD453qvQ7sGZ+wbQdtVR131F1ht/N+fKXdh3cns0v4GfM/TxMsy3CRPQW1sGIzbDXs4isFXvkTuGQ5zFRZyRkiuAq+Bwvn+4mSuagVJOoq8TdWJdBL7iJ7GpEfQVPozZSgCMxnwR5KQRiPL5ZxypCNXnwImN0owYGV9FGPyZlCvk8WqIIUoyx6wVc3Pl4o6Bls1I22ds1Tbe9NgfB3g6qVM7p2xVOUI1XTCYr6aQW2uKDFa163WsU7+6QqUN3+YKO9gwONHKJcs3N1wezzW+dMcF6PcPIuCfu17RYY7aPEeGqAfQ4wyhZPZGZ8L20p7JlnLIiY5JkUB77q2m4U0+qshOEuL3p7vHFOGUfcWv71kj/HrxfYZws4czdLmaMsoroGNNfWZ4C/Lk/bfCi0VnoR2nidd7S/e/WrWjTm4s0vzxT0vSrs6/DxYpbB6iufk801hGIkW8WJNcuMFpiOJGHLB3LkfSEtmlRTOXE6+GFpVroKGajl7+0WIymE9hEZmmMSmVINj6k76+fj2TUHOsOjrA2xwUkYG+TGAIPU2yP5QeEMMTwZve7MKmBJDMr5AaskWtn60UfaYL/rX+0lIr+3l5f34AixnFfGUNQmse8zYi2pbTfGf6143aX31AWieFgnbFnq2dT+TW6ZYZf35hpI7+oWwONam73F9bLL51O+9W+eFI/cHft31DiPMn99KlT2gv8/Rp8zv21FTZjRdU4PAO3DK7iRFAojwVIc0nFpH72Uuu2qUBm1vJiHWukSzFeoIOHZRwILrN9iDlHFygAz2BKvS2Squc5aovSEO/z8Ii0MO/eW99MPRQtx/bGyq/HjRG1BAVqJwHf8OCBvyloyAekt/cTAJffRlDkN2rv7rZ4coE9tk01+c29CtL0VYCVkcVc9Femagi2hyt+HqJwYDPU3opbxszd/sNahkBwyLQQ5NnpSDcz1mZqmWTMOAN7TFrn/nCe4tN0t/GKI9JDrB7qTKktodtJ+gJ3nty74MgUvsxPC8xKYd3A+ouokrAixfmU0zlMZ9/m5lyafgKNxmFNJF+O/0EX6UMSeUUan2Vw1z8skGwjOT+WzJzytDfu+s2Cqa1Hm/I=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210467,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 350,
+    "prompt_tokens": 1845,
+    "total_tokens": 2195,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 194,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00269625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00269625,
+      "upstream_inference_prompt_cost": 0.00138375,
+      "upstream_inference_completions_cost": 0.0013125
+    }
+  },
+  "provider": "Google"
+}

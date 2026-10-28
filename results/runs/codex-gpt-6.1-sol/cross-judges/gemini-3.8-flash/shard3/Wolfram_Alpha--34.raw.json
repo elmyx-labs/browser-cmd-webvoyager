@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210639-4vwpZAOCnTkaxSpTTd4p",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to calculate the mass of Jupiter compared to Earth using Wolfram Alpha and find the length of one day on Jupiter.\n\nThe screenshot of Wolfram Alpha shows:\n- **Mass:** $1.898 \\times 10^{27}\\text{ kg}$ ($317.8\\text{ M}_\\oplus$, which is 317.8 times Earth's mass).\n- **Rotation period (day length):** $9.925\\text{ h (sidereal)}$.\n\nThe response accurately reports both values based on the Wolfram Alpha results shown in the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Calculating Jupiter's Mass**\n\nI've initiated the calculation for Jupiter's mass relative to Earth. My focus is now on pinpointing the precise data from Wolfram Alpha and concurrently extracting Jupiter's daily rotation period to complete this analysis.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Calculating Jupiter's Mass**\n\nI've initiated the calculation for Jupiter's mass relative to Earth. My focus is now on pinpointing the precise data from Wolfram Alpha and concurrently extracting Jupiter's daily rotation period to complete this analysis.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1/mGd0voottTHjkADoRAh83YMVOqbNogor7wFj5shwqc/4pUMrqF3VOzd9vjrWfjf0utVOs9gjzbgxmu91MpSj2HT3iwx879C0bRq0ub+YuNzHhTf0tdjr0uHkit6WJ9rfnqaVnfkxMFm5VFafgOmGjjVmlkT34LoN4KWmPRqc211KovZIgC6nw9VLhjKvm2x1pJrAoSpp1roO7H73nb5nEwN6YOi+SPiRhe9HEdZWCHonBMnzErEPJygk1/v8lFaR+TCfu5+Cd1cQgUFgxER2a1gdmAyQI+nUnM6/hG2Z5TfrO1IvP350eGAZv+bupG9e2LQTs43+W4sysPn4Z5WtvghIS/S75OkiohaAWjgijnMemg0CSJ1IwhkxjnpaTKdSx13FkUPetknu9ZpzEv1HUQ0E+EItOOQpSIJTW099QNYKpVlAHd/+5NpDeYgnEg4rAgjMpydHehIgA2R2g4Urml8NFE4dbbWqBo1QQV085tLsArxCf02MD9ar2vdXzNFg2h+Y4l7QfkqrXG5QoZIYlVETERHh8xiNZBVWEFX3Dlzey5x74jkdwSV4Mdhbuk+e+pJsCzZF7C8oKlRrOwtvccwP8iZ27RuZU+TElszt5Sfa9ZGZAFkjHEdkYL3DjzxnE350r0FZcztGVrjOC1uX4OD2FS/1jn6tchRuM0pAVqcesB8e1iyHy7zzwuuEJhQdcsILP5WQP1w4CABDNG5w0DClB9KXdulxDWLpKCFXVPxpe+F0Sycnw26VNKu2G0Vm4QPVGDyXL+pg+rZimYW7wSCjvijBcNnthpZfySrgqNAcXbglyc4AMfAcJwWv/Izsk5qSuWaE1B7eYXZ/m7QopUIiJvRU3N843/bNzPdw244uzCBCdAhKgD+Az1+FTZa4zbxgXFliQU49kw1MJ3laecgDH4VRGbLYn0iDta62datmt8dl9wCroOH63of6TWWHOKLc4soN4RyWt/c+9vmE+sCT6rAkwgGvDVHQfdrduK4NF7x4FQi7yeMx1kN+HotrAUmaMnGmusUsc+ZEyZ5PMS+RCO1W8WmlT41hdYY3nKbY7rJ8wA2LgPt4eXmowdfpFiAgSVWTB6knmVlXFBqVjVE+JyUqdOaFINOW6lZ0XiJu6U2ISiYFjqtRuWgR7kMOEW7aErdeHRCxfuDOvH6QHNgLNP770QxAWPgiSIKDhOakes24Wyf8rblKtuLP//D4gzHcENI7vPDWnkNnj8h8TcXmTZcc096xwjvhTAlooaaChWe49C0yoi5KwRGc9FSX9Cj/TmPe6eNR9nERUmMbMP5eQLs8=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210639,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 357,
+    "prompt_tokens": 1725,
+    "total_tokens": 2082,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 229,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0026325,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0026325,
+      "upstream_inference_prompt_cost": 0.00129375,
+      "upstream_inference_completions_cost": 0.00133875
+    }
+  },
+  "provider": "Google"
+}

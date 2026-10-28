@@ -1,0 +1,31 @@
+{
+  "id": "Google Search--21",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Show a list of the top 5 highest-grossing animated movies, sorted by box office earnings.",
+  "answer": "FINAL: Top 5 highest-grossing animated movies worldwide, sorted by box office earnings (USD), as listed on 27 October 2026:\n\n1. Ne Zha 2 (2025) — $2,217,758,382\n2. Zootopia 2 (2025) — $1,870,309,291\n3. Inside Out 2 (2024) — $1,698,863,816\n4. The Lion King (2019) — $1,662,020,819\n5. Frozen II (2019) — $1,451,651,316\n\nSource: Wikipedia, “List of highest-grossing animated films,” table sorted by Worldwide gross descending. This follows the source’s classification, including the computer-animated The Lion King (2019).\nhttps://en.wikipedia.org/wiki/List_of_highest-grossing_animated_films#Highest-grossing_animated_films\n\nEvidence: final.png is a genuine browser viewport screenshot of the source table, with the descending sort indicator, movie titles, years and worldwide grosses visible together. The page’s visible date legend is the week commencing 23 October 2026.",
+  "response": "The task was to show a list of the top 5 highest-grossing animated movies, sorted by box office earnings.\n\nThe provided screenshot shows a Wikipedia table titled “Highest-grossing animated films,” with the “Worldwide gross” column displayed and the entries ordered from highest to lower earnings. The visible top five rows match the Result Response:\n\n1. *Ne Zha 2* — $2,217,758,382  \n2. *Zootopia 2* — $1,870,309,291  \n3. *Inside Out 2* — $1,698,863,816  \n4. *The Lion King* — $1,662,020,819  \n5. *Frozen II* — $1,451,651,316  \n\nThe response provides the requested list, includes earnings, and presents them in descending order by worldwide box office gross. The screenshot supports the response.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to show a list of the top 5 highest-grossing animated movies, sorted by box office earnings. The provided screenshot shows a Wikipedia table titled “Highest-grossing animated films,” with the “Worldwide gross” column displayed ",
+  "screenshots": [
+    "task_509/final.png"
+  ],
+  "raw_screenshot": "task_509/final.png",
+  "source_result": "task_509",
+  "usage": {
+    "completion_tokens": 303,
+    "prompt_tokens": 1830,
+    "total_tokens": 2133,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.72
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210137-aELu6bcdsGoT9zDShiRy",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the screenshot and the provided response:\n\n1. **Search Parameters**: The search was conducted for London from July 20 to July 23, 2027 (visible in the search bar and URL).\n2. **Filters Applied**: The filter chips for **\"Breakfast included\"** and **\"Fitness center\"** are both applied.\n3. **Result Count**: The resulting page clearly displays **\"London: 278 properties found\"**, which aligns directly with the answer provided in the final response (278).\n\nTherefore, the task has been successfully accomplished.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Filter Impact**\n\nI'm currently evaluating the residual hotel count following a Booking.com search for London dates, after applying \"Breakfast included\" and \"Fitness center\" filters. My focus is on determining the precise number of remaining options.\n\n**Refining Hotel Count**\n\nI'm now carefully examining how \"hotels\" is defined within the Booking.com results after applying the specified filters for London. My priority is to clarify whether the initial 278 properties represent the precise hotel count or if further property type filtering is implied by the prompt's wording.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Filter Impact**\n\nI'm currently evaluating the residual hotel count following a Booking.com search for London dates, after applying \"Breakfast included\" and \"Fitness center\" filters. My focus is on determining the precise number of remaining options.\n\n**Refining Hotel Count**\n\nI'm now carefully examining how \"hotels\" is defined within the Booking.com results after applying the specified filters for London. My priority is to clarify whether the initial 278 properties represent the precise hotel count or if further property type filtering is implied by the prompt's wording.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210137,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 604,
+    "prompt_tokens": 1975,
+    "total_tokens": 2579,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 477,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00374625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00374625,
+      "upstream_inference_prompt_cost": 0.00148125,
+      "upstream_inference_completions_cost": 0.002265
+    }
+  },
+  "provider": "Google"
+}

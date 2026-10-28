@@ -1,0 +1,41 @@
+{
+  "id": "Wolfram Alpha--38",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Compute the length of a curve defined by y = 2x^3 - 3x^2 + 4x - 5 from x = 0 to x = 3.",
+  "answer": "FINAL: The curve has length approximately 39.24992727 units (39.25 units to two decimal places).\n\nFor y = 2x^3 - 3x^2 + 4x - 5, y′ = 6x^2 - 6x + 4, so the arc length is L = ∫₀³ √(1 + (6x^2 - 6x + 4)^2) dx ≈ 39.24992727.\n\nEvidence: WolframAlpha displays the curve, the interval x = 0 to 3, and this integral and numerical result together. Screenshot: final.png. Accessed October 27, 2026.\nSource: https://www.wolframalpha.com/input?i=arc+length+of+y+%3D+2x%5E3+-+3x%5E2+%2B+4x+-+5+from+x+%3D+0+to+x+%3D+3",
+  "response": "The task required computing the length of the curve defined by $y = 2x^3 - 3x^2 + 4x - 5$ from $x = 0$ to $x = 3$. \n\nThe provided screenshot from WolframAlpha confirms the calculation of the arc length integral:\n$$\\int_{0}^{3} \\sqrt{1 + (6x^2 - 6x + 4)^2} \\, dx \\approx 39.24992727...$$\n\nThe response accurately presents this computation and the resulting value.\n\nSUCCESS",
+  "reason_short": "The task required computing the length of the curve defined by $y = 2x^3 - 3x^2 + 4x - 5$ from $x = 0$ to $x = 3$. The provided screenshot from WolframAlpha confirms the calculation of the arc length integral: $$\\int_{0}^{3} \\sqrt{1 + (6x^2",
+  "screenshots": [
+    "task_607/final.png"
+  ],
+  "raw_screenshot": "task_607/final.png",
+  "source_result": "task_607",
+  "usage": {
+    "completion_tokens": 428,
+    "prompt_tokens": 1826,
+    "total_tokens": 2254,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 304,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0029745,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0029745,
+      "upstream_inference_prompt_cost": 0.0013695,
+      "upstream_inference_completions_cost": 0.001605
+    }
+  },
+  "elapsed_seconds": 4.41
+}

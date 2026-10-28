@@ -1,0 +1,3 @@
+- [x] Solve the differential equation y''(t) - 2y'(t) + 10y(t) = 0 and display its general solution. WolframAlpha shows “y(t) = c_1 e^t sin(3 t) + c_2 e^t cos(3 t)” at https://www.wolframalpha.com/input?i=solve+y%27%27%28t%29+-+2y%27%28t%29+%2B+10y%28t%29+%3D+0 .
+- [x] Save one genuine viewport screenshot as ./final.png, the only evidence image read, shrunk to about 1280 px on its long side, showing the equation and solution without a pop-up, banner or open dialog. final.png is 1280 × 723 and shows the input interpretation and Result together at the URL above.
+- [x] Write the result and its evidence to ./ANSWER.txt. ANSWER.txt contains the general solution, source URL, and final.png reference.

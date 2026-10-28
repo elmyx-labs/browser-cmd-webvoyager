@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793209903-bzdcLkuOHqiMig5iojbC",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the instruction, the user requested a dessert recipe from Allrecipes meeting specific criteria:\n1. **Dessert recipe**: Chocolate Walnut Fudge (categorized under Desserts on Allrecipes).\n2. **Prep time < 30 minutes**: Listed as 10 minutes.\n3. **Has chocolate as an ingredient**: Contains semisweet chocolate chips.\n4. **User rating of 4 stars or higher**: Rated 4.2 stars.\n5. **Details to provide**: Recipe name, complete ingredient list, and step-by-step instructions.\n\nAll criteria and requested information were accurately provided and verified by the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching For Chocolate Treats**\n\nI'm currently sifting through Allrecipes, specifically looking for chocolate desserts that can be whipped up in under 30 minutes and boast a user rating of at least four stars. My focus is on identifying a suitable candidate to present with its name, ingredients, and clear instructions.\n\n**Evaluating Chocolate Fudge Recipe**\n\nI've found a promising Chocolate Walnut Fudge recipe. It meets my criteria with a 4.2-star rating and a 10-minute prep time. The ingredient list and straightforward instructions are clear, making it a strong contender.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching For Chocolate Treats**\n\nI'm currently sifting through Allrecipes, specifically looking for chocolate desserts that can be whipped up in under 30 minutes and boast a user rating of at least four stars. My focus is on identifying a suitable candidate to present with its name, ingredients, and clear instructions.\n\n**Evaluating Chocolate Fudge Recipe**\n\nI've found a promising Chocolate Walnut Fudge recipe. It meets my criteria with a 4.2-star rating and a 10-minute prep time. The ingredient list and straightforward instructions are clear, making it a strong contender.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793209903,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 562,
+    "prompt_tokens": 1934,
+    "total_tokens": 2496,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 428,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.003558,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.003558,
+      "upstream_inference_prompt_cost": 0.0014505,
+      "upstream_inference_completions_cost": 0.0021075
+    }
+  },
+  "provider": "Google"
+}

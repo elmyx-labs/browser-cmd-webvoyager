@@ -1,0 +1,3 @@
+[x] Look for a Coursera course (not Specialization) that teaches Java programming basics. https://www.coursera.org/learn/java-for-programming-beginners — "Java Programming for Beginners", "This course is part of multiple programs.", "Beginner level", "Implement data types, variables, operators, control flow statements, arrays, strings, and more."
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts in view together and no overlay. final.png, 1280 px long side; all deciding facts confirmed visible with browser-cmd evidence. No filters, sorts, or date constraints were requested.
+[x] Write the result and evidence to ./ANSWER.txt. ANSWER.txt contains result, evidence, and source URL.

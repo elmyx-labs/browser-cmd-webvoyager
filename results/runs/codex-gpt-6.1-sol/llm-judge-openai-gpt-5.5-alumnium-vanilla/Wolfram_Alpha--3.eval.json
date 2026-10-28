@@ -1,0 +1,31 @@
+{
+  "id": "Wolfram Alpha--3",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Let g(x) be the integral of x^2 cos(2x). Write the expression of g(x).",
+  "answer": "FINAL: g(x) = ((2x² − 1)sin(2x) + 2x cos(2x))/4 + C, where C is an arbitrary constant.\n\nEvidence: WolframAlpha's “Indefinite integral” result for “integrate x^2 cos(2x) dx” shows this expression plus a constant. Source: https://www.wolframalpha.com/input?i=integrate+x%5E2+cos%282x%29+dx . Screenshot: final.png.",
+  "response": "The task was to provide an expression for \\(g(x)\\), the integral of \\(x^2\\cos(2x)\\).\n\nThe result response gives:\n\n\\[\ng(x)=\\frac{(2x^2-1)\\sin(2x)+2x\\cos(2x)}{4}+C\n\\]\n\nThe screenshot from WolframAlpha shows the same indefinite integral result:\n\n\\[\n\\int x^2\\cos(2x)\\,dx=\\frac{1}{4}\\left((2x^2-1)\\sin(2x)+2x\\cos(2x)\\right)+\\text{constant}\n\\]\n\nThis matches the requested expression, including the arbitrary constant for an indefinite integral.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was to provide an expression for \\(g(x)\\), the integral of \\(x^2\\cos(2x)\\). The result response gives: \\[ g(x)=\\frac{(2x^2-1)\\sin(2x)+2x\\cos(2x)}{4}+C \\] The screenshot from WolframAlpha shows the same indefinite integral result: \\",
+  "screenshots": [
+    "task_572/final.png"
+  ],
+  "raw_screenshot": "task_572/final.png",
+  "source_result": "task_572",
+  "usage": {
+    "completion_tokens": 309,
+    "prompt_tokens": 1696,
+    "total_tokens": 2005,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 145,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 5.21
+}

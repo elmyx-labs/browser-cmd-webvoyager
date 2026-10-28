@@ -1,0 +1,9 @@
+{
+  "id": "Huggingface--33",
+  "task": "List three hugging face docs. How many GitHub stars have they earned so far?",
+  "answer": "FINAL: Three Hugging Face documentation projects and their GitHub stars, as displayed by Hugging Face on October 27, 2026:\n\n| Documentation | GitHub stars |\n| --- | ---: |\n| Transformers — https://huggingface.co/docs/transformers | 168,254 |\n| Diffusers — https://huggingface.co/docs/diffusers | 34,821 |\n| Datasets — https://huggingface.co/docs/datasets | 22,090 |\n\nSource: https://huggingface.co/ — “Our Open Source” cards link to these documentation pages and display the GitHub counts above. The documentation catalog at https://huggingface.co/docs also lists all three.\nEvidence: final.png, a viewport screenshot of the Hugging Face homepage showing all three names and counts together.",
+  "screenshots": [
+    "task_559/final.png"
+  ],
+  "raw_screenshot": "task_559/final.png"
+}

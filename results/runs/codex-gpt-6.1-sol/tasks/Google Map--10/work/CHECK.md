@@ -1,0 +1,4 @@
+[x] Search for a park in the state of California called Castle Mountains National Monument. Google Maps result “Castle Mountains National Monument,” “Barstow, CA 92311, United States”; official NPS home heading “Castle Mountains National Monument • California.” URLs in NOTES.md.
+[x] Find out its Basic Information. https://www.nps.gov/camo/planyourvisit/basicinfo.htm — “Every Day:Open 24 hours,” “open year-round,” “No entrance fee or pass is required,” plus address, directions, weather, facilities, connectivity and phone recorded in NOTES.md and ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the name and deciding facts visible together and no overlay. final.png: 1280 × 723 viewport of official Basic Information page, name plus hours and facilities visible.
+[x] Write the result and evidence to ./ANSWER.txt. Complete with official source, Google Maps result URL, access date and screenshot filename.

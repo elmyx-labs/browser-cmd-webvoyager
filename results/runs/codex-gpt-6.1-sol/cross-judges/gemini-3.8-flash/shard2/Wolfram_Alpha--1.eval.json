@@ -1,0 +1,41 @@
+{
+  "id": "Wolfram Alpha--1",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Give a constraint on the set of inequalities for the inner region of the pentagram.",
+  "answer": "FINAL: The constraint is a > 0, where a is the distance between vertices with offset two.\n\nEvidence: Wolfram|Alpha’s “pentagram | variable constraints” result states “a > 0”; its expanded definition identifies a as the “distance between vertices with offset two.” Accessed October 27, 2026.\nSource: https://www.wolframalpha.com/input?i=pentagram+variable+constraints\nScreenshot: final.png",
+  "response": "The user asked for a constraint on the set of inequalities for the inner region of the pentagram.\n\nBased on the Wolfram|Alpha search shown in the screenshot:\n- The input interpretation is \"pentagram | variable constraints\".\n- The resulting constraint is $a > 0$, where $a$ represents the distance between vertices with offset two.\n\nThe result response accurately reports this finding.\n\nSUCCESS",
+  "reason_short": "The user asked for a constraint on the set of inequalities for the inner region of the pentagram. Based on the Wolfram|Alpha search shown in the screenshot: - The input interpretation is \"pentagram | variable constraints\". - The resulting c",
+  "screenshots": [
+    "task_570/final.png"
+  ],
+  "raw_screenshot": "task_570/final.png",
+  "source_result": "task_570",
+  "usage": {
+    "completion_tokens": 304,
+    "prompt_tokens": 1676,
+    "total_tokens": 1980,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 222,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.002397,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.002397,
+      "upstream_inference_prompt_cost": 0.001257,
+      "upstream_inference_completions_cost": 0.00114
+    }
+  },
+  "elapsed_seconds": 5.65
+}

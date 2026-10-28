@@ -1,0 +1,3 @@
+- Entered Cambridge Dictionary +Plus from https://dictionary.cambridge.org/ using +Plus.
+- https://dictionary.cambridge.org/plus/quiz/grammar/adjectives-1 showed “Want to try a different one?” and “Next quiz”, linking to adjectives-2.
+- Completed https://dictionary.cambridge.org/plus/quiz/grammar/adjectives-2 without logging in. Result text: “Quiz: Adjective order 1”, “Your score: 3 / 4”.

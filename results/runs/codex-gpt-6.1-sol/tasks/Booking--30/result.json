@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Booking",
+    "id": "Booking--30",
+    "ques": "Search for hotels in London from July 20 to July 23, 2027, on Booking. How many hotels are left after applying the Breakfast included and Fitness center filters?",
+    "web": "https://www.booking.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: 278 properties remain on Booking.com for London, July 20–23, 2027, after applying Breakfast included and Fitness center (2 adults, 1 room). Evidence: final.png shows “London: 278 properties found,” both active filter chips, and July 20–23 in the search bar.\nSource: https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaMEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALCk4TXBsACAdICJDliZjkwYmY5LTA1MWMtNDQ4Zi04Zjk2LTY4NzBlZmMxOWUwNtgCAeACAQ&aid=304142&ss=London%2C+Greater+London%2C+United+Kingdom&efdco=1&lang=en-us&src=index&dest_id=-2601889&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=b96190212e6102bc&checkin=2027-07-20&checkout=2027-07-23&group_adults=2&no_rooms=1&group_children=0&nflt=mealplan%3D1%3Bpopular_activities%3D11",
+    "result_text": "FINAL: 278 properties remain on Booking.com for London, July 20–23, 2027, after applying Breakfast included and Fitness center (2 adults, 1 room). Evidence: final.png shows “London: 278 properties found,” both active filter chips, and July 20–23 in the search bar.\nSource: https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaMEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALCk4TXBsACAdICJDliZjkwYmY5LTA1MWMtNDQ4Zi04Zjk2LTY4NzBlZmMxOWUwNtgCAeACAQ&aid=304142&ss=London%2C+Greater+London%2C+United+Kingdom&efdco=1&lang=en-us&src=index&dest_id=-2601889&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=b96190212e6102bc&checkin=2027-07-20&checkout=2027-07-23&group_adults=2&no_rooms=1&group_children=0&nflt=mealplan%3D1%3Bpopular_activities%3D11",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_228/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_228",
+  "elapsed_seconds": 105.70553803443909,
+  "execution_error": null,
+  "proxy_bytes": null
+}

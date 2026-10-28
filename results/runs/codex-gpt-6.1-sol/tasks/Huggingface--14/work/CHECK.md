@@ -1,0 +1,4 @@
+[x] How much is the Pro account of Hugging face for a month? — https://huggingface.co/pricing: "Upgrade your HF experience for $9/month."
+[x] What are the features? — https://huggingface.co/pricing: the "Do more with Hugging Face PRO" section lists private/public storage, inference credits, Spaces, ZeroGPU, Spaces Dev Mode, Blog, Dataset Viewer, Features Preview, and PRO Badge; exact words saved in NOTES.md.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the item's name and deciding facts visible together. — final.png, 1280 × 723, shows the PRO name, monthly price, and all ten feature tiles; no overlay.
+[x] Write final answer with result and evidence to ./ANSWER.txt. — ANSWER.txt begins FINAL: and includes price, all features, source URL, date, and screenshot evidence.

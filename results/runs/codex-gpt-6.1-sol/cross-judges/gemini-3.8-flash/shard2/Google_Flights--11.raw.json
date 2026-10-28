@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210388-SAgS1iMbQ3Jv4TtmdGLV",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a price comparison for round-trip flights from New York to Tokyo departing on July 10, 2027, and returning on July 24, 2027, with the requirement to select the option featuring the least number of stops.\n\nThe screenshot and result response show:\n- Correct origin (New York) and destination (Tokyo).\n- Correct dates: July 10, 2027 – July 24, 2027.\n- Filtered/identified options with the fewest stops (Nonstop / 0 stops).\n- Provided a clear price comparison among the available options.\n- Selected the nonstop flight option (American Airlines JFK–HND for $1,593).\n\nAll task requirements were fulfilled accurately.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Initiating Flight Comparisons**\n\nI'm starting by zeroing in on round-trip flights from New York to Tokyo for July 10th to July 24th, 2027. My current focus is to find options with the fewest layovers, prioritizing direct flights if possible. I'll need to examine the displayed results to see what's available and assess their pricing.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Initiating Flight Comparisons**\n\nI'm starting by zeroing in on round-trip flights from New York to Tokyo for July 10th to July 24th, 2027. My current focus is to find options with the fewest layovers, prioritizing direct flights if possible. I'll need to examine the displayed results to see what's available and assess their pricing.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210388,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 664,
+    "prompt_tokens": 2118,
+    "total_tokens": 2782,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 496,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0040785,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0040785,
+      "upstream_inference_prompt_cost": 0.0015885,
+      "upstream_inference_completions_cost": 0.00249
+    }
+  },
+  "provider": "Google AI Studio"
+}

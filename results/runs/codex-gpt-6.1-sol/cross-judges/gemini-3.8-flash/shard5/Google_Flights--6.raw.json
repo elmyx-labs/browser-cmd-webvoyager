@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210339-ET3Xa4RR4ngNJJYzrp4a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested a search for a round-trip flight from Tel Aviv to Venice departing on December 19 and returning on December 26, with First Class selected.\n\nThe screenshot confirms:\n- **Origin**: Tel Aviv-Yafo\n- **Destination**: Venice\n- **Dates**: Sat, Dec 19 – Sat, Dec 26\n- **Class**: First\n- The flight search results are clearly displayed.\n\nAll criteria of the instruction have been successfully fulfilled.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Analyzing Flight Details**\n\nI've examined the screenshot provided, and I'm currently focused on extracting the core flight parameters. My analysis confirms the origin is Tel Aviv-Yafo, destination is Venice, and it is a round trip spanning December 19th to December 26th. I will now integrate this information into a query that specifies First Class.\n\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Analyzing Flight Details**\n\nI've examined the screenshot provided, and I'm currently focused on extracting the core flight parameters. My analysis confirms the origin is Tel Aviv-Yafo, destination is Venice, and it is a round trip spanning December 19th to December 26th. I will now integrate this information into a query that specifies First Class.\n\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "Eu4HCusHAWkUfRMxCvY1fjQABfnuVKokz23y8Z5heNcCGrogWjFAa4aewH+BQBcTJH4sJqlcHS4+KggixqaFTPat3EnLvoqSn7QgaehCl+EbuW/C/RNW132YE64XG80v6SD+6at+QVsQGn8gNGefo6tcZ6EDdhGUW/fSNty7iDg5X2MDqZP8YsApF0AlQ9DL/pttzsldBnl+pT7fotwTwpR2Qj/ccRNI1FVoPo1B7IgIhHm8Ciay2yPv6XMCbknMMLyeQyFOpPPMvYe4OxcFadUSYLreNdojf88R3Sk17V/KAn/jwGgFgtrGlQdGQGVXndeKEEBjUayTXEPb8Jbn7cpitldsIbeNVZmkUttXopwGfgPa+VCeHwOn4t6/24nmRBvW4uA9vDcpDtkIz0f4O9yI8FzZYaqilJpKKamY5xNJM9oaTYczvzrAJcd8isy1By4//KHq/AyQ5H1/dHPQwf94qwlDXurThU3hPAv+zs50BBYwZAA++aa2OzBdo+ZcxeRqqYONOziTy2cZoI00c0aoQZ5i5/kMf1wE+uonEIlRoBTF6setIfg7OgdMjxFgpSdTmm29YqaLKrsO6qlGYsWIDNZ7e3CWRZ6IDNmo9nZRmOKj2USw8mppZhQ3avN7gr/t9jyuR26EbWq/yA/o2WUBP3gdc9/AfszrDMdLH1HUrQKHIkQU9kBCIgIDFqpV9gcvHBORndBhM2669h+ScCwKfII1/OEKZbdau925640xSDEN+2Ihi9f4NHZ8kxH5KKyY+wBJD3VStfa8mhvJDw5ETEtEbvOYf8IHP0PvMTQYmL254FNJlF5AJ/UOC+9UFPZMzeyQJOShEJwyrj8gc/iCDdO7B3XuNumLv4rjXpTIG6WZ79D3/koyMvfuaJrmkg5k1PM5Rzj/VSOj7DzUQ3xJtj8mXL+cDhL+AAgL95PQA+kNek1Q7h9Hbr/+BRB9p0a2AaD6kWT6izYYDuokbzFAYyU9unZPlB8nsKJ4F5XvyMEVL256eWhvrQ0uHzrr+UtBYKdjSBF+SF6itZ6SUfvkzgEbT4IOZJgXrhiMMP9OJQYttqYTGoPfcl1OHRTcDiv8fBNpcFwI6zpcco6D2891BJb37wFt+Z5LaVLLxLDkcsKEDdhxsgX96SWDD+vzVQKhfcbuiqBnhMeTQzjImxKc8hj1wohkvLQruTvHGH++VJSjQqd6i01zIRVE5WbCCjQCq1wTKRtKZg2fuLellacl+DKG/q0L+33pRhb2G8b642okeGDbItv6NLk1ynLo89fNeJRLgWe/Ec3aeIr8dZt3FBbgHmQ4+QA1aIjPX7K3ZXv2qLilzRd/j0ajcs27IQ==",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210339,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 326,
+    "prompt_tokens": 1804,
+    "total_tokens": 2130,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 223,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0025755,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0025755,
+      "upstream_inference_prompt_cost": 0.001353,
+      "upstream_inference_completions_cost": 0.0012225
+    }
+  },
+  "provider": "Google AI Studio"
+}

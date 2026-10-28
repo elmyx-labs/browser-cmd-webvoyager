@@ -1,0 +1,4 @@
+- [x] Browse the Coursera homepage. https://www.coursera.org/ — FAQ: “Does Coursera offer free online courses?”; followed “Free Courses” footer link.
+- [x] List at least three free courses. https://www.coursera.org/learn/algorithms-part1, https://www.coursera.org/learn/algorithms-part2, https://www.coursera.org/learn/cs-algorithms-theory-machines — each states “All the features of this course are available for free.”
+- [x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing names and free-course evidence together without overlays. final.png is a 1280×723 viewport image of Algorithms, Part II with “All the features of this course are available for free.” No filters, sorts or dates apply to the course detail page.
+- [x] Write the result and evidence to ./ANSWER.txt. Three courses, source URLs, verification date and final.png evidence recorded.

@@ -1,0 +1,41 @@
+{
+  "id": "GitHub--14",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Locate the repository for the open-source project \"vscode\" and identify the top three contributors.",
+  "answer": "FINAL: The repository is microsoft/vscode (Visual Studio Code): https://github.com/microsoft/vscode.\n\nGitHub's top three contributors by commit count with Period set to All are:\n1. bpasero — 15,030 commits (#1)\n2. jrieken — 12,862 commits (#2)\n3. Tyriar — 12,716 commits (#3)\n\nEvidence: https://github.com/microsoft/vscode/graphs/contributors?all=1. The page shows contributions to main and the displayed range November 7, 2015–October 24, 2026. Viewed October 28, 2026. Screenshot: ./final.png.",
+  "response": "The user requested to locate the repository for the open-source project \"vscode\" and identify its top three contributors.\n\nBased on the screenshot and the final response:\n1. The repository located is `microsoft/vscode` on GitHub.\n2. The Insights -> Contributors page displays the top contributors ranked by commit count:\n   - #1: bpasero (15,030 commits)\n   - #2: jrieken (12,862 commits)\n   - #3: Tyriar (12,716 commits)\n\nThe result response accurately reports this information.\n\nSUCCESS",
+  "reason_short": "The user requested to locate the repository for the open-source project \"vscode\" and identify its top three contributors. Based on the screenshot and the final response: 1. The repository located is `microsoft/vscode` on GitHub. 2. The Insi",
+  "screenshots": [
+    "task_381/final.png"
+  ],
+  "raw_screenshot": "task_381/final.png",
+  "source_result": "task_381",
+  "usage": {
+    "completion_tokens": 355,
+    "prompt_tokens": 1745,
+    "total_tokens": 2100,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 225,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00264,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00264,
+      "upstream_inference_prompt_cost": 0.00130875,
+      "upstream_inference_completions_cost": 0.00133125
+    }
+  },
+  "elapsed_seconds": 5.39
+}

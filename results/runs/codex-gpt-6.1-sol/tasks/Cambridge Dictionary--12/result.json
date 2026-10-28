@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "Cambridge Dictionary",
+    "id": "Cambridge Dictionary--12",
+    "ques": "Find the pronunciation, definition, and a sample sentence for the word \"resilience\" in the Cambridge Dictionary.",
+    "web": "https://dictionary.cambridge.org/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: Resilience (noun, uncountable) — UK and US pronunciation: /rɪˈzɪl.jəns/ (rih-ZIL-yuhns). Definition: the ability to recover happiness or success after adversity. Sample sentence: “Trauma researchers emphasize the resilience of the human psyche.”\n\nSource: Cambridge Dictionary, Cambridge Advanced Learner’s Dictionary & Thesaurus, https://dictionary.cambridge.org/dictionary/english/resilience (accessed October 27, 2026).\nEvidence: final.png shows the word, UK and US pronunciation, main definition, and sample sentence together, with no overlay.",
+    "result_text": "FINAL: Resilience (noun, uncountable) — UK and US pronunciation: /rɪˈzɪl.jəns/ (rih-ZIL-yuhns). Definition: the ability to recover happiness or success after adversity. Sample sentence: “Trauma researchers emphasize the resilience of the human psyche.”\n\nSource: Cambridge Dictionary, Cambridge Advanced Learner’s Dictionary & Thesaurus, https://dictionary.cambridge.org/dictionary/english/resilience (accessed October 27, 2026).\nEvidence: final.png shows the word, UK and US pronunciation, main definition, and sample sentence together, with no overlay.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_254/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_254",
+  "elapsed_seconds": 118.42276930809021,
+  "execution_error": null,
+  "proxy_bytes": 7786350
+}

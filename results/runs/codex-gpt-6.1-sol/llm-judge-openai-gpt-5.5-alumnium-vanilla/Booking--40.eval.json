@@ -1,0 +1,31 @@
+{
+  "id": "Booking--40",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "I need to choose a hotel in Shenzhen, please select date (6 July to 8 July 2027) and click the search button. How much it costs when convert the price to Chinese Yuan on the page.",
+  "answer": "FINAL: I chose CYBO Station SSAW Shangpin Hotel Luohu Shenzhen. For check-in 6 July and check-out 8 July 2027, the Deluxe Queen Room costs CNY 686 total for 2 nights, 2 adults and 1 room, including taxes and fees. I clicked Search and changed the page currency to Chinese Yuan (CNY).\nSource: https://www.booking.com/searchresults.html?dest_id=-1925268&dest_type=city&checkin=2027-07-06&checkout=2027-07-08&group_adults=2&no_rooms=1&group_children=0&selected_currency=CNY\nEvidence: final.png shows the selected dates, hotel, room and CNY 686 price.",
+  "response": "The task was successfully completed.\n\n- Destination is set to **Shenzhen**.\n- Dates are set to **July 6 – July 8**, and the response/source indicates this is for **2027**.\n- The page currency is changed to **CNY / Chinese Yuan**, visible at the top of the screenshot.\n- Search results are displayed, indicating the search was performed.\n- A hotel was chosen: **CYBO Station SSAW Shangpin Hotel Luohu Shenzhen**.\n- The displayed cost is **CNY 686** total for **2 nights**, including taxes and fees.\n\nVerdict: **SUCCESS**",
+  "reason_short": "The task was successfully completed. - Destination is set to **Shenzhen**. - Dates are set to **July 6 – July 8**, and the response/source indicates this is for **2027**. - The page currency is changed to **CNY / Chinese Yuan**, visible at ",
+  "screenshots": [
+    "task_238/final.png"
+  ],
+  "raw_screenshot": "task_238/final.png",
+  "source_result": "task_238",
+  "usage": {
+    "completion_tokens": 454,
+    "prompt_tokens": 1765,
+    "total_tokens": 2219,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 8.28
+}

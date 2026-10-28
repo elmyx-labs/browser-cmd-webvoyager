@@ -1,0 +1,24 @@
+{
+  "task": {
+    "web_name": "GitHub",
+    "id": "GitHub--3",
+    "ques": "Find out how much more package storage the Enterprise version has over Team in GitHub Pricing.",
+    "web": "https://github.com/"
+  },
+  "host": "codex",
+  "claude": {
+    "final_answer": "FINAL: GitHub Enterprise has 48 GB more Packages storage than Team: 50 GB versus 2 GB (50 − 2 = 48 GB).\nEvidence: GitHub Pricing, https://github.com/pricing, checked October 28, 2026. The “GitHub Packages” comparison row shows Team at “2GB” and Enterprise at “50GB”; both say “Free for public repositories.” Screenshot: final.png.",
+    "result_text": "FINAL: GitHub Enterprise has 48 GB more Packages storage than Team: 50 GB versus 2 GB (50 − 2 = 48 GB).\nEvidence: GitHub Pricing, https://github.com/pricing, checked October 28, 2026. The “GitHub Packages” comparison row shows Team at “2GB” and Enterprise at “50GB”; both say “Free for public repositories.” Screenshot: final.png.",
+    "is_error": false,
+    "timed_out": false
+  },
+  "browser_artifacts": {
+    "screenshot": "task_370/final.png",
+    "screenshot_error": null,
+    "selection": "agent_selected"
+  },
+  "out_dir": "task_370",
+  "elapsed_seconds": 66.13028812408447,
+  "execution_error": null,
+  "proxy_bytes": 7395642
+}

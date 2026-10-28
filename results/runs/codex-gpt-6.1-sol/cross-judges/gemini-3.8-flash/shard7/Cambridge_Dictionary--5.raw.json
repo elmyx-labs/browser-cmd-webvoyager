@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210130-CA8EEo9XtUwZOXP0uQym",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The user requested to learn the UK and US pronunciation of the word \"procrastination\" and find an example sentence reflecting its use in context. \n\nThe screenshot from Cambridge Dictionary displays:\n- UK pronunciation: `/prəˌkræs.tɪˈneɪ.ʃən/`\n- US pronunciation: `/proʊˌkræs.tɪˈneɪ.ʃən/`\n- Example sentence: *\"This is no time for procrastination - we need decisive action.\"*\n\nThe result response correctly provides both pronunciations and the example sentence matching the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Exploring Pronunciation Differences**\n\nI'm currently focusing on identifying and detailing the distinct UK and US pronunciations for \"procrastination.\" My next step involves crafting a single, illustrative sentence to showcase its practical application.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Exploring Pronunciation Differences**\n\nI'm currently focusing on identifying and detailing the distinct UK and US pronunciations for \"procrastination.\" My next step involves crafting a single, illustrative sentence to showcase its practical application.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a19YFufnZTDCb1k9eSJDiFdwJOwxY/RZycSd1Eaw8ob3F+j1Opf1FnnyBg/dawkZ8H9p3fi/MjjIJPjaF8Ri674YNk/NUd7HCcvfk3msf1vNBMXtzfJKEabrEsX2UcyRke+D18cBZ5BbUdLmFZ29m9MG2vHFTVcs42glQBfUkw3Z9nFpA7UH6uj88kWUs6b+nzkAzFFtQtTLQ2xMtFGdd4Wq1PxfRNaw/RN8JyRYg5KUDnC/uE/3yJqTiHFeWk3JskCzdkv4/NKO4iflMPFVsSuKfT0Zs56DyFEG7y5c6E1y3p+l00gPjb1CLhcxXLaOv3PnvVoag5V/mrYwZwvCK/TFotU0LIjT568I2f3qWklv8ReLIoSpaTziyKzfmWEgGPzEOju/22IvcZCblMbXdhC4u7eGR2OedTbXft2sZgKq1WiMIg67o5B0F+tCxLwD14CbvEOvuoyWzqgnuLC7XjfZrLL0uNbO6hT5c+EExIpY0x/8T3+8NMoZ0C9pZTbp5Tkn3Hlb+KMfQKulaXNlMZAvDx4cbaSAAGSvuiTeSHTx2rhDjODN0IrTZ/rKAnwLAHDb3I3aD+J5k357eOIUjucEeHNa7UxqQN9wt2cUKr/rfGBwBSsSwKev2khhmfjO5sy3oT2I6okzK0DWUZbYU2xFkZSJvrm1IzCRELfX8srC9D9KKtf+vf5fQMlEF6A87BJik2HT8UpzeQgExFB8vsVSDMJVE2mdyH/PnYS7yvdebu+t6uIxDrMBs/zw/KfUPwMqYB0hQ7LwFT4fcFEplCgBf+54IqjYnHAwSRIwdVHBWj5LXayzHGC2QoV+iMQl71fyvQdLtxbJVGn1qgfCpZ9LdFL4+vXhA1a3yW/8330yeD0fXSqW1QV56pOXzMcBPcfpJd709PR1tSw2waXIKPqfwj061nkXfpl5yCCL5evI4ujJJN5Xu7iUvGlfE3FxvDLLUJRnFlOiF+RgtRSrKVluOBivbkR5t6m8TJPpcvcSZ5Xmw4p5yeRaGLHk76Ogs20a7F29iCfY4PAnKtOONWjP/D2y8jN3CisQa7UZxTKXABUwgrqpPH+Mp3mitvMDEH/KjZyZIhmwfUMQO7SBGBf6+eUUKmtzSYNoKRW7IO/eL4OXdH3faynjUBB8xZIWIy1Gk7PuLldCzDLUCKrJycoVclE/mvmHulruX+LL2ak=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210130,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 304,
+    "prompt_tokens": 1720,
+    "total_tokens": 2024,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 184,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00243,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00243,
+      "upstream_inference_prompt_cost": 0.00129,
+      "upstream_inference_completions_cost": 0.00114
+    }
+  },
+  "provider": "Google"
+}

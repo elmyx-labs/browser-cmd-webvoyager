@@ -1,0 +1,31 @@
+{
+  "id": "Booking--23",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Identify a hotel in Tokyo with a spa and wellness center, rated 9 or above, with availability for a five-night stay starting on June 20, 2027. Check if free cancellation is offered.",
+  "answer": "FINAL: Imperial Hotel Tokyo meets the criteria: it has a spa and wellness center, is rated 9.2/10 (“Wonderful,” 3,072 reviews), and has a Tower Building Standard Twin available for June 20–25, 2027 (5 nights; searched for 2 adults, 1 room). Free cancellation is offered; its standard room rate states “Free cancellation before June 19, 2027” and “Pay nothing until June 17, 2027.”\n\nBooking.com hotel and room-policy evidence: https://www.booking.com/hotel/jp/imperial-tokyo.html?checkin=2027-06-20&checkout=2027-06-25&group_adults=2&no_rooms=1&group_children=0\n\nFiltered availability search: https://www.booking.com/searchresults.html?ss=Tokyo&dest_id=-246227&dest_type=city&checkin=2027-06-20&checkout=2027-06-25&group_adults=2&no_rooms=1&group_children=0&nflt=fc%3D2%3Breview_score%3D90%3Bhotelfacility%3D54%3Bht_id%3D204\n\nScreenshot: ./final.png shows the dates, applied spa and wellness center / Wonderful: 9+ / Hotels / Free cancellation filters, hotel name, 9.2 score, 5-night availability, and free cancellation.",
+  "response": "The task was to identify a Tokyo hotel that:\n\n1. Has a spa and wellness center  \n2. Is rated 9 or above  \n3. Has availability for a five-night stay starting June 20, 2027  \n4. Confirm whether free cancellation is offered  \n\nThe screenshot shows Booking.com search results for Tokyo with dates June 20–25, which is a five-night stay. The applied filters include “Spa and wellness center,” “Wonderful: 9+,” “Hotels,” and “Free cancellation.” The visible result “Imperial Hotel Tokyo” has a 9.2 rating, shows availability for 5 nights, and displays “Free cancellation.”\n\nThe result response also identifies Imperial Hotel Tokyo and provides supporting details, including the rating, dates, availability, and free cancellation policy. There is no contradiction between the screenshot and the response.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to identify a Tokyo hotel that: 1. Has a spa and wellness center 2. Is rated 9 or above 3. Has availability for a five-night stay starting June 20, 2027 4. Confirm whether free cancellation is offered The screenshot shows Booki",
+  "screenshots": [
+    "task_221/final.png"
+  ],
+  "raw_screenshot": "task_221/final.png",
+  "source_result": "task_221",
+  "usage": {
+    "completion_tokens": 397,
+    "prompt_tokens": 1913,
+    "total_tokens": 2310,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 213,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.49
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Coursera--20",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find an Intermediate-level online course on Coursera about 'Blockchain Technology' which lasts between 1 to 4 weeks, and is provided by a well-known institution. Also, note the course's main goals and the instructor's name.",
+  "answer": "FINAL: Blockchain Platforms — an Intermediate-level online Coursera course offered by the University at Buffalo and The State University of New York (SUNY).\n\nDuration: 2 weeks at 10 hours per week, with a flexible, self-paced schedule. This meets the 1–4-week requirement.\nInstructor: Bina Ramamurthy.\n\nMain goals:\n- Understand the broader blockchain ecosystem and alternative blockchain platforms.\n- Explore permissioned blockchains, including Hyperledger and Microsoft Azure's blockchain-as-a-service model.\n- Analyze decentralized application platforms such as Augur and Grid+.\n- Examine privacy, scalability and adoption challenges, and alternative decentralized models such as IPFS and Hashgraph.\n\nSource: https://www.coursera.org/learn/blockchain-platforms\nThe course page states the level, schedule, instructor and providers; its description supplies the learning goals. Accessed October 27, 2026.\n\nScreenshot evidence: final.png. The second card shows “Blockchain Platforms,” “University at Buffalo,” and “Intermediate · Course · 1 - 4 Weeks,” with the Intermediate and 1–4 Weeks filters visible.\nFiltered search: https://www.coursera.org/search?query=Blockchain%20Technology&productDifficultyLevel=Intermediate&productDuration=1-4%20Weeks&sortBy=BEST_MATCH",
+  "response": "Based on the provided task instruction, screenshot, and result response:\n\n1. **Course Search & Criteria**: The screenshot confirms a search for \"Blockchain Technology\" on Coursera with filters set to \"Intermediate\" and \"1-4 Weeks\". A matching course, **\"Blockchain Platforms\"**, offered by the **University at Buffalo**, is clearly shown with the metadata `Intermediate · Course · 1 - 4 Weeks`.\n2. **Required Details**: The response provides the course name, institution, duration (within the 1–4 week range), the instructor's name (Bina Ramamurthy), and a detailed breakdown of the course's main learning goals.\n\nAll requirements of the task have been met accurately.\n\nSUCCESS",
+  "reason_short": "Based on the provided task instruction, screenshot, and result response: 1. **Course Search & Criteria**: The screenshot confirms a search for \"Blockchain Technology\" on Coursera with filters set to \"Intermediate\" and \"1-4 Weeks\". A matchin",
+  "screenshots": [
+    "task_302/final.png"
+  ],
+  "raw_screenshot": "task_302/final.png",
+  "source_result": "task_302",
+  "usage": {
+    "completion_tokens": 453,
+    "prompt_tokens": 1901,
+    "total_tokens": 2354,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 302,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0031245,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0031245,
+      "upstream_inference_prompt_cost": 0.00142575,
+      "upstream_inference_completions_cost": 0.00169875
+    }
+  },
+  "elapsed_seconds": 17.64
+}

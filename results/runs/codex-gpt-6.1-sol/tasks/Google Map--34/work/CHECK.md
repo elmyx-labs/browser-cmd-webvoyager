@@ -1,0 +1,3 @@
+[x] Find a hiking trail within 2 miles of zip code 80202. Google Maps lists Cherry Creek Trail as “Hiking area”, at 2250 15th St, Denver, CO 80202; walking route from “Denver, CO 80202, USA” is “14 min 0.6 mile via 16th St/16th St Mall”. URLs recorded in NOTES.md and ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing the item's name and decisive facts together without overlays. Captured Google Maps walking directions after dismissing the notification; 1280px long side.
+[x] Write the result and its evidence to ./ANSWER.txt. Includes result, distance, date, source URL and evidence filename.

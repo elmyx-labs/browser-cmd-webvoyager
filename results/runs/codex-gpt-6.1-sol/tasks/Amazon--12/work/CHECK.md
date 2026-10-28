@@ -1,0 +1,5 @@
+[x] Check reviews for a Ride On Car on Amazon. https://www.amazon.ca/dp/B001NQHN7S?th=1 — Little Tikes Cozy Coupe 30th Anniversary Car Large; readable customer reviews on Amazon Canada.
+[x] Ride On Car with 100+ reviews & 4+ stars rating. Same URL — "4.5 out of 5 stars", "15,725 Reviews" link; review panel "15,725 global ratings".
+[x] Give me the top review about this Ride On Car (Amazon's own top sort). Same URL — first review under "Top reviews from Canada": "Same Great Little Car", Cynthia Ugolini, 5 out of 5 stars, June 7, 2026, Verified Purchase; full review text in NOTES.md and summary in ANSWER.txt.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, showing item name and deciding facts, with applicable filters, sorts and dates visible and no overlay. final.png is 1280x889 from the Amazon Canada product page, showing name, 4.5/5, 15,725 global ratings, default Top reviews from Canada heading, first review and date. No review filters or date range applied.
+[x] Write final answer to ./ANSWER.txt. Result, top review details, summary, source, check date and final.png evidence included.

@@ -1,0 +1,3 @@
+[x] Find the names of people in ArXiv's Leadership Team. Evidence: https://info.arxiv.org/about/people/leadership_team.html — “Leadership Team”: “Penelope Lewis”, “Jeff Sank”, “Stephanie Orphan”, “Steinn Sigurdsson”.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with the names and leadership context visible together. Evidence: final.png, 1280 × 889, shows the Leadership Team heading, all four names and roles, and no overlay.
+[x] Write the result and its evidence to ./ANSWER.txt. Evidence: ANSWER.txt contains the four names, roles, official source URL, access date and screenshot reference.

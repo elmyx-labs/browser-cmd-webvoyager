@@ -1,0 +1,24 @@
+FINAL: Helsinki-NLP/opus-mt-en-zh is Hugging Face’s most downloaded dedicated English→Chinese (en-zh) translation model, with 73,986 downloads last month as observed on 27 October 2026. If multilingual models supporting this direction are included, the download leader is facebook/nllb-200-distilled-600M, with 968,642 downloads last month.
+
+Download evidence
+Hugging Face’s Translation listing, sorted by “Most downloads” with English and Chinese selected, shows NLLB first (969k rounded), and the dedicated Helsinki en-zh model at 74k. The higher-ranked Helsinki opus-mt-zh-en translates in the reverse direction. These are monthly repository download counts, not lifetime totals or counts of English→Chinese translations.
+[Filtered download ranking](https://huggingface.co/models?pipeline_tag=translation&language=en,zh&sort=downloads)
+[Dedicated-pair search, sorted by downloads](https://huggingface.co/models?pipeline_tag=translation&sort=downloads&search=en-zh)
+
+Helsinki-NLP/opus-mt-en-zh: performance and usage
+• The current model card reports BLEU 31.4 and chr-F 0.268 on Tatoeba-test.eng.zho. These are historical results for the checkpoint trained on 17 July 2020, still published on the current card; the repository’s displayed update date is 16 August 2023.
+• Use its pretrained tokenizer and sequence-to-sequence model through Transformers (AutoTokenizer and AutoModelForSeq2SeqLM), tokenize input, call model.generate, and decode with skip_special_tokens=True. Preprocessing is normalization plus SentencePiece (spm32k for source and target).
+• The card requires a sentence-initial target-language token, >>id<<. The repository vocabulary confirms >>cmn_Hans<< and >>cmn_Hant<<, allowing inputs such as “>>cmn_Hans<< Hello.” for Simplified Mandarin Chinese.
+• License: Apache-2.0. The current Hugging Face usage panel says the translation pipeline is unsupported in Transformers v5: load the model directly, or use Transformers v4.x for the older pipeline API.
+[Model card, exact downloads, benchmark and usage panel](https://huggingface.co/Helsinki-NLP/opus-mt-en-zh)
+[Verified target tokens](https://huggingface.co/Helsinki-NLP/opus-mt-en-zh/resolve/main/vocab.json)
+
+Multilingual download leader: facebook/nllb-200-distilled-600M
+• Its current card links the publisher’s checkpoint-specific FLORES-200 evaluation CSV: English→Simplified Chinese (eng_Latn-zho_Hans) chrF++ 19.6; English→Traditional Chinese (eng_Latn-zho_Hant) chrF++ 13.3. The repository displays an update date of 14 February 2024; that is not a new evaluation date. These scores are not directly comparable with Helsinki’s Tatoeba results.
+• Load AutoTokenizer with src_lang="eng_Latn" and AutoModelForSeq2SeqLM. In generate(), set forced_bos_token_id=tokenizer.convert_tokens_to_ids("zho_Hans") or "zho_Hant", then decode while skipping special tokens. Use direct loading with Transformers v5.
+• Follow the CC-BY-NC-4.0 noncommercial license. The card intends research and single-sentence translation, and says it is not released for production deployment. It excludes document, specialist medical/legal and certified translation. Training inputs did not exceed 512 tokens; longer inputs may degrade quality. Assess quality for your domain and language variety.
+[Model card and exact downloads](https://huggingface.co/facebook/nllb-200-distilled-600M)
+[Publisher-linked evaluation CSV](https://tinyurl.com/nllb200densedst600mmetrics)
+[Official inference instructions](https://huggingface.co/docs/transformers/model_doc/nllb)
+
+Evidence image: final.png shows the live filtered download ranking, both model names, rounded download counts, repository update dates and “Most downloads” sort together.

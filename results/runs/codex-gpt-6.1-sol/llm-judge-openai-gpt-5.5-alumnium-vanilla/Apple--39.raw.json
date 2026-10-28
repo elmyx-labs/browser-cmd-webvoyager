@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdyalXkeJ1V2kUi4eJpemz03V57ss",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was to find solutions on Apple’s website for what to do if you forgot your Apple ID password.\n\nThe screenshot shows an Apple Support page titled “If you forgot your password and can't sign in to your Apple Account,” which is directly relevant. It also states that Apple ID is now Apple Account and gives guidance such as choosing “Forgot Password?” and following onscreen instructions, including use of trusted devices, trusted phone numbers, recovery factors, and waiting periods.\n\nThe result response summarizes several appropriate Apple-supported solutions, including:\n\n- Resetting the password from a trusted iPhone, iPad, or Mac.\n- Choosing “Forgot Password?” during sign-in.\n- Using Apple’s iforgot.apple.com site.\n- Using the Apple Support app on a borrowed device.\n- Requesting account recovery if other reset methods fail.\n\nThese align with the task and with the Apple Support content shown in the screenshot. The response also provides Apple Support source links.\n\nVerdict: SUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196415,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 402,
+    "prompt_tokens": 1876,
+    "total_tokens": 2278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 200,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

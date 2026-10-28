@@ -1,0 +1,41 @@
+{
+  "id": "ESPN--10",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Check ESPN for the score and a brief recap of the latest college football championship game.",
+  "answer": "FINAL: Indiana beat Miami 27–21 in the latest College Football Playoff National Championship, played January 19, 2026, at Hard Rock Stadium in Miami Gardens, Florida. Indiana finished 16–0 and won its first national title. Fernando Mendoza's 12-yard touchdown run on fourth-and-4 in the fourth quarter helped hold off Miami, and Jamari Sharpe's late interception sealed the win.\n\nSource: ESPN/AP game recap, updated January 20, 2026: https://www.espn.com/college-football/recap/_/gameId/401769076\nEvidence: final.png, a viewport screenshot of the ESPN recap.",
+  "response": "The task was to check ESPN for the score and a brief recap of the latest college football championship game.\n\nThe screenshot shows the ESPN recap page for the College Football Playoff National Championship game played on January 19, 2026, where the Indiana Hoosiers defeated the Miami Hurricanes 27–21. The result response accurately provides the final score, date, location, and a brief recap of the key events of the championship game sourced directly from ESPN.\n\nSUCCESS",
+  "reason_short": "The task was to check ESPN for the score and a brief recap of the latest college football championship game. The screenshot shows the ESPN recap page for the College Football Playoff National Championship game played on January 19, 2026, wh",
+  "screenshots": [
+    "task_333/final.png"
+  ],
+  "raw_screenshot": "task_333/final.png",
+  "source_result": "task_333",
+  "usage": {
+    "completion_tokens": 352,
+    "prompt_tokens": 1738,
+    "total_tokens": 2090,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 253,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0026235,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0026235,
+      "upstream_inference_prompt_cost": 0.0013035,
+      "upstream_inference_completions_cost": 0.00132
+    }
+  },
+  "elapsed_seconds": 16.3
+}

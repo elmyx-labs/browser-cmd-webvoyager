@@ -1,0 +1,6 @@
+[x] Find the cheapest Samsung-made Android tablet on Amazon (Amazon's price low-to-high sort). Filtered search: https://www.amazon.com/s?k=tablet&rh=p_n_g-1004162281091%3A7817239011%2Cp_123%3A46655%2Cp_n_feature_twenty_browse-bin%3A113334758011&s=price-asc-rank — first result B01EUC7NAI; product says Buy Used: $89.00, Used: Like New, Only 4 left in stock. All conditions included in comparison.
+[x] Screen between 10-10.9 inches. https://www.amazon.com/dp/B01EUC7NAI — Brand Samsung; Screen Size 10.1 inches; Os android 6.0 Marshmallow.
+[x] Only answer the cheapest one. ANSWER.txt contains one tablet.
+[x] Save one genuine viewport screenshot as ./final.png, shrunk to about 1280 px on its long side, with item's name and deciding facts together, no overlay. 1280x723 viewport of product page at scroll 460.
+[blocked] Applied filters/sort visible in the same evidence image: Amazon's product page displays the price and specifications but does not display search filters or sorting. Applied Samsung, Android, 10 to 10.9 Inches, Price: Low to High are preserved on the separate search tab t1. Only final.png was read as an evidence image.
+[x] Write ./ANSWER.txt with result and evidence; first line FINAL:.

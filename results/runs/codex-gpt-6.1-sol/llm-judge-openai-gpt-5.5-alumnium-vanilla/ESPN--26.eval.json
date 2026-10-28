@@ -1,0 +1,31 @@
+{
+  "id": "ESPN--26",
+  "result": 1,
+  "pass": true,
+  "verdict": "SUCCESS",
+  "task": "Find information on ESPN NBA schedule. Tell me yesterday's matchups in which the loser high was higher than the winner high.",
+  "answer": "FINAL: Yesterday, October 27, 2026, only Portland Trail Blazers at Los Angeles Lakers qualified. Portland won 136–129; the Lakers’ Luka Dončić had the loser high of 41 points, exceeding Portland’s winner high of 23 points by Deni Avdija.\nSource: ESPN NBA Schedule — https://www.espn.com/nba/schedule (Tuesday, October 27, 2026; RESULT, WINNER HIGH and LOSER HIGH columns). Evidence: final.png.",
+  "response": "The task was to identify yesterday’s ESPN NBA schedule matchups where the “Loser High” points total was higher than the “Winner High” points total.\n\nThe screenshot shows Tuesday, October 27, 2026, which is yesterday relative to the current date of October 28, 2026. The listed games and point leaders are:\n\n- Brooklyn at Boston: Winner High 40, Loser High 27 — does not qualify.\n- Detroit at New York: Winner High 27, Loser High 22 — does not qualify.\n- Sacramento at San Antonio: Winner High 29, Loser High 24 — does not qualify.\n- Portland at Los Angeles Lakers: Winner High 23, Loser High 41 — qualifies.\n\nThe result response correctly identifies that only Portland Trail Blazers at Los Angeles Lakers met the condition, with Luka Dončić’s 41 points as the loser high exceeding Deni Avdija’s 23 points as the winner high.\n\nVerdict: SUCCESS",
+  "reason_short": "The task was to identify yesterday’s ESPN NBA schedule matchups where the “Loser High” points total was higher than the “Winner High” points total. The screenshot shows Tuesday, October 27, 2026, which is yesterday relative to the current d",
+  "screenshots": [
+    "task_349/final.png"
+  ],
+  "raw_screenshot": "task_349/final.png",
+  "source_result": "task_349",
+  "usage": {
+    "completion_tokens": 433,
+    "prompt_tokens": 1695,
+    "total_tokens": 2128,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 221,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "elapsed_seconds": 6.97
+}

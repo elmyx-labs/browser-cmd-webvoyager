@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210441-ZNFTvEHixUcp3v44d9fZ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided screenshot and response:\n\n1. The task was to identify and report the most popular (in terms of stars) open-source image processing tool on GitHub.\n2. The screenshot shows the GitHub topic page for \"Image processing\", sorted by \"Most stars\" across all languages.\n3. The top result is `opencv/opencv` with 91.4k stars, described as the \"Open Source Computer Vision Library\".\n4. The result response accurately reports OpenCV (`opencv/opencv`) as the most popular tool, supported by the evidence in the screenshot.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Identifying Top Tool**\n\nI've successfully identified OpenCV as the most-starred open-source image processing tool on GitHub, based on the provided response.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Identifying Top Tool**\n\nI've successfully identified OpenCV as the most-starred open-source image processing tool on GitHub, based on the provided response.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "AY89a1+OFdzJCczPRjaV0NpSbNiM2qzne20DITkxBp7ZGKDkXIiVVveu8weUw6YjZvIlHu3YLOwLKJJRKOLw7xSiUbQqyWuRrw1XskktT1jcU7gRsR8k1Qa8fiXyzaOxiA/bFPN1zCspQmZ5XoVQ2NjkZwMkQauQKWaVD8asSDuMTPaSSQaQe0nkQ0RtQXurKsAuHM8SN/g21LU7QM4EC/SU/7Nd0oo/fpjBK/ZzwI9iuRpWJ+MmI8twf/tTMVuwel5fa7V2gWoXYS5I3pQsCGRL4zJ94lDEGbyZ/T/xfpxl6AaHOepn0mVjLWrlamZk8vKRrtcs6swSyqYfDtLMeDLi18th4ek8yy6osvJx4E4Q9MmWhvQMFuShsi2Ii6JwAw7wIyRC97o/cOWKJ1YbKJbCpN722RgIVvH/mTdK/N0JOgVNZaQJcveAvBzG+44vvhg7I5Ni49/SiitlxfOnh+mrv5GNOP6HVVrJt/7myOQlxxXtuuyiI7HFiT/8rC9yKs2n592mfWwpZaFWNhpprjhaq8aTf6CZ5quo7xGTaL48IGLHXvErH9niWqx9riJRjilxJ280zOrxEqKe2yVQU6U5aGZ6RuJK5lzmwGhoDMqW+KpUI4Orjk5FqNaawnGbxjsVKfpkjsllv5jr+usdLJTxQAtLAkgQOB7B6bWtI94v2db5zAnml9vZkMPeBRtfXo6jHtjyZgKxamU6hD95vioa49wR1wtqYLRVpDScMzrePPlH/+KbW52tmhSa9Pr/cH362fGagPnpH0PoPZFa6ZuAmzwnZCPx0tAXgVxqTB0DjUfoZ4EXK/6y/QUgH2/iv+N6dPHAMJrBalJvqHsRlVdPblTWjubJMcSm7F5vf7ZhZRC7KVnJPqBGfaMBD4WYkMHO97FGLONgJAUf80DJTCNokUpdiTtzAUVhoOp7+DnWzkwqUAQAvu8+yiON1JWzMaMMEcKSnTeA69EVIcFNnG5OwPF9vpDmGMKw7qtZuvJLGS7e7ZaBPoHTDV7AmTpjTqypa8YufcX4P/XnlHxNrxXB+xhR6tHCppt5uStZtIWt1EgOL0pGp7lwtwIefjl3RTlYEgv6dbkAsqEVAWpZPqFDnw3JC+W70Hf5hRBqP41Jo6AK5VO+0rsqsCairqiG9fO22TF5pHajI6kwHbmhP3QXAXm91EDHPrBRFnybYrBiy4Vev5T3yWQ=",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210441,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "provisioned",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 293,
+    "prompt_tokens": 1725,
+    "total_tokens": 2018,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 171,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0023925,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0023925,
+      "upstream_inference_prompt_cost": 0.00129375,
+      "upstream_inference_completions_cost": 0.00109875
+    }
+  },
+  "provider": "Google"
+}

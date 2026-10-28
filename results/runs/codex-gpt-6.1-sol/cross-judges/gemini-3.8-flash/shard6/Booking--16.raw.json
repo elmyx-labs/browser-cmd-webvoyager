@@ -1,0 +1,66 @@
+{
+  "id": "gen-1793210127-C2Gd35EDjj6HUr0PonpJ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Based on the provided task instructions, screenshot, and result response:\n\n1. **Location & Dates**: The search was conducted for Paris for a 5-night stay from January 15 to January 20, 2027.\n2. **Filters & Amenities**: The filters for Hotels, user rating 9+ (\"Wonderful: 9+\"), \"Free Wifi\", and \"Breakfast included\" were applied.\n3. **Selected Hotel**: \n   - **Name**: Hôtel Saint-Louis - Jardin du Luxembourg\n   - **Location**: 6th arrondissement, Paris (63 Rue Madame, 75006 Paris)\n   - **Rating**: 9.0 (Wonderful)\n   - **Amenities**: Free Wi-Fi and Breakfast included\n   - **Price per night**: €216 per night (€1,080 total for 5 nights)\n\nAll criteria specified in the instruction have been thoroughly addressed and verified.\n\nSUCCESS",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning": "**Searching Hotel Criteria**\n\nI am currently focused on identifying Paris hotels meeting the specified user rating of 9+, a 5-night stay from January 15, 2027, and the inclusion of free Wi-Fi and breakfast. My next steps involve retrieving the name, location, and price for suitable options.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "**Searching Hotel Criteria**\n\nI am currently focused on identifying Paris hotels meeting the specified user rating of 9+, a 5-night stay from January 15, 2027, and the inclusion of free Wi-Fi and breakfast. My next steps involve retrieving the name, location, and price for suitable options.\n\n",
+            "format": "google-gemini-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "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",
+            "format": "google-gemini-v1",
+            "index": 1
+          }
+        ]
+      },
+      "native_finish_reason": "STOP"
+    }
+  ],
+  "created": 1793210127,
+  "model": "google/gemini-3.8-flash",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 639,
+    "prompt_tokens": 2112,
+    "total_tokens": 2751,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 435,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.00398025,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.00398025,
+      "upstream_inference_prompt_cost": 0.001584,
+      "upstream_inference_completions_cost": 0.00239625
+    }
+  },
+  "provider": "Google"
+}

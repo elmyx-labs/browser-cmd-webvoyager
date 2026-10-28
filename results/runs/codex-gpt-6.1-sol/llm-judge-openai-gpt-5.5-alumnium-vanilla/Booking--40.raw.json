@@ -1,0 +1,39 @@
+{
+  "id": "chatcmpl-EdycGDaV1g8YsL00RUYNgINbK11Bq",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "The task was successfully completed.\n\n- Destination is set to **Shenzhen**.\n- Dates are set to **July 6 – July 8**, and the response/source indicates this is for **2027**.\n- The page currency is changed to **CNY / Chinese Yuan**, visible at the top of the screenshot.\n- Search results are displayed, indicating the search was performed.\n- A hotel was chosen: **CYBO Station SSAW Shangpin Hotel Luohu Shenzhen**.\n- The displayed cost is **CNY 686** total for **2 nights**, including taxes and fees.\n\nVerdict: **SUCCESS**",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793196508,
+  "model": "gpt-5.5-2026-04-23",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 454,
+    "prompt_tokens": 1765,
+    "total_tokens": 2219,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 320,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}
